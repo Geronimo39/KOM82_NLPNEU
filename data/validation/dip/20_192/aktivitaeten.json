@@ -1,0 +1,3455 @@
+{
+  "numFound": 66,
+  "documents": [
+    {
+      "id": "1693895",
+      "aktivitaetsart": "Zur Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7496",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Ordnungsruf",
+          "vorgangstyp": "Geschäftsordnung",
+          "titel": "Erteilung eines Ordnungsrufes an den Abg Martin Reichardt (AfD)",
+          "id": "316376"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25042D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25042",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25042,
+        "endseite": 25043,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ordnungsruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarische Ordnung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Yvonne Magwas, Bundestagsvizepräs.",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693875",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7408",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T17:19:00+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Große Anfrage",
+          "titel": "Alphabetisierung von Asylsuchern, Asylantragstellern, Schutzberechtigten oder Bleibeberechtigten und Integrationsarbeit",
+          "id": "307456"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25073A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25073",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25064,
+        "endseite": 25074,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Analphabetismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ausländerintegration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Deutschunterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Integrationskurs",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Marlene Schönberger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693874",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1580",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:05:06+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Große Anfrage",
+          "titel": "Alphabetisierung von Asylsuchern, Asylantragstellern, Schutzberechtigten oder Bleibeberechtigten und Integrationsarbeit",
+          "id": "307456"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25071D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25071",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25064,
+        "endseite": 25074,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Analphabetismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ausländerintegration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Deutschunterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Integrationskurs",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Martin Rabanus, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693873",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1683",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:27:25+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Große Anfrage",
+          "titel": "Alphabetisierung von Asylsuchern, Asylantragstellern, Schutzberechtigten oder Bleibeberechtigten und Integrationsarbeit",
+          "id": "307456"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25070C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25070",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25064,
+        "endseite": 25074,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Analphabetismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ausländerintegration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Deutschunterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Integrationskurs",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Hendrik Hoppenstedt, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693872",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7240",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-12-02T14:31:06+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Große Anfrage",
+          "titel": "Alphabetisierung von Asylsuchern, Asylantragstellern, Schutzberechtigten oder Bleibeberechtigten und Integrationsarbeit",
+          "id": "307456"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25069A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25069",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25064,
+        "endseite": 25074,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Analphabetismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ausländerintegration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Deutschunterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Integrationskurs",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Muhanad Al-Halak, MdB, FDP",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693871",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7279",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:06:19+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Große Anfrage",
+          "titel": "Alphabetisierung von Asylsuchern, Asylantragstellern, Schutzberechtigten oder Bleibeberechtigten und Integrationsarbeit",
+          "id": "307456"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25068C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25068",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25064,
+        "endseite": 25074,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Analphabetismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ausländerintegration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Deutschunterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Integrationskurs",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Schahina Gambir, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693870",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8249",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-30T17:50:06+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Große Anfrage",
+          "titel": "Alphabetisierung von Asylsuchern, Asylantragstellern, Schutzberechtigten oder Bleibeberechtigten und Integrationsarbeit",
+          "id": "307456"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25067A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25067",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25064,
+        "endseite": 25074,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Analphabetismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ausländerintegration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Deutschunterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Integrationskurs",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nina Warken, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693869",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1655",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-12-02T14:30:46+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Große Anfrage",
+          "titel": "Alphabetisierung von Asylsuchern, Asylantragstellern, Schutzberechtigten oder Bleibeberechtigten und Integrationsarbeit",
+          "id": "307456"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25065D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25065",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25064,
+        "endseite": 25074,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Analphabetismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ausländerintegration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Deutschunterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Integrationskurs",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gülistan Yüksel, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693868",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2223",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:24:23+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Große Anfrage",
+          "titel": "Alphabetisierung von Asylsuchern, Asylantragstellern, Schutzberechtigten oder Bleibeberechtigten und Integrationsarbeit",
+          "id": "307456"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25064B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25064",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25064,
+        "endseite": 25074,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Analphabetismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ausländerintegration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Deutschunterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Integrationskurs",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nicole Höchst, MdB, AfD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693867",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7223",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:22:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz)",
+          "id": "314976"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25063A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25063",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25056,
+        "endseite": 25064,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "BSI-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Informationssicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Daniel Baldy, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693866",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7805",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T17:48:09+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz)",
+          "id": "314976"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25062C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25062",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25056,
+        "endseite": 25064,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "BSI-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Informationssicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Anke Domscheit-Berg, MdB, Die Linke (Gruppe)",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693865",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2028",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-12-02T14:40:44+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz)",
+          "id": "314976"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25061D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25061",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25056,
+        "endseite": 25064,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "BSI-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Informationssicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Petra Nicolaisen, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693864",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1062",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-12-02T14:40:40+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz)",
+          "id": "314976"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25060D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25060",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25056,
+        "endseite": 25064,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "BSI-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Informationssicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Manuel Höferlin, MdB, FDP",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693863",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7312",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:32:07+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz)",
+          "id": "314976"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25059D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25059",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25056,
+        "endseite": 25064,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "BSI-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Informationssicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Steffen Janich, MdB, AfD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693862",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7251",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-12-02T14:40:29+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz)",
+          "id": "314976"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25058D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25058",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25056,
+        "endseite": 25064,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "BSI-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Informationssicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Maik Außendorf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693861",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2214",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:06:42+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz)",
+          "id": "314976"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25057C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25057",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25056,
+        "endseite": 25064,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "BSI-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Informationssicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Marc Henrichmann, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693860",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7876",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T13:04:25+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung (NIS-2-Umsetzungs- und Cybersicherheitsstärkungsgesetz)",
+          "id": "314976"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25056C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25056",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25056,
+        "endseite": 25064,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "BSI-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Umsetzung der NIS-2-Richtlinie und zur Regelung wesentlicher Grundzüge des Informationssicherheitsmanagements in der Bundesverwaltung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Informationssicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693859",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "2191",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:18:46+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Reformen in der Privaten Krankenversicherung im Interesse der Versicherten jetzt angehen",
+          "id": "312873"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25054B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25054",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25046,
+        "endseite": 25056,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "titel": "Kay Gottschalk, MdB, AfD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693858",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7391",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Reformen in der Privaten Krankenversicherung im Interesse der Versicherten jetzt angehen",
+          "id": "312873"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25053C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25053",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25046,
+        "endseite": 25056,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Krankenversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Private Krankenversicherung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Tina Rudolph, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693857",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7827",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T17:48:12+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Reformen in der Privaten Krankenversicherung im Interesse der Versicherten jetzt angehen",
+          "id": "312873"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25053A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25053",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25046,
+        "endseite": 25056,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Krankenversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Private Krankenversicherung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Kathrin Vogler, MdB, Die Linke (Gruppe)",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693856",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7779",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:42:50+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Reformen in der Privaten Krankenversicherung im Interesse der Versicherten jetzt angehen",
+          "id": "312873"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25052A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25052",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25046,
+        "endseite": 25056,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Krankenversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Private Krankenversicherung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Stephan Pilsinger, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693855",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7382",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Reformen in der Privaten Krankenversicherung im Interesse der Versicherten jetzt angehen",
+          "id": "312873"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25051A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25051",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25046,
+        "endseite": 25056,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Krankenversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Private Krankenversicherung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Maximilian Mordhorst, MdB, FDP",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693854",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1093",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Reformen in der Privaten Krankenversicherung im Interesse der Versicherten jetzt angehen",
+          "id": "312873"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25050A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25050",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25046,
+        "endseite": 25056,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Krankenversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Private Krankenversicherung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Maria Klein-Schmeink, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693853",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2191",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:18:46+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Reformen in der Privaten Krankenversicherung im Interesse der Versicherten jetzt angehen",
+          "id": "312873"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25049A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25049",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25046,
+        "endseite": 25056,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Krankenversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Private Krankenversicherung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Kay Gottschalk, MdB, AfD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693852",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7469",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T11:44:46+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Reformen in der Privaten Krankenversicherung im Interesse der Versicherten jetzt angehen",
+          "id": "312873"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25047C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25047",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25046,
+        "endseite": 25056,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Krankenversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Private Krankenversicherung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Armand Zorn, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693851",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2085",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:32:11+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Reformen in der Privaten Krankenversicherung im Interesse der Versicherten jetzt angehen",
+          "id": "312873"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25046C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25046",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25046,
+        "endseite": 25056,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Krankenversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Private Krankenversicherung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Carsten Brodesser, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693848",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8247",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-06T12:28:39+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25045B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25045",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Lars Castellucci, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693847",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7490",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-15T11:46:03+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25044D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25044",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Heidi Reichinnek, MdB, Die Linke (Gruppe)",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693846",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7308",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:30:10+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25044A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25044",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jasmina Hostert, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693845",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7366",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:19:16+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25043B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25043",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Denise Loop, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693844",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8151",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:34:39+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25041D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25041",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Mareike Lotte Wulf, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693841",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7235",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25040D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25040",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Katja Adler, MdB, FDP",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693840",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2055",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:19:16+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25040B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25040",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Martin Reichardt, MdB, AfD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693839",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7223",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:22:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25039B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25039",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Daniel Baldy, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693838",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2197",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25038B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25038",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bettina Margarethe Wiesmann, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693837",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "117",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-09-02T10:37:56+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25037C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25037",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25037,
+        "endseite": 25046,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Antimissbrauchsbeauftragtengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Sexueller Missbrauch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693836",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7308",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:30:10+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25036C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25036",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jasmina Hostert, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693835",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1971",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:07:59+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25036A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25036",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gökay Akbulut, MdB, Die Linke (Gruppe)",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693834",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7778",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25035B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25035",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Fabian Griewel, MdB, FDP",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693833",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "374",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:45:55+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25034A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25034",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stephan Mayer (Altötting), MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693832",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1974",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:17:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25032D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25032",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Helge Lindh, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693831",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8255",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-30T18:14:47+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25031D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25031",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Johannes Steiniger, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693830",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7295",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25031B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25031",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Philipp Hartewig, MdB, FDP",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693829",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7275",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25030A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25030",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Emilia Fester, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693828",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7220",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:14:37+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25029A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25029",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gereon Bollmann, MdB, AfD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693826",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7734",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25028A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25028",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nadine Ruf, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693824",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7385",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:06:29+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25027A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25027",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Florian Müller, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693823",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7362",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25026B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25026",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Thorsten Lieb, MdB, FDP",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693822",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7433",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:16:50+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25025A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25025",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Awet Tesfaiesus, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693821",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2075",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:25:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25024B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25024",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stephan Brandner, MdB, AfD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693820",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7364",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:16:19+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25023B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25023",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Esra Limbacher, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693819",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7486",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:43:58+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Engagement fördern, Ehrenamt stärken, Vereine entlasten - Bürokratie in der Ehrenamts- und Vereinsarbeit abbauen",
+          "id": "315999"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25022B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25022",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25022,
+        "endseite": 25037,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ehrenamtliche Tätigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Martin Plum, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693818",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1661",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25020D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25020",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Jens Zimmermann, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693817",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7805",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T17:48:09+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25020B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25020",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Anke Domscheit-Berg, MdB, Die Linke (Gruppe)",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693816",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7446",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T09:45:40+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25019A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25019",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Carolin Wagner, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693815",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1924",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-21T09:51:33+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25017D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25017",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Ronja Kemmer, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693814",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1081",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25016D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25016",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Tabea Rößner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693811",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7400",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:55:49+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25015D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25015",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Johannes Schätzl, MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693810",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7312",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:32:07+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25015B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25015",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Steffen Janich, MdB, AfD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693809",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7278",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25014A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25014",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Maximilian Funke-Kaiser, MdB, FDP",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693808",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1544",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T14:08:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25013A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25013",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Hansjörg Durz, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693807",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7251",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25011C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25011",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Maik Außendorf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693806",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7405",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25010D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25010",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Eugen Schmidt, MdB, AfD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693805",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "344",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25010A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25010",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Detlef Müller (Chemnitz), MdB, SPD",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693804",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2273",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25008D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25008",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Nadine Schön, MdB, CDU/CSU",
+      "datum": "2024-10-11"
+    },
+    {
+      "id": "1693803",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7517",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-05T11:08:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beschleunigung des Ausbaus von Telekommunikationsnetzen (TK-Netzausbau-Beschleunigungs-Gesetz)",
+          "id": "314920"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25007D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20192.pdf#P.25007",
+        "id": "5675",
+        "dokumentnummer": "20/192",
+        "datum": "2024-10-11",
+        "verteildatum": "2024-10-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20192.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25007,
+        "endseite": 25022,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Breitbandkommunikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Glasfasernetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Mobilfunk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Telekommunikationsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "TK-Netzausbau-Beschleunigungs-Gesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Volker Wissing, Bundesmin., Bundesministerium für Digitales und Verkehr",
+      "datum": "2024-10-11"
+    }
+  ]
+}

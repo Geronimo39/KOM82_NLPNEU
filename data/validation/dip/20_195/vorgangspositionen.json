@@ -1,0 +1,2955 @@
+{
+  "numFound": 45,
+  "documents": [
+    {
+      "id": "662218",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Begrüßung der Wehrbeauftragten des Deutschen Bundestages, Dr. Eva Högl",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-30T17:44:51+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25528",
+        "anfangsseite": 25528,
+        "endseite": 25528,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25528D",
+          "aktivitaetsart": "Rede",
+          "titel": "Yvonne Magwas, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25528"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316757"
+    },
+    {
+      "id": "662107",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316592"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316604"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316564"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25464",
+        "anfangsseite": 25464,
+        "endseite": 25509,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/13414",
+          "seite": "25495D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25465A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25465"
+        },
+        {
+          "seite": "25466C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25466"
+        },
+        {
+          "seite": "25468A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25468"
+        },
+        {
+          "seite": "25469C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christian Wirth, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25469"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316602"
+    },
+    {
+      "id": "662108",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316602"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316604"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316564"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25464",
+        "anfangsseite": 25464,
+        "endseite": 25509,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "237:405:8",
+          "dokumentnummer": "20/13415",
+          "seite": "25499B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25465A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25465"
+        },
+        {
+          "seite": "25466C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25466"
+        },
+        {
+          "seite": "25468A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25468"
+        },
+        {
+          "seite": "25469C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christian Wirth, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25469"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316592"
+    },
+    {
+      "id": "662109",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316602"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316592"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316564"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25464",
+        "anfangsseite": 25464,
+        "endseite": 25509,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "185:373:73",
+          "dokumentnummer": "20/13416",
+          "seite": "25503A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25465A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25465"
+        },
+        {
+          "seite": "25466C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25466"
+        },
+        {
+          "seite": "25468A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25468"
+        },
+        {
+          "seite": "25469C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christian Wirth, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25469"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316604"
+    },
+    {
+      "id": "662110",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316602"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316592"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316604"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25464",
+        "anfangsseite": 25464,
+        "endseite": 25509,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "249:394:1",
+          "dokumentnummer": "20/13417",
+          "seite": "25506B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25465A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25465"
+        },
+        {
+          "seite": "25466C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25466"
+        },
+        {
+          "seite": "25468A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25468"
+        },
+        {
+          "seite": "25469C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christian Wirth, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25469"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316564"
+    },
+    {
+      "id": "662119",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Gesamtgesellschaftliches Bewusstsein für die Wechseljahre der Frau - Für eine nationale Menopausen-Strategie nach internationalem Vorbild",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25534",
+        "anfangsseite": 25534,
+        "endseite": 25540,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12983",
+          "seite": "25540D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25534B",
+          "aktivitaetsart": "Rede",
+          "titel": "Emmi Zeulner, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25534"
+        },
+        {
+          "seite": "25535B",
+          "aktivitaetsart": "Rede",
+          "titel": "Heike Engelhardt, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25535"
+        },
+        {
+          "seite": "25535D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christina Baum, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25535"
+        },
+        {
+          "seite": "25536C",
+          "aktivitaetsart": "Rede",
+          "titel": "Saskia Weishaupt, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25536"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316000"
+    },
+    {
+      "id": "662123",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Einführung des Tarifs auf Rädern zur automatischen Anpassung des Steuerrechts an die kalte Progression",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Jahressteuergesetz 2024 (Jahressteuergesetz 2024 - JStG 2024)",
+          "id": "314975"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur steuerlichen Freistellung des Existenzminimums 2024",
+          "id": "314882"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Eine starke neue Wohngemeinnützigkeit als nicht-profitorientierten Sektor auf dem Wohnungsmarkt einführen",
+          "id": "313742"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25540",
+        "anfangsseite": 25540,
+        "endseite": 25551,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13357",
+          "seite": "25551A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25541B",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Herbrand, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25541"
+        },
+        {
+          "seite": "25542B",
+          "aktivitaetsart": "Rede",
+          "titel": "Antje Tillmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25542"
+        },
+        {
+          "seite": "25543D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tim Klüssendorf, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25543"
+        },
+        {
+          "seite": "25544D",
+          "aktivitaetsart": "Rede",
+          "titel": "Klaus Stöber, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25544"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316513"
+    },
+    {
+      "id": "662126",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Keine Beschränkung der Meinungsfreiheit in den sozialen Netzwerken - Für die Abschaffung des Digital Services Act eintreten - Bis dahin Grundrechte bei der Umsetzung wahren",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-05T15:40:04+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25551",
+        "anfangsseite": 25551,
+        "endseite": 25557,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Festlegung der Federführung gegen den Wunsch der Fraktion der AfD (Federführung beim RechtsA)",
+          "dokumentnummer": "20/13364",
+          "seite": "25557C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25551B",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25551"
+        },
+        {
+          "seite": "25552D",
+          "aktivitaetsart": "Rede",
+          "titel": "Catarina dos Santos-Wintz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25552"
+        },
+        {
+          "seite": "25553D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tobias B. Bacherle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25553"
+        },
+        {
+          "seite": "25555A",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25555"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316618"
+    },
+    {
+      "id": "662128",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "Aufhebung der Sitzung nach Feststellung der Beschlussunfähigkeit durch namentliche Abstimmung in der 3. Beratung des Gesetzentwurfes auf Drs 20/12351",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz zur Modernisierung und zum Bürokratieabbau im Strom- und Energiesteuerrecht",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-11-24T13:29:08+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung und zum Bürokratieabbau im Strom- und Energiesteuerrecht",
+          "id": "312306"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25557",
+        "anfangsseite": 25557,
+        "endseite": 25565,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25558A",
+          "aktivitaetsart": "Rede",
+          "titel": "Till Mansmann, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25558"
+        },
+        {
+          "seite": "25559A",
+          "aktivitaetsart": "Rede",
+          "titel": "Johannes Steiniger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25559"
+        },
+        {
+          "seite": "25560C",
+          "aktivitaetsart": "Rede",
+          "titel": "Carlos Kasper, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25560"
+        },
+        {
+          "seite": "25561C",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Reichardt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25561"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316563"
+    },
+    {
+      "id": "662140",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission\r\nBelgien, Tschechien, Estland, Spanien, Frankreich, Italien, Ungarn, Malta, Polen, Slowenien, die Slowakei und Finnland\r\nBericht nach Artikel 126 Absatz 3 des Vertrags über die Arbeitsweise der Europäischen Union \r\nKOM(2024) 598 endg.; Ratsdok. 11258/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315506"
+    },
+    {
+      "id": "662141",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Report from the Commission to the European Parliament, the Council and the Court of Auditors\r\nAnnual Management and Performance Report for the EU Budget - 2023 financial year\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2024) 401 endg.; Ratsdok. 11446/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315507"
+    },
+    {
+      "id": "662142",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über das Bestehen eines übermäßigen Defizits in Belgien \r\nKOM(2024) 518 endg.; Ratsdok. 11918/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315511"
+    },
+    {
+      "id": "662143",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über das Bestehen eines übermäßigen Defizits in Frankreich \r\nKOM(2024) 511 endg.; Ratsdok. 11919/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315512"
+    },
+    {
+      "id": "662144",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über das Bestehen eines übermäßigen Defizits in Ungarn \r\nKOM(2024) 512 endg.; Ratsdok. 11920/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315515"
+    },
+    {
+      "id": "662146",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über das Bestehen eines übermäßigen Defizits in Italien \r\nKOM(2024) 513 endg.; Ratsdok. 11921/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315516"
+    },
+    {
+      "id": "662147",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über das Bestehen eines übermäßigen Defizits in Malta \r\nKOM(2024) 514 endg.; Ratsdok. 11922/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315517"
+    },
+    {
+      "id": "662148",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über das Bestehen eines übermäßigen Defizits in Polen \r\nKOM(2024) 515 endg.; Ratsdok. 11923/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315524"
+    },
+    {
+      "id": "662149",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über das Bestehen eines übermäßigen Defizits in der Slowakei \r\nKOM(2024) 516 endg.; Ratsdok. 11925/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315525"
+    },
+    {
+      "id": "662150",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nHalbjährlicher Bericht über die Durchführung von Mittelaufnahme- und Schuldenmanagementtransaktionen sowie von damit verbundenen Darlehenstransaktionen gemäß Artikel 13 des Durchführungsbeschlusses C(2023) 8010 der Kommission\r\n1. Januar 2024-30. Juni 2024 \r\nKOM(2024) 369 endg.; Ratsdok. 12594/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "315526"
+    },
+    {
+      "id": "662151",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25612C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 8/2024\r\nDie Ambitionen der EU im Bereich der künstlichen Intelligenz\r\nMehr Governance und verstärkte, gezielter ausgerichtete Investitionen sind zukunftsentscheidend\r\nERH 8/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-10-18",
+      "vorgang_id": "313522"
+    },
+    {
+      "id": "662205",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584",
+        "anfangsseite": 25584,
+        "endseite": 25584,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25584A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Nicole Bauer, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "316604"
+    },
+    {
+      "id": "662115",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "India-Middle East-Europe Economic Corridor vorantreiben und zum Erfolg machen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 15,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-21T21:17:29+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25509",
+        "anfangsseite": 25509,
+        "endseite": 25527,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/11621",
+          "seite": "25527B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25510A",
+          "aktivitaetsart": "Rede",
+          "titel": "Chantal Kopf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25510"
+        },
+        {
+          "seite": "25514A",
+          "aktivitaetsart": "Rede",
+          "titel": "Ralph Brinkhaus, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25514"
+        },
+        {
+          "seite": "25518B",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Töns, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25518"
+        },
+        {
+          "seite": "25519C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Rainer Rothfuß, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25519"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "312581"
+    },
+    {
+      "id": "662122",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Eine starke neue Wohngemeinnützigkeit als nicht-profitorientierten Sektor auf dem Wohnungsmarkt einführen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Jahressteuergesetz 2024 (Jahressteuergesetz 2024 - JStG 2024)",
+          "id": "314975"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur steuerlichen Freistellung des Existenzminimums 2024",
+          "id": "314882"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Einführung des Tarifs auf Rädern zur automatischen Anpassung des Steuerrechts an die kalte Progression",
+          "id": "316513"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25540",
+        "anfangsseite": 25540,
+        "endseite": 25551,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/12109",
+          "seite": "25551A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25541B",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Herbrand, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25541"
+        },
+        {
+          "seite": "25542B",
+          "aktivitaetsart": "Rede",
+          "titel": "Antje Tillmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25542"
+        },
+        {
+          "seite": "25543D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tim Klüssendorf, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25543"
+        },
+        {
+          "seite": "25544D",
+          "aktivitaetsart": "Rede",
+          "titel": "Klaus Stöber, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25544"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "313742"
+    },
+    {
+      "id": "662199",
+      "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktion der CDU/CSU auf Absetzung der Beratung von der Tagesordnung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 5,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25461",
+        "anfangsseite": 25461,
+        "endseite": 25464,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung Geschäftsordnungsantrag",
+          "seite": "25464C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25461B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25461"
+        },
+        {
+          "seite": "25462B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Johannes Vogel, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25462"
+        },
+        {
+          "seite": "25463C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25463"
+        },
+        {
+          "seite": "25463D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25463"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315971"
+    },
+    {
+      "id": "662200",
+      "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktion der CDU/CSU auf Absetzung der Beratung von der Tagesordnung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 5,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25461",
+        "anfangsseite": 25461,
+        "endseite": 25464,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung Geschäftsordnungsantrag",
+          "seite": "25464C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25461B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25461"
+        },
+        {
+          "seite": "25462B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Johannes Vogel, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25462"
+        },
+        {
+          "seite": "25463C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25463"
+        },
+        {
+          "seite": "25463D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25463"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "312593"
+    },
+    {
+      "id": "662111",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316602"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316592"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316604"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316564"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25464",
+        "anfangsseite": 25464,
+        "endseite": 25509,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "567:62:7 (Annahme der Beschlussempfehlung auf Ablehnung)",
+          "dokumentnummer": "20/12976",
+          "seite": "25511A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25465A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25465"
+        },
+        {
+          "seite": "25466C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25466"
+        },
+        {
+          "seite": "25468A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25468"
+        },
+        {
+          "seite": "25469C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christian Wirth, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25469"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315971"
+    },
+    {
+      "id": "662112",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316602"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316592"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316604"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316564"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25464",
+        "anfangsseite": 25464,
+        "endseite": 25509,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "572:62:8 (Annahme der Beschlussempfehlung auf Ablehnung)",
+          "dokumentnummer": "20/11626",
+          "seite": "25515B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25465A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25465"
+        },
+        {
+          "seite": "25466C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25466"
+        },
+        {
+          "seite": "25468A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25468"
+        },
+        {
+          "seite": "25469C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christian Wirth, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25469"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "312593"
+    },
+    {
+      "id": "662198",
+      "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktion der CDU/CSU auf Absetzung der 2. und 3. Beratung von der Tagesordnung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 5,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-04T09:21:47+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25461",
+        "anfangsseite": 25461,
+        "endseite": 25464,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung Geschäftsordnungsantrag",
+          "seite": "25464C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25461B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25461"
+        },
+        {
+          "seite": "25462B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Johannes Vogel, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25462"
+        },
+        {
+          "seite": "25463C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25463"
+        },
+        {
+          "seite": "25463D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25463"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315333"
+    },
+    {
+      "id": "662216",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Antrag",
+      "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612",
+        "anfangsseite": 25612,
+        "endseite": 25612,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25612C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Petra Pau, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25612"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315971"
+    },
+    {
+      "id": "662106",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-05T15:58:00+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316602"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316592"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316604"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316564"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25464",
+        "anfangsseite": 25464,
+        "endseite": 25509,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/12806, 20/13413",
+          "seite": "25492A"
+        },
+        {
+          "beschlusstenor": "Annahme einer Entschließung",
+          "abstimm_ergebnis_bemerkung": "Buchstabe c",
+          "dokumentnummer": "20/13413",
+          "seite": "25495B"
+        },
+        {
+          "beschlusstenor": "Annahme einer Entschließung",
+          "abstimm_ergebnis_bemerkung": "Buchstabe d",
+          "dokumentnummer": "20/13413",
+          "seite": "25495D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25465A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25465"
+        },
+        {
+          "seite": "25466C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25466"
+        },
+        {
+          "seite": "25468A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25468"
+        },
+        {
+          "seite": "25469C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christian Wirth, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25469"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315333"
+    },
+    {
+      "id": "662114",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-17T12:24:49+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25492",
+        "anfangsseite": 25492,
+        "endseite": 25492,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "367:280:4",
+          "dokumentnummer": "20/12806, 20/13413",
+          "seite": "25496A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25606C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Annika Klose, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25606"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315333"
+    },
+    {
+      "id": "662117",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Soldatenentschädigungsgesetzes und des Soldatenversorgungsrechts",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-13T09:53:50+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25527",
+        "anfangsseite": 25527,
+        "endseite": 25534,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11856, 20/13401",
+          "seite": "25533D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25527C",
+          "aktivitaetsart": "Rede",
+          "titel": "Johannes Arlt, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25527"
+        },
+        {
+          "seite": "25528D",
+          "aktivitaetsart": "Rede",
+          "titel": "Kerstin Vieregge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25528"
+        },
+        {
+          "seite": "25529D",
+          "aktivitaetsart": "Rede",
+          "titel": "Sara Nanni, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25529"
+        },
+        {
+          "seite": "25530C",
+          "aktivitaetsart": "Rede",
+          "titel": "Hannes Gnauck, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25530"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "311547"
+    },
+    {
+      "id": "662118",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Soldatenentschädigungsgesetzes und des Soldatenversorgungsrechts",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25534",
+        "anfangsseite": 25534,
+        "endseite": 25534,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11856, 20/13401",
+          "seite": "25534A"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "311547"
+    },
+    {
+      "id": "662127",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Modernisierung und zum Bürokratieabbau im Strom- und Energiesteuerrecht",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-11-24T13:29:08+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Modernisierung und zum Bürokratieabbau im Strom- und Energiesteuerrecht",
+          "id": "316563"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25557",
+        "anfangsseite": 25557,
+        "endseite": 25565,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/12351, 20/13404",
+          "seite": "25564C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25558A",
+          "aktivitaetsart": "Rede",
+          "titel": "Till Mansmann, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25558"
+        },
+        {
+          "seite": "25559A",
+          "aktivitaetsart": "Rede",
+          "titel": "Johannes Steiniger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25559"
+        },
+        {
+          "seite": "25560C",
+          "aktivitaetsart": "Rede",
+          "titel": "Carlos Kasper, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25560"
+        },
+        {
+          "seite": "25561C",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Reichardt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25561"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "312306"
+    },
+    {
+      "id": "662197",
+      "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktion der CDU/CSU auf Absetzung der 2. und 3. Beratung von der Tagesordnung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 5,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-17T12:25:24+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Absetzung von der TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25461",
+        "anfangsseite": 25461,
+        "endseite": 25464,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung Geschäftsordnungsantrag",
+          "seite": "25464C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25461B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25461"
+        },
+        {
+          "seite": "25462B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Johannes Vogel, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25462"
+        },
+        {
+          "seite": "25463C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25463"
+        },
+        {
+          "seite": "25463D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25463"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315332"
+    },
+    {
+      "id": "662214",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 50,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-29T17:23:24+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584",
+        "anfangsseite": 25584,
+        "endseite": 25606,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25584C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Luise Amtsberg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        },
+        {
+          "seite": "25584C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Lukas Benner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        },
+        {
+          "seite": "25584C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Deborah Düring, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        },
+        {
+          "seite": "25584C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Harald Ebner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315333"
+    },
+    {
+      "id": "662105",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-17T12:24:12+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316602"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316592"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316604"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "316564"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gezielte Sanktionierung von Messerangriffen statt Verschärfungen im Waffenrecht - Keine weitere Belastung der Allgemeinheit",
+          "id": "315971"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Zurückweisungen von Drittstaatenangehörigen an den Außengrenzen der Bundesrepublik Deutschland entsprechend den bilateralen Rücknahmeabkommen mit den Nachbarstaaten",
+          "id": "312593"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25464",
+        "anfangsseite": 25464,
+        "endseite": 25509,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "abstimm_ergebnis_bemerkung": "254:404:1",
+          "dokumentnummer": "20/13424",
+          "seite": "25485A"
+        },
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "Artikel 5; 375:275:4",
+          "dokumentnummer": "20/12805, 20/13413",
+          "seite": "25488B"
+        },
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "übrige Teile",
+          "dokumentnummer": "20/12805, 20/13413",
+          "seite": "25491B"
+        },
+        {
+          "beschlusstenor": "Annahme einer Entschließung",
+          "abstimm_ergebnis_bemerkung": "Buchstabe d",
+          "dokumentnummer": "20/13413",
+          "seite": "25495D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25465A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25465"
+        },
+        {
+          "seite": "25466C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25466"
+        },
+        {
+          "seite": "25468A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25468"
+        },
+        {
+          "seite": "25469C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christian Wirth, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25469"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315332"
+    },
+    {
+      "id": "662121",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur steuerlichen Freistellung des Existenzminimums 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Jahressteuergesetz 2024 (Jahressteuergesetz 2024 - JStG 2024)",
+          "id": "314975"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Eine starke neue Wohngemeinnützigkeit als nicht-profitorientierten Sektor auf dem Wohnungsmarkt einführen",
+          "id": "313742"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Einführung des Tarifs auf Rädern zur automatischen Anpassung des Steuerrechts an die kalte Progression",
+          "id": "316513"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25540",
+        "anfangsseite": 25540,
+        "endseite": 25551,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/12783",
+          "seite": "25550D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25541B",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Herbrand, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25541"
+        },
+        {
+          "seite": "25542B",
+          "aktivitaetsart": "Rede",
+          "titel": "Antje Tillmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25542"
+        },
+        {
+          "seite": "25543D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tim Klüssendorf, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25543"
+        },
+        {
+          "seite": "25544D",
+          "aktivitaetsart": "Rede",
+          "titel": "Klaus Stöber, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25544"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "314882"
+    },
+    {
+      "id": "662130",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "abstract": "S. 25564B - Geschäftsordnungsantrag der Fraktion der AfD auf Feststellung der Beschlussfähigkeit\r\nS. 25564C - Geschäftsordnungsantrag der Fraktion B90/GR auf namentliche Abstimmung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Modernisierung und zum Bürokratieabbau im Strom- und Energiesteuerrecht",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-11-24T13:29:21+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25564",
+        "anfangsseite": 25564,
+        "endseite": 25565,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Feststellung der Beschlussunfähigkeit",
+          "abstimm_ergebnis_bemerkung": "232 abgegebene Stimmen; Aufhebung der Sitzung",
+          "seite": "25565C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25564B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25564"
+        },
+        {
+          "seite": "25564B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Beatrix von Storch, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25564"
+        },
+        {
+          "seite": "25564C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Anja Reinalter, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25564"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "312306"
+    },
+    {
+      "id": "662113",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 24,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-17T12:24:32+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25491",
+        "anfangsseite": 25491,
+        "endseite": 25491,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "357:289:8",
+          "dokumentnummer": "20/12805, 20/13413",
+          "seite": "25492B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25568B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stephanie Aeffner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25568"
+        },
+        {
+          "seite": "25568B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Sabine Grützmacher, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25568"
+        },
+        {
+          "seite": "25568B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Awet Tesfaiesus, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25568"
+        },
+        {
+          "seite": "25569A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Katja Adler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25569"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315332"
+    },
+    {
+      "id": "662125",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur steuerlichen Freistellung des Existenzminimums 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-28T16:21:45+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25551",
+        "anfangsseite": 25551,
+        "endseite": 25551,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/12783",
+          "seite": "25551A"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "314882"
+    },
+    {
+      "id": "662204",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-17T12:25:53+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584",
+        "anfangsseite": 25584,
+        "endseite": 25584,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25584A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Nicole Bauer, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315332"
+    },
+    {
+      "id": "662120",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Jahressteuergesetz 2024 (Jahressteuergesetz 2024 - JStG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-31T16:34:42+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur steuerlichen Freistellung des Existenzminimums 2024",
+          "id": "314882"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Eine starke neue Wohngemeinnützigkeit als nicht-profitorientierten Sektor auf dem Wohnungsmarkt einführen",
+          "id": "313742"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Einführung des Tarifs auf Rädern zur automatischen Anpassung des Steuerrechts an die kalte Progression",
+          "id": "316513"
+        }
+      ],
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25540",
+        "anfangsseite": 25540,
+        "endseite": 25551,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/12780, 20/13419",
+          "seite": "25550C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25541B",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Herbrand, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25541"
+        },
+        {
+          "seite": "25542B",
+          "aktivitaetsart": "Rede",
+          "titel": "Antje Tillmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25542"
+        },
+        {
+          "seite": "25543D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tim Klüssendorf, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25543"
+        },
+        {
+          "seite": "25544D",
+          "aktivitaetsart": "Rede",
+          "titel": "Klaus Stöber, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25544"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "314975"
+    },
+    {
+      "id": "662213",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 50,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-17T12:26:12+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584",
+        "anfangsseite": 25584,
+        "endseite": 25606,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25584C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Luise Amtsberg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        },
+        {
+          "seite": "25584C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Lukas Benner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        },
+        {
+          "seite": "25584C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Deborah Düring, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        },
+        {
+          "seite": "25584C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Harald Ebner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25584"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "315332"
+    },
+    {
+      "id": "662124",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Jahressteuergesetz 2024 (Jahressteuergesetz 2024 - JStG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-29T16:14:30+01:00",
+      "fundstelle": {
+        "id": "5678",
+        "dokumentnummer": "20/195",
+        "datum": "2024-10-18",
+        "verteildatum": "2024-10-21",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20195.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20195.pdf#P.25550",
+        "anfangsseite": 25550,
+        "endseite": 25550,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/12780, 20/13419",
+          "seite": "25550D"
+        }
+      ],
+      "datum": "2024-10-18",
+      "vorgang_id": "314975"
+    }
+  ]
+}

@@ -1,0 +1,2066 @@
+{
+  "numFound": 49,
+  "documents": [
+    {
+      "id": "647857",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Begrüßung der Wehrbeauftragten des Deutschen Bundestages, Dr. Eva Högl",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-16T12:09:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18936",
+        "anfangsseite": 18936,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18936C",
+          "aktivitaetsart": "Rede",
+          "titel": "Wolfgang Kubicki, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18936"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "308119"
+    },
+    {
+      "id": "647859",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Eintritt des Abg Dr. Stefan Kaufmann (CDU/CSU) in den Deutschen Bundestag als Nachfolger für den verstorbenen Abg Dr. Wolfgang Schäuble (Mandatsbeginn: 04.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-15T11:25:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18883",
+        "anfangsseite": 18883,
+        "endseite": 18883,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "308120"
+    },
+    {
+      "id": "647759",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "ausschuss_kuerzel": "AWZ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18883",
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/8719",
+          "seite": "18898D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18883D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tessa Ganserer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18883"
+        },
+        {
+          "seite": "18884C",
+          "aktivitaetsart": "Rede",
+          "titel": "Felix Schreiner, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18884"
+        },
+        {
+          "seite": "18885B",
+          "aktivitaetsart": "Rede",
+          "titel": "Sarah Ryglewski, Staatsmin., Bundeskanzleramt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18885"
+        },
+        {
+          "seite": "18886D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18886"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "304837"
+    },
+    {
+      "id": "647760",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        }
+      ],
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18883",
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Kenntnisnahme",
+          "dokumentnummer": "20/10100",
+          "seite": "18899A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18883D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tessa Ganserer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18883"
+        },
+        {
+          "seite": "18884C",
+          "aktivitaetsart": "Rede",
+          "titel": "Felix Schreiner, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18884"
+        },
+        {
+          "seite": "18885B",
+          "aktivitaetsart": "Rede",
+          "titel": "Sarah Ryglewski, Staatsmin., Bundeskanzleramt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18885"
+        },
+        {
+          "seite": "18886D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18886"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "308013"
+    },
+    {
+      "id": "647761",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 22,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18899",
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/9740",
+          "seite": "18921B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18899B",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Stracke, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18899"
+        },
+        {
+          "seite": "18900C",
+          "aktivitaetsart": "Rede",
+          "titel": "Rasha Nasr, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18900"
+        },
+        {
+          "seite": "18901D",
+          "aktivitaetsart": "Rede",
+          "titel": "Norbert Kleinwächter, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18901"
+        },
+        {
+          "seite": "18902B",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Frank Bsirske, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18902"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "307095"
+    },
+    {
+      "id": "647762",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 22,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        }
+      ],
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18899",
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10063",
+          "seite": "18921B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18899B",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Stracke, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18899"
+        },
+        {
+          "seite": "18900C",
+          "aktivitaetsart": "Rede",
+          "titel": "Rasha Nasr, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18900"
+        },
+        {
+          "seite": "18901D",
+          "aktivitaetsart": "Rede",
+          "titel": "Norbert Kleinwächter, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18901"
+        },
+        {
+          "seite": "18902B",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Frank Bsirske, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18902"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "307979"
+    },
+    {
+      "id": "647765",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        }
+      ],
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18921",
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/9764",
+          "seite": "18936C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18921D",
+          "aktivitaetsart": "Rede",
+          "titel": "Reem Alabali-Radovan, Staatsmin., Bundeskanzleramt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18921"
+        },
+        {
+          "seite": "18922D",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Throm, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18922"
+        },
+        {
+          "seite": "18923D",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Susanne Menge, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18923"
+        },
+        {
+          "seite": "18924A",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Filiz Polat, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18924"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "306983"
+    },
+    {
+      "id": "647768",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Verteidigungsausschuss",
+          "ausschuss_kuerzel": "VgA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18936",
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10064",
+          "seite": "18946D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18936D",
+          "aktivitaetsart": "Rede",
+          "titel": "Henning Otte, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18936"
+        },
+        {
+          "seite": "18937D",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Bettina Hagedorn, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18937"
+        },
+        {
+          "seite": "18938B",
+          "aktivitaetsart": "Erwiderung",
+          "titel": "Henning Otte, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18938"
+        },
+        {
+          "seite": "18938D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Joe Weingarten, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18938"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "307980"
+    },
+    {
+      "id": "647769",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18949",
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10065",
+          "seite": "18960A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18950A",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Harald Weyel, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18950"
+        },
+        {
+          "seite": "18950D",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Töns, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18950"
+        },
+        {
+          "seite": "18952B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christoph Ploß, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18952"
+        },
+        {
+          "seite": "18953C",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Peter Boehringer, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18953"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "307993"
+    },
+    {
+      "id": "647771",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Mitteilung über Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 12. Juli 2023 zum Beitritt zum Schengen-Raum (2023/2668(RSP))\r\nEP P9_TA(2023)0278",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-23T18:22:11+02:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "303327"
+    },
+    {
+      "id": "647773",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Action Plan on Geographical Balance\r\nGermany 2023\r\nEU-Dok 307/2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "304052"
+    },
+    {
+      "id": "647775",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates für einen Konzeptentwurf zur Koordinierung der Reaktion - auf Unionsebene - auf Störungen kritischer Infrastrukturen von erheblicher grenzüberschreitender Bedeutung\r\nKOM(2023) 526 endg.; Ratsdok. 12485/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "304635"
+    },
+    {
+      "id": "647776",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2003/8/EG des Rates, der Rahmenbeschlüsse 2002/465/JI, 2002/584/JI, 2003/577/JI, 2005/214/JI, 2006/783/JI, 2008/909/JI, 2008/947/JI, 2009/829/JI und 2009/948/JI sowie der Richtlinie 2014/41/EU des Europäischen Parlaments und des Rates im Hinblick auf die Digitalisierung der justiziellen Zusammenarbeit\r\nKOM(2021)760 endg.; Ratsdok. 14821/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "284596"
+    },
+    {
+      "id": "647781",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 16/2023\r\nNGEU-Schuldenmanagement bei der Kommission: Ermutigender Start, aber weitere Angleichung an bewährte Verfahren erforderlich\r\nERH 16/2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "301693"
+    },
+    {
+      "id": "647782",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission Belgien, Bulgarien, Tschechien, Deutschland, Estland, Spanien, Frankreich, Italien, Lettland, Ungarn, Malta, Österreich, Polen, Slowenien, Slowakei und Finnland\r\nBericht nach Artikel 126 Absatz 3 des Vertrags über die Arbeitsweise der Europäischen Union \r\nKOM(2023)631 endg.; Ratsdok. 9763/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "301661"
+    },
+    {
+      "id": "647783",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nHalbjahresbericht über die Umsetzung von Kreditaufnahmen, Schuldenmanagement und zugehörigen Kreditgeschäften gemäß Artikel 12 der Durchführungsentscheidung der Kommission K(2022)9700\r\n1. Januar 2023 bis zum 30. Juni 2023 \r\nKOM(2023)461 endg.; Ratsdok. 12336/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "303377"
+    },
+    {
+      "id": "647784",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 23/2023\r\nUmstrukturierung und Bepflanzung von Rebflächen in der EU\r\nUnklare Auswirkungen auf die Wettbewerbsfähigkeit und begrenzte ökologische Ambitionen\r\nERH 23/2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "305798"
+    },
+    {
+      "id": "647787",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Ausübung der Befugnis zum Erlass delegierter Rechtsakte, die der Kommission gemäß der Verordnung (EU) 2019/1009 des Europäischen Parlaments und des Rates mit Vorschriften für die Bereitstellung von EU-Düngeprodukten auf dem Markt übertragen wurde \r\nKOM(2023)581 endg.; Ratsdok. 14510/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "306115"
+    },
+    {
+      "id": "647790",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen zur Digitalisierung der Koordinierung der sozialen Sicherheit: Erleichterung der Freizügigkeit im Binnenmarkt \r\nKOM(2023) 501 endg.; Ratsdok. 12798/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "304639"
+    },
+    {
+      "id": "647791",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Standpunkt, der im Namen der Europäischen Union im Weltforum für die Harmonisierung der Regelungen für Kraftfahrzeuge der Wirtschaftskommission der Vereinten Nationen für Europa zu Vorschlägen für Änderungen der UN-Regelungen Nr. 0, 14, 16, 17, 24, 43, 48, 53, 74, 86, 90, 94, 95, 100, 122, 129, 134, 135, 137, 145, 149, 153, 154, 157, 160, 161 und 162, zu Vorschlägen für eine neue UN-Regelung über Ereignisdatenspeicher für schwere Nutzfahrzeuge und eine neue UN-Regelung über Kinderrückhaltesysteme für die sicherere Beförderung von Kindern in Bussen und zu einem Vorschlag zur Änderung der Gemeinsamen Entschließung Nr. 1 der UN zu vertreten ist \r\nKOM(2023)644 endg.; Ratsdok. 14562/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "306117"
+    },
+    {
+      "id": "647795",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den im Namen der Europäischen Union im Gemeinsamen EWR-Ausschuss zur Änderung von Anhang XIII (Verkehr) des EWR-Abkommens zu vertretenden Standpunkt (Schiffsüberprüfung) \r\nKOM(2023)658 endg.; Ratsdok. 14564/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "306119"
+    },
+    {
+      "id": "647797",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über die Unterzeichnung - im Namen der Europäischen Union - des Wirtschaftspartnerschaftsabkommens zwischen der Republik Kenia, Mitglied der Ostafrikanischen Gemeinschaft, einerseits und der Europäischen Union andererseits \r\nKOM(2023)559 endg.; Ratsdok. 13532/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "305817"
+    },
+    {
+      "id": "647798",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Abschluss - im Namen der Europäischen Union - des Wirtschaftspartnerschaftsabkommens zwischen der Republik Kenia, Mitglied der Ostafrikanischen Gemeinschaft, einerseits und der Europäischen Union andererseits \r\nKOM(2023)562 endg.; Ratsdok. 13540/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "305819"
+    },
+    {
+      "id": "647802",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über Rumäniens Fortschritte im Rahmen des Kooperations- und Kontrollverfahrens \r\nKOM(2022) 664 endg.; Ratsdok. 15137/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "295654"
+    },
+    {
+      "id": "647803",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung für eine Empfehlung des Rates zum nationalen Reformprogramm Deutschlands 2023 mit einer Stellungnahme des Rates zum Stabilitätsprogramm Deutschlands 2023 \r\nKOM(2023)605 endg.; Ratsdok. 9770/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "301211"
+    },
+    {
+      "id": "647804",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, die Europäische Zentralbank, den Europäischen Wirtschafts- und Sozialausschuss, den Ausschuss der Regionen und die Europäische Investitionsbank\r\nEuropäisches Semester 2023 - Frühjahrspaket \r\nKOM(2023)600 endg.; Ratsdok. 9765/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "301713"
+    },
+    {
+      "id": "647806",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlungen des Rates zu den nationalen Reformprogrammen 2023 an die einzelnen Mitgliedstaaten mit Stellungnahmen des Rates zu den aktualisierten Stabilitäts- und Konvergenzprogrammen \r\nRatsdok. 9901/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "301739"
+    },
+    {
+      "id": "647807",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Report from the Commission to the European Parliament, the Council, the Economic and Financial Committee and the Employment Committee\r\nReport on the European instrument for Temporary Support to mitigate Unemployment Risks in an Emergency (SURE) following the COVID-19 outbreak pursuant to Article 14 of Council Regulation (EU) 2020/672\r\nSURE after its sunset: final bi-annual report\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2023)291 endg.; Ratsdok. 10255/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "301716"
+    },
+    {
+      "id": "647808",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an den Rat und das Europäische Parlament\r\nErster Zweijahresbericht über die Umsetzung des globalen Ansatzes für Forschung und Innovation \r\nKOM(2023)356 endg.; Ratsdok. 11263/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "303461"
+    },
+    {
+      "id": "647809",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss, den Ausschuss der Regionen und den Rechnungshof\r\nAktionsplan der Kommission zur Betrugsbekämpfungsstrategie - Überarbeitung 2023 \r\nKOM(2023)405 endg.; Ratsdok. 11854/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "303469"
+    },
+    {
+      "id": "647811",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nJährlicher Bericht über die Durchführung des Programms zur Unterstützung von Strukturreformen 2020 \r\nKOM(2023)352 endg.; Ratsdok. 11935/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "303470"
+    },
+    {
+      "id": "647812",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission\r\nKontrolle der Anwendung des EU-Rechts\r\nJahresbericht 2022 \r\nKOM(2023)453 endg.; Ratsdok. 11967/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "303471"
+    },
+    {
+      "id": "647846",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht über das Ergebnis der Überprüfung des Durchschnittssatzes für Landwirte ab dem Jahr 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "306664"
+    },
+    {
+      "id": "647848",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Erster Fortschrittsbericht zur Umsetzung der Start-up-Strategie der Bundesregierung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "303921"
+    },
+    {
+      "id": "647851",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht der Bundesregierung zum Stand der Deutschen Einheit 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "304276"
+    },
+    {
+      "id": "647852",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA)\r\nDigitalisierung der Landwirtschaft: technologischer Stand und Perspektiven\r\nEndbericht Teil I",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "287388"
+    },
+    {
+      "id": "647853",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA)\r\nDigitalisierung der Landwirtschaft: gesellschaftliche Voraussetzungen, Rahmenbedingungen und Effekte\r\nEndbericht Teil II",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "287391"
+    },
+    {
+      "id": "647854",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA)\r\nMögliche gesundheitliche Auswirkungen verschiedener Frequenzbereiche elektromagnetischer Felder (HF-EMF)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "296447"
+    },
+    {
+      "id": "647856",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Umweltradioaktivität und Strahlenbelastung im Jahr 2020",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "304599"
+    },
+    {
+      "id": "647847",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "titel": "Haushaltsführung 2023 \r\nÜberplanmäßige Ausgabe bei Kapitel 1101 Titel 632 11 - Beteiligung des Bundes an den Leistungen für Unterkunft und Heizung - bis zu 26.400.000 Euro",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "307227"
+    },
+    {
+      "id": "647855",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Sondergutachten des Sachverständigenrates für Umweltfragen \r\nPolitik in der Pflicht: Umweltfreundliches Verhalten erleichtern",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "301929"
+    },
+    {
+      "id": "647799",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament und den Rat: \r\nStrategische Vorausschau 2022\r\nVerzahnung des grünen und des digitalen Wandels im neuen geopolitischen Kontext\r\nKOM(2022) 289 endg.; Ratsdok. 10889/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "290055"
+    },
+    {
+      "id": "647849",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 18965D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Raumfahrtstrategie der Bundesregierung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18965",
+        "anfangsseite": 18965,
+        "endseite": 18966,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "304262"
+    },
+    {
+      "id": "647777",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Digitalisierung der justiziellen Zusammenarbeit und des Zugangs zur Justiz in grenzüberschreitenden Zivil-, Handels- und Strafsachen und zur Änderung einiger Rechtsakte im Bereich der justiziellen Zusammenarbeit\r\nKOM(2021) 759 endg.; Ratsdok. 14850/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "283701"
+    },
+    {
+      "id": "647789",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über unternehmensbezogene Arbeitsmarktstatistiken der Europäischen Union und zur Aufhebung der Verordnung (EG) Nr. 530/1999 des Rates und der Verordnungen (EG) Nr. 450/2003 und (EG) Nr. 453/2008 des Europäischen Parlaments und des Rates\r\nKOM(2023) 459 endg.; Ratsdok. 12258/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "302452"
+    },
+    {
+      "id": "647801",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: \r\nBericht über die Rechtsstaatlichkeit 2022\r\nDie Lage der Rechtsstaatlichkeit in der Europäischen Union\r\nKOM(2022) 500 endg.; Ratsdok. 11408/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "289664"
+    },
+    {
+      "id": "647779",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 18966C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2011/83/EU in Bezug auf im Fernabsatz geschlossene Finanzdienstleistungsverträge und zur Aufhebung der Richtlinie 2002/65/EG\r\nKOM(2022) 204 endg.; Ratsdok. 9053/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18966",
+        "anfangsseite": 18966,
+        "endseite": 18966,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-19",
+      "vorgang_id": "287692"
+    },
+    {
+      "id": "647764",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18921",
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/10095",
+          "seite": "18936A"
+        },
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9044, 20/10093",
+          "seite": "18936B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18921D",
+          "aktivitaetsart": "Rede",
+          "titel": "Reem Alabali-Radovan, Staatsmin., Bundeskanzleramt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18921"
+        },
+        {
+          "seite": "18922D",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Throm, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18922"
+        },
+        {
+          "seite": "18923D",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Susanne Menge, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18923"
+        },
+        {
+          "seite": "18924A",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Filiz Polat, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18924"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "303313"
+    },
+    {
+      "id": "647767",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "fundstelle": {
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18936",
+        "anfangsseite": 18936,
+        "endseite": 18936,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "382:234:23",
+          "dokumentnummer": "20/9044, 20/10093",
+          "seite": "18947A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18962A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Wolfgang Kubicki, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18962"
+        },
+        {
+          "seite": "18962C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Dr. Volker Redder, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18962"
+        },
+        {
+          "seite": "18962C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Linda Teuteberg, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18962"
+        }
+      ],
+      "datum": "2024-01-19",
+      "vorgang_id": "303313"
+    }
+  ]
+}

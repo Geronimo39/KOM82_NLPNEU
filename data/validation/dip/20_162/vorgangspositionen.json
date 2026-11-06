@@ -1,0 +1,2901 @@
+{
+  "numFound": 61,
+  "documents": [
+    {
+      "id": "652124",
+      "vorgangsposition": "Einleitende Ausführungen und Befragung der Bundesregierung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Befragung der Bundesregierung",
+      "titel": "Einleitende Ausführungen und Befragung der Bundesministerin des Auswärtigen, Annalena Baerbock sowie des Bundesministers für Digitales und Verkehr, Dr. Volker Wissing",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 38,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-17T16:20:44+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20747",
+        "anfangsseite": 20747,
+        "endseite": 20769,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20747A",
+          "aktivitaetsart": "Einleitende Ausführungen und Beantwortung",
+          "titel": "Annalena Baerbock, Bundesmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20747"
+        },
+        {
+          "seite": "20748A",
+          "aktivitaetsart": "Einleitende Ausführungen und Beantwortung",
+          "titel": "Dr. Volker Wissing, Bundesmin., Bundesministerium für Digitales und Verkehr",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20748"
+        },
+        {
+          "seite": "20748C",
+          "aktivitaetsart": "Frage",
+          "titel": "Florian Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20748"
+        },
+        {
+          "seite": "20749B",
+          "aktivitaetsart": "Frage",
+          "titel": "Frank Schwabe, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20749"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310817"
+    },
+    {
+      "id": "652125",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Ursachen und Konsequenzen der Polizeilichen Kriminalstatistik 2023 - Steigende Kriminalität auch im Kontext der aktuellen Migrationslage nicht länger hinnehmen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 16,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-10T14:47:36+01:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20782",
+        "anfangsseite": 20782,
+        "endseite": 20800,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20782B",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20782"
+        },
+        {
+          "seite": "20783C",
+          "aktivitaetsart": "Rede",
+          "titel": "Peggy Schierenbeck, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20783"
+        },
+        {
+          "seite": "20784D",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Hess, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20784"
+        },
+        {
+          "seite": "20786A",
+          "aktivitaetsart": "Rede",
+          "titel": "Marcel Emmerich, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20786"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310818"
+    },
+    {
+      "id": "652130",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an die Abg Beatrix von Storch (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T14:03:28+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20829",
+        "anfangsseite": 20829,
+        "endseite": 20829,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20829A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katrin Göring-Eckardt, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20829"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310820"
+    },
+    {
+      "id": "652127",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Notwendige Nutzung der Kernenergie in der Energiekrise - Rückbau stoppen, Moratorium umsetzen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-10T09:42:46+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20810",
+        "anfangsseite": 20810,
+        "endseite": 20822,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10967",
+          "seite": "20822C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20810D",
+          "aktivitaetsart": "Rede",
+          "titel": "Steffen Bilger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20810"
+        },
+        {
+          "seite": "20811D",
+          "aktivitaetsart": "Rede",
+          "titel": "Carsten Träger, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20811"
+        },
+        {
+          "seite": "20812D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20812"
+        },
+        {
+          "seite": "20813C",
+          "aktivitaetsart": "Rede",
+          "titel": "Harald Ebner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20813"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310716"
+    },
+    {
+      "id": "652131",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Reform der missbräuchlichen Anerkennung von Vaterschaften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-17T11:04:19+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20829",
+        "anfangsseite": 20829,
+        "endseite": 20838,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Festlegung der Federführung gegen den Wunsch der Fraktion der AfD (Federführung beim RechtsA)",
+          "dokumentnummer": "20/10792",
+          "seite": "20838A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20829B",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20829"
+        },
+        {
+          "seite": "20830B",
+          "aktivitaetsart": "Rede",
+          "titel": "Jan Plobner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20830"
+        },
+        {
+          "seite": "20832A",
+          "aktivitaetsart": "Rede",
+          "titel": "Susanne Hierl, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20832"
+        },
+        {
+          "seite": "20833B",
+          "aktivitaetsart": "Rede",
+          "titel": "Awet Tesfaiesus, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20833"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310122"
+    },
+    {
+      "id": "652142",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Eskalationsrisiko für Deutschland in Bezug auf den Ukrainekrieg",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20769",
+        "anfangsseite": 20769,
+        "endseite": 20770,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20769C",
+          "aktivitaetsart": "Frage",
+          "titel": "Bernd Schattner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20769"
+        },
+        {
+          "seite": "20769C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20769"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310647"
+    },
+    {
+      "id": "652145",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Konsequenzen aus dem Finnland-Besuch des Bundesministers Boris Pistorius für den Zivilschutz im Kriegs- und Katastrophenfall",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20770",
+        "anfangsseite": 20770,
+        "endseite": 20771,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20770B",
+          "aktivitaetsart": "Frage",
+          "titel": "Tobias Matthias Peterka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20770"
+        },
+        {
+          "seite": "20770B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20770"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310648"
+    },
+    {
+      "id": "652146",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Aktueller Zustand der Bundeswehr",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20771",
+        "anfangsseite": 20771,
+        "endseite": 20772,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20771B",
+          "aktivitaetsart": "Frage",
+          "titel": "Bernd Schattner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20771"
+        },
+        {
+          "seite": "20771B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20771"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310649"
+    },
+    {
+      "id": "652147",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Gewährleistung der Einsatzbereitschaft von Taurus-Marschflugkörpern in Spanien und Südkorea durch Bundeswehrpersonal",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20772",
+        "anfangsseite": 20772,
+        "endseite": 20773,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20772C",
+          "aktivitaetsart": "Frage",
+          "titel": "Matthias Hauer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20772"
+        },
+        {
+          "seite": "20772C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20772"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310650"
+    },
+    {
+      "id": "652148",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verteidigungsfähigkeit der Bundesrepublik Deutschland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20773",
+        "anfangsseite": 20773,
+        "endseite": 20774,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20773B",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20773"
+        },
+        {
+          "seite": "20773B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20773"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310651"
+    },
+    {
+      "id": "652150",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Reform der Bundeswehr",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20774",
+        "anfangsseite": 20774,
+        "endseite": 20775,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20774C",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20774"
+        },
+        {
+          "seite": "20774C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20774"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310652"
+    },
+    {
+      "id": "652152",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Organisatorische Vorlaufzeit für die Einführung einer geschlechtsunabhängigen Musterung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20775",
+        "anfangsseite": 20775,
+        "endseite": 20776,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20775B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Oliver Vogt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20775"
+        },
+        {
+          "seite": "20775B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20775"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310653"
+    },
+    {
+      "id": "652153",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Aus dem Dienstverhältnis entlassene Bundeswehrsoldaten aufgrund von verfassungsfeindlichen Bestrebungen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20776",
+        "anfangsseite": 20776,
+        "endseite": 20776,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20776C",
+          "aktivitaetsart": "Frage",
+          "titel": "Kerstin Vieregge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20776"
+        },
+        {
+          "seite": "20776C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20776"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310654"
+    },
+    {
+      "id": "652156",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Optionen einer Wehr- oder Dienstpflicht",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20776",
+        "anfangsseite": 20776,
+        "endseite": 20777,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20776D",
+          "aktivitaetsart": "Frage",
+          "titel": "Serap Güler, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20776"
+        },
+        {
+          "seite": "20777A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20777"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310655"
+    },
+    {
+      "id": "652159",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Nichtanwendung von Regelungen und Vorschriften im Beschaffungswesen der Bundeswehr im Rahmen des \"Beschleunigungserlasses\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20777",
+        "anfangsseite": 20777,
+        "endseite": 20778,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20777D",
+          "aktivitaetsart": "Frage",
+          "titel": "Kerstin Vieregge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20777"
+        },
+        {
+          "seite": "20777D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20777"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310656"
+    },
+    {
+      "id": "652160",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Etatplanung des BMVg für das Jahr 2025 hinsichtlich des 2-Prozent-Ziels für die NATO",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20778",
+        "anfangsseite": 20778,
+        "endseite": 20779,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20778B",
+          "aktivitaetsart": "Frage",
+          "titel": "Markus Grübel, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20778"
+        },
+        {
+          "seite": "20778B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20778"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310657"
+    },
+    {
+      "id": "652161",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Äußerungen von Bundesminister Boris Pistorius zur Kopflastigkeit der Streitkräftestrukturen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20779",
+        "anfangsseite": 20779,
+        "endseite": 20779,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20779A",
+          "aktivitaetsart": "Frage",
+          "titel": "Florian Hahn, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20779"
+        },
+        {
+          "seite": "20779A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20779"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310658"
+    },
+    {
+      "id": "652163",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Finanzlücke im Verteidigungsetat",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20779",
+        "anfangsseite": 20779,
+        "endseite": 20780,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20780A",
+          "aktivitaetsart": "Frage",
+          "titel": "Florian Hahn, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20780"
+        },
+        {
+          "seite": "20780A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20780"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310659"
+    },
+    {
+      "id": "652164",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Versorgung der Bevölkerung mit Lebensmitteln im Verteidigungs- und Bündnisfall",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20780",
+        "anfangsseite": 20780,
+        "endseite": 20782,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20780D",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Oliver Vogt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20780"
+        },
+        {
+          "seite": "20780D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Ophelia Nick, Parl. Staatssekr., Bundesministerium für Ernährung und Landwirtschaft",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20780"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310661"
+    },
+    {
+      "id": "652171",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Zukauf von Emissionszertifikaten im Rahmen der EU-Lastenteilungsverordnung bis 2030",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843",
+        "anfangsseite": 20843,
+        "endseite": 20844,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20843D",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Thomas Gebhart, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843"
+        },
+        {
+          "seite": "20843D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310674"
+    },
+    {
+      "id": "652172",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Ausweisung von Beschleunigungsgebieten für die Offshore-Windkraft in der Nord- und Ostsee",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844",
+        "anfangsseite": 20844,
+        "endseite": 20844,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20844A",
+          "aktivitaetsart": "Frage",
+          "titel": "Astrid Damerow, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844"
+        },
+        {
+          "seite": "20844B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310675"
+    },
+    {
+      "id": "652173",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verzicht auf eine Umweltverträglichkeitsprüfung bei den Beschleunigungsgebieten für die Offshore-Windkraft",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844",
+        "anfangsseite": 20844,
+        "endseite": 20844,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20844B",
+          "aktivitaetsart": "Frage",
+          "titel": "Astrid Damerow, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844"
+        },
+        {
+          "seite": "20844C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310676"
+    },
+    {
+      "id": "652174",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Anträge auf Ausnahme vom Besserstellungsverbot von Forschungseinrichtungen seit 2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844",
+        "anfangsseite": 20844,
+        "endseite": 20844,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20844C",
+          "aktivitaetsart": "Frage",
+          "titel": "Lars Rohwer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844"
+        },
+        {
+          "seite": "20844C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310677"
+    },
+    {
+      "id": "652175",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bewertung des Bilanzrechts angesichts des Zusammenbruchs des Signa-Konzerns",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844",
+        "anfangsseite": 20844,
+        "endseite": 20845,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20844D",
+          "aktivitaetsart": "Frage",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20844"
+        },
+        {
+          "seite": "20845A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20845"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310678"
+    },
+    {
+      "id": "652176",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Übertragung von landwirtschaftlicher Nutzfläche in ostdeutschen Ländern an das \"Nationale Naturerbe\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20845",
+        "anfangsseite": 20845,
+        "endseite": 20845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20845B",
+          "aktivitaetsart": "Frage",
+          "titel": "Ina Latendorf, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20845"
+        },
+        {
+          "seite": "20845B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Florian Toncar, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20845"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310679"
+    },
+    {
+      "id": "652177",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Datenaustausch mit Behörden von Partnerstaaten im Rahmen des Finanzkonten-Informationsaustauschgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20845",
+        "anfangsseite": 20845,
+        "endseite": 20845,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20845C",
+          "aktivitaetsart": "Frage",
+          "titel": "Gökay Akbulut, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20845"
+        },
+        {
+          "seite": "20845C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Hessel, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20845"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310680"
+    },
+    {
+      "id": "652178",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Datenaustausch mit türkischen Behörden im Rahmen des Finanzkonten-Informationsaustauschgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20846",
+        "anfangsseite": 20846,
+        "endseite": 20846,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20846A",
+          "aktivitaetsart": "Frage",
+          "titel": "Gökay Akbulut, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20846"
+        },
+        {
+          "seite": "20846A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Hessel, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20846"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310681"
+    },
+    {
+      "id": "652179",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Beifügung von Synopsen zu Gesetzentwürfen der Bundesregierung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20846",
+        "anfangsseite": 20846,
+        "endseite": 20846,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20846B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Martin Plum, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20846"
+        },
+        {
+          "seite": "20846C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20846"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310682"
+    },
+    {
+      "id": "652180",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Übergabe eines Laptops mit der Datenverarbeitungssoftware SINA an russische Geheimdienste",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20846",
+        "anfangsseite": 20846,
+        "endseite": 20847,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20846D",
+          "aktivitaetsart": "Frage",
+          "titel": "Martina Renner, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20846"
+        },
+        {
+          "seite": "20846D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20846"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310683"
+    },
+    {
+      "id": "652181",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Erteilung von eigenständigen Aufenthaltstiteln an Betroffene häuslicher Gewalt",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20847",
+        "anfangsseite": 20847,
+        "endseite": 20847,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20847A",
+          "aktivitaetsart": "Frage",
+          "titel": "Clara Bünger, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20847"
+        },
+        {
+          "seite": "20847B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20847"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310684"
+    },
+    {
+      "id": "652182",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Einsatz von Metallschienen bei einem Abschiebeflug nach Gambia im März 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20847",
+        "anfangsseite": 20847,
+        "endseite": 20847,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20847B",
+          "aktivitaetsart": "Frage",
+          "titel": "Clara Bünger, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20847"
+        },
+        {
+          "seite": "20847C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20847"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310685"
+    },
+    {
+      "id": "652183",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Disziplinarverfahren oder Ermittlungen gegen Bundespolizisten wegen Verdachts auf eine rechtsextremistische Gesinnung oder das Vertreten von Verschwörungsideologien",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20847",
+        "anfangsseite": 20847,
+        "endseite": 20847,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20847D",
+          "aktivitaetsart": "Frage",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20847"
+        },
+        {
+          "seite": "20847D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20847"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310686"
+    },
+    {
+      "id": "652184",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Hilfslieferungen und -personal für die Ukraine seit Februar 2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848",
+        "anfangsseite": 20848,
+        "endseite": 20848,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20848A",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. André Hahn, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848"
+        },
+        {
+          "seite": "20848A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310687"
+    },
+    {
+      "id": "652185",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Hilfslieferungen und -personal für Gaza seit Oktober 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848",
+        "anfangsseite": 20848,
+        "endseite": 20848,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20848B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. André Hahn, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848"
+        },
+        {
+          "seite": "20848B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310688"
+    },
+    {
+      "id": "652188",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Nichtdurchführung der ukrainischen Präsidentschaftswahlen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848",
+        "anfangsseite": 20848,
+        "endseite": 20848,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20848C",
+          "aktivitaetsart": "Frage",
+          "titel": "Petr Bystron, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848"
+        },
+        {
+          "seite": "20848D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310689"
+    },
+    {
+      "id": "652190",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Anzahl von Wahlbeobachtern mit deutscher Staatsangehörigkeit in Russland seit 2014",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848",
+        "anfangsseite": 20848,
+        "endseite": 20849,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20848D",
+          "aktivitaetsart": "Frage",
+          "titel": "Martina Renner, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848"
+        },
+        {
+          "seite": "20848D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20848"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310690"
+    },
+    {
+      "id": "652193",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Prüfung der Zahlungen an das Hilfswerk der Vereinten Nationen für Palästinaflüchtlinge im Nahen Osten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20849",
+        "anfangsseite": 20849,
+        "endseite": 20849,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20849B",
+          "aktivitaetsart": "Frage",
+          "titel": "Lars Rohwer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20849"
+        },
+        {
+          "seite": "20849B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20849"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310691"
+    },
+    {
+      "id": "652194",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Konsequenzen des Angriffs der israelischen Streitkräfte auf Mitglieder der internationalen Hilfsorganisation World Central Kitchen in Gaza",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20849",
+        "anfangsseite": 20849,
+        "endseite": 20850,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20849D",
+          "aktivitaetsart": "Frage",
+          "titel": "Andrej Hunko, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20849"
+        },
+        {
+          "seite": "20850A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310692"
+    },
+    {
+      "id": "652197",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Möglicher israelischer Luftangriff auf das iranische Konsulat in Damaskus",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850",
+        "anfangsseite": 20850,
+        "endseite": 20850,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20850B",
+          "aktivitaetsart": "Frage",
+          "titel": "Andrej Hunko, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850"
+        },
+        {
+          "seite": "20850B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310693"
+    },
+    {
+      "id": "652202",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Betrieb des Gefechtsübungszentrums des Heeres",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20839",
+        "anfangsseite": 20839,
+        "endseite": 20840,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20839D",
+          "aktivitaetsart": "Frage",
+          "titel": "Ingo Gädechens, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20839"
+        },
+        {
+          "seite": "20839D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20839"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310660"
+    },
+    {
+      "id": "652203",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Beauftragung der Agentur BrinkertLück Creatives mit der Impfkampagne \"Ich schütze mich\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20840",
+        "anfangsseite": 20840,
+        "endseite": 20840,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20840B",
+          "aktivitaetsart": "Frage",
+          "titel": "Tino Sorge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20840"
+        },
+        {
+          "seite": "20840C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sabine Dittmar, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20840"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310662"
+    },
+    {
+      "id": "652204",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bericht des Bundesrechnungshofs zur Prüfung der Impfkampagne \"Ich schütze mich\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20840",
+        "anfangsseite": 20840,
+        "endseite": 20840,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20840C",
+          "aktivitaetsart": "Frage",
+          "titel": "Tino Sorge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20840"
+        },
+        {
+          "seite": "20840C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sabine Dittmar, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20840"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310663"
+    },
+    {
+      "id": "652205",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Wegfall betäubungsmittelrechtlicher Auflagen bei der Verschreibung von Medizinal-Cannabis infolge des Cannabisgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20840",
+        "anfangsseite": 20840,
+        "endseite": 20841,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20840D",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Pilsinger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20840"
+        },
+        {
+          "seite": "20841A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sabine Dittmar, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310664"
+    },
+    {
+      "id": "652206",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Herausnahme der Bundeswehrkrankenhäuser aus der allgemeinen Krankenhausplanung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841",
+        "anfangsseite": 20841,
+        "endseite": 20841,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20841B",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Pilsinger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841"
+        },
+        {
+          "seite": "20841C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sabine Dittmar, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310665"
+    },
+    {
+      "id": "652208",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Einrichtung einer Stelle für die technische Umsetzung der Veröffentlichung des Transparenzverzeichnisses gemäß Krankenhaustransparenzgesetz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841",
+        "anfangsseite": 20841,
+        "endseite": 20841,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20841C",
+          "aktivitaetsart": "Frage",
+          "titel": "Kathrin Vogler, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841"
+        },
+        {
+          "seite": "20841D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sabine Dittmar, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310666"
+    },
+    {
+      "id": "652209",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Mögliche Fehlanreize durch das Krankenhaustransparenzgesetz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841",
+        "anfangsseite": 20841,
+        "endseite": 20842,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20841D",
+          "aktivitaetsart": "Frage",
+          "titel": "Kathrin Vogler, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841"
+        },
+        {
+          "seite": "20841D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sabine Dittmar, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20841"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310667"
+    },
+    {
+      "id": "652210",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Anwendung des internationalen Verhaltenskodex zum Hiroshima-KI-Prozess",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20842",
+        "anfangsseite": 20842,
+        "endseite": 20842,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20842A",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Reinhard Brandl, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20842"
+        },
+        {
+          "seite": "20842A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Theurer, Parl. Staatssekr., Bundesministerium für Digitales und Verkehr",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20842"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310668"
+    },
+    {
+      "id": "652211",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Einhaltung von Land-, Menschen- und Umweltrechten bei der Leistungserbringung der DB Engineering & Consulting GmbH im Rahmen des brasilianischen Bahnprojekts Grão Pará Maranhão",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20842",
+        "anfangsseite": 20842,
+        "endseite": 20842,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20842B",
+          "aktivitaetsart": "Frage",
+          "titel": "Cornelia Möhring, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20842"
+        },
+        {
+          "seite": "20842C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Theurer, Parl. Staatssekr., Bundesministerium für Digitales und Verkehr",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20842"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310669"
+    },
+    {
+      "id": "652212",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bundesmittel für den Aufbau eines Innovationszentrums Universitätsmedizin Cottbus",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20842",
+        "anfangsseite": 20842,
+        "endseite": 20843,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20842D",
+          "aktivitaetsart": "Frage",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20842"
+        },
+        {
+          "seite": "20842D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Jens Brandenburg, Parl. Staatssekr., Bundesministerium für Bildung und Forschung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20842"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310670"
+    },
+    {
+      "id": "652213",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Laufende Förderprogramme in den Geschäftsbereichen von BMBF und BMWK",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843",
+        "anfangsseite": 20843,
+        "endseite": 20843,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20843A",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Jarzombek, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843"
+        },
+        {
+          "seite": "20843A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Jens Brandenburg, Parl. Staatssekr., Bundesministerium für Bildung und Forschung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310671"
+    },
+    {
+      "id": "652214",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Kosten und Output der Bescheinigungsstelle Forschungszulage",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843",
+        "anfangsseite": 20843,
+        "endseite": 20843,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20843B",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Jarzombek, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843"
+        },
+        {
+          "seite": "20843C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Jens Brandenburg, Parl. Staatssekr., Bundesministerium für Bildung und Forschung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310672"
+    },
+    {
+      "id": "652222",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verfolgung von christlichen Geistlichen in Russland, Belarus oder der Ukraine seit 2017",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843",
+        "anfangsseite": 20843,
+        "endseite": 20843,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20843C",
+          "aktivitaetsart": "Frage",
+          "titel": "Petr Bystron, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843"
+        },
+        {
+          "seite": "20843C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Niels Annen, Parl. Staatssekr., Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20843"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310673"
+    },
+    {
+      "id": "652227",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Kontakte zwischen Mitgliedern der Bundesregierung und dem ehemaligen Bundeskanzler Gerhard Schröder seit dem 1. Februar 2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850",
+        "anfangsseite": 20850,
+        "endseite": 20850,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20850C",
+          "aktivitaetsart": "Frage",
+          "titel": "Matthias Hauer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850"
+        },
+        {
+          "seite": "20850C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310694"
+    },
+    {
+      "id": "652229",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Folgen der deutschen Haltung im Gaza-Krieg für die Zusammenarbeit deutscher Institutionen mit zivilgesellschaftlichen Organisationen in arabischen Ländern",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850",
+        "anfangsseite": 20850,
+        "endseite": 20850,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20850D",
+          "aktivitaetsart": "Frage",
+          "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850"
+        },
+        {
+          "seite": "20850D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310695"
+    },
+    {
+      "id": "652236",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Arbeitszeiterfassung im staatsanwaltschaftlichen Dienst des Generalbundesanwalts",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850",
+        "anfangsseite": 20850,
+        "endseite": 20851,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20850D",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Martin Plum, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20850"
+        },
+        {
+          "seite": "20851A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Benjamin Strasser, Parl. Staatssekr., Bundesministerium der Justiz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310696"
+    },
+    {
+      "id": "652237",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Einzahlungen in das Rentensystem durch Selbständige",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851",
+        "anfangsseite": 20851,
+        "endseite": 20851,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20851A",
+          "aktivitaetsart": "Frage",
+          "titel": "Tobias Matthias Peterka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851"
+        },
+        {
+          "seite": "20851A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310697"
+    },
+    {
+      "id": "652238",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Erhöhungen beim Mindestlohn, Bürgergeld und Grundfreibetrag seit 2015 im Vergleich zu den Verbraucherpreisen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851",
+        "anfangsseite": 20851,
+        "endseite": 20851,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20851B",
+          "aktivitaetsart": "Frage",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851"
+        },
+        {
+          "seite": "20851B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310698"
+    },
+    {
+      "id": "652239",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Berechnung des Bürgergelds unter Einbeziehung der Kosten für eine gesunde Ernährung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851",
+        "anfangsseite": 20851,
+        "endseite": 20851,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20851C",
+          "aktivitaetsart": "Frage",
+          "titel": "Ina Latendorf, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851"
+        },
+        {
+          "seite": "20851C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310699"
+    },
+    {
+      "id": "652240",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Maßnahmen gegen mögliche Verstöße gegen das Lieferkettengesetz durch den türkischen Lidl-Zulieferer Agrobay",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851",
+        "anfangsseite": 20851,
+        "endseite": 20852,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20851D",
+          "aktivitaetsart": "Frage",
+          "titel": "Cornelia Möhring, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20851"
+        },
+        {
+          "seite": "20852A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20852"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "310700"
+    },
+    {
+      "id": "652128",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verteidigungsausschuss",
+          "ausschuss_kuerzel": "VgA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20822",
+        "anfangsseite": 20822,
+        "endseite": 20829,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10943",
+          "seite": "20829A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20823A",
+          "aktivitaetsart": "Rede",
+          "titel": "Benjamin Strasser, Parl. Staatssekr., Bundesministerium der Justiz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20823"
+        },
+        {
+          "seite": "20824A",
+          "aktivitaetsart": "Rede",
+          "titel": "Ansgar Heveling, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20824"
+        },
+        {
+          "seite": "20824C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sonja Eichwede, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20824"
+        },
+        {
+          "seite": "20825C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20825"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "309835"
+    },
+    {
+      "id": "652126",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des Schwangerschaftskonfliktgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-16T16:54:34+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5639",
+        "dokumentnummer": "20/162",
+        "datum": "2024-04-10",
+        "verteildatum": "2024-04-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20162.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20800",
+        "anfangsseite": 20800,
+        "endseite": 20810,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10861",
+          "seite": "20810D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "20800C",
+          "aktivitaetsart": "Rede",
+          "titel": "Lisa Paus, Bundesmin., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20800"
+        },
+        {
+          "seite": "20801B",
+          "aktivitaetsart": "Rede",
+          "titel": "Silvia Breher, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20801"
+        },
+        {
+          "seite": "20802B",
+          "aktivitaetsart": "Rede",
+          "titel": "Josephine Ortleb, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20802"
+        },
+        {
+          "seite": "20803B",
+          "aktivitaetsart": "Rede",
+          "titel": "Nicole Höchst, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20162.pdf#P.20803"
+        }
+      ],
+      "datum": "2024-04-10",
+      "vorgang_id": "308701"
+    }
+  ]
+}

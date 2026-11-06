@@ -1,0 +1,626 @@
+{
+  "1563": {
+    "id": "1563",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Oellers",
+    "vorname": "Wilfried",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:19:26+01:00",
+    "titel": "Wilfried Oellers, MdB, CDU/CSU",
+    "datum": "2026-09-24",
+    "basisdatum": "2014-03-11"
+  },
+  "1615": {
+    "id": "1615",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Sorge",
+    "vorname": "Tino",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2026-08-28T10:09:34+02:00",
+    "person_roles": [
+      {
+        "ressort_titel": "Bundesministerium für Gesundheit",
+        "nachname": "Sorge",
+        "vorname": "Tino",
+        "wahlperiode_nummer": [
+          21
+        ]
+      }
+    ],
+    "titel": "Tino Sorge, MdB, CDU/CSU",
+    "datum": "2026-08-13",
+    "basisdatum": "2014-02-12"
+  },
+  "1672": {
+    "id": "1672",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Heidenblut",
+    "vorname": "Dirk",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Dirk Heidenblut, MdB, SPD",
+    "datum": "2025-01-31",
+    "basisdatum": "2014-02-12"
+  },
+  "1682": {
+    "id": "1682",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Hoffmann",
+    "vorname": "Alexander",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:24:49+01:00",
+    "titel": "Alexander Hoffmann, MdB, CDU/CSU",
+    "datum": "2026-10-14",
+    "basisdatum": "2014-02-12"
+  },
+  "2059": {
+    "id": "2059",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Baumann",
+    "vorname": "Bernd",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:37:47+01:00",
+    "titel": "Dr. Bernd Baumann, MdB, AfD",
+    "datum": "2026-10-08",
+    "basisdatum": "2017-10-24"
+  },
+  "2062": {
+    "id": "2062",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Bayram",
+    "vorname": "Canan",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2025-03-18",
+    "basisdatum": "2018-01-22"
+  },
+  "2134": {
+    "id": "2134",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Sichert",
+    "vorname": "Martin",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:42:20+01:00",
+    "titel": "Martin Sichert, MdB, AfD",
+    "datum": "2026-10-14",
+    "basisdatum": "2017-12-01"
+  },
+  "2175": {
+    "id": "2175",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Vogel",
+    "vorname": "Johannes",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "person_roles": [
+      {
+        "fraktion": "FDP",
+        "nachname": "Vogel",
+        "vorname": "Johannes",
+        "wahlkreiszusatz": "Olpe",
+        "wahlperiode_nummer": [
+          19
+        ]
+      },
+      {
+        "fraktion": "FDP",
+        "nachname": "Vogel",
+        "vorname": "Johannes",
+        "wahlkreiszusatz": "Lüdenscheid",
+        "wahlperiode_nummer": [
+          17
+        ]
+      }
+    ],
+    "titel": "Johannes Vogel, MdB, FDP",
+    "datum": "2025-03-18",
+    "basisdatum": "2009-11-11"
+  },
+  "2242": {
+    "id": "2242",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Kappert-Gonther",
+    "vorname": "Kirsten",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T14:27:43+01:00",
+    "titel": "Dr. Kirsten Kappert-Gonther, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2018-01-17"
+  },
+  "427": {
+    "id": "427",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Mast",
+    "vorname": "Katja",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-09T12:37:43+02:00",
+    "person_roles": [
+      {
+        "ressort_titel": "Bundesministerium für Arbeit und Soziales",
+        "nachname": "Mast",
+        "vorname": "Katja",
+        "wahlperiode_nummer": [
+          21
+        ]
+      }
+    ],
+    "titel": "Katja Mast, MdB, SPD",
+    "datum": "2026-10-02",
+    "basisdatum": "2006-02-09"
+  },
+  "7050": {
+    "id": "7050",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Mihalic",
+    "vorname": "Irene",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T11:21:47+01:00",
+    "person_roles": [
+      {
+        "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+        "nachname": "Mihalic",
+        "vorname": "Irene",
+        "wahlperiode_nummer": [
+          18,
+          19
+        ]
+      }
+    ],
+    "titel": "Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-15",
+    "basisdatum": "2013-11-06"
+  },
+  "7287": {
+    "id": "7287",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "DIE LINKE"
+    ],
+    "nachname": "Görke",
+    "vorname": "Christian",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:17:27+01:00",
+    "person_roles": [
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Görke",
+        "vorname": "Christian",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "Die Linke (Gruppe)",
+        "nachname": "Görke",
+        "vorname": "Christian",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "funktionszusatz": "Minister der Finanzen",
+        "bundesland": "Brandenburg",
+        "nachname": "Görke",
+        "vorname": "Christian",
+        "wahlperiode_nummer": [
+          18,
+          19
+        ]
+      }
+    ],
+    "titel": "Christian Görke, MdB, DIE LINKE",
+    "datum": "2026-10-14",
+    "basisdatum": "2016-07-08"
+  },
+  "7347": {
+    "id": "7347",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Kreiser",
+    "vorname": "Dunja",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T09:47:47+01:00",
+    "titel": "Dunja Kreiser, MdB, SPD",
+    "datum": "2026-10-12",
+    "basisdatum": "2022-03-03"
+  },
+  "7358": {
+    "id": "7358",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Lenders",
+    "vorname": "Jürgen",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Jürgen Lenders, MdB, FDP",
+    "datum": "2025-01-31",
+    "basisdatum": "2021-12-17"
+  },
+  "7370": {
+    "id": "7370",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Lütke",
+    "vorname": "Kristine",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Kristine Lütke, MdB, FDP",
+    "datum": "2025-02-12",
+    "basisdatum": "2021-12-16"
+  },
+  "7415": {
+    "id": "7415",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "fraktionslos"
+    ],
+    "nachname": "Seidler",
+    "vorname": "Stefan",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:37:53+01:00",
+    "titel": "Stefan Seidler, MdB, fraktionslos",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-12-10"
+  },
+  "7462": {
+    "id": "7462",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "DIE LINKE"
+    ],
+    "nachname": "Wissler",
+    "vorname": "Janine",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-09-08T11:00:29+02:00",
+    "person_roles": [
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Wissler",
+        "vorname": "Janine",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "Die Linke (Gruppe)",
+        "nachname": "Wissler",
+        "vorname": "Janine",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Janine Wissler, MdB, DIE LINKE",
+    "datum": "2026-10-12",
+    "basisdatum": "2021-12-07"
+  },
+  "7516": {
+    "id": "7516",
+    "funktion": [
+      "Bundesmin."
+    ],
+    "ressort": [
+      "Bundesministerium für Gesundheit"
+    ],
+    "nachname": "Lauterbach",
+    "vorname": "Karl",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T10:07:59+01:00",
+    "person_roles": [
+      {
+        "fraktion": "SPD",
+        "nachname": "Lauterbach",
+        "vorname": "Karl",
+        "wahlperiode_nummer": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "titel": "Prof. Dr. Karl Lauterbach, Bundesmin., Bundesministerium für Gesundheit",
+    "datum": "2026-09-25",
+    "basisdatum": "2006-04-06"
+  },
+  "7674": {
+    "id": "7674",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Lutze",
+    "vorname": "Thomas",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2023-11-15T09:26:21+01:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Lutze",
+        "vorname": "Thomas",
+        "wahlperiode_nummer": [
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "titel": "Thomas Lutze, MdB, SPD",
+    "datum": "2024-12-20",
+    "basisdatum": "2009-11-05"
+  },
+  "7742": {
+    "id": "7742",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Tatti",
+    "vorname": "Jessica",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2024-04-05T10:39:21+02:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Tatti",
+        "vorname": "Jessica",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Tatti",
+        "vorname": "Jessica",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Jessica Tatti, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2017-12-07"
+  },
+  "7756": {
+    "id": "7756",
+    "funktionszusatz": [
+      "Senatorin für Justiz und Verbraucherschutz"
+    ],
+    "funktion": [
+      "Stellv. MdBR"
+    ],
+    "bundesland": [
+      "Berlin"
+    ],
+    "nachname": "Badenberg",
+    "vorname": "Felor",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-25T15:43:55+01:00",
+    "titel": "Dr. Felor Badenberg, Stellv. MdBR (Senatorin für Justiz und Verbraucherschutz), Berlin",
+    "datum": "2026-01-30",
+    "basisdatum": "2024-03-20"
+  },
+  "8147": {
+    "id": "8147",
+    "funktion": [
+      "Parl. Staatssekr."
+    ],
+    "ressort": [
+      "Bundesministerium für Forschung, Technologie und Raumfahrt"
+    ],
+    "nachname": "Launert",
+    "vorname": "Silke",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-09T12:25:43+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Launert",
+        "vorname": "Silke",
+        "wahlperiode_nummer": [
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "titel": "Dr. Silke Launert, Parl. Staatssekr., Bundesministerium für Forschung, Technologie und Raumfahrt",
+    "datum": "2026-10-14",
+    "basisdatum": "2014-02-12"
+  }
+}

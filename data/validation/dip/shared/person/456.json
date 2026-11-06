@@ -1,0 +1,45 @@
+{
+  "id": "456",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "SPD"
+  ],
+  "nachname": "Bartol",
+  "vorname": "Sören",
+  "typ": "Person",
+  "wahlperiode": [
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "aktualisiert": "2025-06-06T12:35:19+02:00",
+  "person_roles": [
+    {
+      "ressort_titel": "Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+      "nachname": "Bartol",
+      "vorname": "Sören",
+      "wahlperiode_nummer": [
+        20,
+        21
+      ]
+    },
+    {
+      "ressort_titel": "Bundesministerium für Digitales und Verkehr",
+      "nachname": "Bartol",
+      "vorname": "Sören",
+      "wahlperiode_nummer": [
+        20,
+        21
+      ]
+    }
+  ],
+  "titel": "Sören Bartol, MdB, SPD",
+  "datum": "2026-10-07",
+  "basisdatum": "2002-11-15"
+}

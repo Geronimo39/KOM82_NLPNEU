@@ -1,0 +1,1729 @@
+{
+  "numFound": 36,
+  "documents": [
+    {
+      "id": "307621",
+      "abstract": "Behebung struktureller Probleme im Bundeshaushalt und Einleitung der qualitativen Konsolidierung zur Sicherung zukünftiger Handlungsspielräume bei Vermeidung von Sozialkürzungen: Erhöhung der Luftverkehrsteuer und Verringerung temporärer Absenkungsmöglichkeiten, Möglichkeit der Mitteilung von Gesetzesverstößen von Luftverkehrsunternehmen aus Drittländern durch die Hauptzollämter an das Luftfahrt-Bundesamt, breitere Verwendung der Einnahmen aus den Offshore-Ausschreibungen für Windenergieanlagen im Jahr 2023, degressive Rückführung der Energiesteuerbegünstigung für Agrardiesel, möglicher Leistungsentzug bei nachhaltiger Verweigerung der Aufnahme zumutbarer Arbeit durch Bürgergeldbezieher, Abschaffung des Bürgergeldbonus, Zahlungen der Bundesagentur für Arbeit an den Bund zum teilweisen Ausgleich der Finanzierungsbeteiligung des Bundes in den vergangenen Jahren, Begrenzung der Möglichkeit der zeitweisen Absenkung der Beiträge zur Arbeitslosenversicherung durch die Bundesregierung, weitere Minderung des Erhöhungsbetrages des zusätzlichen Bundeszuschusses zur gesetzlichen Rentenversicherung;<br />\r\nÄnderung von 6 Gesetzen und 1 Rechtsverordnung sowie Aufhebung von 1 Rechtsverordnung; Verordnungsermächtigung<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses:</strong> Streichung der vorgesehenen Ausgleichszahlungen der BA, Befristung der Regelungen zum Entzug des Regelbedarfs bei Arbeitsverweigerung auf zwei Jahre; Änderungen zum Anspruch auf Elterngeld;<br />\r\nÄnderung eines weiteren Gesetzes",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "D056",
+      "archiv": "XX/230",
+      "sachgebiet": [
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 20/9999)",
+        "Nein, laut Verkündung (BGBl I)"
+      ],
+      "initiative": [
+        "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+        "Fraktion der FDP",
+        "Fraktion der SPD"
+      ],
+      "aktualisiert": "2024-04-22T14:52:10+02:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "107",
+          "ausfertigungsdatum": "2024-03-27",
+          "verkuendungsdatum": "2024-03-27",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/107",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 107"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2023-01-01",
+          "erlaeuterung": "Artikel 2"
+        },
+        {
+          "datum": "2024-01-01",
+          "erlaeuterung": "Artikel 6"
+        },
+        {
+          "datum": "2024-03-01",
+          "erlaeuterung": "Artikel 3 und 4"
+        },
+        {
+          "datum": "2024-03-28",
+          "erlaeuterung": "im Übrigen"
+        },
+        {
+          "datum": "2024-04-01",
+          "erlaeuterung": "Artikel 7"
+        },
+        {
+          "datum": "2024-05-01",
+          "erlaeuterung": "Artikel 1 Nr. 1"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Agrardiesel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Arbeitslosenversicherung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausschreibung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesagentur für Arbeit",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeselterngeld- und Elternzeitgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeszuschuss",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bürgergeld",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Elterngeld",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiesteuer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiesteuer-Durchführungsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiesteuergesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzliche Rentenversicherung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haushaltskonsolidierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Informationsaustausch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftverkehrsteuer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftverkehrsteuer-Absenkungsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftverkehrsteuergesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftverkehrsunternehmen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Offshoretechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sanktion <Sozialrecht>",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialgesetzbuch II",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialgesetzbuch III",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialgesetzbuch VI",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerentlastung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuererhöhung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Windenergie-auf-See-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Windenergieanlage",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Zweites Haushaltsfinanzierungsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Einnahmen",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+      "datum": "2024-03-22"
+    },
+    {
+      "id": "308578",
+      "vorgangstyp": "Geschäftsordnung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Ordnungsruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Parlamentarische Ordnung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+      "datum": "2024-02-21"
+    },
+    {
+      "id": "308577",
+      "vorgangstyp": "Geschäftsordnung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Ordnungsruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Parlamentarische Ordnung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+      "datum": "2024-02-21"
+    },
+    {
+      "id": "308506",
+      "abstract": "Anerkennung des Zusammenschlusses von 10 Abgeordneten als Gruppe: Beteiligungsrechte in den Bereichen Entsendung und Mitarbeit in Gremien (Ältestenrat, Fach- und Untersuchungsausschüsse, Enquete-Kommissionen), Einbringung und Behandlung von Vorlagen (bei Großen und Kleinen Anfragen Beschränkung auf insgesamt zehn je Kalendermonat), Geschäftsordnungsanträge und Widerspruchsrechte, Redezeit, Rechtsstellung des Gruppenvorsitzenden, Zuweisung von Geld- und Sachleistungen; Sitzordnung im Plenum",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Geschäftsordnung",
+      "sachgebiet": [
+        "Bundestag"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Ältestenrat"
+      ],
+      "aktualisiert": "2026-03-20T13:07:35+01:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Vorläufiger Anwendungsverzicht betr. Begrenzung der Anfragen",
+          "titel": "Vorläufige Änderung der Beschlüsse zur Anerkennung und Rechtsstellung der Gruppen Die Linke und BSW im 20. Deutschen Bundestag",
+          "id": "309813",
+          "wahlperiode": 20
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Abgeordnetengruppe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bündnis Soziale Gerechtigkeit und Wirtschaftliche Vernunft",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Große Anfrage",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kleine Anfrage",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Anerkennung und Rechtsstellung der Gruppe BSW im 20. Deutschen Bundestag",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "308505",
+      "abstract": "Anerkennung des Zusammenschlusses von 28 Abgeordneten als Gruppe: Beteiligungsrechte in den Bereichen Entsendung und Mitarbeit in Gremien (Ältestenrat, Fach- und Untersuchungsausschüsse, Enquete-Kommissionen), Einbringung und Behandlung von Vorlagen (bei Großen und Kleinen Anfragen Beschränkung auf insgesamt zehn je Kalendermonat), Geschäftsordnungsanträge und Widerspruchsrechte, Redezeit, Rechtsstellung des Gruppenvorsitzenden, Zuweisung von Geld- und Sachleistungen; Sitzordnung im Plenum",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Geschäftsordnung",
+      "sachgebiet": [
+        "Bundestag"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Ältestenrat"
+      ],
+      "aktualisiert": "2026-03-20T13:02:22+01:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Verfahren vor dem Bundesverfassungsgericht",
+          "titel": "Beschlussempfehlung und Bericht des Rechtsausschusses (6. Ausschuss) zu dem Streitverfahren vor dem Bundesverfassungsgericht 2 BvE 2/24",
+          "id": "309773",
+          "wahlperiode": 20
+        },
+        {
+          "verweisung": "Vorläufiger Anwendungsverzicht betr. Begrenzung der Anfragen",
+          "titel": "Vorläufige Änderung der Beschlüsse zur Anerkennung und Rechtsstellung der Gruppen Die Linke und BSW im 20. Deutschen Bundestag",
+          "id": "309813",
+          "wahlperiode": 20
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Abgeordnetengruppe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "DIE LINKE",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Große Anfrage",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kleine Anfrage",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Anerkennung und Rechtsstellung der Gruppe Die Linke im 20. Deutschen Bundestag",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "308383",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Entschließungsantrag BT",
+      "sachgebiet": [
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Haushaltsgesetz",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729",
+          "wahlperiode": 20,
+          "gesta": "D037"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Agrardiesel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesverwaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebungsverfahren",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Parlamentarische Kontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalabbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unternehmensbesteuerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unternehmensfinanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wachstumspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wirtschaftsförderung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "308382",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Entschließungsantrag BT",
+      "sachgebiet": [
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Haushaltsgesetz",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729",
+          "wahlperiode": 20,
+          "gesta": "D037"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesverwaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einwanderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiesteuer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haushaltspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftverkehrsteuer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schuldenbremse",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerentlastung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Ausgaben",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "308380",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Entschließungsantrag BT",
+      "sachgebiet": [
+        "Recht",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Haushaltsgesetz",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729",
+          "wahlperiode": 20,
+          "gesta": "D037"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesverfassungsgericht",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nettokreditaufnahme",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schuldenbremse",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sondervermögen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Verfassungsbeschwerde",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verfassungskonformität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "308376",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Entschließungsantrag BT",
+      "sachgebiet": [
+        "Raumordnung, Bau- und Wohnungswesen",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Haushaltsgesetz",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729",
+          "wahlperiode": 20,
+          "gesta": "D037"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Barrierefreiheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Baukosten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bauwesen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gemeinnützige Wohnungswirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Soziale Wohnraumförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wohnungsbauförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wohnungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "308373",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Entschließungsantrag BT",
+      "sachgebiet": [
+        "Energie",
+        "Umwelt",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Haushaltsgesetz",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729",
+          "wahlperiode": 20,
+          "gesta": "D037"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energieforschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Haushaltspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kernenergiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kernforschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klima- und Transformationsfonds",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klimaanpassung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rohstoffversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "308367",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Entschließungsantrag BT",
+      "sachgebiet": [
+        "Wirtschaft",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Haushaltsgesetz",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729",
+          "wahlperiode": 20,
+          "gesta": "D037"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Haushaltskonsolidierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schuldenbremse",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerentlastung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)\r\nhier: Einzelplan 09 - Geschäftsbereich des Bundesministeriums für Wirtschaft und Klimaschutz",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "308361",
+      "abstract": "In teilweiser Abänderung der Einsetzungsbeschlüsse Absenkung der Mitgliederzahl von 13 ständigen Ausschüssen sowie des 1. Untersuchungsausschusses der 20. Wahlperiode [Rückzug aus Afghanistan] und der Enquete-Kommission &bdquo;Lehren aus Afghanistan für das künftige vernetzte Engagement Deutschlands\"",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Bundestag"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+        "Fraktion der CDU/CSU",
+        "Fraktion der FDP",
+        "Fraktion der SPD"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Enquete-Kommission",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Enquete-Kommission Lehren aus Afghanistan für das künftige vernetzte Engagement Deutschlands",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Parlamentsausschuss",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Untersuchungsausschuss <20. Wahlperiode, 1>",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Mitgliederzahl in den Ausschüssen",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "307353",
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "sachgebiet": [
+        "Energie",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesministerium der Finanzen"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Einfuhr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Flüssiggas",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gaswirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verpflichtungsermächtigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Über- und außerplanmäßige Haushaltsausgaben: Haushaltsjahr 2022",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vorläufige Haushaltsführung 2024\r\nÜberplanmäßige Verpflichtungsermächtigung bis zur Höhe von insgesamt 168.000.000 Euro bei Kapitel 0903 Titel 682 01 - Finanzierung der Deutschen Energy Terminal GmbH, der FSRU und FSRU-Standorte -",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "307042",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "15247/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Gemeinsamer Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) Nr. 833/2014 des Rates über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren \r\nJOIN(2023)39 endg.; Ratsdok. 15247/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "307041",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "15245/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Vorschlag des Hohen Vertreters der Union für Außen- und Sicherheitspolitik an den Rat für einen Beschluss des Rates zur Änderung des Beschlusses 2014/512/GASP über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren \r\nRatsdok. 15245/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "307039",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14902/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Gemeinsamer Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) Nr. 269/2014 über restriktive Maßnahmen angesichts von Handlungen, die die territoriale Unversehrtheit, Souveränität und Unabhängigkeit der Ukraine untergraben oder bedrohen \r\nJOIN(2023)38 endg.; Ratsdok. 14902/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "307037",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14898/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Implementing Regulation implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nRatsdok. 14898/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "307036",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14896/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Decision amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nRatsdok. 14896/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "307035",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Countering Hamas at EU and global level\r\nRestrictive measures and political delegitimisation\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nEU-Dok 417/2023",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "306551",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14965/23",
+      "kom": "(2023) 679 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Marktbeobachtungsstellen der Union \r\nKOM(2023) 679 endg.; Ratsdok. 14965/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "306549",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14720/23",
+      "kom": "(2023) 587 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Vorschlag für eine Verordnung des Rates zur Festsetzung der Fangmöglichkeiten für 2024, 2025 und 2026 für bestimmte Fischbestände in Unionsgewässern sowie für Fischereifahrzeuge der Union in bestimmten Nicht-Unionsgewässern und zur Änderung der Verordnung (EU) 2023/194 im Hinblick auf Tiefseebestände \r\nKOM(2023) 587 endg.; Ratsdok. 14720/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "306488",
+      "abstract": "Überprüfung der Auswirkungen des Agrarorganisationen-und-Lieferketten-Gesetzes (AgrarOLkG) auf die Gestaltung der Vertragsbeziehungen zwischen Unternehmen in der Agrar- und Lebensmittelversorgungskette, Ergebnisse der Prüfung des Verbots des Einkaufs von Lebensmitteln und Agrarerzeugnissen unterhalb ihrer Produktionskosten, Handlungsempfehlungen und Vorschläge zu konkreten Anpassungen im AgrarOLkG",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Landwirtschaft und Ernährung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Agrarmarkt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Agrarmarktordnung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Agrarorganisationen-und-Lieferketten-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Agrarpreis",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Dumping",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzesfolgenabschätzung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lieferkette",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unlauterer Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wettbewerbsrecht",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Evaluierungsbericht zu den Regelungen über unlautere Handelspraktiken des Agrarorganisationen-und-Lieferketten-Gesetzes",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "306113",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14427/23",
+      "kom": "(2023)590 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nDritter Jahresbericht über die Überprüfung ausländischer Direktinvestitionen in der Union \r\nKOM(2023)590 endg.; Ratsdok. 14427/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "305734",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Options for future EU Support for Armenia\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nEU-Dok 358/2023",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "304910",
+      "abstract": "Eingliederung des Stasi-Unterlagen-Archivs in die Verantwortung des Bundesarchivs: Organisations- und Strukturanpassungen, Archivstandorte und Außenstellen, Beratungsgremium; Archivbestände: Überlieferungsformen, Arbeitsschwerpunkte, Erschließungsergebnisse, Bereitstellungen und Recherchen, Fachanwendungen und BASYS-Einführung, Bestandserhaltung und Digitalisierung, Sichtung und Rekonstruktion zerrissener Unterlagen; Verwendung der Unterlagen: Anträge von Bürgern auf Auskunft, Verwendung durch öffentliche und nichtöffentliche Stellen; Forschung; Unterrichtung und Vermittlung: Bildungs- und Medienarbeit, Ausstellungen und Veranstaltungen",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Kultur",
+        "Staat und Verwaltung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Archiv",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Archivgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Behördenzusammenlegung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bestandserhaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesarchiv",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesbeauftragter für die Unterlagen des Staatssicherheitsdienstes der ehemaligen DDR",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsprojekt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Bildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Erster Tätigkeitsbericht des Bundesarchivs für den Zeitraum Januar 2021 bis Juni 2023",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "303872",
+      "abstract": "Leitlinien: Nachhaltigkeit, Transformationsgestaltung, Wirkungsmessung, Vielfalt, Unternehmergeist und Eigenverantwortung, Partizipation und Kollaboration, Ganzheitlichkeit; Handlungsfelder und Maßnahmen: Optimierung von Rahmenbedigungen und Beseitung struktureller Hindernisse, Stärkung der Gründungskultur und Unterstützungsstrukturen, Vernetzung und Transfer, öffentliche Beschaffung, Förderinstrumente, Optimierung von Finanzierungsangeboten, Forschung, Kompetenzentwicklung, Wirkungsorientierung und -messung u.a. ",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Wirtschaft"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bildungswesen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gemeinwohl",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Innovation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Mittelstandspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialunternehmen",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": true,
+          "name": "Sozialverhalten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Unternehmen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unternehmensgründung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wissenstransfer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Mittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentlicher Auftrag",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nationale Strategie für Soziale Innovationen und Gemeinwohlorientierte Unternehmen",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "302730",
+      "abstract": "Gesamtwirtschaftliche Entwicklung mit Projektion bis 2027, Bundeshaushalt 2024 und Finanzplan bis 2027, Entwicklung der Schuldenstandsquote, Ausgaben und Einnahmen des Bundes, Finanzbeziehungen zu anderen öffentlichen Ebenen",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundeshaushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesschulden",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Finanzpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftsentwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Ausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Einnahmen",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Finanzplan des Bundes 2023 bis 2027",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "302729",
+      "abstract": "Feststellung des Bundeshaushaltsplans 2024 in Einnahmen und Ausgaben auf 445,688 Mrd Euro unter besonderer Berücksichtigung der Auswirkungen der Krisenbewältigung mit erheblichen Mitteln für Zukunftsinvestitionen insbes. in Klimaschutz, Digitalisierung und Bildung sowie zur Stärkung des sozialen Zusammenhalts, Sicherung der Energieversorgung und Wahrnehmung internationaler Verantwortung, Feststellung des Wirtschaftsplans des Sondervermögens &quot;Bundeswehr&quot; auf 19,174 Mrd Euro, des Sondervermögens &quot;Aufbauhilfe 2021&quot; auf 11,061 Mrd Euro, des Sondervermögens &quot;Wirtschaftsstabilisierungsfonds&quot; auf 46,815 Mrd Euro und des Sondervermögens &quot;Klima- und Transformationsfonds&quot; auf 99,138 Mrd Euro; Nettokreditaufnahme bis zur Höhe von 16,557 Mrd Euro entsprechend der nach Art. 115 GG zulässigen Obergrenze, Gewährleistungsermächtigungen bis zu 1.000,460 Mrd Euro, keine pauschalen Stelleneinsparungen; Investitionen in Höhe von 54,234 Mrd Euro, erwartete Steuereinnahmen von 375,451 Mrd Euro<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses:</strong> Erhöhung des Gesamthaushalts auf 476,808 Mrd Euro sowie des Sondervermögens &quot;Bundeswehr&quot; auf 19,800 Mrd Euro, Wegfall der Feststellung WSF Energie, Ergänzung der Feststellung des Sondervermögens &quot;Digitale Infrastruktur&quot; auf 4,072 Mrd Euro, Verringerung des Sondervermögens &quot;Aufbauhilfe 2021&quot; auf 2,657 Mrd Euro und des Sondervermögens &quot;Klima- und Transformationsfonds&quot; auf 49,454 Mrd Euro; Erhöhung der max. Nettokreditaufnahme auf 39,028 Mrd Euro entsprechend der nach der Schuldenregel zulässigen Obergrenze bei Umsetzung der notwendigen Anpassungen aus dem Urteil des Bundesverfassungsgerichts vom 15. November 2023; Erhöhung der Investitionen auf 70,522 Mrd Euro und der erwarteten Steuereinnahmen auf 377,613 Mrd Euro<br />\r\n<br />\r\nBezug: Entscheidung des Bundesverfassungsgerichts vom 15. November 2023 betr. Nichtigerklärung des Zweiten Nachtragshaushaltsgesetzes 2021",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "D037",
+      "archiv": "XX/216",
+      "mitteilung": "Beschlussempfehlungen zu den Einzelplänen s. Vorgangsablauf",
+      "sachgebiet": [
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 320/23)",
+        "Nein, laut Verkündung (BGBl I)"
+      ],
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-03-13T15:51:16+01:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "38",
+          "ausfertigungsdatum": "2024-02-10",
+          "verkuendungsdatum": "2024-02-12",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/38",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 38"
+        },
+        {
+          "jahrgang": "2024",
+          "heftnummer": "65",
+          "ausfertigungsdatum": "2024-02-26",
+          "verkuendungsdatum": "2024-02-28",
+          "einleitungstext": "Berichtigung",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/65",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 65"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2024-01-01"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Aufbauhilfefonds 2021",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesverfassungsgericht",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeswehr",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Digitalinfrastrukturfonds",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gerichtsentscheidung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Investitionshaushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klima- und Transformationsfonds",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nettokreditaufnahme",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sondervermögen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftsstabilisierungsfonds",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "302256",
+      "vorgangstyp": "EU-Vorlage",
+      "sachgebiet": [
+        "Europapolitik und Europäische Union",
+        "Landwirtschaft und Ernährung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "11592/23",
+      "kom": "(2023) 411 endg.",
+      "initiative": [
+        "Europäische Kommission"
+      ],
+      "aktualisiert": "2026-06-05T08:33:28+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Fortsetzung der Beratung (21. WP)",
+          "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über mit bestimmten neuen genomischen Techniken gewonnene Pflanzen und die aus ihnen gewonnenen Lebens- und Futtermittel sowie zur Änderung der Verordnung (EU) 2017/625\r\nKOM(2023) 411 endg.; Ratsdok. 11592/23",
+          "id": "322035",
+          "wahlperiode": 21
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Freisetzung gentechnisch veränderter Organismen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Futtermittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gentechnikrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Grüne Gentechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Pflanzenzüchtung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Stellungnahme des Bundestages in EU-Angelegenheiten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verbraucherschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verordnung der EU",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über mit bestimmten neuen genomischen Techniken gewonnene Pflanzen und die aus ihnen gewonnenen Lebens- und Futtermittel sowie zur Änderung der Verordnung (EU) 2017/625 \r\nKOM(2023) 411 endg.; Ratsdok. 11592/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "300147",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "8624/23",
+      "kom": "(2023)201 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinien des Rates 2001/110/EG über Honig, 2001/112/EG über Fruchtsäfte und bestimmte gleichartige Erzeugnisse für die menschliche Ernährung, 2001/113/EG über Konfitüren, Gelees, Marmeladen und Maronenkrem für die menschliche Ernährung und 2001/114/EG über bestimmte Sorten eingedickter Milch und Trockenmilch für die menschliche Ernährung\r\nKOM(2023)201 endg.; Ratsdok. 8624/23",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "298082",
+      "abstract": "Maßnahmen zur Bewältigung gesamtwirtschaftlicher und sozialer Herausforderungen: Reduktion der Abhängigkeit von fossiler Energie und Beschleunigung der Energiewende, Modernisierung der digitalen Infrastruktur, Sicherung der fiskalischen Tragfähigkeit und Stärkung transformativer Anreize in der Finanz- und Steuerpolitik; Fortschritte bei der Umsetzung des Deutschen Aufbau- und Resilienzplans: Eckpunkte, Mittelerhöhung, Meilensteine und Ziele; makroökonomisches Ungleichgewichteverfahren; ausgewählte Aspekte der Umsetzung der UN-Nachhaltigkeitsziele sowie der Europäischen Säule Sozialer Rechte",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Wirtschaft"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiewende",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Erneuerbare Energie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Europäischer Aufbauplan",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Finanzpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nationales Reformprogramm",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": true,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Reform",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sustainable Development Goals",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftsentwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftsförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nationales Reformprogramm 2023",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "295971",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "15737/22",
+      "kom": "(2022) 716 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Bericht der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nEin vitaler zivilgesellschaftlicher Raum für die Wahrung der Grundrechte in der EU\r\nJährlicher Bericht über die Anwendung der Charta der Grundrechte der Europäischen Union 2022 \r\nKOM(2022) 716 endg.; Ratsdok. 15737/22",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "285598",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "6171/22",
+      "kom": "(2022) 47 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) 2021/2085 zur Gründung der Gemeinsamen Unternehmen im Rahmen von \"Horizont Europa\" hinsichtlich des Gemeinsamen Unternehmens für Chips \r\nKOM(2022) 47 endg.; Ratsdok. 6171/22",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "285596",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "6169/22",
+      "kom": "(2022) 45 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nEin Chip-Gesetz für Europa \r\nKOM(2022) 45 endg.; Ratsdok. 6169/22",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "285591",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "titel": "Empfehlung der Kommission vom 8.2.2022 über ein gemeinsames Instrumentarium der Union zur Behebung von Lieferengpässen bei Halbleitern und einen EU-Mechanismus zur Überwachung des Halbleiter-Ökosystems \r\nK(2022) 782 endg.",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "284433",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "6170/22",
+      "kom": "(2022) 46 endg.",
+      "initiative": [
+        "Europäische Kommission"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Chip",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verordnung der EU",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für Maßnahmen zur Stärkung des europäischen Halbleiter-Ökosystems (Chip-Gesetz)\r\nKOM(2022) 46 endg.; Ratsdok. 6170/22",
+      "datum": "2024-02-02"
+    }
+  ]
+}

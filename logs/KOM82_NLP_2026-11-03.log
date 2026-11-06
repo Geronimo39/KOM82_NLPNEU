@@ -1,0 +1,35 @@
+22:00:55 | INFO    | Start | Modus=dev | Protokolle=3 | Backend=auto
+22:01:51 | INFO    | 20/146 | Cache | Beiträge=461 | IV verknüpft 201/201 | 11.8s
+22:01:51 | INFO    | 20/199 | Cache | Beiträge=497 | IV verknüpft 185/185 | 11.0s
+22:01:51 | INFO    | 20/205 | Cache | Beiträge=62 | IV verknüpft 22/22 | 3.3s
+22:01:51 | INFO    | Stufe 4_struktur                        0.5 s
+22:09:52 | INFO    | Stufe 5b_klassifikation               261.7 s
+22:10:01 | INFO    | Stufe 6_reden                           7.9 s
+22:10:16 | INFO    | Legal-NER geladen: mrm8488/bert-base-german-finetuned-ler (GPU)
+22:10:16 | INFO    | Legal-NER: 18 neue Texte | 0.3s
+22:10:16 | INFO    | LLM Vorlagen: 20 Anfragen | 0.0s | {'emb_cache': 16, 'emb_neu': 1086, 'chat_neu': 23, 'chat_cache': 20}
+22:11:03 | INFO    | Stufe 7_gesetze                        61.7 s
+22:11:03 | INFO    | Stufe 7_erwaehnungen                    0.2 s
+22:14:06 | INFO    | Dense-Index: 944 Chunks | qwen3-embedding:4b | 177.8s
+22:14:10 | INFO    | Stufe 8_beteiligung                   185.4 s
+22:14:23 | INFO    | Sentiment: 819 neue Sätze | 0.7s | cuda
+22:14:24 | INFO    | Stufe 9_sentiment                      13.6 s
+22:14:25 | INFO    | Stufe 11_graph                          0.2 s
+22:15:49 | INFO    | Stufe 15_export                         2.4 s
+23:11:59 | INFO    | Start | Modus=dev | Protokolle=3 | Backend=auto
+23:12:19 | INFO    | 20/146 | Cache | Beiträge=461 | IV verknüpft 201/201 | 11.8s
+23:12:19 | INFO    | 20/199 | Cache | Beiträge=497 | IV verknüpft 185/185 | 11.0s
+23:12:19 | INFO    | 20/205 | Cache | Beiträge=62 | IV verknüpft 22/22 | 3.3s
+23:12:19 | INFO    | Stufe 4_struktur                        0.2 s
+23:13:52 | INFO    | Stufe 5b_klassifikation                84.6 s
+23:13:58 | INFO    | Stufe 6_reden                           5.0 s
+23:15:42 | INFO    | LLM Vorlagen: 20 Anfragen | 103.3s | {'emb_cache': 1102, 'chat_neu': 42, 'chat_cache': 1}
+23:15:43 | INFO    | Stufe 7_gesetze                       104.6 s
+23:15:45 | INFO    | Legal-NER geladen: mrm8488/bert-base-german-finetuned-ler (GPU)
+23:16:21 | INFO    | Legal-NER: 8280 neue Texte | 36.2s
+23:16:21 | INFO    | Stufe 7_erwaehnungen                   38.6 s
+23:16:25 | INFO    | Dense-Index: 944 Chunks | qwen3-embedding:4b | 0.0s
+23:16:25 | INFO    | Stufe 8_beteiligung                     2.1 s
+23:16:26 | INFO    | Stufe 9_sentiment                       0.8 s
+23:16:27 | INFO    | Stufe 11_graph                          0.2 s
+23:16:49 | INFO    | Stufe 15_export                         1.2 s

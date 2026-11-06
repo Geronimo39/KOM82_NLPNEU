@@ -1,0 +1,427 @@
+{
+  "numFound": 9,
+  "documents": [
+    {
+      "id": "659468",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Begrüßung der Wehrbeauftragten des Deutschen Bundestages, Dr. Eva Högl",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-09-20T11:57:38+02:00",
+      "fundstelle": {
+        "id": "5665",
+        "dokumentnummer": "20/184",
+        "datum": "2024-09-11",
+        "verteildatum": "2024-09-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20184.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23917",
+        "anfangsseite": 23917,
+        "endseite": 23917,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23917B",
+          "aktivitaetsart": "Rede",
+          "titel": "Wolfgang Kubicki, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23917"
+        }
+      ],
+      "datum": "2024-09-11",
+      "vorgang_id": "315364"
+    },
+    {
+      "id": "659469",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Eugen Schmidt (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-09-20T12:17:00+02:00",
+      "fundstelle": {
+        "id": "5665",
+        "dokumentnummer": "20/184",
+        "datum": "2024-09-11",
+        "verteildatum": "2024-09-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20184.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23954",
+        "anfangsseite": 23954,
+        "endseite": 23954,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23954A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katrin Göring-Eckardt, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23954"
+        }
+      ],
+      "datum": "2024-09-11",
+      "vorgang_id": "315365"
+    },
+    {
+      "id": "659457",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten s. mitberatenes Haushaltsgesetz 2025",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Finanzplan des Bundes 2024 bis 2028",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-09-17T17:25:57+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "id": "5665",
+        "dokumentnummer": "20/184",
+        "datum": "2024-09-11",
+        "verteildatum": "2024-09-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20184.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23849",
+        "anfangsseite": 23849,
+        "endseite": 23962,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-09-11",
+      "vorgang_id": "315189"
+    },
+    {
+      "id": "659456",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten und Beschlüsse siehe Einzelpläne",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-09-30T17:21:03+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Finanzplan des Bundes 2024 bis 2028",
+          "id": "315189"
+        }
+      ],
+      "fundstelle": {
+        "id": "5665",
+        "dokumentnummer": "20/184",
+        "datum": "2024-09-11",
+        "verteildatum": "2024-09-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20184.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23849",
+        "anfangsseite": 23849,
+        "endseite": 23962,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-09-11",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659458",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 04 - Bundeskanzler und Bundeskanzleramt (zusammenberaten mit Epl 22)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 28,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-09-30T17:19:46+02:00",
+      "fundstelle": {
+        "id": "5665",
+        "dokumentnummer": "20/184",
+        "datum": "2024-09-11",
+        "verteildatum": "2024-09-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20184.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23849",
+        "anfangsseite": 23849,
+        "endseite": 23896,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23849B",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Dobrindt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23849"
+        },
+        {
+          "seite": "23852A",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23852"
+        },
+        {
+          "seite": "23858D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Alice Weidel, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23858"
+        },
+        {
+          "seite": "23861B",
+          "aktivitaetsart": "Rede",
+          "titel": "Katharina Dröge, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23861"
+        }
+      ],
+      "datum": "2024-09-11",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659460",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 05 - Auswärtiges Amt",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-09-30T17:19:37+02:00",
+      "fundstelle": {
+        "id": "5665",
+        "dokumentnummer": "20/184",
+        "datum": "2024-09-11",
+        "verteildatum": "2024-09-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20184.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23896",
+        "anfangsseite": 23896,
+        "endseite": 23917,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23896C",
+          "aktivitaetsart": "Rede",
+          "titel": "Annalena Baerbock, Bundesmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23896"
+        },
+        {
+          "seite": "23898A",
+          "aktivitaetsart": "Rede",
+          "titel": "Jürgen Hardt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23898"
+        },
+        {
+          "seite": "23899C",
+          "aktivitaetsart": "Rede",
+          "titel": "Wiebke Papenbrock, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23899"
+        },
+        {
+          "seite": "23900C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Michael Espendiller, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23900"
+        }
+      ],
+      "datum": "2024-09-11",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659462",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 12 - Bundesministerium für Digitales und Verkehr",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 23,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-09-30T17:18:34+02:00",
+      "fundstelle": {
+        "id": "5665",
+        "dokumentnummer": "20/184",
+        "datum": "2024-09-11",
+        "verteildatum": "2024-09-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20184.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23939",
+        "anfangsseite": 23939,
+        "endseite": 23962,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23939C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Volker Wissing, Bundesmin., Bundesministerium für Digitales und Verkehr",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23939"
+        },
+        {
+          "seite": "23940D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Reinhard Brandl, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23940"
+        },
+        {
+          "seite": "23942A",
+          "aktivitaetsart": "Rede",
+          "titel": "Metin Hakverdi, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23942"
+        },
+        {
+          "seite": "23943D",
+          "aktivitaetsart": "Rede",
+          "titel": "Marcus Bühl, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23943"
+        }
+      ],
+      "datum": "2024-09-11",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659461",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-09-30T17:18:25+02:00",
+      "fundstelle": {
+        "id": "5665",
+        "dokumentnummer": "20/184",
+        "datum": "2024-09-11",
+        "verteildatum": "2024-09-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20184.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23917",
+        "anfangsseite": 23917,
+        "endseite": 23939,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23917B",
+          "aktivitaetsart": "Rede",
+          "titel": "Wolfgang Hellmich, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23917"
+        },
+        {
+          "seite": "23918D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Johann David Wadephul, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23918"
+        },
+        {
+          "seite": "23920C",
+          "aktivitaetsart": "Rede",
+          "titel": "Agnieszka Brugger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23920"
+        },
+        {
+          "seite": "23921C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Michael Espendiller, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23921"
+        }
+      ],
+      "datum": "2024-09-11",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659459",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 22 - Unabhängiger Kontrollrat (zusammenberaten mit Epl 04, Rednerliste s. dort)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-09-30T17:17:06+02:00",
+      "fundstelle": {
+        "id": "5665",
+        "dokumentnummer": "20/184",
+        "datum": "2024-09-11",
+        "verteildatum": "2024-09-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20184.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20184.pdf#P.23849",
+        "anfangsseite": 23849,
+        "endseite": 23896,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "datum": "2024-09-11",
+      "vorgang_id": "314872"
+    }
+  ]
+}

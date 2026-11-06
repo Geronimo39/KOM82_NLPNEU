@@ -1,0 +1,1429 @@
+{
+  "numFound": 29,
+  "documents": [
+    {
+      "id": "663511",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Aktuelle Stunde zur Weltklimakonferenz COP 29 in Aserbaidschan",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 14,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25952",
+        "anfangsseite": 25952,
+        "endseite": 25968,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25952B",
+          "aktivitaetsart": "Rede",
+          "titel": "Lisa Badum, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25952"
+        },
+        {
+          "seite": "25953C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25953"
+        },
+        {
+          "seite": "25954C",
+          "aktivitaetsart": "Rede",
+          "titel": "Frank Schwabe, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25954"
+        },
+        {
+          "seite": "25955D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Lukas Köhler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25955"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "317618"
+    },
+    {
+      "id": "663514",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Bundesverfassungsgerichtsgesetzes (Gesetz zur Einführung der Begründungspflicht)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/2763",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "289563"
+    },
+    {
+      "id": "663515",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Aufhebung des Gesetzes über die Rechtsverhältnisse der Parlamentarischen Staatssekretäre",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/197",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "283074"
+    },
+    {
+      "id": "663516",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Grundgesetzes (Gesetz zur Begrenzung der Amtszeit des Bundeskanzlers)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/199",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "283076"
+    },
+    {
+      "id": "663517",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "... Gesetz zur Änderung des Parteiengesetzes - Gesetz zur Erhöhung der Transparenz beim Sponsoring der Parteien",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "ausschuss_kuerzel": "AfWIuG",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/4282",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "293195"
+    },
+    {
+      "id": "663518",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Ermöglichung des Verzichts auf die Amtsbezüge durch Mitglieder der Bundesregierung und Parlamentarische Staatssekretäre",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "ausschuss_kuerzel": "AfWIuG",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/4293",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "293524"
+    },
+    {
+      "id": "663519",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Grundgesetzes\r\n(Gesetz zur Trennung von Amt und Mandat)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "ausschuss_kuerzel": "AfWIuG",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/4290",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "293521"
+    },
+    {
+      "id": "663520",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Fortgesetzte Christenverfolgung in Nigeria beim Namen nennen und ächten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-22T16:56:33+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "ausschuss_kuerzel": "AfMenschenr",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "ausschuss_kuerzel": "AWZ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13119",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "316091"
+    },
+    {
+      "id": "663522",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Die Stadt der kurzen Wege ideologiefrei entwickeln",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13118",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "316090"
+    },
+    {
+      "id": "663524",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Innenstadtentwicklung eindeutig gewichten - Identitätsstiftung und neuen Nutzungsarten Rechnung tragen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13103",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "316089"
+    },
+    {
+      "id": "663525",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für die Zukunft Deutschlands - Gesetzgebung verbessern",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/4972",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "294611"
+    },
+    {
+      "id": "663526",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Versteckte Preiserhöhungen bei Lebensmitteln offenlegen - Verbrauchertäuschung beenden - Umwelt schützen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11631",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "312601"
+    },
+    {
+      "id": "663529",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Rechtsanspruch auf kostenfreie Schuldnerberatung für alle einführen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13295",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "316330"
+    },
+    {
+      "id": "663530",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Mindestbetrag des Elterngelds erhöhen - Familien und ihre Kinder stärken",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13296",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "316350"
+    },
+    {
+      "id": "663532",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Demokratische Zivilgesellschaft ist gemeinnützig",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13079",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "316088"
+    },
+    {
+      "id": "663533",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Deutsch-syrische Beziehungen wieder aufnehmen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12989",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "315964"
+    },
+    {
+      "id": "663534",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Nationalismus und Islamismus die Stirn bieten - Graue Wölfe und deren Vereinigungen in Deutschland verbieten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12158",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "313745"
+    },
+    {
+      "id": "663537",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Diplomatie statt Taurus-Marschflugkörper - Initiativen zur Beendigung des Ukraine-Krieges unterstützen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10621",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "309759"
+    },
+    {
+      "id": "663538",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für eine Politik der Entspannung - Nato-Expansion stoppen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11655",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "312646"
+    },
+    {
+      "id": "663539",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Friedensdiplomatie für politische Beilegung des Ukraine-Konflikts unterstützen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11654",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "312615"
+    },
+    {
+      "id": "663540",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Keine Eröffnung von EU-Beitrittsverhandlungen mit der Ukraine",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11653",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "312613"
+    },
+    {
+      "id": "663541",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Die Neutralität der Republik Moldau achten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13483",
+          "seite": "25951B"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "316745"
+    },
+    {
+      "id": "663549",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Wahl im BT",
+      "titel": "Wahl eines Stellvertreters der Präsidentin",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25951",
+        "anfangsseite": 25951,
+        "endseite": 25952,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "mehrheit": "Absolute Mehrheit",
+          "abstimmungsart": "Geheime Wahl",
+          "beschlusstenor": "Ablehnung des Wahlvorschlags",
+          "abstimm_ergebnis_bemerkung": "75:559:17:1",
+          "dokumentnummer": "20/13321",
+          "seite": "25968C"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "316358"
+    },
+    {
+      "id": "663551",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung interner Gremien des BT",
+      "titel": "Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25951",
+        "anfangsseite": 25951,
+        "endseite": 25952,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "mehrheit": "Absolute Mehrheit",
+          "beschlusstenor": "Ablehnung des Wahlvorschlags",
+          "abstimm_ergebnis_bemerkung": "69:581:2:0",
+          "dokumentnummer": "20/13322",
+          "seite": "25968C"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "316359"
+    },
+    {
+      "id": "663543",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung externer Gremien durch BT",
+      "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25951",
+        "anfangsseite": 25951,
+        "endseite": 25951,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Wahlvorschläge",
+          "dokumentnummer": "20/13592",
+          "seite": "25951C"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "317183"
+    },
+    {
+      "id": "663546",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung externer Gremien durch BT",
+      "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25951",
+        "anfangsseite": 25951,
+        "endseite": 25951,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Wahlvorschlags",
+          "dokumentnummer": "20/13594",
+          "seite": "25951C"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "317185"
+    },
+    {
+      "id": "663547",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung externer Gremien durch BT",
+      "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25951",
+        "anfangsseite": 25951,
+        "endseite": 25951,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme des Wahlvorschlags",
+          "dokumentnummer": "20/13593",
+          "seite": "25951D"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "317184"
+    },
+    {
+      "id": "663508",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung der Höfeordnung, zur Änderung der Verfahrensordnung für Höfesachen und zur Änderung des Gesetzes zur Modernisierung des Strafverfahrens",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25939",
+        "anfangsseite": 25939,
+        "endseite": 25949,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/13650",
+          "seite": "25949A"
+        },
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/12788, 20/13647",
+          "seite": "25949A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25939C",
+          "aktivitaetsart": "Rede",
+          "titel": "Susanne Mittag, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25939"
+        },
+        {
+          "seite": "25940C",
+          "aktivitaetsart": "Rede",
+          "titel": "Carsten Müller (Braunschweig), MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25940"
+        },
+        {
+          "seite": "25941D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Anne Monika Spallek, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25941"
+        },
+        {
+          "seite": "25942C",
+          "aktivitaetsart": "Rede",
+          "titel": "Philipp Hartewig, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25942"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "314875"
+    },
+    {
+      "id": "663509",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung der Höfeordnung, zur Änderung der Verfahrensordnung für Höfesachen und zur Änderung des Gesetzes zur Modernisierung des Strafverfahrens",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-20T13:09:59+01:00",
+      "fundstelle": {
+        "id": "5684",
+        "dokumentnummer": "20/200",
+        "datum": "2024-11-14",
+        "verteildatum": "2024-11-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20200.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20200.pdf#P.25949",
+        "anfangsseite": 25949,
+        "endseite": 25949,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/12788, 20/13647",
+          "seite": "25949A"
+        }
+      ],
+      "datum": "2024-11-14",
+      "vorgang_id": "314875"
+    }
+  ]
+}

@@ -1,0 +1,4597 @@
+{
+  "1005": {
+    "id": "1005",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Aschenberg-Dugnus",
+    "vorname": "Christine",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Christine Aschenberg-Dugnus, MdB, FDP",
+    "datum": "2025-03-21",
+    "basisdatum": "2009-12-04"
+  },
+  "1024": {
+    "id": "1024",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Brinkhaus",
+    "vorname": "Ralph",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:29:30+01:00",
+    "titel": "Ralph Brinkhaus, MdB, CDU/CSU",
+    "datum": "2026-10-08",
+    "basisdatum": "2009-12-03"
+  },
+  "1043": {
+    "id": "1043",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Gebhart",
+    "vorname": "Thomas",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:09:42+01:00",
+    "person_roles": [
+      {
+        "ressort_titel": "Bundesministerium für Gesundheit",
+        "nachname": "Gebhart",
+        "vorname": "Thomas",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      }
+    ],
+    "titel": "Dr. Thomas Gebhart, MdB, CDU/CSU",
+    "datum": "2026-09-24",
+    "basisdatum": "2009-11-25"
+  },
+  "1046": {
+    "id": "1046",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "DIE LINKE"
+    ],
+    "nachname": "Gohlke",
+    "vorname": "Nicole",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:16:12+01:00",
+    "person_roles": [
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Gohlke",
+        "vorname": "Nicole",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "Die Linke (Gruppe)",
+        "nachname": "Gohlke",
+        "vorname": "Nicole",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Nicole Gohlke, MdB, DIE LINKE",
+    "datum": "2026-10-14",
+    "basisdatum": "2009-11-24"
+  },
+  "1083": {
+    "id": "1083",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Rüddel",
+    "vorname": "Erwin",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Erwin Rüddel, MdB, CDU/CSU",
+    "datum": "2025-01-30",
+    "basisdatum": "2010-01-21"
+  },
+  "1114": {
+    "id": "1114",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Knoerig",
+    "vorname": "Axel",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T09:00:37+01:00",
+    "titel": "Axel Knoerig, MdB, CDU/CSU",
+    "datum": "2026-09-17",
+    "basisdatum": "2010-01-28"
+  },
+  "1118": {
+    "id": "1118",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Skudelny",
+    "vorname": "Judith",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Judith Skudelny, MdB, FDP",
+    "datum": "2025-01-31",
+    "basisdatum": "2009-11-25"
+  },
+  "118": {
+    "id": "118",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Haßelmann",
+    "vorname": "Britta",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:00:30+01:00",
+    "titel": "Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2005-11-08"
+  },
+  "1198": {
+    "id": "1198",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Müller-Gemmeke",
+    "vorname": "Beate",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Beate Müller-Gemmeke, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2024-12-20",
+    "basisdatum": "2009-11-10"
+  },
+  "1202": {
+    "id": "1202",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Monstadt",
+    "vorname": "Dietrich",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Dietrich Monstadt, MdB, CDU/CSU",
+    "datum": "2024-12-05",
+    "basisdatum": "2010-01-29"
+  },
+  "1494": {
+    "id": "1494",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Albani",
+    "vorname": "Stephan",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:14:57+01:00",
+    "titel": "Stephan Albani, MdB, CDU/CSU",
+    "datum": "2026-10-14",
+    "basisdatum": "2014-01-31"
+  },
+  "1497": {
+    "id": "1497",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Leikert",
+    "vorname": "Katja",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Dr. Katja Leikert, MdB, CDU/CSU",
+    "datum": "2025-03-18",
+    "basisdatum": "2014-02-12"
+  },
+  "1503": {
+    "id": "1503",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Lenz",
+    "vorname": "Andreas",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T10:15:39+01:00",
+    "titel": "Dr. Andreas Lenz, MdB, CDU/CSU",
+    "datum": "2026-10-08",
+    "basisdatum": "2014-01-30"
+  },
+  "1538": {
+    "id": "1538",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Daldrup",
+    "vorname": "Bernhard",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Bernhard Daldrup, MdB, SPD",
+    "datum": "2025-01-30",
+    "basisdatum": "2014-02-12"
+  },
+  "1550": {
+    "id": "1550",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Fechner",
+    "vorname": "Johannes",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T09:48:53+01:00",
+    "titel": "Dr. Johannes Fechner, MdB, SPD",
+    "datum": "2026-09-24",
+    "basisdatum": "2013-12-06"
+  },
+  "1564": {
+    "id": "1564",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Oßner",
+    "vorname": "Florian",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:22:36+01:00",
+    "titel": "Florian Oßner, MdB, CDU/CSU",
+    "datum": "2026-09-08",
+    "basisdatum": "2014-05-23"
+  },
+  "1580": {
+    "id": "1580",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Rabanus",
+    "vorname": "Martin",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T16:05:06+01:00",
+    "titel": "Martin Rabanus, MdB, SPD",
+    "datum": "2026-09-24",
+    "basisdatum": "2014-01-16"
+  },
+  "1590": {
+    "id": "1590",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Rützel",
+    "vorname": "Bernd",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T16:50:32+01:00",
+    "titel": "Bernd Rützel, MdB, SPD",
+    "datum": "2026-10-09",
+    "basisdatum": "2014-02-12"
+  },
+  "1601": {
+    "id": "1601",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Scheer",
+    "vorname": "Nina",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T16:56:40+01:00",
+    "titel": "Dr. Nina Scheer, MdB, SPD",
+    "datum": "2026-10-12",
+    "basisdatum": "2014-01-30"
+  },
+  "1604": {
+    "id": "1604",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Haase",
+    "vorname": "Christian",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:52:31+01:00",
+    "titel": "Christian Haase, MdB, CDU/CSU",
+    "datum": "2026-09-23",
+    "basisdatum": "2014-02-12"
+  },
+  "1615": {
+    "id": "1615",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Sorge",
+    "vorname": "Tino",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2026-08-28T10:09:34+02:00",
+    "person_roles": [
+      {
+        "ressort_titel": "Bundesministerium für Gesundheit",
+        "nachname": "Sorge",
+        "vorname": "Tino",
+        "wahlperiode_nummer": [
+          21
+        ]
+      }
+    ],
+    "titel": "Tino Sorge, MdB, CDU/CSU",
+    "datum": "2026-08-13",
+    "basisdatum": "2014-02-12"
+  },
+  "1619": {
+    "id": "1619",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Stamm-Fibich",
+    "vorname": "Martina",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Martina Stamm-Fibich, MdB, SPD",
+    "datum": "2024-12-05",
+    "basisdatum": "2014-01-30"
+  },
+  "1633": {
+    "id": "1633",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Ullrich",
+    "vorname": "Volker",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Dr. Volker Ullrich, MdB, CDU/CSU",
+    "datum": "2025-01-29",
+    "basisdatum": "2014-02-12"
+  },
+  "1659": {
+    "id": "1659",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Zeulner",
+    "vorname": "Emmi",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T11:06:24+01:00",
+    "titel": "Emmi Zeulner, MdB, CDU/CSU",
+    "datum": "2026-09-24",
+    "basisdatum": "2014-02-13"
+  },
+  "1666": {
+    "id": "1666",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Hakverdi",
+    "vorname": "Metin",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:57:57+01:00",
+    "titel": "Metin Hakverdi, MdB, SPD",
+    "datum": "2026-10-07",
+    "basisdatum": "2014-02-12"
+  },
+  "1672": {
+    "id": "1672",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Heidenblut",
+    "vorname": "Dirk",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Dirk Heidenblut, MdB, SPD",
+    "datum": "2025-01-31",
+    "basisdatum": "2014-02-12"
+  },
+  "1673": {
+    "id": "1673",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Heinrich",
+    "vorname": "Gabriela",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:03:00+01:00",
+    "titel": "Gabriela Heinrich, MdB, SPD",
+    "datum": "2026-10-14",
+    "basisdatum": "2014-01-29"
+  },
+  "1689": {
+    "id": "1689",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Irlstorfer",
+    "vorname": "Erich",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Erich Irlstorfer, MdB, CDU/CSU",
+    "datum": "2024-12-05",
+    "basisdatum": "2014-03-20"
+  },
+  "1695": {
+    "id": "1695",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Junge",
+    "vorname": "Frank",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2026-09-10T11:52:58+02:00",
+    "titel": "Frank Junge, MdB, SPD",
+    "datum": "2026-07-08",
+    "basisdatum": "2014-01-30"
+  },
+  "1701": {
+    "id": "1701",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Karliczek",
+    "vorname": "Anja",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T14:30:10+01:00",
+    "person_roles": [
+      {
+        "ressort_titel": "Bundesministerium für Bildung und Forschung",
+        "nachname": "Karliczek",
+        "vorname": "Anja",
+        "wahlperiode_nummer": [
+          19
+        ]
+      }
+    ],
+    "titel": "Anja Karliczek, MdB, CDU/CSU",
+    "datum": "2026-10-09",
+    "basisdatum": "2014-02-12"
+  },
+  "1769": {
+    "id": "1769",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Verlinden",
+    "vorname": "Julia",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T09:33:53+01:00",
+    "person_roles": [
+      {
+        "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+        "nachname": "Verlinden",
+        "vorname": "Julia",
+        "wahlperiode_nummer": [
+          18
+        ]
+      }
+    ],
+    "titel": "Dr. Julia Verlinden, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2013-11-01"
+  },
+  "1791": {
+    "id": "1791",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Jung",
+    "vorname": "Andreas",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2026-07-16T14:30:40+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Jung",
+        "vorname": "Andreas",
+        "wahlkreiszusatz": "Konstanz",
+        "wahlperiode_nummer": [
+          16,
+          17,
+          18
+        ]
+      }
+    ],
+    "titel": "Andreas Jung, MdB, CDU/CSU",
+    "datum": "2026-04-16",
+    "basisdatum": "2005-12-16"
+  },
+  "1911": {
+    "id": "1911",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Coße",
+    "vorname": "Jürgen",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:48:30+01:00",
+    "titel": "Jürgen Coße, MdB, SPD",
+    "datum": "2026-10-14",
+    "basisdatum": "2016-12-15"
+  },
+  "1971": {
+    "id": "1971",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "DIE LINKE"
+    ],
+    "nachname": "Akbulut",
+    "vorname": "Gökay",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-13T14:35:27+01:00",
+    "person_roles": [
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Akbulut",
+        "vorname": "Gökay",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "Die Linke (Gruppe)",
+        "nachname": "Akbulut",
+        "vorname": "Gökay",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Gökay Akbulut, MdB, DIE LINKE",
+    "datum": "2026-10-15",
+    "basisdatum": "2017-12-12"
+  },
+  "1974": {
+    "id": "1974",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Lindh",
+    "vorname": "Helge",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T10:17:34+01:00",
+    "titel": "Helge Lindh, MdB, SPD",
+    "datum": "2026-10-08",
+    "basisdatum": "2018-01-18"
+  },
+  "198": {
+    "id": "198",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Müller",
+    "vorname": "Carsten",
+    "wahlkreiszusatz": "Braunschweig",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:04:16+01:00",
+    "titel": "Carsten Müller (Braunschweig), MdB, CDU/CSU",
+    "datum": "2026-08-13",
+    "basisdatum": "2006-02-07"
+  },
+  "1983": {
+    "id": "1983",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Badum",
+    "vorname": "Lisa",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:19:45+01:00",
+    "titel": "Lisa Badum, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2017-12-29"
+  },
+  "2014": {
+    "id": "2014",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Müller",
+    "vorname": "Axel",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T09:43:08+01:00",
+    "titel": "Axel Müller, MdB, CDU/CSU",
+    "datum": "2026-10-15",
+    "basisdatum": "2018-01-16"
+  },
+  "2017": {
+    "id": "2017",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Müller",
+    "vorname": "Alexander",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Alexander Müller, MdB, FDP",
+    "datum": "2025-03-18",
+    "basisdatum": "2017-12-08"
+  },
+  "2018": {
+    "id": "2018",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Müller",
+    "vorname": "Claudia",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2026-09-02T10:06:36+02:00",
+    "person_roles": [
+      {
+        "ressort_titel": "Bundesministerium für Ernährung und Landwirtschaft",
+        "nachname": "Müller",
+        "vorname": "Claudia",
+        "wahlperiode_nummer": [
+          20,
+          21
+        ]
+      },
+      {
+        "ressort_titel": "Bundesministerium für Bildung und Forschung",
+        "nachname": "Müller",
+        "vorname": "Claudia",
+        "wahlperiode_nummer": [
+          20,
+          21
+        ]
+      }
+    ],
+    "titel": "Claudia Müller, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2017-11-24"
+  },
+  "2028": {
+    "id": "2028",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Nicolaisen",
+    "vorname": "Petra",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Petra Nicolaisen, MdB, CDU/CSU",
+    "datum": "2024-12-19",
+    "basisdatum": "2018-01-16"
+  },
+  "2034": {
+    "id": "2034",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Oster",
+    "vorname": "Josef",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:23:08+01:00",
+    "titel": "Josef Oster, MdB, CDU/CSU",
+    "datum": "2026-09-24",
+    "basisdatum": "2018-01-16"
+  },
+  "2041": {
+    "id": "2041",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Peterka",
+    "vorname": "Tobias Matthias",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:37:17+01:00",
+    "titel": "Tobias Matthias Peterka, MdB, AfD",
+    "datum": "2026-10-15",
+    "basisdatum": "2017-12-06"
+  },
+  "2064": {
+    "id": "2064",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "in der Beek",
+    "vorname": "Olaf",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Olaf in der Beek, MdB, FDP",
+    "datum": "2025-02-07",
+    "basisdatum": "2017-12-08"
+  },
+  "2066": {
+    "id": "2066",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Bernhard",
+    "vorname": "Marc",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:59:22+01:00",
+    "titel": "Marc Bernhard, MdB, AfD",
+    "datum": "2026-10-15",
+    "basisdatum": "2017-10-27"
+  },
+  "2075": {
+    "id": "2075",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Brandner",
+    "vorname": "Stephan",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:25:41+01:00",
+    "titel": "Stephan Brandner, MdB, AfD",
+    "datum": "2026-10-15",
+    "basisdatum": "2017-11-10"
+  },
+  "2105": {
+    "id": "2105",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Cronenberg",
+    "vorname": "Carl-Julius",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Carl-Julius Cronenberg, MdB, FDP",
+    "datum": "2025-02-12",
+    "basisdatum": "2018-01-30"
+  },
+  "2106": {
+    "id": "2106",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Curio",
+    "vorname": "Gottfried",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:49:07+01:00",
+    "titel": "Dr. Gottfried Curio, MdB, AfD",
+    "datum": "2026-10-14",
+    "basisdatum": "2017-11-13"
+  },
+  "2114": {
+    "id": "2114",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Schmidt",
+    "vorname": "Stefan",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T17:11:31+01:00",
+    "titel": "Stefan Schmidt, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2017-11-10"
+  },
+  "2127": {
+    "id": "2127",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Dürr",
+    "vorname": "Christian",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Christian Dürr, MdB, FDP",
+    "datum": "2025-03-18",
+    "basisdatum": "2017-11-21"
+  },
+  "2129": {
+    "id": "2129",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Ehrhorn",
+    "vorname": "Thomas",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Thomas Ehrhorn, MdB, AfD",
+    "datum": "2025-03-03",
+    "basisdatum": "2017-12-12"
+  },
+  "2134": {
+    "id": "2134",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Sichert",
+    "vorname": "Martin",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:42:20+01:00",
+    "titel": "Martin Sichert, MdB, AfD",
+    "datum": "2026-10-14",
+    "basisdatum": "2017-12-01"
+  },
+  "214": {
+    "id": "214",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Straubinger",
+    "vorname": "Max",
+    "typ": "Person",
+    "wahlperiode": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Max Straubinger, MdB, CDU/CSU",
+    "datum": "2025-01-31",
+    "basisdatum": "1995-03-08"
+  },
+  "2145": {
+    "id": "2145",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Staffler",
+    "vorname": "Katrin",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:47:02+01:00",
+    "titel": "Katrin Staffler, MdB, CDU/CSU",
+    "datum": "2026-10-08",
+    "basisdatum": "2018-01-16"
+  },
+  "2149": {
+    "id": "2149",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Stein",
+    "vorname": "Mathias",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Mathias Stein, MdB, SPD",
+    "datum": "2025-01-29",
+    "basisdatum": "2018-01-16"
+  },
+  "2152": {
+    "id": "2152",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Strack-Zimmermann",
+    "vorname": "Marie-Agnes",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2024-08-12T09:38:06+02:00",
+    "titel": "Dr. Marie-Agnes Strack-Zimmermann, MdB, FDP",
+    "datum": "2024-07-04",
+    "basisdatum": "2017-11-21"
+  },
+  "2161": {
+    "id": "2161",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Teuteberg",
+    "vorname": "Linda",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Linda Teuteberg, MdB, FDP",
+    "datum": "2025-03-14",
+    "basisdatum": "2017-12-15"
+  },
+  "2164": {
+    "id": "2164",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Throm",
+    "vorname": "Alexander",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:22:13+01:00",
+    "titel": "Alexander Throm, MdB, CDU/CSU",
+    "datum": "2026-09-25",
+    "basisdatum": "2017-12-01"
+  },
+  "2167": {
+    "id": "2167",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Töns",
+    "vorname": "Markus",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:23:38+01:00",
+    "titel": "Markus Töns, MdB, SPD",
+    "datum": "2026-09-24",
+    "basisdatum": "2017-12-12"
+  },
+  "2170": {
+    "id": "2170",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Ullmann",
+    "vorname": "Andrew",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Prof. Dr. Andrew Ullmann, MdB, FDP",
+    "datum": "2025-02-12",
+    "basisdatum": "2018-01-15"
+  },
+  "2185": {
+    "id": "2185",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Glaser",
+    "vorname": "Albrecht",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Albrecht Glaser, MdB, AfD",
+    "datum": "2024-12-19",
+    "basisdatum": "2017-11-13"
+  },
+  "2186": {
+    "id": "2186",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Weeser",
+    "vorname": "Sandra",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Sandra Weeser, MdB, FDP",
+    "datum": "2025-02-21",
+    "basisdatum": "2018-01-12"
+  },
+  "2187": {
+    "id": "2187",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Weidel",
+    "vorname": "Alice",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T09:58:58+01:00",
+    "titel": "Dr. Alice Weidel, MdB, AfD",
+    "datum": "2026-10-14",
+    "basisdatum": "2017-10-27"
+  },
+  "2195": {
+    "id": "2195",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Weyel",
+    "vorname": "Harald",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Prof. Dr. Harald Weyel, MdB, AfD",
+    "datum": "2025-03-14",
+    "basisdatum": "2017-10-27"
+  },
+  "2222": {
+    "id": "2222",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Hilse",
+    "vorname": "Karsten",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:22:52+01:00",
+    "titel": "Karsten Hilse, MdB, AfD",
+    "datum": "2026-10-14",
+    "basisdatum": "2017-11-20"
+  },
+  "2223": {
+    "id": "2223",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Höchst",
+    "vorname": "Nicole",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:24:23+01:00",
+    "titel": "Nicole Höchst, MdB, AfD",
+    "datum": "2026-10-13",
+    "basisdatum": "2018-01-10"
+  },
+  "2242": {
+    "id": "2242",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Kappert-Gonther",
+    "vorname": "Kirsten",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T14:27:43+01:00",
+    "titel": "Dr. Kirsten Kappert-Gonther, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2018-01-17"
+  },
+  "2247": {
+    "id": "2247",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Keuter",
+    "vorname": "Stefan",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T14:44:35+01:00",
+    "titel": "Stefan Keuter, MdB, AfD",
+    "datum": "2026-10-15",
+    "basisdatum": "2017-12-13"
+  },
+  "2250": {
+    "id": "2250",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Kleinwächter",
+    "vorname": "Norbert",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Norbert Kleinwächter, MdB, AfD",
+    "datum": "2025-02-28",
+    "basisdatum": "2017-10-27"
+  },
+  "2254": {
+    "id": "2254",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Köhler",
+    "vorname": "Lukas",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2025-03-06T17:22:26+01:00",
+    "titel": "Dr. Lukas Köhler, MdB, FDP",
+    "datum": "2025-02-28",
+    "basisdatum": "2017-11-21"
+  },
+  "2257": {
+    "id": "2257",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Konrad",
+    "vorname": "Carina",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Carina Konrad, MdB, FDP",
+    "datum": "2025-02-28",
+    "basisdatum": "2017-12-08"
+  },
+  "2260": {
+    "id": "2260",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Kraft",
+    "vorname": "Rainer",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T09:40:43+01:00",
+    "titel": "Dr. Rainer Kraft, MdB, AfD",
+    "datum": "2026-10-15",
+    "basisdatum": "2017-11-20"
+  },
+  "232": {
+    "id": "232",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Göring-Eckardt",
+    "vorname": "Katrin",
+    "typ": "Person",
+    "wahlperiode": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-21T12:34:25+01:00",
+    "person_roles": [
+      {
+        "nachname": "Göring-Eckardt",
+        "vorname": "Katrin",
+        "wahlperiode_nummer": [
+          16,
+          17,
+          20
+        ]
+      }
+    ],
+    "titel": "Katrin Göring-Eckardt, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-15",
+    "basisdatum": "1998-12-10"
+  },
+  "497": {
+    "id": "497",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Hüppe",
+    "vorname": "Hubert",
+    "typ": "Person",
+    "wahlperiode": [
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Hubert Hüppe, MdB, CDU/CSU",
+    "datum": "2025-03-21",
+    "basisdatum": "1991-04-18"
+  },
+  "55": {
+    "id": "55",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Fricke",
+    "vorname": "Otto",
+    "typ": "Person",
+    "wahlperiode": [
+      15,
+      16,
+      17,
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Otto Fricke, MdB, FDP",
+    "datum": "2025-03-18",
+    "basisdatum": "2002-11-06"
+  },
+  "626": {
+    "id": "626",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Gerster",
+    "vorname": "Martin",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:12:12+01:00",
+    "titel": "Martin Gerster, MdB, SPD",
+    "datum": "2026-09-11",
+    "basisdatum": "2006-02-16"
+  },
+  "7051": {
+    "id": "7051",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Willkomm",
+    "vorname": "Katharina",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2023-07-31T12:42:30+02:00",
+    "person_roles": [
+      {
+        "fraktion": "FDP",
+        "nachname": "Kloke",
+        "vorname": "Katharina",
+        "wahlperiode_nummer": [
+          19
+        ]
+      }
+    ],
+    "titel": "Katharina Willkomm, MdB, FDP",
+    "datum": "2025-02-12",
+    "basisdatum": "2017-12-15"
+  },
+  "7139": {
+    "id": "7139",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Lehmann",
+    "vorname": "Sylvia",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Sylvia Lehmann, MdB, SPD",
+    "datum": "2025-01-30",
+    "basisdatum": "2020-03-04"
+  },
+  "7140": {
+    "id": "7140",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Bubendorfer-Licht",
+    "vorname": "Sandra",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Sandra Bubendorfer-Licht, MdB, FDP",
+    "datum": "2025-01-30",
+    "basisdatum": "2020-01-14"
+  },
+  "7196": {
+    "id": "7196",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Emmerich",
+    "vorname": "Marcel",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T09:37:21+01:00",
+    "titel": "Marcel Emmerich, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-06-08"
+  },
+  "7214": {
+    "id": "7214",
+    "funktionszusatz": [
+      "Minister des Inneren, für Digitalisierung und Kommunen"
+    ],
+    "funktion": [
+      "MdBR"
+    ],
+    "bundesland": [
+      "Baden-Württemberg"
+    ],
+    "nachname": "Strobl",
+    "vorname": "Thomas",
+    "typ": "Person",
+    "wahlperiode": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-26T14:11:41+01:00",
+    "person_roles": [
+      {
+        "funktionszusatz": "Minister für Inneres, Digitalisierung und Migration",
+        "bundesland": "Baden-Württemberg",
+        "nachname": "Strobl",
+        "vorname": "Thomas",
+        "wahlperiode_nummer": [
+          18,
+          19
+        ]
+      },
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Strobl",
+        "vorname": "Thomas",
+        "wahlkreiszusatz": "Heilbronn",
+        "wahlperiode_nummer": [
+          14,
+          15,
+          16,
+          17,
+          18
+        ]
+      }
+    ],
+    "titel": "Thomas Strobl, MdBR (Minister des Inneren, für Digitalisierung und Kommunen), Baden-Württemberg",
+    "datum": "2026-05-08",
+    "basisdatum": "1998-11-19"
+  },
+  "7222": {
+    "id": "7222",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Bachmann",
+    "vorname": "Carolin",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:19:03+01:00",
+    "titel": "Carolin Bachmann, MdB, AfD",
+    "datum": "2026-10-13",
+    "basisdatum": "2021-11-10"
+  },
+  "7223": {
+    "id": "7223",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Baldy",
+    "vorname": "Daniel",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:22:14+01:00",
+    "titel": "Daniel Baldy, MdB, SPD",
+    "datum": "2026-09-24",
+    "basisdatum": "2022-01-13"
+  },
+  "7225": {
+    "id": "7225",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Bär",
+    "vorname": "Karl",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:26:26+01:00",
+    "titel": "Karl Bär, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-12-03"
+  },
+  "7230": {
+    "id": "7230",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Benner",
+    "vorname": "Lukas",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:58:32+01:00",
+    "titel": "Lukas Benner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-15",
+    "basisdatum": "2022-03-10"
+  },
+  "7242": {
+    "id": "7242",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Bergt",
+    "vorname": "Bengt",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Bengt Bergt, MdB, SPD",
+    "datum": "2024-12-18",
+    "basisdatum": "2022-03-03"
+  },
+  "7247": {
+    "id": "7247",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Boginski",
+    "vorname": "Friedhelm",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Friedhelm Boginski, MdB, FDP",
+    "datum": "2025-02-07",
+    "basisdatum": "2022-02-15"
+  },
+  "7248": {
+    "id": "7248",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Borchardt",
+    "vorname": "Simone",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:16:31+01:00",
+    "titel": "Simone Borchardt, MdB, CDU/CSU",
+    "datum": "2026-09-23",
+    "basisdatum": "2021-12-10"
+  },
+  "7250": {
+    "id": "7250",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Brandes",
+    "vorname": "Dirk",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:24:14+01:00",
+    "titel": "Dirk Brandes, MdB, AfD",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-11-10"
+  },
+  "7251": {
+    "id": "7251",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Außendorf",
+    "vorname": "Maik",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Maik Außendorf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2025-01-29",
+    "basisdatum": "2022-01-13"
+  },
+  "7261": {
+    "id": "7261",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Dieren",
+    "vorname": "Jan",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:54:27+01:00",
+    "titel": "Jan Dieren, MdB, SPD",
+    "datum": "2026-07-10",
+    "basisdatum": "2022-03-03"
+  },
+  "7264": {
+    "id": "7264",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Droßmann",
+    "vorname": "Falko",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T14:05:35+01:00",
+    "titel": "Falko Droßmann, MdB, SPD",
+    "datum": "2026-09-23",
+    "basisdatum": "2021-12-03"
+  },
+  "7265": {
+    "id": "7265",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Düring",
+    "vorname": "Deborah",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T14:07:54+01:00",
+    "titel": "Deborah Düring, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-15",
+    "basisdatum": "2022-01-14"
+  },
+  "7269": {
+    "id": "7269",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Eichwede",
+    "vorname": "Sonja",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T09:35:20+01:00",
+    "titel": "Sonja Eichwede, MdB, SPD",
+    "datum": "2026-09-24",
+    "basisdatum": "2022-01-12"
+  },
+  "7276": {
+    "id": "7276",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Fiedler",
+    "vorname": "Sebastian",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T09:59:08+01:00",
+    "titel": "Sebastian Fiedler, MdB, SPD",
+    "datum": "2026-10-15",
+    "basisdatum": "2022-03-03"
+  },
+  "7280": {
+    "id": "7280",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Ganserer",
+    "vorname": "Tessa",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Tessa Ganserer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2024-06-14",
+    "basisdatum": "2022-02-11"
+  },
+  "7285": {
+    "id": "7285",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Gesenhues",
+    "vorname": "Jan-Niclas",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:12:43+01:00",
+    "person_roles": [
+      {
+        "ressort_titel": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+        "nachname": "Gesenhues",
+        "vorname": "Jan-Niclas",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Dr. Jan-Niclas Gesenhues, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2022-01-14"
+  },
+  "7290": {
+    "id": "7290",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Grau",
+    "vorname": "Armin",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:23:03+01:00",
+    "titel": "Dr. Armin Grau, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-11-26"
+  },
+  "7293": {
+    "id": "7293",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "DIE LINKE"
+    ],
+    "nachname": "Gürpinar",
+    "vorname": "Ates",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:50:56+01:00",
+    "person_roles": [
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Gürpinar",
+        "vorname": "Ates",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "Die Linke (Gruppe)",
+        "nachname": "Gürpinar",
+        "vorname": "Ates",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Ates Gürpinar, MdB, DIE LINKE",
+    "datum": "2026-10-15",
+    "basisdatum": "2021-11-17"
+  },
+  "7298": {
+    "id": "7298",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Heitmann",
+    "vorname": "Linda",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:03:25+01:00",
+    "titel": "Linda Heitmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2022-02-17"
+  },
+  "7312": {
+    "id": "7312",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Janich",
+    "vorname": "Steffen",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:32:07+01:00",
+    "titel": "Steffen Janich, MdB, AfD",
+    "datum": "2026-10-15",
+    "basisdatum": "2021-10-25"
+  },
+  "7315": {
+    "id": "7315",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Jurisch",
+    "vorname": "Ann-Veruschka",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Dr. Ann-Veruschka Jurisch, MdB, FDP",
+    "datum": "2025-02-28",
+    "basisdatum": "2022-01-12"
+  },
+  "7316": {
+    "id": "7316",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Kaddor",
+    "vorname": "Lamya",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T14:12:57+01:00",
+    "titel": "Lamya Kaddor, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-09",
+    "basisdatum": "2022-01-12"
+  },
+  "7317": {
+    "id": "7317",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Karaahmetoğlu",
+    "vorname": "Macit",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-19T15:15:34+01:00",
+    "titel": "Macit Karaahmetoğlu, MdB, SPD",
+    "datum": "2026-06-11",
+    "basisdatum": "2022-01-12"
+  },
+  "7325": {
+    "id": "7325",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Kersten",
+    "vorname": "Franziska",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T14:43:48+01:00",
+    "titel": "Dr. Franziska Kersten, MdB, SPD",
+    "datum": "2026-10-09",
+    "basisdatum": "2022-01-12"
+  },
+  "7333": {
+    "id": "7333",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Mascheck",
+    "vorname": "Franziska",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Franziska Mascheck, MdB, SPD",
+    "datum": "2024-12-18",
+    "basisdatum": "2022-01-13"
+  },
+  "7340": {
+    "id": "7340",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Koß",
+    "vorname": "Simona",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Simona Koß, MdB, SPD",
+    "datum": "2025-01-29",
+    "basisdatum": "2022-03-10"
+  },
+  "7347": {
+    "id": "7347",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Kreiser",
+    "vorname": "Dunja",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T09:47:47+01:00",
+    "titel": "Dunja Kreiser, MdB, SPD",
+    "datum": "2026-10-12",
+    "basisdatum": "2022-03-03"
+  },
+  "7354": {
+    "id": "7354",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Mesarosch",
+    "vorname": "Robin",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Robin Mesarosch, MdB, SPD",
+    "datum": "2025-01-30",
+    "basisdatum": "2022-03-03"
+  },
+  "7365": {
+    "id": "7365",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Limburg",
+    "vorname": "Helge",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T10:17:08+01:00",
+    "titel": "Helge Limburg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-11-05"
+  },
+  "7370": {
+    "id": "7370",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Lütke",
+    "vorname": "Kristine",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Kristine Lütke, MdB, FDP",
+    "datum": "2025-02-12",
+    "basisdatum": "2021-12-16"
+  },
+  "7373": {
+    "id": "7373",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Rinck",
+    "vorname": "Frank",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Frank Rinck, MdB, AfD",
+    "datum": "2025-02-14",
+    "basisdatum": "2021-11-10"
+  },
+  "7375": {
+    "id": "7375",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Roloff",
+    "vorname": "Sebastian",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T16:39:51+01:00",
+    "titel": "Sebastian Roloff, MdB, SPD",
+    "datum": "2026-10-08",
+    "basisdatum": "2022-01-28"
+  },
+  "7385": {
+    "id": "7385",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Müller",
+    "vorname": "Florian",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:06:29+01:00",
+    "titel": "Florian Müller, MdB, CDU/CSU",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-12-23"
+  },
+  "7388": {
+    "id": "7388",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Rosenthal",
+    "vorname": "Jessica",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Jessica Rosenthal, MdB, SPD",
+    "datum": "2025-03-18",
+    "basisdatum": "2021-11-18"
+  },
+  "7390": {
+    "id": "7390",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Rudolph",
+    "vorname": "Thorsten",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T16:45:17+01:00",
+    "titel": "Dr. Thorsten Rudolph, MdB, SPD",
+    "datum": "2026-10-14",
+    "basisdatum": "2022-01-14"
+  },
+  "7391": {
+    "id": "7391",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Rudolph",
+    "vorname": "Tina",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Tina Rudolph, MdB, SPD",
+    "datum": "2025-03-18",
+    "basisdatum": "2022-01-27"
+  },
+  "7410": {
+    "id": "7410",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Schröder",
+    "vorname": "Christina-Johanne",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Christina-Johanne Schröder, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2025-03-21",
+    "basisdatum": "2021-12-17"
+  },
+  "7412": {
+    "id": "7412",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "FDP"
+    ],
+    "nachname": "Schulz",
+    "vorname": "Anja",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Anja Schulz, MdB, FDP",
+    "datum": "2025-02-12",
+    "basisdatum": "2021-11-26"
+  },
+  "7415": {
+    "id": "7415",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "fraktionslos"
+    ],
+    "nachname": "Seidler",
+    "vorname": "Stefan",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T10:37:53+01:00",
+    "titel": "Stefan Seidler, MdB, fraktionslos",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-12-10"
+  },
+  "7441": {
+    "id": "7441",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Vogt",
+    "vorname": "Oliver",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T09:36:41+01:00",
+    "titel": "Dr. Oliver Vogt, MdB, CDU/CSU",
+    "datum": "2026-09-10",
+    "basisdatum": "2022-01-27"
+  },
+  "7446": {
+    "id": "7446",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Wagner",
+    "vorname": "Carolin",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T09:45:40+01:00",
+    "titel": "Dr. Carolin Wagner, MdB, SPD",
+    "datum": "2026-10-14",
+    "basisdatum": "2022-01-26"
+  },
+  "7451": {
+    "id": "7451",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Wegling",
+    "vorname": "Melanie",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Melanie Wegling, MdB, SPD",
+    "datum": "2024-11-14",
+    "basisdatum": "2022-03-03"
+  },
+  "7458": {
+    "id": "7458",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Wiener",
+    "vorname": "Klaus",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T10:40:18+01:00",
+    "titel": "Dr. Klaus Wiener, MdB, CDU/CSU",
+    "datum": "2026-10-08",
+    "basisdatum": "2021-12-09"
+  },
+  "7459": {
+    "id": "7459",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Winkler",
+    "vorname": "Tobias",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T10:46:54+01:00",
+    "titel": "Tobias Winkler, MdB, CDU/CSU",
+    "datum": "2026-09-09",
+    "basisdatum": "2021-12-10"
+  },
+  "7462": {
+    "id": "7462",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "DIE LINKE"
+    ],
+    "nachname": "Wissler",
+    "vorname": "Janine",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-09-08T11:00:29+02:00",
+    "person_roles": [
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Wissler",
+        "vorname": "Janine",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "Die Linke (Gruppe)",
+        "nachname": "Wissler",
+        "vorname": "Janine",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Janine Wissler, MdB, DIE LINKE",
+    "datum": "2026-10-12",
+    "basisdatum": "2021-12-07"
+  },
+  "7463": {
+    "id": "7463",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Wittmann",
+    "vorname": "Mechthilde",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T10:48:36+01:00",
+    "titel": "Mechthilde Wittmann, MdB, CDU/CSU",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-12-10"
+  },
+  "7464": {
+    "id": "7464",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Wollmann",
+    "vorname": "Herbert",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2025-03-06T17:23:21+01:00",
+    "titel": "Dr. Herbert Wollmann, MdB, SPD",
+    "datum": "2024-12-06",
+    "basisdatum": "2022-03-10"
+  },
+  "7467": {
+    "id": "7467",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Ziegler",
+    "vorname": "Kay-Uwe",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-10T11:06:52+01:00",
+    "titel": "Kay-Uwe Ziegler, MdB, AfD",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-10-25"
+  },
+  "7473": {
+    "id": "7473",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Nürnberger",
+    "vorname": "Jörg",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Jörg Nürnberger, MdB, SPD",
+    "datum": "2025-02-18",
+    "basisdatum": "2022-02-18"
+  },
+  "7475": {
+    "id": "7475",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Oppelt",
+    "vorname": "Moritz",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Moritz Oppelt, MdB, CDU/CSU",
+    "datum": "2025-03-18",
+    "basisdatum": "2021-12-10"
+  },
+  "7480": {
+    "id": "7480",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Papendieck",
+    "vorname": "Mathias",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-07-26T19:57:10+02:00",
+    "titel": "Mathias Papendieck, MdB, SPD",
+    "datum": "2024-12-20",
+    "basisdatum": "2022-03-03"
+  },
+  "7484": {
+    "id": "7484",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Piechotta",
+    "vorname": "Paula",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:37:53+01:00",
+    "titel": "Dr. Paula Piechotta, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-11-19"
+  },
+  "7489": {
+    "id": "7489",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Reichel",
+    "vorname": "Markus",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T16:21:00+01:00",
+    "titel": "Dr. Markus Reichel, MdB, CDU/CSU",
+    "datum": "2026-10-14",
+    "basisdatum": "2022-01-28"
+  },
+  "7490": {
+    "id": "7490",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "DIE LINKE"
+    ],
+    "nachname": "Reichinnek",
+    "vorname": "Heidi",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-15T11:46:03+02:00",
+    "person_roles": [
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Reichinnek",
+        "vorname": "Heidi",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "Die Linke (Gruppe)",
+        "nachname": "Reichinnek",
+        "vorname": "Heidi",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Heidi Reichinnek, MdB, DIE LINKE",
+    "datum": "2026-10-09",
+    "basisdatum": "2021-11-05"
+  },
+  "7492": {
+    "id": "7492",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Reinalter",
+    "vorname": "Anja",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T16:35:01+01:00",
+    "titel": "Dr. Anja Reinalter, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2026-10-14",
+    "basisdatum": "2022-01-13"
+  },
+  "7516": {
+    "id": "7516",
+    "funktion": [
+      "Bundesmin."
+    ],
+    "ressort": [
+      "Bundesministerium für Gesundheit"
+    ],
+    "nachname": "Lauterbach",
+    "vorname": "Karl",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T10:07:59+01:00",
+    "person_roles": [
+      {
+        "fraktion": "SPD",
+        "nachname": "Lauterbach",
+        "vorname": "Karl",
+        "wahlperiode_nummer": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "titel": "Prof. Dr. Karl Lauterbach, Bundesmin., Bundesministerium für Gesundheit",
+    "datum": "2026-09-25",
+    "basisdatum": "2006-04-06"
+  },
+  "7559": {
+    "id": "7559",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "DIE LINKE"
+    ],
+    "nachname": "Bünger",
+    "vorname": "Clara",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T13:40:41+01:00",
+    "person_roles": [
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Bünger",
+        "vorname": "Clara",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "Die Linke (Gruppe)",
+        "nachname": "Bünger",
+        "vorname": "Clara",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Clara Bünger, MdB, DIE LINKE",
+    "datum": "2026-10-14",
+    "basisdatum": "2022-01-14"
+  },
+  "7609": {
+    "id": "7609",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "fraktionslos"
+    ],
+    "nachname": "Farle",
+    "vorname": "Robert",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2022-09-12T16:05:53+02:00",
+    "person_roles": [
+      {
+        "fraktion": "AfD",
+        "nachname": "Farle",
+        "vorname": "Robert",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Robert Farle, MdB, fraktionslos",
+    "datum": "2025-03-18",
+    "basisdatum": "2021-12-08"
+  },
+  "7617": {
+    "id": "7617",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Rinkert",
+    "vorname": "Daniel",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T16:38:47+01:00",
+    "titel": "Daniel Rinkert, MdB, SPD",
+    "datum": "2026-10-14",
+    "basisdatum": "2023-01-19"
+  },
+  "7648": {
+    "id": "7648",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Mende",
+    "vorname": "Dirk-Ulrich",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2023-03-02T17:35:59+01:00",
+    "titel": "Dirk-Ulrich Mende, MdB, SPD",
+    "datum": "2025-01-30",
+    "basisdatum": "2023-03-30"
+  },
+  "7735": {
+    "id": "7735",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Al-Dailami",
+    "vorname": "Ali",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2024-04-05T10:31:12+02:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Al-Dailami",
+        "vorname": "Ali",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Al-Dailami",
+        "vorname": "Ali",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Ali Al-Dailami, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2021-11-16"
+  },
+  "7736": {
+    "id": "7736",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Dagdelen",
+    "vorname": "Sevim",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2025-03-19T11:17:43+01:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Dagdelen",
+        "vorname": "Sevim",
+        "wahlperiode_nummer": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Dagdelen",
+        "vorname": "Sevim",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2005-10-18"
+  },
+  "7737": {
+    "id": "7737",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Ernst",
+    "vorname": "Klaus",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2024-04-05T10:33:28+02:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Ernst",
+        "vorname": "Klaus",
+        "wahlperiode_nummer": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Ernst",
+        "vorname": "Klaus",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Klaus Ernst, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2005-11-29"
+  },
+  "7738": {
+    "id": "7738",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Hunko",
+    "vorname": "Andrej",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2024-04-05T10:34:12+02:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Hunko",
+        "vorname": "Andrej",
+        "wahlperiode_nummer": [
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Hunko",
+        "vorname": "Andrej",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Andrej Hunko, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2009-11-12"
+  },
+  "7739": {
+    "id": "7739",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Leye",
+    "vorname": "Christian",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2024-04-05T10:34:53+02:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Leye",
+        "vorname": "Christian",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Leye",
+        "vorname": "Christian",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Christian Leye, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2021-11-16"
+  },
+  "7740": {
+    "id": "7740",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Mohamed Ali",
+    "vorname": "Amira",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2024-04-05T10:36:08+02:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Mohamed Ali",
+        "vorname": "Amira",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Mohamed Ali",
+        "vorname": "Amira",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Amira Mohamed Ali, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2017-11-30"
+  },
+  "7741": {
+    "id": "7741",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Nastic",
+    "vorname": "Zaklin",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2025-03-13T14:35:52+01:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Nastic",
+        "vorname": "Zaklin",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Nastic",
+        "vorname": "Zaklin",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Zaklin Nastic, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2017-11-14"
+  },
+  "7742": {
+    "id": "7742",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Tatti",
+    "vorname": "Jessica",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2024-04-05T10:39:21+02:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Tatti",
+        "vorname": "Jessica",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Tatti",
+        "vorname": "Jessica",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Jessica Tatti, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2017-12-07"
+  },
+  "7743": {
+    "id": "7743",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Ulrich",
+    "vorname": "Alexander",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2024-04-05T10:40:11+02:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Ulrich",
+        "vorname": "Alexander",
+        "wahlperiode_nummer": [
+          16,
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Ulrich",
+        "vorname": "Alexander",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Alexander Ulrich, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2005-11-30"
+  },
+  "7744": {
+    "id": "7744",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BSW (Gruppe)"
+    ],
+    "nachname": "Wagenknecht",
+    "vorname": "Sahra",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2025-03-06T17:23:57+01:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Wagenknecht",
+        "vorname": "Sahra",
+        "wahlperiode_nummer": [
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Wagenknecht",
+        "vorname": "Sahra",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Wagenknecht",
+        "vorname": "Sahra",
+        "wahlperiode_nummer": [
+          17
+        ]
+      }
+    ],
+    "titel": "Dr. Sahra Wagenknecht, MdB, BSW (Gruppe)",
+    "datum": "2025-03-24",
+    "basisdatum": "2009-11-11"
+  },
+  "7752": {
+    "id": "7752",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "BÜNDNIS 90/DIE GRÜNEN"
+    ],
+    "nachname": "Krumwiede-Steiner",
+    "vorname": "Franziska",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2024-03-05T09:30:29+01:00",
+    "titel": "Dr. Franziska Krumwiede-Steiner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+    "datum": "2025-01-30",
+    "basisdatum": "2024-03-14"
+  },
+  "7761": {
+    "id": "7761",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "fraktionslos"
+    ],
+    "nachname": "Seitz",
+    "vorname": "Thomas",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2024-05-08T10:00:11+02:00",
+    "person_roles": [
+      {
+        "fraktion": "AfD",
+        "nachname": "Seitz",
+        "vorname": "Thomas",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      }
+    ],
+    "titel": "Thomas Seitz, MdB, fraktionslos",
+    "datum": "2025-03-18",
+    "basisdatum": "2017-11-20"
+  },
+  "7777": {
+    "id": "7777",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "CDU/CSU"
+    ],
+    "nachname": "Sekmen",
+    "vorname": "Melis",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2024-08-12T09:37:05+02:00",
+    "person_roles": [
+      {
+        "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+        "nachname": "Sekmen",
+        "vorname": "Melis",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Sekmen",
+        "vorname": "Melis"
+      }
+    ],
+    "titel": "Melis Sekmen, MdB, CDU/CSU",
+    "datum": "2025-03-18",
+    "basisdatum": "2022-03-03"
+  },
+  "7806": {
+    "id": "7806",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "Die Linke (Gruppe)"
+    ],
+    "nachname": "Ferschl",
+    "vorname": "Susanne",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20
+    ],
+    "aktualisiert": "2025-01-14T11:30:19+01:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Ferschl",
+        "vorname": "Susanne",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Ferschl",
+        "vorname": "Susanne",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Susanne Ferschl, MdB, Die Linke (Gruppe)",
+    "datum": "2025-02-21",
+    "basisdatum": "2017-11-03"
+  },
+  "7812": {
+    "id": "7812",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "Die Linke (Gruppe)"
+    ],
+    "nachname": "Hennig-Wellsow",
+    "vorname": "Susanne",
+    "typ": "Person",
+    "wahlperiode": [
+      20
+    ],
+    "aktualisiert": "2025-01-14T11:38:05+01:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Hennig-Wellsow",
+        "vorname": "Susanne",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Hennig-Wellsow",
+        "vorname": "Susanne",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Susanne Hennig-Wellsow, MdB, Die Linke (Gruppe)",
+    "datum": "2025-03-14",
+    "basisdatum": "2021-12-07"
+  },
+  "7816": {
+    "id": "7816",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "Die Linke (Gruppe)"
+    ],
+    "nachname": "Lenkert",
+    "vorname": "Ralph",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2025-01-14T11:43:24+01:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Lenkert",
+        "vorname": "Ralph",
+        "wahlperiode_nummer": [
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Lenkert",
+        "vorname": "Ralph",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Ralph Lenkert, MdB, Die Linke (Gruppe)",
+    "datum": "2025-02-07",
+    "basisdatum": "2009-11-12"
+  },
+  "7827": {
+    "id": "7827",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "Die Linke (Gruppe)"
+    ],
+    "nachname": "Vogler",
+    "vorname": "Kathrin",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20
+    ],
+    "aktualisiert": "2025-01-14T11:54:47+01:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Vogler",
+        "vorname": "Kathrin",
+        "wahlperiode_nummer": [
+          17,
+          18,
+          19,
+          20
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Vogler",
+        "vorname": "Kathrin",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Kathrin Vogler, MdB, Die Linke (Gruppe)",
+    "datum": "2025-03-07",
+    "basisdatum": "2009-11-20"
+  },
+  "7874": {
+    "id": "7874",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "Die Linke (Gruppe)"
+    ],
+    "nachname": "Latendorf",
+    "vorname": "Ina",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T10:06:49+01:00",
+    "person_roles": [
+      {
+        "fraktion": "DIE LINKE",
+        "nachname": "Latendorf",
+        "vorname": "Ina",
+        "wahlperiode_nummer": [
+          20,
+          21
+        ]
+      },
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Latendorf",
+        "vorname": "Ina",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Ina Latendorf, MdB, Die Linke (Gruppe)",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-11-09"
+  },
+  "7934": {
+    "id": "7934",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "AfD"
+    ],
+    "nachname": "Helferich",
+    "vorname": "Matthias",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-07T11:04:01+01:00",
+    "person_roles": [
+      {
+        "fraktion": "fraktionslos",
+        "nachname": "Helferich",
+        "vorname": "Matthias",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Matthias Helferich, MdB, AfD",
+    "datum": "2026-10-14",
+    "basisdatum": "2021-12-07"
+  },
+  "8107": {
+    "id": "8107",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Cademartori",
+    "vorname": "Isabel",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-21T11:14:54+01:00",
+    "person_roles": [
+      {
+        "fraktion": "SPD",
+        "nachname": "Cademartori Dujisin",
+        "vorname": "Isabel",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Isabel Cademartori, MdB, SPD",
+    "datum": "2026-09-08",
+    "basisdatum": "2022-01-13"
+  },
+  "8120": {
+    "id": "8120",
+    "funktion": [
+      "Bundesmin."
+    ],
+    "ressort": [
+      "Bundesministerium der Finanzen"
+    ],
+    "nachname": "Klingbeil",
+    "vorname": "Lars",
+    "typ": "Person",
+    "wahlperiode": [
+      15,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-09T09:45:30+02:00",
+    "person_roles": [
+      {
+        "fraktion": "SPD",
+        "nachname": "Klingbeil",
+        "vorname": "Lars",
+        "wahlperiode_nummer": [
+          15,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "titel": "Lars Klingbeil, Bundesmin., Bundesministerium der Finanzen",
+    "datum": "2026-10-08",
+    "basisdatum": "2005-02-22"
+  },
+  "8121": {
+    "id": "8121",
+    "funktion": [
+      "Bundesmin."
+    ],
+    "ressort": [
+      "Bundesministerium des Innern"
+    ],
+    "nachname": "Dobrindt",
+    "vorname": "Alexander",
+    "typ": "Person",
+    "wahlperiode": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-09T10:05:41+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Dobrindt",
+        "vorname": "Alexander",
+        "wahlperiode_nummer": [
+          15,
+          16,
+          17,
+          19,
+          20
+        ]
+      },
+      {
+        "ressort_titel": "Bundesministerium für Verkehr und digitale Infrastruktur",
+        "nachname": "Dobrindt",
+        "vorname": "Alexander",
+        "wahlperiode_nummer": [
+          18
+        ]
+      }
+    ],
+    "titel": "Alexander Dobrindt, Bundesmin., Bundesministerium des Innern",
+    "datum": "2026-09-24",
+    "basisdatum": "2002-11-05"
+  },
+  "8139": {
+    "id": "8139",
+    "funktion": [
+      "Parl. Staatssekr."
+    ],
+    "ressort": [
+      "Bundesministerium des Innern"
+    ],
+    "nachname": "Vries",
+    "vorname": "Christoph",
+    "namenszusatz": "de",
+    "typ": "Person",
+    "wahlperiode": [
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-09T12:05:32+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Vries",
+        "vorname": "Christoph",
+        "namenszusatz": "de",
+        "wahlperiode_nummer": [
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "titel": "Christoph de Vries, Parl. Staatssekr., Bundesministerium des Innern",
+    "datum": "2026-10-08",
+    "basisdatum": "2018-01-16"
+  },
+  "8143": {
+    "id": "8143",
+    "funktion": [
+      "Parl. Staatssekr."
+    ],
+    "ressort": [
+      "Bundesministerium der Verteidigung"
+    ],
+    "nachname": "Hartmann",
+    "vorname": "Sebastian",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-09T12:17:59+02:00",
+    "person_roles": [
+      {
+        "fraktion": "SPD",
+        "nachname": "Hartmann",
+        "vorname": "Sebastian",
+        "wahlperiode_nummer": [
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "titel": "Sebastian Hartmann, Parl. Staatssekr., Bundesministerium der Verteidigung",
+    "datum": "2026-10-08",
+    "basisdatum": "2014-02-12"
+  },
+  "8151": {
+    "id": "8151",
+    "funktion": [
+      "Parl. Staatssekr."
+    ],
+    "ressort": [
+      "Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend"
+    ],
+    "nachname": "Wulf",
+    "vorname": "Mareike Lotte",
+    "typ": "Person",
+    "wahlperiode": [
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-09T12:34:42+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Wulf",
+        "vorname": "Mareike Lotte",
+        "wahlperiode_nummer": [
+          20
+        ]
+      }
+    ],
+    "titel": "Mareike Lotte Wulf, Parl. Staatssekr., Bundesministerium für Bildung, Familie, Senioren, Frauen und Jugend",
+    "datum": "2026-10-02",
+    "basisdatum": "2022-02-16"
+  },
+  "8156": {
+    "id": "8156",
+    "funktion": [
+      "Parl. Staatssekr."
+    ],
+    "ressort": [
+      "Bundesministerium für Verkehr"
+    ],
+    "nachname": "Lange",
+    "vorname": "Ulrich",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-09T12:43:07+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Lange",
+        "vorname": "Ulrich",
+        "wahlperiode_nummer": [
+          17,
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "titel": "Ulrich Lange, Parl. Staatssekr., Bundesministerium für Verkehr",
+    "datum": "2026-10-09",
+    "basisdatum": "2010-01-28"
+  },
+  "8158": {
+    "id": "8158",
+    "funktion": [
+      "Parl. Staatssekr."
+    ],
+    "ressort": [
+      "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    ],
+    "nachname": "Schwarzelühr-Sutter",
+    "vorname": "Rita",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-07-03T11:22:15+02:00",
+    "person_roles": [
+      {
+        "fraktion": "SPD",
+        "nachname": "Schwarzelühr-Sutter",
+        "vorname": "Rita",
+        "wahlperiode_nummer": [
+          16,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "ressort_titel": "Bundesministerium des Innern und für Heimat",
+        "nachname": "Schwarzelühr-Sutter",
+        "vorname": "Rita",
+        "wahlperiode_nummer": [
+          20,
+          21
+        ]
+      },
+      {
+        "ressort_titel": "Bundesministerium für Umwelt, Naturschutz und nukleare Sicherheit",
+        "nachname": "Schwarzelühr-Sutter",
+        "vorname": "Rita",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      },
+      {
+        "ressort_titel": "Bundesministerium für Umwelt, Naturschutz, Bau und Reaktorsicherheit",
+        "nachname": "Schwarzelühr-Sutter",
+        "vorname": "Rita",
+        "wahlperiode_nummer": [
+          18,
+          19
+        ]
+      },
+      {
+        "fraktion": "SPD",
+        "nachname": "Schwarzelühr-Sutter",
+        "vorname": "Rita",
+        "wahlperiode_nummer": [
+          17
+        ]
+      }
+    ],
+    "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "datum": "2026-10-08",
+    "basisdatum": "2006-02-10"
+  },
+  "8159": {
+    "id": "8159",
+    "funktion": [
+      "Parl. Staatssekr."
+    ],
+    "ressort": [
+      "Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit"
+    ],
+    "nachname": "Träger",
+    "vorname": "Carsten",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2026-05-28T13:01:47+02:00",
+    "person_roles": [
+      {
+        "fraktion": "SPD",
+        "nachname": "Träger",
+        "vorname": "Carsten",
+        "wahlperiode_nummer": [
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "titel": "Carsten Träger, Parl. Staatssekr., Bundesministerium für Umwelt, Klimaschutz, Naturschutz und nukleare Sicherheit",
+    "datum": "2026-03-20",
+    "basisdatum": "2014-01-30"
+  },
+  "8167": {
+    "id": "8167",
+    "funktion": [
+      "Bundeskanzl."
+    ],
+    "nachname": "Merz",
+    "vorname": "Friedrich",
+    "typ": "Person",
+    "wahlperiode": [
+      13,
+      14,
+      15,
+      16,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-15T14:31:54+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Merz",
+        "vorname": "Friedrich",
+        "wahlperiode_nummer": [
+          13,
+          14,
+          15,
+          16,
+          20
+        ]
+      }
+    ],
+    "titel": "Friedrich Merz, Bundeskanzl.",
+    "datum": "2026-10-14",
+    "basisdatum": "1995-01-19"
+  },
+  "8171": {
+    "id": "8171",
+    "funktion": [
+      "Bundestagsvizepräs."
+    ],
+    "nachname": "Lindholz",
+    "vorname": "Andrea",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-19T11:11:40+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Lindholz",
+        "vorname": "Andrea",
+        "wahlperiode_nummer": [
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "titel": "Andrea Lindholz, Bundestagsvizepräs.",
+    "datum": "2026-10-15",
+    "basisdatum": "2014-01-31"
+  },
+  "8173": {
+    "id": "8173",
+    "funktion": [
+      "Bundestagsvizepräs."
+    ],
+    "nachname": "Nouripour",
+    "vorname": "Omid",
+    "typ": "Person",
+    "wahlperiode": [
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-05-19T11:14:25+02:00",
+    "person_roles": [
+      {
+        "fraktion": "BÜNDNIS 90/DIE GRÜNEN",
+        "nachname": "Nouripour",
+        "vorname": "Omid",
+        "wahlperiode_nummer": [
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      }
+    ],
+    "titel": "Omid Nouripour, Bundestagsvizepräs.",
+    "datum": "2026-10-13",
+    "basisdatum": "2006-09-18"
+  },
+  "8249": {
+    "id": "8249",
+    "funktion": [
+      "Bundesmin. f. besondere Aufgaben und Ch. des Bundeskanzleramtes"
+    ],
+    "ressort": [
+      "Bundeskanzleramt"
+    ],
+    "nachname": "Warken",
+    "vorname": "Nina",
+    "typ": "Person",
+    "wahlperiode": [
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2026-07-30T17:50:15+02:00",
+    "person_roles": [
+      {
+        "ressort_titel": "Bundesministerium für Gesundheit",
+        "nachname": "Warken",
+        "vorname": "Nina",
+        "wahlperiode_nummer": [
+          21
+        ]
+      },
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Warken",
+        "vorname": "Nina",
+        "wahlperiode_nummer": [
+          18,
+          19,
+          20
+        ]
+      }
+    ],
+    "titel": "Nina Warken, Bundesmin. f. besondere Aufgaben und Ch. des Bundeskanzleramtes, Bundeskanzleramt",
+    "datum": "2026-10-02",
+    "basisdatum": "2014-02-12"
+  },
+  "8251": {
+    "id": "8251",
+    "funktion": [
+      "Bundesmin."
+    ],
+    "ressort": [
+      "Bundesministerium für Verkehr"
+    ],
+    "nachname": "Bilger",
+    "vorname": "Steffen",
+    "typ": "Person",
+    "wahlperiode": [
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2026-07-30T17:59:49+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Bilger",
+        "vorname": "Steffen",
+        "wahlperiode_nummer": [
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "ressort_titel": "Bundesministerium für Verkehr und digitale Infrastruktur",
+        "nachname": "Bilger",
+        "vorname": "Steffen",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      }
+    ],
+    "titel": "Steffen Bilger, Bundesmin., Bundesministerium für Verkehr",
+    "datum": "2026-10-07",
+    "basisdatum": "2010-03-25"
+  },
+  "8254": {
+    "id": "8254",
+    "funktion": [
+      "Parl. Staatssekr."
+    ],
+    "ressort": [
+      "Bundesministerium für Digitales und Staatsmodernisierung"
+    ],
+    "nachname": "Connemann",
+    "vorname": "Gitta",
+    "typ": "Person",
+    "wahlperiode": [
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2026-08-28T10:11:38+02:00",
+    "person_roles": [
+      {
+        "fraktion": "CDU/CSU",
+        "nachname": "Connemann",
+        "vorname": "Gitta",
+        "wahlperiode_nummer": [
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21
+        ]
+      },
+      {
+        "ressort_titel": "Bundesministerium für Wirtschaft und Energie",
+        "nachname": "Connemann",
+        "vorname": "Gitta",
+        "wahlperiode_nummer": [
+          21
+        ]
+      }
+    ],
+    "titel": "Gitta Connemann, Parl. Staatssekr., Bundesministerium für Digitales und Staatsmodernisierung",
+    "datum": "2026-10-02",
+    "basisdatum": "2002-11-08"
+  },
+  "986": {
+    "id": "986",
+    "funktion": [
+      "MdB"
+    ],
+    "fraktion": [
+      "SPD"
+    ],
+    "nachname": "Scholz",
+    "vorname": "Olaf",
+    "typ": "Person",
+    "wahlperiode": [
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "aktualisiert": "2025-03-11T17:18:23+01:00",
+    "person_roles": [
+      {
+        "ressort_titel": "Bundesministerium der Finanzen",
+        "nachname": "Scholz",
+        "vorname": "Olaf",
+        "wahlperiode_nummer": [
+          19,
+          20
+        ]
+      },
+      {
+        "nachname": "Scholz",
+        "vorname": "Olaf",
+        "wahlperiode_nummer": [
+          20
+        ]
+      },
+      {
+        "funktionszusatz": "Präsident des Senats, Erster Bürgermeister",
+        "bundesland": "Hamburg",
+        "nachname": "Scholz",
+        "vorname": "Olaf",
+        "wahlperiode_nummer": [
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "nachname": "Scholz",
+        "vorname": "Olaf",
+        "wahlperiode_nummer": [
+          17
+        ]
+      },
+      {
+        "ressort_titel": "Bundesministerium für Arbeit und Soziales",
+        "nachname": "Scholz",
+        "vorname": "Olaf",
+        "wahlperiode_nummer": [
+          16
+        ]
+      }
+    ],
+    "titel": "Olaf Scholz, MdB, SPD",
+    "datum": "2026-08-13",
+    "basisdatum": "1998-11-20"
+  }
+}

@@ -1,0 +1,3829 @@
+{
+  "numFound": 69,
+  "documents": [
+    {
+      "id": "1690920",
+      "aktivitaetsart": "Zur Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "2075",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:25:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Antrag zur Geschäftsordnung",
+          "vorgangstyp": "Anmerkung zur Plenarsitzung",
+          "titel": "Geschäftsordnungsantrag der Fraktion der AfD auf Herbeirufung des Bundeskanzlers, Olaf Scholz",
+          "id": "315429"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24193A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24193",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24193,
+        "endseite": 24193,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeskanzler",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Geschäftsordnung des Deutschen Bundestages § 42 - Herbeirufung eines Mitglieds der Bundesregierung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Scholz, Olaf",
+          "typ": "Personen"
+        }
+      ],
+      "titel": "Stephan Brandner, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690919",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8136",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T11:51:08+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24212C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24212",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dennis Rohde, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690918",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2085",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:32:11+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24211D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24211",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Carsten Brodesser, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690917",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1618",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:46:24+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24210D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24210",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Svenja Stadler, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690916",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7909",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:20:29+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24209B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24209",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Ingeborg Gräßle, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690915",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7740",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24208D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24208",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Amira Mohamed Ali, MdB, BSW (Gruppe)",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690914",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7267",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T14:13:52+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24207D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24207",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Leon Eckert, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690913",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7817",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T17:48:11+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24207A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24207",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Gesine Lötzsch, MdB, Die Linke (Gruppe)",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690912",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "626",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:12:12+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24205D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24205",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Martin Gerster, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690911",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1564",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:22:36+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24204C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24204",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Florian Oßner, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690910",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7224",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:24:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24203C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24203",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690909",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7479",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24202C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24202",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Wiebke Papenbrock, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690908",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2191",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:18:46+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24201B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24201",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Kay Gottschalk, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690907",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "1604",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:52:31+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24200B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24200",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "titel": "Christian Haase, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690906",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "55",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24199D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24199",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Otto Fricke, MdB, FDP",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690905",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1604",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:52:31+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24198B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24198",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Christian Haase, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690904",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1091",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24196D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24196",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Sven-Christian Kindler, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690903",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2072",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:12:29+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24196A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24196",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Peter Boehringer, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690902",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7263",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T14:00:04+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24194C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24194",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Felix Döring, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690901",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7764",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:41:44+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24193B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24193",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Yannick Bury, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690899",
+      "abstract": "Zusammenberaten mit Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1171",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T15:48:29+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Gesetzentwurf)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24191C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24191",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24191,
+        "endseite": 24214,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Christian Lindner, Bundesmin., Bundesministerium der Finanzen",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690896",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7456",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24190C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24190",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Lena Werner, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690895",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7625",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24190A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24190",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Joana Cotar, MdB, fraktionslos",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690894",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "483",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:45:25+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24189C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24189",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "titel": "Jens Spahn, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690893",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1601",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:56:40+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24188D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24188",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Nina Scheer, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690892",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "7397",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:54:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24187D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24187",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "titel": "Dr. Sebastian Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690891",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "2102",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24186C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24186",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "titel": "Dr. Anna Christmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690890",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1187",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:40:45+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24186A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24186",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Andreas Mattfeldt, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690889",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1648",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24185B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24185",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bernd Westphal, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690888",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1544",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T14:08:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24184B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24184",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Hansjörg Durz, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690887",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2233",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24183C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24183",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Reinhard Houben, MdB, FDP",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690886",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2095",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:45:00+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24183A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24183",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jörg Cezanne, MdB, Die Linke (Gruppe)",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690885",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7309",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:30:23+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24182A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24182",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verena Hubertz, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690884",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2066",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:59:22+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24181C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24181",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Marc Bernhard, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690883",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1983",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:19:45+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24180D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24180",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Lisa Badum, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690882",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1791",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-16T14:30:40+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24179C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24179",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Andreas Jung, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690881",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2064",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24178D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24178",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Olaf in der Beek, MdB, FDP",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690878",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "7458",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:40:18+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24177C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24177",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "titel": "Dr. Klaus Wiener, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690877",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "411",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T11:20:58+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24176C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24176",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Matthias Miersch, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690876",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2196",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:39:59+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24175D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24175",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Wolfgang Wiehle, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690875",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7224",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:24:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24174C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24174",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690874",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "224",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T15:41:35+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24173B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24173",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Julia Klöckner, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690873",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2249",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-08T10:08:27+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24172B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24172",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Karsten Klein, MdB, FDP",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690872",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2230",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:27:05+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24171C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24171",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Leif-Erik Holm, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690871",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1695",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-09-10T11:52:58+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24170A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24170",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Frank Junge, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690870",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "483",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:45:25+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24168C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24168",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jens Spahn, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690869",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7294",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:52:53+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24166C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24166",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24166,
+        "endseite": 24191,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690868",
+      "aktivitaetsart": "Zur Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "8127",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T10:56:16+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Ordnungsruf",
+          "vorgangstyp": "Geschäftsordnung",
+          "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+          "id": "315426"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24161D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24161",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24161,
+        "endseite": 24162,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ordnungsruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarische Ordnung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bärbel Bas, Bundestagspräs.",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690863",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7307",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:28:44+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24165B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24165",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Franziska Hoppermann, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690862",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7317",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-19T15:15:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24164B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24164",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Macit Karaahmetoğlu, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690861",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7559",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:40:35+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24163B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24163",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Clara Bünger, MdB, Die Linke (Gruppe)",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690860",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2062",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-21T13:23:20+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24162A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24162",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690859",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2075",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:25:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24161A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24161",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stephan Brandner, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690858",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7269",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:35:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24159A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24159",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sonja Eichwede, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690856",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1633",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-21T13:23:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24158A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24158",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Volker Ullrich, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690855",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "7471",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:50:33+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24157C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24157",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Till Steffen, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690854",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "2151",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:11:02+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24157A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24157",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Beatrix von Storch, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690853",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7471",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:50:33+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24155C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24155",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Till Steffen, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690852",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "198",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:04:16+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24155A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24155",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "titel": "Carsten Müller (Braunschweig), MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690851",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "593",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:46:15+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24154A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24154",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "titel": "Elisabeth Winkelmeier-Becker, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690849",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7450",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T09:58:38+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24152D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24152",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Carmen Wegge, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690848",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2237",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:31:48+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24151D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24151",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Fabian Jacobi, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690847",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7362",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-21T13:22:48+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24150C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24150",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Thorsten Lieb, MdB, FDP",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690846",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "198",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:04:16+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24149B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24149",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Carsten Müller (Braunschweig), MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690845",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7306",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-10-21T13:22:41+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24148A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24148",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bruno Hönel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690844",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2142",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:41:49+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24146D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24146",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Michael Espendiller, MdB, AfD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690843",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2109",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:55:52+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24145A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24145",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Esther Dilcher, MdB, SPD",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690842",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "387",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T09:50:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24143A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24143",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Günter Krings, MdB, CDU/CSU",
+      "datum": "2024-09-13"
+    },
+    {
+      "id": "1690841",
+      "abstract": "Epl 07 - Bundesministerium der Justiz und Epl 19 - Bundesverfassungsgericht sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2090",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T15:47:54+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "1. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "seite": "24141C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20186.pdf#P.24141",
+        "id": "5667",
+        "dokumentnummer": "20/186",
+        "datum": "2024-09-13",
+        "verteildatum": "2024-09-16",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20186.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 24141,
+        "endseite": 24166,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2025",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Rechtspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Marco Buschmann, Bundesmin., Bundesministerium der Justiz",
+      "datum": "2024-09-13"
+    }
+  ]
+}

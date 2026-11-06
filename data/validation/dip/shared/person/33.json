@@ -1,0 +1,78 @@
+{
+  "id": "33",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "DIE LINKE"
+  ],
+  "nachname": "Gysi",
+  "vorname": "Gregor",
+  "typ": "Person",
+  "wahlperiode": [
+    11,
+    12,
+    13,
+    14,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "aktualisiert": "2025-03-24T12:48:03+01:00",
+  "person_roles": [
+    {
+      "nachname": "Gysi",
+      "vorname": "Gregor",
+      "wahlperiode_nummer": [
+        21
+      ]
+    },
+    {
+      "fraktion": "fraktionslos",
+      "nachname": "Gysi",
+      "vorname": "Gregor",
+      "wahlperiode_nummer": [
+        20
+      ]
+    },
+    {
+      "fraktion": "Die Linke (Gruppe)",
+      "nachname": "Gysi",
+      "vorname": "Gregor",
+      "wahlperiode_nummer": [
+        20
+      ]
+    },
+    {
+      "fraktion": "PDS",
+      "nachname": "Gysi",
+      "vorname": "Gregor",
+      "wahlperiode_nummer": [
+        14
+      ]
+    },
+    {
+      "fraktion": "PDS (Gruppe)",
+      "nachname": "Gysi",
+      "vorname": "Gregor",
+      "wahlperiode_nummer": [
+        11,
+        13
+      ]
+    },
+    {
+      "fraktion": "PDS/LL (Gruppe)",
+      "nachname": "Gysi",
+      "vorname": "Gregor",
+      "wahlperiode_nummer": [
+        12
+      ]
+    }
+  ],
+  "titel": "Dr. Gregor Gysi, MdB, DIE LINKE",
+  "datum": "2026-10-14",
+  "basisdatum": "1990-10-04"
+}

@@ -1,0 +1,1963 @@
+{
+  "numFound": 32,
+  "documents": [
+    {
+      "id": "659546",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung interner Gremien des BT",
+      "titel": "Festlegung der Zahl der deutschen Mitglieder des Europäischen Parlaments zur Teilnahme an Sitzungen des Ausschusses für Angelegenheiten der Europäischen Union",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23965",
+        "anfangsseite": 23965,
+        "endseite": 23965,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme",
+          "seite": "23965B"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "315408"
+    },
+    {
+      "id": "659641",
+      "vorgangsposition": "Antrag zur Geschäftsordnung",
+      "zuordnung": "BT",
+      "abstract": "S. 24033B - Erledigt durch Erscheinen des Bundesministers",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Anmerkung zur Plenarsitzung",
+      "titel": "Geschäftsordnungsantrag der Fraktion der CDU/CSU auf Herbeirufung des Bundesministers für Gesundheit, Karl Lauterbach",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-09-03T16:57:47+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24031",
+        "anfangsseite": 24031,
+        "endseite": 24031,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24031B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Patrick Schnieder, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24031"
+        },
+        {
+          "seite": "24031C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Wolfgang Kubicki, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24031"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "315459"
+    },
+    {
+      "id": "659517",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 26,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)",
+          "id": "315331"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Kehrtwende in der Migrationspolitik jetzt einleiten - Maßnahmen zur sofortigen Beendigung der illegalen Einwanderungsströme treffen",
+          "id": "315336"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für eine echte Wende in der Asyl- und Migrationspolitik - Zurückweisungen an den deutschen Grenzen vornehmen",
+          "id": "315359"
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23965",
+        "anfangsseite": 23965,
+        "endseite": 23992,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12805",
+          "seite": "23992A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23966A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23966"
+        },
+        {
+          "seite": "23968C",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23968"
+        },
+        {
+          "seite": "23970A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23970"
+        },
+        {
+          "seite": "23971B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23971"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "315332"
+    },
+    {
+      "id": "659518",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 26,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)",
+          "id": "315331"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Kehrtwende in der Migrationspolitik jetzt einleiten - Maßnahmen zur sofortigen Beendigung der illegalen Einwanderungsströme treffen",
+          "id": "315336"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für eine echte Wende in der Asyl- und Migrationspolitik - Zurückweisungen an den deutschen Grenzen vornehmen",
+          "id": "315359"
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23965",
+        "anfangsseite": 23965,
+        "endseite": 23992,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12806",
+          "seite": "23992A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23966A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23966"
+        },
+        {
+          "seite": "23968C",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23968"
+        },
+        {
+          "seite": "23970A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23970"
+        },
+        {
+          "seite": "23971B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23971"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "315333"
+    },
+    {
+      "id": "659519",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 26,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Kehrtwende in der Migrationspolitik jetzt einleiten - Maßnahmen zur sofortigen Beendigung der illegalen Einwanderungsströme treffen",
+          "id": "315336"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für eine echte Wende in der Asyl- und Migrationspolitik - Zurückweisungen an den deutschen Grenzen vornehmen",
+          "id": "315359"
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23965",
+        "anfangsseite": 23965,
+        "endseite": 23992,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12804",
+          "seite": "23992A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23966A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23966"
+        },
+        {
+          "seite": "23968C",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23968"
+        },
+        {
+          "seite": "23970A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23970"
+        },
+        {
+          "seite": "23971B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23971"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "315331"
+    },
+    {
+      "id": "659520",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Kehrtwende in der Migrationspolitik jetzt einleiten - Maßnahmen zur sofortigen Beendigung der illegalen Einwanderungsströme treffen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 26,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)",
+          "id": "315331"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für eine echte Wende in der Asyl- und Migrationspolitik - Zurückweisungen an den deutschen Grenzen vornehmen",
+          "id": "315359"
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23965",
+        "anfangsseite": 23965,
+        "endseite": 23992,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der AfD (Sofortabstimmung)",
+          "dokumentnummer": "20/12802",
+          "seite": "23992B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23966A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23966"
+        },
+        {
+          "seite": "23968C",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23968"
+        },
+        {
+          "seite": "23970A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23970"
+        },
+        {
+          "seite": "23971B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23971"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "315336"
+    },
+    {
+      "id": "659521",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für eine echte Wende in der Asyl- und Migrationspolitik - Zurückweisungen an den deutschen Grenzen vornehmen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 26,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der inneren Sicherheit und des Asylsystems",
+          "id": "315332"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Terrorismusbekämpfung",
+          "id": "315333"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)",
+          "id": "315331"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Kehrtwende in der Migrationspolitik jetzt einleiten - Maßnahmen zur sofortigen Beendigung der illegalen Einwanderungsströme treffen",
+          "id": "315336"
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23965",
+        "anfangsseite": 23965,
+        "endseite": 23992,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der CDU/CSU (Sofortabstimmung)",
+          "dokumentnummer": "20/12835",
+          "seite": "23992C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23966A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23966"
+        },
+        {
+          "seite": "23968C",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23968"
+        },
+        {
+          "seite": "23970A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23970"
+        },
+        {
+          "seite": "23971B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23971"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "315359"
+    },
+    {
+      "id": "659532",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA) \r\nAufgaben und Herausforderungen einer vielfältigen und vielfaltsfördernden Pflanzenzüchtung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/5300",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "296063"
+    },
+    {
+      "id": "659533",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA) \r\nChancen und Risiken der Digitalisierung kritischer kommunaler Infrastrukturen an den Beispielen der Wasser- und Abfallwirtschaft",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/8888",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "305082"
+    },
+    {
+      "id": "659534",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA)\r\nBakteriophagen in Medizin, Land- und Lebensmittelwirtschaft - Anwendungsperspektiven, Innovations- und Regulierungsfragen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/7600",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "302123"
+    },
+    {
+      "id": "659535",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA)\r\nStrategien und Instrumente zur Verbesserung des Rezyklateinsatzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10700",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "310143"
+    },
+    {
+      "id": "659536",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA)\r\nKrisenradar - Resilienz von Gesellschaft, Politik und Wirtschaft durch Krisenvorhersage stärken",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11890",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "313236"
+    },
+    {
+      "id": "659537",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA) \r\nAlternative Technologiepfade für die Emissionsreduktion in der Grundstoffindustrie (Ergebnisbericht)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11555",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "312421"
+    },
+    {
+      "id": "659538",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA) \r\nAlternative Technologiepfade für die Emissionsreduktion in der Grundstoffindustrie (Langfassung)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11556",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "312422"
+    },
+    {
+      "id": "659539",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Korrektur schwebender Änderungen im Passgesetz, im Personalausweisgesetz und im eID-Karte-Gesetz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12807",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "315335"
+    },
+    {
+      "id": "659540",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Islamistisches Bedrohungspotential erforschen - Wiedereinsetzung des Expertenkreises Politischer Islamismus dringend notwendig",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12803",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "315342"
+    },
+    {
+      "id": "659558",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Wahl im BT",
+      "titel": "Wahl eines Stellvertreters der Präsidentin",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-04T09:17:06+01:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24042",
+        "anfangsseite": 24042,
+        "endseite": 24043,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "mehrheit": "Absolute Mehrheit",
+          "abstimmungsart": "Geheime Wahl",
+          "beschlusstenor": "Ablehnung des Wahlvorschlags",
+          "abstimm_ergebnis_bemerkung": "78:552:14:1",
+          "dokumentnummer": "20/12203",
+          "seite": "24067A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "313833"
+    },
+    {
+      "id": "659560",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung interner Gremien des BT",
+      "titel": "Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-03T09:52:31+01:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24042",
+        "anfangsseite": 24042,
+        "endseite": 24043,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "mehrheit": "Absolute Mehrheit",
+          "beschlusstenor": "Ablehnung des Wahlvorschlags",
+          "abstimm_ergebnis_bemerkung": "82:558:5:0 (korrigiertes Abstimmungsergebnis S. 24072A)",
+          "dokumentnummer": "20/12204",
+          "seite": "24067A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "313835"
+    },
+    {
+      "id": "659531",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur periodengerechten Veranschlagung von Zinsausgaben im Rahmen der staatlichen Kreditaufnahme und Drittes Gesetz zur Weiterentwicklung der Qualität und zur Teilhabe in der Kindertagesbetreuung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24040",
+        "anfangsseite": 24040,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12771",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "314876"
+    },
+    {
+      "id": "659541",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Stabilität und Sicherheit für den Westbalkan",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24042",
+        "anfangsseite": 24042,
+        "endseite": 24042,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/7196",
+          "seite": "24042A"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "300731"
+    },
+    {
+      "id": "659542",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Grenzschutzzäune gemeinsam finanzieren - Gemeinsam gegen illegale Einwanderung vorgehen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24042",
+        "anfangsseite": 24042,
+        "endseite": 24042,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/6717",
+          "seite": "24042B"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "299366"
+    },
+    {
+      "id": "659543",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Schleuserkriminalität bekämpfen und profitorientierten sowie weltanschaulich motivierten Schleusungsorganisationen entschlossen entgegentreten - Das Mittelmeer darf kein Massengrab werden",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24042",
+        "anfangsseite": 24042,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/8873",
+          "seite": "24042C"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "304880"
+    },
+    {
+      "id": "659544",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Überlebenschancen von Dialysepatienten verbessern - Cross-over-Lebendspende als Leistung der gesetzlichen Krankenversicherung erlauben",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24042",
+        "anfangsseite": 24042,
+        "endseite": 24042,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/4565",
+          "seite": "24042D"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "293755"
+    },
+    {
+      "id": "659523",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten s. mitberatenes Haushaltsgesetz 2025",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Finanzplan des Bundes 2024 bis 2028",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+          "id": "314872"
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23992",
+        "anfangsseite": 23992,
+        "endseite": 24129,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "datum": "2024-09-12",
+      "vorgang_id": "315189"
+    },
+    {
+      "id": "659522",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten und Beschlüsse siehe Einzelpläne",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Finanzplan des Bundes 2024 bis 2028",
+          "id": "315189"
+        }
+      ],
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23992",
+        "anfangsseite": 23992,
+        "endseite": 24129,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "datum": "2024-09-12",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659527",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 06 - Bundesministerium des Innern und für Heimat (zusammenberaten mit Epl 21)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 20,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24067",
+        "anfangsseite": 24067,
+        "endseite": 24089,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24067B",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24067"
+        },
+        {
+          "seite": "24069C",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Throm, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24069"
+        },
+        {
+          "seite": "24071A",
+          "aktivitaetsart": "Rede",
+          "titel": "Leon Eckert, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24071"
+        },
+        {
+          "seite": "24072B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Gottfried Curio, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24072"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659525",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 15 - Bundesministerium für Gesundheit",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 22,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24015",
+        "anfangsseite": 24015,
+        "endseite": 24040,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24015D",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Karl Lauterbach, Bundesmin., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24015"
+        },
+        {
+          "seite": "24017D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tino Sorge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24017"
+        },
+        {
+          "seite": "24019A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Paula Piechotta, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24019"
+        },
+        {
+          "seite": "24019C",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Tino Sorge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24019"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659529",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 16 - Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 20,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-21T13:38:43+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24089",
+        "anfangsseite": 24089,
+        "endseite": 24108,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24089B",
+          "aktivitaetsart": "Rede",
+          "titel": "Steffi Lemke, Bundesmin., Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24089"
+        },
+        {
+          "seite": "24090C",
+          "aktivitaetsart": "Rede",
+          "titel": "Steffen Bilger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24090"
+        },
+        {
+          "seite": "24092A",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Thews, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24092"
+        },
+        {
+          "seite": "24093C",
+          "aktivitaetsart": "Rede",
+          "titel": "Jürgen Braun, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24093"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659524",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 17 - Bundesministerium für Familie, Senioren, Frauen und Jugend",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 20,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-21T13:09:53+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23993",
+        "anfangsseite": 23993,
+        "endseite": 24015,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23993A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lisa Paus, Bundesmin., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23993"
+        },
+        {
+          "seite": "23995B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dorothee Bär, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23995"
+        },
+        {
+          "seite": "23996D",
+          "aktivitaetsart": "Rede",
+          "titel": "Felix Döring, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23996"
+        },
+        {
+          "seite": "23997D",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Reichardt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.23997"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659528",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 21 - Bundesbeauftragte für den Datenschutz und die Informationsfreiheit (zusammenberaten mit Epl 06, Rednerliste s. dort)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24067",
+        "anfangsseite": 24067,
+        "endseite": 24089,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "datum": "2024-09-12",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659642",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 20,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T09:52:12+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24108",
+        "anfangsseite": 24108,
+        "endseite": 24129,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24109A",
+          "aktivitaetsart": "Rede",
+          "titel": "Svenja Schulze, Bundesmin., Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24109"
+        },
+        {
+          "seite": "24111B",
+          "aktivitaetsart": "Rede",
+          "titel": "Volkmar Klein, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24111"
+        },
+        {
+          "seite": "24112B",
+          "aktivitaetsart": "Rede",
+          "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24112"
+        },
+        {
+          "seite": "24113C",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Hermann Gröhe, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24113"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "314872"
+    },
+    {
+      "id": "659526",
+      "vorgangsposition": "1. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 30 - Bundesministerium für Bildung und Forschung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2025 (Haushaltsgesetz 2025 - HG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 25,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-21T13:18:00+02:00",
+      "fundstelle": {
+        "id": "5666",
+        "dokumentnummer": "20/185",
+        "datum": "2024-09-12",
+        "verteildatum": "2024-09-13",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20185.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24043",
+        "anfangsseite": 24043,
+        "endseite": 24067,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24043B",
+          "aktivitaetsart": "Rede",
+          "titel": "Bettina Stark-Watzinger, Bundesmin., Bundesministerium für Bildung und Forschung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24043"
+        },
+        {
+          "seite": "24044C",
+          "aktivitaetsart": "Rede",
+          "titel": "Nadine Schön, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24044"
+        },
+        {
+          "seite": "24046A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Wiebke Esdar, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24046"
+        },
+        {
+          "seite": "24047C",
+          "aktivitaetsart": "Rede",
+          "titel": "Nicole Höchst, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20185.pdf#P.24047"
+        }
+      ],
+      "datum": "2024-09-12",
+      "vorgang_id": "314872"
+    }
+  ]
+}

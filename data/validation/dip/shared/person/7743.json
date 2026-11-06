@@ -1,0 +1,45 @@
+{
+  "id": "7743",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "BSW (Gruppe)"
+  ],
+  "nachname": "Ulrich",
+  "vorname": "Alexander",
+  "typ": "Person",
+  "wahlperiode": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "aktualisiert": "2024-04-05T10:40:11+02:00",
+  "person_roles": [
+    {
+      "fraktion": "DIE LINKE",
+      "nachname": "Ulrich",
+      "vorname": "Alexander",
+      "wahlperiode_nummer": [
+        16,
+        17,
+        18,
+        19,
+        20
+      ]
+    },
+    {
+      "fraktion": "fraktionslos",
+      "nachname": "Ulrich",
+      "vorname": "Alexander",
+      "wahlperiode_nummer": [
+        20
+      ]
+    }
+  ],
+  "titel": "Alexander Ulrich, MdB, BSW (Gruppe)",
+  "datum": "2025-03-24",
+  "basisdatum": "2005-11-30"
+}

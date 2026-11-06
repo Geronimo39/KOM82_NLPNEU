@@ -1,0 +1,4451 @@
+{
+  "numFound": 84,
+  "documents": [
+    {
+      "id": "1667765",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "6962",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-16T12:09:45+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Ansprache",
+          "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+          "titel": "Begrüßung der Wehrbeauftragten des Deutschen Bundestages, Dr. Eva Högl",
+          "id": "308119"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18936C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18936",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundestag: Begrüßung von Gästen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrbeauftragter des Deutschen Bundestages",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Wolfgang Kubicki, Bundestagsvizepräs.",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667764",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7430",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18959B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18959",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Konrad Stockmeier, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667763",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1734",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18958A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18958",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Christian Petry, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667762",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1582",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:07:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18956D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18956",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Alexander Radwan, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667761",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7362",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18956A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18956",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Thorsten Lieb, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667760",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7396",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:54:58+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18954C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18954",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jamila Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667759",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "2045",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:43:36+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18954A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18954",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Christoph Ploß, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667758",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "2072",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:12:29+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18953C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18953",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Peter Boehringer, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667757",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2045",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:43:36+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18952B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18952",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Christoph Ploß, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667756",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2167",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:23:38+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18950D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18950",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Markus Töns, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667755",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2195",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine weiteren Eigenmittel für die Europäische Union",
+          "id": "307993"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18950A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18950",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18949,
+        "endseite": 18960,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "EU-Mittel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Prof. Dr. Harald Weyel, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667754",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "5",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:42:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18945D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18945",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Dr. Norbert Röttgen, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667753",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7827",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-14T11:54:42+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18945B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18945",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Kathrin Vogler, MdB, fraktionslos",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667752",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7344",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18944C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18944",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Philip Krämer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667751",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7244",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18943A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18943",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Johannes Arlt, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667750",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7459",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:46:54+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18942B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18942",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Tobias Winkler, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667749",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2017",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18941B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18941",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Alexander Müller, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667748",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7445",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:10:09+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18940C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18940",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Sara Nanni, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667747",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1982",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:19:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18939D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18939",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Rüdiger Lucassen, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667746",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7133",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18938D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18938",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Dr. Joe Weingarten, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667745",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "8226",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-03-30T11:00:51+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18938B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18938",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Henning Otte, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667744",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "571",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:54:40+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18937D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18937",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Bettina Hagedorn, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667743",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8226",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-03-30T11:00:51+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unterstützung für die Ukraine intensivieren - Industrie stärken - Produktion und Lieferung von Munition nachhaltig hochfahren",
+          "id": "307980"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18936D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18936",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18946,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Henning Otte, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667742",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7482",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:34:23+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18920C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18920",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jens Peick, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667741",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7559",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:40:35+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18919D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18919",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Clara Bünger, MdB, fraktionslos",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667740",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7343",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-28T16:08:08+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18918C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18918",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Takis Mehmet Ali, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667739",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "7236",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-02-12T10:28:12+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18917C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18917",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "titel": "Stephanie Aeffner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667738",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2070",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T12:11:56+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18917B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18917",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Marc Biadacz, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667737",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1974",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:17:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18915D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18915",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Helge Lindh, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667736",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1603",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18914D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18914",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jana Schimke, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667735",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1116",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18913D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18913",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Pascal Kober, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667734",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "884",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18911D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18911",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Wolfgang Strengmann-Kuhn, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667733",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "7311",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:30:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18911B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18911",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gerrit Huy, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667732",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "546",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18910B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18910",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Kai Gehring, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667731",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7311",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:30:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18909B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18909",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gerrit Huy, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667730",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7335",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T15:42:13+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18907D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18907",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Annika Klose, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667729",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7384",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18906D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18906",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Maximilian Mörseburg, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667728",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7434",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18905B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18905",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jens Teutrine, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667727",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7236",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-02-12T10:28:12+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18904A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18904",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stephanie Aeffner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667726",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "2250",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18903C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18903",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Norbert Kleinwächter, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667725",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "7254",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18903B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18903",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Frank Bsirske, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667724",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "7254",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18902B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18902",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "titel": "Frank Bsirske, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667723",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2250",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18901D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18901",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Norbert Kleinwächter, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667722",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7455",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:10:42+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18900C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18900",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Rasha Nasr, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667721",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1134",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:11:33+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Leistungen für Asylbewerber senken - Rechtliche Spielräume nutzen",
+          "id": "307095"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Sozialstaat sichern - Bürgergeld für EU-Bürger und Drittstaatsangehörige begrenzen",
+          "id": "307979"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18899B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18899",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18899,
+        "endseite": 18921,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stephan Stracke, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667720",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "2161",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "3. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18962C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18962",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18936,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Linda Teuteberg, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667719",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7487",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "3. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18962C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18962",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18936,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Volker Redder, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667718",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "6962",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "3. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18962A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18962",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18936,
+        "endseite": 18936,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Wolfgang Kubicki, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667717",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "7316",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T14:12:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18934D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18934",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "titel": "Lamya Kaddor, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667716",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1682",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:24:49+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18934B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18934",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Alexander Hoffmann, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667715",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1024",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:29:30+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18897D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18897",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Ralph Brinkhaus, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667714",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1655",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18933C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18933",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Gülistan Yüksel, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667713",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1971",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-13T14:35:27+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18933A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18933",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Gökay Akbulut, MdB, fraktionslos",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667712",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7609",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18897B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18897",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Robert Farle, MdB, fraktionslos",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667711",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "1671",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18932C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18932",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "titel": "Dr. Stefan Heck, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667710",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7315",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18932A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18932",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Ann-Veruschka Jurisch, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667709",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7270",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:37:58+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18896D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18896",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Alexander Engelhard, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667708",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2062",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18931B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18931",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667707",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1671",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18930B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18930",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Stefan Heck, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667706",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7391",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18896A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18896",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Tina Rudolph, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667705",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1792",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:40:49+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18929A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18929",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dirk Wiese, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667704",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "1682",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:24:49+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18928B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18928",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "titel": "Alexander Hoffmann, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667703",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1152",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18927B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18927",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Stephan Thomae, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667702",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7825",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-14T11:53:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18895C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18895",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Bernd Riexinger, MdB, fraktionslos",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667701",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2199",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:47:55+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18926A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18926",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Christian Wirth, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667700",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7279",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:06:19+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18925A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18925",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Schahina Gambir, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667699",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7336",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:46:46+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18895A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18895",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Volker Mayer-Lay, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667698",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "2048",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:47:33+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18924A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18924",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "titel": "Filiz Polat, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667697",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7243",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T12:18:12+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18894A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18894",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Jakob Blankenburg, MdB, SPD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667696",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1620",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:59:11+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18893C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18893",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Dr. Wolfgang Stefinger, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667695",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "7345",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18923D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18923",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "titel": "Susanne Menge, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667694",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7447",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T09:46:29+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18892C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18892",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Johannes Wagner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667693",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2164",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:22:13+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18922D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18922",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Alexander Throm, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667692",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7598",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18891D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18891",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Nils Gründer, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667691",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8185",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-06-13T09:34:13+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts (StARModG)",
+          "id": "303313"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Den Wert der deutschen Staatsangehörigkeit bewahren",
+          "id": "306983"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18921D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18921",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18921,
+        "endseite": 18936,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur Modernisierung des Staatsangehörigkeitsrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Reem Alabali-Radovan, Staatsmin., Bundeskanzleramt",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667690",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2185",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18891B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18891",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Albrecht Glaser, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667689",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7554",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-02T08:28:40+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18890A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18890",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Dr. Bärbel Kofler, Parl. Staatssekr., Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667688",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1646",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:01:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18889B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18889",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Dr. Anja Weisgerber, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667687",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7285",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:12:43+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18888B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18888",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Dr. Jan-Niclas Gesenhues, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667686",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7284",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18887C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18887",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Knut Gerschau, MdB, FDP",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667685",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2260",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T09:40:43+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18886D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18886",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Dr. Rainer Kraft, MdB, AfD",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667684",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7571",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18885B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18885",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Sarah Ryglewski, Staatsmin., Bundeskanzleramt",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667683",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2119",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:23:24+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18884C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18884",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Felix Schreiner, MdB, CDU/CSU",
+      "datum": "2024-01-19"
+    },
+    {
+      "id": "1667682",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7280",
+      "vorgangsbezug_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:14+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Bericht zur Halbzeit der Agenda 2030 für nachhaltige Entwicklung \r\nMit Mut gemeinsam Zukunft gestalten - weiter Fahrt aufnehmen",
+          "id": "304837"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Weiterentwicklung des Parlamentarischen Beirats für nachhaltige Entwicklung",
+          "id": "308013"
+        }
+      ],
+      "fundstelle": {
+        "seite": "18883D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20148.pdf#P.18883",
+        "id": "5623",
+        "dokumentnummer": "20/148",
+        "datum": "2024-01-19",
+        "verteildatum": "2024-01-22",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20148.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 18883,
+        "endseite": 18899,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarischer Beirat für nachhaltige Entwicklung",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Tessa Ganserer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-19"
+    }
+  ]
+}

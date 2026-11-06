@@ -1,0 +1,437 @@
+{
+  "numFound": 11,
+  "documents": [
+    {
+      "id": "667948",
+      "vorgangsposition": "Aussprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Vereinbarte Debatte",
+      "titel": "Vereinbarte Debatte zur Situation in Deutschland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 22,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27634",
+        "anfangsseite": 27634,
+        "endseite": 27682,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27634A",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27634"
+        },
+        {
+          "seite": "27640C",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27640"
+        },
+        {
+          "seite": "27647B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27647"
+        },
+        {
+          "seite": "27653A",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Lindner, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27653"
+        }
+      ],
+      "datum": "2025-02-11",
+      "vorgang_id": "320221"
+    },
+    {
+      "id": "667950",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Axel Schäfer (SPD) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:42:25+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27677",
+        "anfangsseite": 27677,
+        "endseite": 27677,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27677B",
+          "aktivitaetsart": "Rede",
+          "titel": "Yvonne Magwas, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27677"
+        }
+      ],
+      "datum": "2025-02-11",
+      "vorgang_id": "320222"
+    },
+    {
+      "id": "667951",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung der Abg Joana Cotar (fraktionslos) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:42:45+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27678",
+        "anfangsseite": 27678,
+        "endseite": 27678,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27678B",
+          "aktivitaetsart": "Rede",
+          "titel": "Yvonne Magwas, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27678"
+        }
+      ],
+      "datum": "2025-02-11",
+      "vorgang_id": "320223"
+    },
+    {
+      "id": "667952",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Kevin Kühnert (SPD) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-03T11:40:49+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27682",
+        "anfangsseite": 27682,
+        "endseite": 27682,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27682A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27682"
+        }
+      ],
+      "datum": "2025-02-11",
+      "vorgang_id": "320224"
+    },
+    {
+      "id": "667953",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Eintritt der Abg Ursula Groden-Kranich (CDU/CSU) in den Deutschen Bundestag als Nachfolgerin für den verstorbenen Abg Erwin Rüddel (Mandatsbeginn: 07.02.2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-03T13:23:14+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27633",
+        "anfangsseite": 27633,
+        "endseite": 27633,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "datum": "2025-02-11",
+      "vorgang_id": "320225"
+    },
+    {
+      "id": "667961",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Nachruf auf den Abg Erwin Rüddel (CDU/CSU) (verstorben am 03.02.2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27633",
+        "anfangsseite": 27633,
+        "endseite": 27633,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27633A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27633"
+        }
+      ],
+      "datum": "2025-02-11",
+      "vorgang_id": "320227"
+    },
+    {
+      "id": "667962",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Gedenken an Altbundespräsident Horst Köhler",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27633",
+        "anfangsseite": 27633,
+        "endseite": 27633,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27633C",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27633"
+        }
+      ],
+      "datum": "2025-02-11",
+      "vorgang_id": "320228"
+    },
+    {
+      "id": "667966",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Ansprache der Bundestagsvizepräsidentin Yvonne Magwas anlässlich ihres Ausscheidens aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27678",
+        "anfangsseite": 27678,
+        "endseite": 27679,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27678D",
+          "aktivitaetsart": "Rede",
+          "titel": "Yvonne Magwas, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27678"
+        }
+      ],
+      "datum": "2025-02-11",
+      "vorgang_id": "320233"
+    },
+    {
+      "id": "667968",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung der Bundestagsvizepräsidentin Yvonne Magwas aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:43:31+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27679",
+        "anfangsseite": 27679,
+        "endseite": 27679,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27679C",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27679"
+        }
+      ],
+      "datum": "2025-02-11",
+      "vorgang_id": "320234"
+    },
+    {
+      "id": "667969",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Rückblick auf abgelaufene Wahlperiode und Herausforderungen an den nächsten Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27682",
+        "anfangsseite": 27682,
+        "endseite": 27682,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27682A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27682"
+        }
+      ],
+      "datum": "2025-02-11",
+      "vorgang_id": "320235"
+    },
+    {
+      "id": "668021",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27683D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "titel": "Haushaltsführung 2024\r\nÜberplanmäßige Ausgabe bei Kapitel 3002 Titel 882 01 - Zuweisungen an die Länder zur Förderung von Investitionen in die digitale Infrastruktur für Schulen gemäß § 2 Nummer 3 des Digitalinfrastrukturgesetzes - bis zur Höhe von 310 Mio. Euro",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "fundstelle": {
+        "id": "5698",
+        "dokumentnummer": "20/212",
+        "datum": "2025-02-11",
+        "verteildatum": "2025-02-12",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20212.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20212.pdf#P.27683",
+        "anfangsseite": 27683,
+        "endseite": 27684,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2025-02-11",
+      "vorgang_id": "318567"
+    }
+  ]
+}
