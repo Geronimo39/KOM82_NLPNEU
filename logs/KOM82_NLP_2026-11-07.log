@@ -1,0 +1,217 @@
+07:32:49 | INFO    | Start v03 | Modus=dev | Protokolle=67 | Backend=auto
+07:32:57 | INFO    | Standby während des Laufs verhindert
+07:34:33 | INFO    | RunPod bereit | GPU=NVIDIA A40 | Modelle identisch: ['qwen3:8b', 'qwen3-embedding:4b']
+07:34:34 | INFO    | Auswahl | entwicklung | Protokolle=43
+07:34:54 | INFO    | 20/146 | PDF | Beiträge=461 | IV verknüpft 201/201 | 10.8s
+07:35:13 | INFO    | 20/147 | PDF | Beiträge=650 | IV verknüpft 242/243 | 18.9s
+07:35:20 | INFO    | 20/148 | PDF | Beiträge=255 | IV verknüpft 83/83 | 7.5s
+07:35:33 | INFO    | 20/151 | PDF | Beiträge=386 | IV verknüpft 144/144 | 12.4s
+07:35:38 | INFO    | 20/152 | PDF | Beiträge=113 | IV verknüpft 55/55 | 4.8s
+07:35:57 | INFO    | 20/154 | PDF | Beiträge=637 | IV verknüpft 246/246 | 19.1s
+07:36:08 | INFO    | 20/155 | PDF | Beiträge=299 | IV verknüpft 124/124 | 10.7s
+07:36:22 | INFO    | 20/157 | PDF | Beiträge=432 | IV verknüpft 179/179 | 14.5s
+07:36:28 | INFO    | 20/158 | PDF | Beiträge=152 | IV verknüpft 62/62 | 5.3s
+07:36:40 | INFO    | 20/159 | PDF | Beiträge=501 | IV verknüpft 207/207 | 11.9s
+07:36:46 | INFO    | 20/161 | PDF | Beiträge=180 | IV verknüpft 73/73 | 5.9s
+07:36:56 | INFO    | 20/162 | PDF | Beiträge=477 | IV verknüpft 178/179 | 10.2s
+07:37:11 | INFO    | 20/166 | PDF | Beiträge=439 | IV verknüpft 168/168 | 14.4s
+07:37:19 | INFO    | 20/167 | PDF | Beiträge=283 | IV verknüpft 104/104 | 8.7s
+07:37:29 | INFO    | 20/168 | PDF | Beiträge=490 | IV verknüpft 190/190 | 9.8s
+07:37:47 | INFO    | 20/169 | PDF | Beiträge=520 | IV verknüpft 226/227 | 17.6s
+07:37:54 | INFO    | 20/170 | PDF | Beiträge=210 | IV verknüpft 86/86 | 7.2s
+07:38:03 | INFO    | 20/171 | PDF | Beiträge=404 | IV verknüpft 176/176 | 8.5s
+07:38:14 | INFO    | 20/174 | PDF | Beiträge=472 | IV verknüpft 203/203 | 10.8s
+07:38:29 | INFO    | 20/175 | PDF | Beiträge=424 | IV verknüpft 167/167 | 14.6s
+07:38:40 | INFO    | 20/177 | PDF | Beiträge=507 | IV verknüpft 216/216 | 11.3s
+07:38:57 | INFO    | 20/178 | PDF | Beiträge=592 | IV verknüpft 209/209 | 17.1s
+07:39:06 | INFO    | 20/179 | PDF | Beiträge=245 | IV verknüpft 90/90 | 9.2s
+07:39:17 | INFO    | 20/180 | PDF | Beiträge=462 | IV verknüpft 163/163 | 10.2s
+07:39:26 | INFO    | 20/182 | PDF | Beiträge=269 | IV verknüpft 98/98 | 9.1s
+07:39:35 | INFO    | 20/184 | PDF | Beiträge=302 | IV verknüpft 87/87 | 8.7s
+07:39:49 | INFO    | 20/185 | PDF | Beiträge=448 | IV verknüpft 148/148 | 14.5s
+07:39:58 | INFO    | 20/187 | PDF | Beiträge=439 | IV verknüpft 178/178 | 8.9s
+07:40:07 | INFO    | 20/189 | PDF | Beiträge=243 | IV verknüpft 92/92 | 8.4s
+07:40:16 | INFO    | 20/190 | PDF | Beiträge=476 | IV verknüpft 208/208 | 9.8s
+07:40:23 | INFO    | 20/192 | PDF | Beiträge=150 | IV verknüpft 65/65 | 6.1s
+07:40:35 | INFO    | 20/193 | PDF | Beiträge=523 | IV verknüpft 192/192 | 11.9s
+07:40:43 | INFO    | 20/196 | PDF | Beiträge=452 | IV verknüpft 170/170 | 8.2s
+07:40:48 | INFO    | 20/197 | PDF | Beiträge=113 | IV verknüpft 50/50 | 5.0s
+07:41:01 | INFO    | 20/199 | PDF | Beiträge=497 | IV verknüpft 185/185 | 13.0s
+07:41:04 | INFO    | 20/201 | PDF | Beiträge=49 | IV verknüpft 21/21 | 2.8s
+07:41:14 | INFO    | 20/202 | PDF | Beiträge=406 | IV verknüpft 143/143 | 10.0s
+07:41:23 | INFO    | 20/204 | PDF | Beiträge=280 | IV verknüpft 105/105 | 9.2s
+07:41:26 | INFO    | 20/205 | PDF | Beiträge=62 | IV verknüpft 22/22 | 3.3s
+07:41:37 | INFO    | 20/206 | PDF | Beiträge=560 | IV verknüpft 215/215 | 10.5s
+07:41:47 | INFO    | 20/208 | PDF | Beiträge=254 | IV verknüpft 92/92 | 9.5s
+07:42:08 | INFO    | 20/210 | PDF | Beiträge=577 | IV verknüpft 227/227 | 20.9s
+07:42:11 | INFO    | 20/212 | PDF | Beiträge=66 | IV verknüpft 22/22 | 3.6s
+07:42:11 | INFO    | Stufe 4_struktur                      448.5 s
+07:42:42 | INFO    | LLM-Fortschritt 50/385 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 100/385 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 150/385 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 200/385 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 250/385 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 300/385 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 350/385 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 385/385 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 50/132 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 100/132 | 0 s
+07:42:42 | INFO    | LLM-Fortschritt 132/132 | 0 s
+07:43:56 | INFO    | LLM-Fortschritt 536/5360 | 1 s
+07:43:56 | INFO    | LLM-Fortschritt 1072/5360 | 1 s
+07:43:56 | INFO    | LLM-Fortschritt 1608/5360 | 2 s
+07:43:57 | INFO    | LLM-Fortschritt 2144/5360 | 2 s
+07:43:57 | INFO    | LLM-Fortschritt 2680/5360 | 2 s
+07:43:57 | INFO    | LLM-Fortschritt 3216/5360 | 3 s
+07:43:57 | INFO    | LLM-Fortschritt 3752/5360 | 3 s
+07:43:57 | INFO    | LLM-Fortschritt 4288/5360 | 3 s
+07:43:58 | INFO    | LLM-Fortschritt 4824/5360 | 3 s
+07:43:58 | INFO    | LLM-Fortschritt 5360/5360 | 3 s
+07:44:00 | INFO    | Stufe 5b_klassifikation                78.4 s
+07:45:12 | INFO    | Stufe 6_reden                          69.8 s
+07:45:13 | INFO    | LLM-Fortschritt 74/736 | 0 s
+07:45:13 | INFO    | LLM-Fortschritt 148/736 | 0 s
+07:45:13 | INFO    | LLM-Fortschritt 222/736 | 0 s
+07:45:13 | INFO    | LLM-Fortschritt 296/736 | 0 s
+07:45:13 | INFO    | LLM-Fortschritt 370/736 | 0 s
+07:45:13 | INFO    | LLM-Fortschritt 444/736 | 0 s
+07:45:13 | INFO    | LLM-Fortschritt 518/736 | 0 s
+07:45:13 | INFO    | LLM-Fortschritt 592/736 | 0 s
+07:45:13 | INFO    | LLM-Fortschritt 666/736 | 1 s
+07:45:13 | INFO    | LLM-Fortschritt 736/736 | 1 s
+07:45:13 | INFO    | LLM Vorlagen: 736 Anfragen | 0.6s | {'emb_cache': 5023, 'chat_cache': 6613}
+07:45:14 | INFO    | LLM-Fortschritt 50/348 | 0 s
+07:45:14 | INFO    | LLM-Fortschritt 100/348 | 0 s
+07:45:14 | INFO    | LLM-Fortschritt 150/348 | 0 s
+07:45:14 | INFO    | LLM-Fortschritt 200/348 | 0 s
+07:45:14 | INFO    | LLM-Fortschritt 250/348 | 0 s
+07:45:14 | INFO    | LLM-Fortschritt 300/348 | 0 s
+07:47:34 | WARNING | LLM-Antwort ungültig (Versuch 1): JSONDecodeError
+07:47:34 | WARNING | LLM-Antwort ungültig (Versuch 1): JSONDecodeError
+07:48:03 | WARNING | LLM-Antwort ungültig (Versuch 2): JSONDecodeError
+07:48:03 | WARNING | LLM-Antwort ungültig (Versuch 2): JSONDecodeError
+07:48:03 | INFO    | LLM-Fortschritt 348/348 | 170 s
+07:48:03 | INFO    | Stufe 7_gesetze                       171.5 s
+07:48:12 | INFO    | Legal-NER geladen: mrm8488/bert-base-german-finetuned-ler (GPU)
+07:48:12 | INFO    | Legal-NER: 14 neue Texte | 0.5s
+07:48:20 | INFO    | Stufe 7_erwaehnungen                   16.8 s
+07:48:54 | INFO    | Dense-Index: 15104 Chunks | qwen3-embedding:4b | 12.1s
+07:49:06 | INFO    | Stufe 8_beteiligung                    42.8 s
+07:49:22 | INFO    | Sentiment: 14 neue Sätze | 0.1s | cuda
+07:49:24 | INFO    | Stufe 9_sentiment                      17.5 s
+07:49:27 | INFO    | Stufe 11_graph                          2.4 s
+07:50:19 | INFO    | Stufe 15_export                        10.5 s
+07:50:19 | INFO    | Standby wieder erlaubt
+07:50:20 | INFO    | RunPod beendet, keine Pods aktiv
+09:50:51 | INFO    | Start v03 | Modus=dev | Protokolle=67 | Backend=auto
+09:50:59 | INFO    | Standby während des Laufs verhindert
+09:52:27 | INFO    | RunPod bereit | GPU=NVIDIA A40 | Modelle identisch: ['qwen3:8b', 'qwen3-embedding:4b']
+09:52:28 | INFO    | Auswahl | entwicklung | Protokolle=43
+09:52:46 | INFO    | 20/146 | PDF | Beiträge=461 | IV verknüpft 201/201 | 9.8s
+09:53:05 | INFO    | 20/147 | PDF | Beiträge=650 | IV verknüpft 242/243 | 18.9s
+09:53:12 | INFO    | 20/148 | PDF | Beiträge=255 | IV verknüpft 83/83 | 6.3s
+09:53:24 | INFO    | 20/151 | PDF | Beiträge=386 | IV verknüpft 144/144 | 12.7s
+09:53:29 | INFO    | 20/152 | PDF | Beiträge=113 | IV verknüpft 55/55 | 4.9s
+09:53:48 | INFO    | 20/154 | PDF | Beiträge=637 | IV verknüpft 246/246 | 18.9s
+09:53:58 | INFO    | 20/155 | PDF | Beiträge=299 | IV verknüpft 124/124 | 9.9s
+09:54:13 | INFO    | 20/157 | PDF | Beiträge=432 | IV verknüpft 179/179 | 14.4s
+09:54:17 | INFO    | 20/158 | PDF | Beiträge=152 | IV verknüpft 62/62 | 4.3s
+09:54:28 | INFO    | 20/159 | PDF | Beiträge=501 | IV verknüpft 207/207 | 11.1s
+09:54:34 | INFO    | 20/161 | PDF | Beiträge=180 | IV verknüpft 73/73 | 5.6s
+09:54:43 | INFO    | 20/162 | PDF | Beiträge=477 | IV verknüpft 178/179 | 9.0s
+09:54:57 | INFO    | 20/166 | PDF | Beiträge=439 | IV verknüpft 168/168 | 14.1s
+09:55:05 | INFO    | 20/167 | PDF | Beiträge=283 | IV verknüpft 104/104 | 7.9s
+09:55:15 | INFO    | 20/168 | PDF | Beiträge=490 | IV verknüpft 190/190 | 9.9s
+09:55:34 | INFO    | 20/169 | PDF | Beiträge=520 | IV verknüpft 226/227 | 18.8s
+09:55:41 | INFO    | 20/170 | PDF | Beiträge=210 | IV verknüpft 86/86 | 7.0s
+09:55:50 | INFO    | 20/171 | PDF | Beiträge=404 | IV verknüpft 176/176 | 8.9s
+09:56:01 | INFO    | 20/174 | PDF | Beiträge=472 | IV verknüpft 203/203 | 10.2s
+09:56:17 | INFO    | 20/175 | PDF | Beiträge=424 | IV verknüpft 167/167 | 16.2s
+09:56:30 | INFO    | 20/177 | PDF | Beiträge=507 | IV verknüpft 216/216 | 12.9s
+09:56:50 | INFO    | 20/178 | PDF | Beiträge=592 | IV verknüpft 209/209 | 19.5s
+09:56:58 | INFO    | 20/179 | PDF | Beiträge=245 | IV verknüpft 90/90 | 8.3s
+09:57:09 | INFO    | 20/180 | PDF | Beiträge=462 | IV verknüpft 163/163 | 11.0s
+09:57:20 | INFO    | 20/182 | PDF | Beiträge=269 | IV verknüpft 98/98 | 10.6s
+09:57:29 | INFO    | 20/184 | PDF | Beiträge=302 | IV verknüpft 87/87 | 9.8s
+09:57:44 | INFO    | 20/185 | PDF | Beiträge=448 | IV verknüpft 148/148 | 14.1s
+09:57:53 | INFO    | 20/187 | PDF | Beiträge=439 | IV verknüpft 178/178 | 9.5s
+09:58:01 | INFO    | 20/189 | PDF | Beiträge=243 | IV verknüpft 92/92 | 7.8s
+09:58:11 | INFO    | 20/190 | PDF | Beiträge=476 | IV verknüpft 208/208 | 9.9s
+09:58:17 | INFO    | 20/192 | PDF | Beiträge=150 | IV verknüpft 65/65 | 6.4s
+09:58:29 | INFO    | 20/193 | PDF | Beiträge=523 | IV verknüpft 192/192 | 11.3s
+09:58:38 | INFO    | 20/196 | PDF | Beiträge=452 | IV verknüpft 170/170 | 9.2s
+09:58:42 | INFO    | 20/197 | PDF | Beiträge=113 | IV verknüpft 50/50 | 4.2s
+09:58:53 | INFO    | 20/199 | PDF | Beiträge=497 | IV verknüpft 185/185 | 10.9s
+09:58:55 | INFO    | 20/201 | PDF | Beiträge=49 | IV verknüpft 21/21 | 1.7s
+09:59:05 | INFO    | 20/202 | PDF | Beiträge=406 | IV verknüpft 143/143 | 9.7s
+09:59:14 | INFO    | 20/204 | PDF | Beiträge=280 | IV verknüpft 105/105 | 9.1s
+09:59:17 | INFO    | 20/205 | PDF | Beiträge=62 | IV verknüpft 22/22 | 3.2s
+09:59:28 | INFO    | 20/206 | PDF | Beiträge=560 | IV verknüpft 215/215 | 10.4s
+09:59:38 | INFO    | 20/208 | PDF | Beiträge=254 | IV verknüpft 92/92 | 9.9s
+10:00:00 | INFO    | 20/210 | PDF | Beiträge=577 | IV verknüpft 227/227 | 21.9s
+10:00:04 | INFO    | 20/212 | PDF | Beiträge=66 | IV verknüpft 22/22 | 4.0s
+10:00:04 | INFO    | Stufe 4_struktur                      447.7 s
+10:00:30 | INFO    | LLM-Fortschritt 50/385 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 100/385 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 150/385 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 200/385 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 250/385 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 300/385 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 350/385 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 385/385 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 50/132 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 100/132 | 0 s
+10:00:30 | INFO    | LLM-Fortschritt 132/132 | 0 s
+10:01:43 | INFO    | LLM-Fortschritt 536/5360 | 1 s
+10:01:43 | INFO    | LLM-Fortschritt 1072/5360 | 1 s
+10:01:43 | INFO    | LLM-Fortschritt 1608/5360 | 1 s
+10:01:43 | INFO    | LLM-Fortschritt 2144/5360 | 2 s
+10:01:44 | INFO    | LLM-Fortschritt 2680/5360 | 2 s
+10:01:44 | INFO    | LLM-Fortschritt 3216/5360 | 2 s
+10:01:44 | INFO    | LLM-Fortschritt 3752/5360 | 2 s
+10:01:44 | INFO    | LLM-Fortschritt 4288/5360 | 2 s
+10:01:44 | INFO    | LLM-Fortschritt 4824/5360 | 2 s
+10:01:45 | INFO    | LLM-Fortschritt 5360/5360 | 3 s
+10:01:47 | INFO    | Stufe 5b_klassifikation                76.6 s
+10:03:08 | INFO    | Stufe 6_reden                          79.7 s
+10:03:11 | INFO    | LLM-Fortschritt 74/736 | 0 s
+10:03:11 | INFO    | LLM-Fortschritt 148/736 | 0 s
+10:03:11 | INFO    | LLM-Fortschritt 222/736 | 0 s
+10:03:11 | INFO    | LLM-Fortschritt 296/736 | 0 s
+10:03:12 | INFO    | LLM-Fortschritt 370/736 | 1 s
+10:03:12 | INFO    | LLM-Fortschritt 444/736 | 1 s
+10:03:12 | INFO    | LLM-Fortschritt 518/736 | 1 s
+10:03:12 | INFO    | LLM-Fortschritt 592/736 | 1 s
+10:03:12 | INFO    | LLM-Fortschritt 666/736 | 1 s
+10:03:12 | INFO    | LLM-Fortschritt 736/736 | 1 s
+10:03:12 | INFO    | LLM Vorlagen: 736 Anfragen | 1.2s | {'emb_cache': 5023, 'chat_cache': 6613}
+10:05:37 | INFO    | LLM-Fortschritt 50/124 | 144 s
+10:06:11 | INFO    | LLM-Fortschritt 100/124 | 178 s
+10:06:21 | INFO    | LLM-Fortschritt 124/124 | 189 s
+10:06:21 | INFO    | Grundform: 124 Titel | belegt 123 | geändert 53 | verworfen 1
+10:06:22 | INFO    | LLM-Fortschritt 50/348 | 0 s
+10:06:22 | INFO    | LLM-Fortschritt 100/348 | 0 s
+10:06:22 | INFO    | LLM-Fortschritt 150/348 | 0 s
+10:06:23 | INFO    | LLM-Fortschritt 200/348 | 0 s
+10:06:23 | INFO    | LLM-Fortschritt 250/348 | 1 s
+10:06:23 | INFO    | LLM-Fortschritt 300/348 | 1 s
+10:07:09 | WARNING | LLM-Antwort ungültig (Versuch 1): JSONDecodeError
+10:07:10 | WARNING | LLM-Antwort ungültig (Versuch 1): JSONDecodeError
+10:07:53 | WARNING | LLM-Antwort ungültig (Versuch 2): JSONDecodeError
+10:07:53 | WARNING | LLM-Antwort ungültig (Versuch 2): JSONDecodeError
+10:07:53 | INFO    | LLM-Fortschritt 348/348 | 91 s
+10:07:55 | INFO    | Stufe 7_gesetze                       285.7 s
+10:08:23 | INFO    | Stufe 7_erwaehnungen                   28.2 s
+10:09:16 | INFO    | Dense-Index: 15104 Chunks | qwen3-embedding:4b | 12.4s
+10:09:56 | INFO    | Stufe 8_beteiligung                    88.8 s
+10:10:18 | INFO    | Stufe 9_sentiment                      19.4 s
+10:10:24 | INFO    | Stufe 11_graph                          5.3 s
+10:12:20 | INFO    | LLM-Fortschritt 50/300 | 31 s
+10:12:47 | INFO    | LLM-Fortschritt 100/300 | 58 s
+10:13:10 | INFO    | LLM-Fortschritt 150/300 | 81 s
+10:13:31 | INFO    | LLM-Fortschritt 200/300 | 102 s
+10:13:59 | INFO    | LLM-Fortschritt 250/300 | 129 s
+10:14:17 | INFO    | LLM-Fortschritt 300/300 | 148 s
+10:14:46 | INFO    | Stufe 15_export                        26.3 s
+10:14:46 | INFO    | Standby wieder erlaubt
+10:14:47 | INFO    | RunPod beendet, keine Pods aktiv
