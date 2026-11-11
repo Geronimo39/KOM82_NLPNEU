@@ -1,0 +1,1189 @@
+{
+  "numFound": 24,
+  "documents": [
+    {
+      "id": "648403",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Enrico Komning (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19307",
+        "anfangsseite": 19307,
+        "endseite": 19307,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19307D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Yvonne Magwas, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19307"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308499"
+    },
+    {
+      "id": "648377",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Heraufsetzung der Altershöchstgrenze für Schöffen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19319",
+        "anfangsseite": 19319,
+        "endseite": 19319,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10188",
+          "seite": "19319D"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308357"
+    },
+    {
+      "id": "648404",
+      "vorgangsposition": "Abstimmung",
+      "zuordnung": "BT",
+      "abstract": "Abstimmung über den Einspruch des Abg Stephan Brandner (AfD) gegen die Ordnungsmaßnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19319",
+        "anfangsseite": 19319,
+        "endseite": 19319,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Zurückweisung des Einspruchs",
+          "seite": "19319C"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308479"
+    },
+    {
+      "id": "648405",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 504 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19320",
+        "anfangsseite": 19320,
+        "endseite": 19321,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/10104",
+          "seite": "19320B"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308026"
+    },
+    {
+      "id": "648406",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 505 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19320",
+        "anfangsseite": 19320,
+        "endseite": 19321,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/10105",
+          "seite": "19320B"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308027"
+    },
+    {
+      "id": "648407",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 506 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19320",
+        "anfangsseite": 19320,
+        "endseite": 19321,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/10106",
+          "seite": "19320D"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308028"
+    },
+    {
+      "id": "648408",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 508 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19320",
+        "anfangsseite": 19320,
+        "endseite": 19321,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/10108",
+          "seite": "19321A"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308030"
+    },
+    {
+      "id": "648409",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 509 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19320",
+        "anfangsseite": 19320,
+        "endseite": 19321,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/10109",
+          "seite": "19321A"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308031"
+    },
+    {
+      "id": "648410",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 510 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19320",
+        "anfangsseite": 19320,
+        "endseite": 19321,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/10110",
+          "seite": "19321B"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308032"
+    },
+    {
+      "id": "648411",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 507 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19320",
+        "anfangsseite": 19320,
+        "endseite": 19320,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/10107",
+          "seite": "19320D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19320C",
+          "aktivitaetsart": "Mündliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Sören Pellmann, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19320"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308029"
+    },
+    {
+      "id": "677446",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)\r\nhier: Einzelplan 09 - Geschäftsbereich des Bundesministeriums für Wirtschaft und Klimaschutz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 30,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19245",
+        "anfangsseite": 19245,
+        "endseite": 19273,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19245C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Mattfeldt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19245"
+        },
+        {
+          "seite": "19247B",
+          "aktivitaetsart": "Rede",
+          "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19247"
+        },
+        {
+          "seite": "19248C",
+          "aktivitaetsart": "Rede",
+          "titel": "Wolfgang Wiehle, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19248"
+        },
+        {
+          "seite": "19249B",
+          "aktivitaetsart": "Rede",
+          "titel": "Frank Junge, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19249"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "308367"
+    },
+    {
+      "id": "648379",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Auflösung der \"Stiftung Forum Recht\" (Forum-Recht-Abwicklungsgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19319",
+        "anfangsseite": 19319,
+        "endseite": 19320,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/3939",
+          "seite": "19320A"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "292230"
+    },
+    {
+      "id": "648381",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "... Gesetz zur Änderung des Bundeswahlgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19321",
+        "anfangsseite": 19321,
+        "endseite": 19334,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/8867, 20/10178",
+          "seite": "19334C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19321C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sebastian Hartmann, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19321"
+        },
+        {
+          "seite": "19323B",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Hoffmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19323"
+        },
+        {
+          "seite": "19324D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Till Steffen, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19324"
+        },
+        {
+          "seite": "19326C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Christian Wirth, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19326"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "304914"
+    },
+    {
+      "id": "648382",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "... Gesetz zur Änderung des Bundeswahlgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19334",
+        "anfangsseite": 19334,
+        "endseite": 19334,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "382:276:12 (lt. Amtl. Prot.; korrigierte Abstimmungsliste s. PlPr 20/152, S. 19455A)",
+          "dokumentnummer": "20/8867, 20/10178",
+          "seite": "19343A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19408A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stefan Seidler, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19408"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "304914"
+    },
+    {
+      "id": "648380",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Rechtsverordnung (Außenwirtschaftsrecht)",
+      "titel": "Zwanzigste Verordnung zur Änderung der Außenwirtschaftsverordnung - aufhebbare Verordnung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19321",
+        "anfangsseite": 19321,
+        "endseite": 19321,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Beschlussempfehlung",
+          "abstimm_ergebnis_bemerkung": "kein Verlangen auf Aufhebung der Verordnung (20/9010) ",
+          "dokumentnummer": "20/9579",
+          "seite": "19321B"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "305184"
+    },
+    {
+      "id": "648372",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten s. mitberatenes Haushaltsgesetz 2024",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Finanzplan des Bundes 2023 bis 2027",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19245",
+        "anfangsseite": 19245,
+        "endseite": 19406,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-02-01",
+      "vorgang_id": "302730"
+    },
+    {
+      "id": "648371",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten und Beschlüsse s. Einzelpläne",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Finanzplan des Bundes 2023 bis 2027",
+          "id": "302730"
+        }
+      ],
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19245",
+        "anfangsseite": 19245,
+        "endseite": 19406,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-02-01",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648375",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 07 - Bundesministerium der Justiz (zusammenberaten mit Epl 19)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19298",
+        "anfangsseite": 19298,
+        "endseite": 19319,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 07",
+          "dokumentnummer": "20/8607, 20/8661",
+          "seite": "19319C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19298C",
+          "aktivitaetsart": "Rede",
+          "titel": "Franziska Hoppermann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19298"
+        },
+        {
+          "seite": "19299D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Thorsten Lieb, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19299"
+        },
+        {
+          "seite": "19300D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Michael Espendiller, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19300"
+        },
+        {
+          "seite": "19301D",
+          "aktivitaetsart": "Rede",
+          "titel": "Esther Dilcher, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19301"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648373",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 09 - Bundesministerium für Wirtschaft und Klimaschutz",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 30,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)\r\nhier: Einzelplan 09 - Geschäftsbereich des Bundesministeriums für Wirtschaft und Klimaschutz",
+          "id": "308367"
+        }
+      ],
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19245",
+        "anfangsseite": 19245,
+        "endseite": 19273,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/10189",
+          "seite": "19272D"
+        },
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 09",
+          "dokumentnummer": "20/8609, 20/8661",
+          "seite": "19272D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19245C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Mattfeldt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19245"
+        },
+        {
+          "seite": "19247B",
+          "aktivitaetsart": "Rede",
+          "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19247"
+        },
+        {
+          "seite": "19248C",
+          "aktivitaetsart": "Rede",
+          "titel": "Wolfgang Wiehle, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19248"
+        },
+        {
+          "seite": "19249B",
+          "aktivitaetsart": "Rede",
+          "titel": "Frank Junge, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19249"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648385",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 24,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19381",
+        "anfangsseite": 19381,
+        "endseite": 19406,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 10",
+          "dokumentnummer": "20/8610, 20/8661",
+          "seite": "19406C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19381C",
+          "aktivitaetsart": "Rede",
+          "titel": "Josef Rief, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19381"
+        },
+        {
+          "seite": "19383A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Sebastian Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19383"
+        },
+        {
+          "seite": "19384A",
+          "aktivitaetsart": "Rede",
+          "titel": "Ulrike Schielke-Ziesing, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19384"
+        },
+        {
+          "seite": "19385B",
+          "aktivitaetsart": "Rede",
+          "titel": "Esther Dilcher, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19385"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648374",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 11 - Bundesministerium für Arbeit und Soziales",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 22,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19273",
+        "anfangsseite": 19273,
+        "endseite": 19298,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 11",
+          "dokumentnummer": "20/8611, 20/8661",
+          "seite": "19298B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19273A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Silke Launert, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19273"
+        },
+        {
+          "seite": "19274D",
+          "aktivitaetsart": "Rede",
+          "titel": "Kathrin Michel, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19274"
+        },
+        {
+          "seite": "19276A",
+          "aktivitaetsart": "Rede",
+          "titel": "Ulrike Schielke-Ziesing, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19276"
+        },
+        {
+          "seite": "19277B",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Kurth, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19277"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648384",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 15 - Bundesministerium für Gesundheit",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19359",
+        "anfangsseite": 19359,
+        "endseite": 19381,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 15",
+          "dokumentnummer": "20/8661, 20/8662",
+          "seite": "19381B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19359B",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Helge Braun, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19359"
+        },
+        {
+          "seite": "19360C",
+          "aktivitaetsart": "Rede",
+          "titel": "Svenja Stadler, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19360"
+        },
+        {
+          "seite": "19361D",
+          "aktivitaetsart": "Rede",
+          "titel": "Wolfgang Wiehle, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19361"
+        },
+        {
+          "seite": "19362D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Paula Piechotta, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19362"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648383",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 16 - Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19334",
+        "anfangsseite": 19334,
+        "endseite": 19359,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 16",
+          "dokumentnummer": "20/8616, 8661",
+          "seite": "19359A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19335A",
+          "aktivitaetsart": "Rede",
+          "titel": "Steffen Bilger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19335"
+        },
+        {
+          "seite": "19336B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Sebastian Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19336"
+        },
+        {
+          "seite": "19337A",
+          "aktivitaetsart": "Rede",
+          "titel": "Wolfgang Wiehle, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19337"
+        },
+        {
+          "seite": "19338A",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Thews, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19338"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648376",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 19 - Bundesverfassungsgericht (zusammenberaten mit Epl 07, Rednerliste s. dort)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "fundstelle": {
+        "id": "5626",
+        "dokumentnummer": "20/151",
+        "datum": "2024-02-01",
+        "verteildatum": "2024-02-02",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20151.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20151.pdf#P.19298",
+        "anfangsseite": 19298,
+        "endseite": 19319,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "einstimmig, damit Annahme Epl 19",
+          "dokumentnummer": "20/8661, 20/8662",
+          "seite": "19319C"
+        }
+      ],
+      "datum": "2024-02-01",
+      "vorgang_id": "302729"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+# Pflicht
+pymupdf>=1.24
+pandas>=2.2
+numpy>=1.26
+matplotlib>=3.8
+requests>=2.31
+openpyxl>=3.1
+networkx>=3.2
+# Sentiment (GPU empfohlen)
+torch>=2.2
+transformers>=4.40
+sentencepiece>=0.2
+# optional
+pyarrow>=15          # Parquet-Export
+pdfplumber>=0.11     # Rückfall-Backend / Backend-Vergleich

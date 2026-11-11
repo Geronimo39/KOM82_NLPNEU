@@ -1,0 +1,3465 @@
+{
+  "numFound": 82,
+  "documents": [
+    {
+      "id": "655946",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22826",
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22826D",
+          "aktivitaetsart": "Rede",
+          "titel": "Karsten Hilse, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22826"
+        },
+        {
+          "seite": "22828A",
+          "aktivitaetsart": "Rede",
+          "titel": "Daniel Rinkert, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22828"
+        },
+        {
+          "seite": "22829B",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Hirte, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22829"
+        },
+        {
+          "seite": "22830B",
+          "aktivitaetsart": "Rede",
+          "titel": "Tessa Ganserer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22830"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "313058"
+    },
+    {
+      "id": "656019",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Begrüßung des Vorsitzenden der Ersten Kammer der Generalstaaten der Niederlande, Professor Jan Anthonie Bruijn",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-28T13:39:22+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22820",
+        "anfangsseite": 22820,
+        "endseite": 22820,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22820C",
+          "aktivitaetsart": "Rede",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22820"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "313086"
+    },
+    {
+      "id": "655932",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 14,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22749",
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/11819",
+          "seite": "22763B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22749B",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedhelm Boginski, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22749"
+        },
+        {
+          "seite": "22750B",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Albani, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22750"
+        },
+        {
+          "seite": "22751B",
+          "aktivitaetsart": "Rede",
+          "titel": "Jessica Rosenthal, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22751"
+        },
+        {
+          "seite": "22752C",
+          "aktivitaetsart": "Rede",
+          "titel": "Nicole Höchst, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22752"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "312911"
+    },
+    {
+      "id": "655935",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Untersuchungsausschuss",
+      "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-23T16:23:16+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Wahlprüfung, Immunität und Geschäftsordnung",
+          "ausschuss_kuerzel": "AfWIuG",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22763",
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11731",
+          "seite": "22782D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22763D",
+          "aktivitaetsart": "Rede",
+          "titel": "Patrick Schnieder, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22763"
+        },
+        {
+          "seite": "22764D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22764"
+        },
+        {
+          "seite": "22766A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22766"
+        },
+        {
+          "seite": "22767B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22767"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "312797"
+    },
+    {
+      "id": "655938",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-22T15:41:28+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verteidigungsausschuss",
+          "ausschuss_kuerzel": "VgA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22790",
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11555",
+          "seite": "22800A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22790D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Malte Kaufmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22790"
+        },
+        {
+          "seite": "22791D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ralf Stegner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22791"
+        },
+        {
+          "seite": "22793B",
+          "aktivitaetsart": "Rede",
+          "titel": "Klaus-Peter Willsch, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22793"
+        },
+        {
+          "seite": "22795A",
+          "aktivitaetsart": "Rede",
+          "titel": "Maik Außendorf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22795"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "312973"
+    },
+    {
+      "id": "655939",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verteidigungsausschuss",
+          "ausschuss_kuerzel": "VgA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22790",
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11753",
+          "seite": "22800A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22790D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Malte Kaufmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22790"
+        },
+        {
+          "seite": "22791D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ralf Stegner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22791"
+        },
+        {
+          "seite": "22793B",
+          "aktivitaetsart": "Rede",
+          "titel": "Klaus-Peter Willsch, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22793"
+        },
+        {
+          "seite": "22795A",
+          "aktivitaetsart": "Rede",
+          "titel": "Maik Außendorf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22795"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "312972"
+    },
+    {
+      "id": "655941",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verteidigungsausschuss",
+          "ausschuss_kuerzel": "VgA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22790",
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11754",
+          "seite": "22800A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22790D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Malte Kaufmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22790"
+        },
+        {
+          "seite": "22791D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ralf Stegner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22791"
+        },
+        {
+          "seite": "22793B",
+          "aktivitaetsart": "Rede",
+          "titel": "Klaus-Peter Willsch, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22793"
+        },
+        {
+          "seite": "22795A",
+          "aktivitaetsart": "Rede",
+          "titel": "Maik Außendorf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22795"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "312893"
+    },
+    {
+      "id": "655942",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "ausschuss_kuerzel": "AfMenschenr",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22800",
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11200",
+          "seite": "22808C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22800B",
+          "aktivitaetsart": "Rede",
+          "titel": "Klara Geywitz, Bundesmin., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22800"
+        },
+        {
+          "seite": "22801A",
+          "aktivitaetsart": "Rede",
+          "titel": "Emmi Zeulner, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22801"
+        },
+        {
+          "seite": "22801D",
+          "aktivitaetsart": "Rede",
+          "titel": "Hanna Steinmüller, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22801"
+        },
+        {
+          "seite": "22802C",
+          "aktivitaetsart": "Rede",
+          "titel": "Roger Beckamp, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22802"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "311570"
+    },
+    {
+      "id": "656202",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an den Rat und das Europäische Parlament über die Abwehr potenzieller Bedrohungen, die von Drohnen ausgehen \r\nKOM(2023) 659 endg.; Ratsdok. 14394/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "305757"
+    },
+    {
+      "id": "656203",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament und den Rat\r\nEU-Fahrplan zur Bekämpfung des Drogenhandels und der organisierten Kriminalität \r\nKOM(2023) 641 endg.; Ratsdok. 14114/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "306544"
+    },
+    {
+      "id": "656204",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament und den Rat\r\nSechster Fortschrittsbericht über die Umsetzung der EU-Strategie für eine Sicherheitsunion \r\nKOM(2023) 665 endg.; Ratsdok. 14372/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "306545"
+    },
+    {
+      "id": "656205",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung der Kommission vom 23.11.2023 über die Zusammenarbeit der Mitgliedstaaten bei ernsthaften Bedrohungen der inneren Sicherheit und der öffentlichen Ordnung im Raum ohne Kontrollen an den Binnengrenzen \r\nK(2023)8139 endg.; Ratsdok. 16105/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "308097"
+    },
+    {
+      "id": "656207",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Fortschritte bei der Umsetzung von Artikel 6 des Beschlusses über ein Katastrophenschutzverfahren der Union (Beschluss Nr. 1313/2013/EU)\r\nPrävention und Management von Katastrophenrisiken in Europa\r\nKOM(2024) 130 endg.; Ratsdok. 7815/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "310932"
+    },
+    {
+      "id": "656209",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) Nr. 575/2013 und der Richtlinie 2014/59/EU im Hinblick auf die aufsichtliche Behandlung global systemrelevanter Institutsgruppen mit einer multiplen Abwicklungsstrategie und eine Methode für die indirekte Zeichnung von Instrumenten, die zur Erfüllung der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten berücksichtigungsfähig sind\r\nKOM(2021) 665 endg.; Ratsdok. 13247/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284051"
+    },
+    {
+      "id": "656215",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2014/65/EU über Märkte für Finanzinstrumente\r\nKOM(2021) 726 endg.; Ratsdok. 14368/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284602"
+    },
+    {
+      "id": "656227",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates über den Umtausch von Griwna-Banknoten in die Währung von Aufnahmemitgliedstaaten durch Personen, die vor dem Krieg in der Ukraine fliehen \r\nKOM(2022) 163 endg.; Ratsdok. 7781/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "287245"
+    },
+    {
+      "id": "656228",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Rates zur Änderung von Anhang I der Verordnung (EWG) Nr. 2658/87 über die zolltarifliche und statistische Nomenklatur sowie den Gemeinsamen Zolltarif \r\nKOM(2022) 359 endg.; Ratsdok. 11761/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "291140"
+    },
+    {
+      "id": "656229",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Durchführungsbeschluss des Rates zur Ermächtigung Portugals, gemäß Artikel 19 der Richtlinie 2003/96/EG auf Gasöl und unverbleites Benzin, die als Kraftstoffe verwendet werden, ermäßigte Verbrauchsteuersätze anzuwenden \r\nKOM(2022) 408 endg.; Ratsdok. 11904/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "291566"
+    },
+    {
+      "id": "656231",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Durchführungsbeschluss des Rates zur Ermächtigung Schwedens, gemäß Artikel 19 der Richtlinie 2003/96/EG auf Benzin, nicht gekennzeichnetes Gasöl und gleichwertige Brennstoffe, die als Kraftstoffe verwendet werden, ermäßigte Verbrauchsteuersätze anzuwenden \r\nKOM(2022) 398 endg.; Ratsdok. 11944/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "291567"
+    },
+    {
+      "id": "656238",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 23. April 2024 zu der Delegierten Verordnung der Kommission vom 14. März 2024 zur Änderung der Delegierten Verordnung (EU) 2016/1675 durch Aufnahme Kenias und Namibias in die Tabelle in Abschnitt I des Anhangs sowie Streichung von Barbados, Gibraltar, Panama, Uganda und der Vereinigten Arabischen Emirate aus dieser Tabelle\r\n(C(2024)1754) - 2024/2688(DEA))\r\nEP P9_TA(2024)0291",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "312107"
+    },
+    {
+      "id": "656240",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 24. April 2024 zu der Delegierten Verordnung der Kommission vom 14. März 2024 zur Änderung der Verordnung (EU) 2015/2283 des Europäischen Parlaments und des Rates über neuartige Lebensmittel hinsichtlich der Begriffsbestimmung für \"technisch hergestellte Nanomaterialien\"\r\n(C(2024)01612 - 2024/2691(DEA))\r\nEP P9_TA(2024)0316",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "312109"
+    },
+    {
+      "id": "656244",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Ausübung der der Kommission übertragenen Befugnis zum Erlass delegierter Rechtsakte gemäß der Richtlinie 2001/18/EG über die absichtliche Freisetzung genetisch veränderter Organismen in die Umwelt und der Verordnung (EG) Nr. 1830/2003 über die Rückverfolgbarkeit und Kennzeichnung von genetisch veränderten Organismen und über die Rückverfolgbarkeit von aus genetisch veränderten Organismen hergestellten Lebensmitteln und Futtermitteln\r\nKOM(2024) 170 endg.; Ratsdok. 9168/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "312115"
+    },
+    {
+      "id": "656247",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nUmsetzung des Verbots unlauterer Handelspraktiken zur Stärkung der Position von Landwirten und Marktteilnehmern in der Agrar- und Lebensmittelversorgungskette -\r\nAktueller Stand\r\nKOM(2024) 176 endg.; Ratsdok. 9259/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "312116"
+    },
+    {
+      "id": "656250",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Ausübung der Befugnisse zum Erlass delegierter Rechtsakte, die der Kommission mit der Verordnung (EU) 2019/1700 zur Schaffung eines gemeinsamen Rahmens für europäische Statistiken über Personen und Haushalte auf der Grundlage von Einzeldaten aus Stichprobenerhebungen, zur Änderung der Verordnungen (EG) Nr. 808/2004, (EG) Nr. 452/2008 und (EG) Nr. 1338/2008 des Europäischen Parlaments und des Rates sowie zur Aufhebung der Verordnungen (EG) Nr. 1177/2003 und (EG) Nr. 577/98 übertragen wurde \r\nKOM(2023) 789 endg.; Ratsdok. 16920/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "308132"
+    },
+    {
+      "id": "656272",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 10. Juni 2021 zum Umgang mit der Herausforderung der weltweiten COVID-19-Pandemie: Folgen der Aussetzung des TRIPS-Übereinkommens der WTO für COVID‑19-Impfstoffe, Behandlung, Ausrüstung und die Steigerung der Produktions- und Fertigungskapazitäten in Entwicklungsländern (2021/2692(RSP)) \r\nEP P9_TA(2021)0283",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284129"
+    },
+    {
+      "id": "656273",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 21. Oktober 2021 zu Transparenz in der EU in Bezug auf die Entwicklung, den Kauf und die Verteilung von COVID-19-Impfstoffen (2021/2678(RSP)) \r\nEP P9_TA(2021)0435",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284130"
+    },
+    {
+      "id": "656274",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nErste Lehren aus der COVID-19-Pandemie \r\nKOM(2021) 380 endg.; Ratsdok. 9212/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284131"
+    },
+    {
+      "id": "656275",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Rates über einen Rahmen zur Gewährleistung der Bereitstellung von krisenrelevanten medizinischen Gegenmaßnahmen im Falle einer Notlage im Bereich der öffentlichen Gesundheit auf Unionsebene \r\nKOM(2021) 577 endg.; Ratsdok. 11956/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284132"
+    },
+    {
+      "id": "656276",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nHERA: die neue Europäische Behörde für Krisenvorsorge und -reaktion bei gesundheitlichen Notlagen - der nächste Schritt zur Vollendung der europäischen Gesundheitsunion \r\nKOM(2021) 576 endg.; Ratsdok. 11958/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284133"
+    },
+    {
+      "id": "656277",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) 2017/746 hinsichtlich der Übergangsbestimmungen für bestimmte In-vitro-Diagnostika und des späteren Geltungsbeginns der Anforderungen an hausinterne Produkte \r\nKOM(2021) 627 endg.; Ratsdok. 12884/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284134"
+    },
+    {
+      "id": "656279",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat gemäß Artikel 16 Absatz 1 der Verordnung (EU) 2021/953 des Europäischen Parlaments und des Rates über einen Rahmen für die Ausstellung, Überprüfung und Anerkennung interoperabler Zertifikate zur Bescheinigung von COVID-19-Impfungen und -Tests sowie der Genesung von einer COVID-19-Infektion (digitales COVID-Zertifikat der EU) mit der Zielsetzung der Erleichterung der Freizügigkeit während der COVID-19-Pandemie \r\nKOM(2021) 649 endg.; Ratsdok. 13010/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284135"
+    },
+    {
+      "id": "656280",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nGemeinsam gegen fortbestehende und neue COVID-19-Herausforderungen \r\nKOM(2021) 764 endg.; Ratsdok. 14667/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284136"
+    },
+    {
+      "id": "656282",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung für einen Beschluss des Rates über die Ermächtigung zur Aufnahme von Verhandlungen im Namen der Europäischen Union über den Abschluss einer internationalen Übereinkunft über Pandemievorsorge und -reaktion sowie zur Aushandlung ergänzender Änderungen an den Internationalen Gesundheitsvorschriften (2005) \r\nKOM(2021) 766 endg.; Ratsdok. 14710/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284643"
+    },
+    {
+      "id": "656284",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nCOVID-19 - Gewährleistung von Vorsorge und einer wirksamen Reaktion der EU: ein Ausblick \r\nKOM(2022) 190 endg.; Ratsdok. 8590/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "288430"
+    },
+    {
+      "id": "656288",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament und den Rat\r\nEin europäischer Raum für Gesundheitsdaten: Das Potenzial von Gesundheitsdaten für die Allgemeinheit, für Patientinnen und Patienten und für Innovation erschließen \r\nKOM(2022) 196 endg.; Ratsdok. 8828/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "288445"
+    },
+    {
+      "id": "656290",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 19/2022\r\nBeschaffung von COVID-19-Impfstoffen durch die EU: Nach anfänglichen Herausforderungen ausreichend Dosen gesichert, Leistungsfähigkeit des Verfahrens aber nicht ausreichend bewertet\r\nERH 19/2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "292378"
+    },
+    {
+      "id": "656291",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen zur Europäischen Strategie für Pflege und Betreuung \r\nKOM(2022) 440 endg.",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "292379"
+    },
+    {
+      "id": "656308",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nReaktion der EU auf COVID-19: Vorbereitung auf den Herbst und den Winter 2023 \r\nKOM(2022) 452 endg.; Ratsdok. 12105/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "292380"
+    },
+    {
+      "id": "656309",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates zur Stärkung der Prävention durch Früherkennung: Ein neuer EU-Ansatz für das Krebsscreening, der die Empfehlung 2003/878/EG des Rates ersetzt \r\nKOM(2022) 474 endg.; Ratsdok. 12652/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "292381"
+    },
+    {
+      "id": "656310",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nBericht über den Stand der Krisenvorsorge im Gesundheitsbereich \r\nKOM(2022) 669 endg.; Ratsdok. 15309/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "295647"
+    },
+    {
+      "id": "656311",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nEU-Strategie für globale Gesundheit\r\nBessere Gesundheit für alle in einer sich wandelnden Welt \r\nKOM(2022) 675 endg.; Ratsdok. 15585/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "295650"
+    },
+    {
+      "id": "656312",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates zur Intensivierung der EU-Maßnahmen zur Bekämpfung antimikrobieller Resistenzen im Rahmen des Konzepts \"Eine Gesundheit\" \r\nKOM(2023) 191 endg.; Ratsdok. 8417/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "300151"
+    },
+    {
+      "id": "656313",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nReform des Arzneimittelrechts und Maßnahmen zur Bekämpfung antimikrobieller Resistenzen \r\nKOM(2023) 190 endg.; Ratsdok. 8415/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "300826"
+    },
+    {
+      "id": "656316",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions\r\nAddressing medicine shortages in the EU\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2023) 672 endg./2; Ratsdok. 14751/1/23 REV 1",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "306569"
+    },
+    {
+      "id": "656317",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates zu durch Impfung verhütbaren Krebsarten\r\nKOM(2024) 45 endg.; Ratsdok. 6062/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "309392"
+    },
+    {
+      "id": "656318",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung der Kommission vom 14.3.2023 \"Energiespeicherung - Eckpfeiler einer dekarbonisierten und sicheren Energiewirtschaft in der EU\"\r\nKOM(2023) 1729 endg.; Ratsdok. 7431/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "298871"
+    },
+    {
+      "id": "656319",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an den Rat Überprüfung des Funktionierens der durch die Verordnung (EU) 2023/706 geänderten Verordnung (EU) 2022/1369 über koordinierte Maßnahmen zur Senkung der Gasnachfrage\r\nKOM(2024) 88 endg.; Ratsdok. 7077/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "310238"
+    },
+    {
+      "id": "656320",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über bestimmte Aspekte hinsichtlich der Gasspeicherung auf Grundlage der Verordnung (EU) 2017/1938 des Europäischen Parlaments und des Rates\r\nKOM(2024) 89 endg.; Ratsdok. 7078/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "310239"
+    },
+    {
+      "id": "656321",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates betreffend die Fortsetzung koordinierter Maßnahmen zur Senkung der Gasnachfrage\r\nKOM(2024) 101 endg.; Ratsdok. 6566/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "310966"
+    },
+    {
+      "id": "655931",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 14,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22749",
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10801",
+          "seite": "22763B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22749B",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedhelm Boginski, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22749"
+        },
+        {
+          "seite": "22750B",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Albani, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22750"
+        },
+        {
+          "seite": "22751B",
+          "aktivitaetsart": "Rede",
+          "titel": "Jessica Rosenthal, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22751"
+        },
+        {
+          "seite": "22752C",
+          "aktivitaetsart": "Rede",
+          "titel": "Nicole Höchst, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22752"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "310121"
+    },
+    {
+      "id": "655943",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22808",
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10068",
+          "seite": "22817C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22808C",
+          "aktivitaetsart": "Rede",
+          "titel": "Jasmina Hostert, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22808"
+        },
+        {
+          "seite": "22809C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Mayer (Altötting), MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22809"
+        },
+        {
+          "seite": "22810D",
+          "aktivitaetsart": "Rede",
+          "titel": "Philip Krämer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22810"
+        },
+        {
+          "seite": "22811C",
+          "aktivitaetsart": "Rede",
+          "titel": "Jörn König, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22811"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "308109"
+    },
+    {
+      "id": "656271",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Verbesserung und Durchsetzung der Arbeitsbedingungen von Praktikanten und zur Bekämpfung von Scheinpraktika (\"Praktikumsrichtlinie\")\r\nKOM(2024) 132 endg.; Ratsdok. 8148/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "311425"
+    },
+    {
+      "id": "656214",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) 2015/760 in Bezug auf den Umfang der zulässigen Vermögenswerte und Investitionen, die Anforderungen an die Portfoliozusammensetzung und Diversifizierung, die Barkreditaufnahme und weitere Vertragsbedingungen sowie in Bezug auf die Anforderungen für die Zulassung, die Anlagepolitik und die Bedingungen für die Tätigkeit von europäischen langfristigen Investmentfonds \r\nKOM(2021) 722 endg.; Ratsdok. 14367/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284005"
+    },
+    {
+      "id": "656292",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates über den Zugang zu bezahlbarer und hochwertiger Langzeitpflege\r\nKOM(2022) 441 endg.; Ratsdok. 12002/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "291148"
+    },
+    {
+      "id": "656211",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Einrichtung eines zentralen europäischen Zugangsportals für den zentralisierten Zugriff auf öffentlich verfügbare, für Finanzdienstleistungen, Kapitalmärkte und Nachhaltigkeit relevante Informationen\r\nKOM(2021) 723 endg.; Ratsdok. 14364/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284169"
+    },
+    {
+      "id": "656212",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinien 2011/61/EU und 2009/65/EG im Hinblick auf Übertragungsvereinbarungen, Liquiditätsrisikomanagement, die aufsichtliche Berichterstattung, die Erbringung von Verwahr- und Hinterlegungsdienstleistungen und die Kreditvergabe durch alternative Investmentfonds\r\nKOM(2021) 721 endg.; Ratsdok. 14365/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "283949"
+    },
+    {
+      "id": "656222",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung bestimmter Richtlinien in Bezug auf die Einrichtung und die Funktionsweise des zentralen europäischen Zugangsportals\r\nKOM(2021) 724 endg.; Ratsdok. 14377/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284255"
+    },
+    {
+      "id": "656223",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung bestimmter Verordnungen in Bezug auf die Einrichtung und die Funktionsweise des zentralen europäischen Zugangsportals\r\nKOM(2021) 725 endg.; Ratsdok. 14378/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284082"
+    },
+    {
+      "id": "656226",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) Nr. 909/2014 im Hinblick auf die Abwicklungsdisziplin, die grenzüberschreitende Erbringung von Dienstleistungen, die aufsichtliche Zusammenarbeit, die Erbringung bankartiger Nebendienstleistungen und Anforderungen an Zentralverwahrer in Drittländern\r\nKOM(2022) 120 endg.; Ratsdok. 7374/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "286007"
+    },
+    {
+      "id": "656232",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnungen (EU) Nr. 260/2012 und (EU) 2021/1230 im Hinblick auf Sofortüberweisungen in Euro\r\nKOM(2022) 546 endg.; Ratsdok. 14125/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "293376"
+    },
+    {
+      "id": "656234",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2014/59/EU und der Verordnung (EU) Nr. 806/2014 im Hinblick auf bestimmte Aspekte der Mindestanforderung an Eigenmittel und berücksichtigungsfähige Verbindlichkeiten\r\nKOM(2023) 229 endg.; Ratsdok. 8484/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "300136"
+    },
+    {
+      "id": "656281",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Drogenagentur der Europäischen Union\r\nKOM(2022) 18 endg.; Ratsdok. 5304/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "284858"
+    },
+    {
+      "id": "656289",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über Qualitäts- und Sicherheitsstandards für zur Verwendung beim Menschen bestimmte Substanzen menschlichen Ursprungs und zur Aufhebung der Richtlinien 2002/98/EG und 2004/23/EG\r\nKOM(2022) 338 endg.; Ratsdok. 11396/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "289641"
+    },
+    {
+      "id": "656208",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über europäische grüne Anleihen\r\nKOM(2021) 391 endg.; Ratsdok. 10027/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "280893"
+    },
+    {
+      "id": "656225",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) Nr. 600/2014 in Bezug auf die Erhöhung der Marktdatentransparenz, die Beseitigung von Hindernissen für die Entstehung eines konsolidierten Datentickers, die Optimierung der Handelspflichten und das Verbot der Entgegennahme von Zahlungen für die Weiterleitung von Kundenaufträgen\r\nKOM(2021) 727 endg.; Ratsdok. 14382/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "283847"
+    },
+    {
+      "id": "656233",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Rates zur Änderung der Richtlinie 2011/16/EU des Rates über die Zusammenarbeit der Verwaltungsbehörden im Bereich der Besteuerung\r\nKOM(2022) 707 endg.; Ratsdok. 15829/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "295947"
+    },
+    {
+      "id": "656287",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über den europäischen Raum für Gesundheitsdaten\r\nKOM(2022) 197 endg.; Ratsdok. 8751/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "288264"
+    },
+    {
+      "id": "655930",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 14,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22749",
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10857, 20/11802",
+          "seite": "22763A"
+        },
+        {
+          "beschlusstenor": "Annahme einer Entschließung",
+          "dokumentnummer": "20/11802",
+          "seite": "22763B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22749B",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedhelm Boginski, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22749"
+        },
+        {
+          "seite": "22750B",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Albani, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22750"
+        },
+        {
+          "seite": "22751B",
+          "aktivitaetsart": "Rede",
+          "titel": "Jessica Rosenthal, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22751"
+        },
+        {
+          "seite": "22752C",
+          "aktivitaetsart": "Rede",
+          "titel": "Nicole Höchst, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22752"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "308708"
+    },
+    {
+      "id": "655933",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22763",
+        "anfangsseite": 22763,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10857, 20/11802",
+          "seite": "22763A"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "308708"
+    },
+    {
+      "id": "655944",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22817",
+        "anfangsseite": 22817,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11315, 20/11789",
+          "seite": "22826C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22817D",
+          "aktivitaetsart": "Rede",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22817"
+        },
+        {
+          "seite": "22818D",
+          "aktivitaetsart": "Rede",
+          "titel": "Anne König, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22818"
+        },
+        {
+          "seite": "22819D",
+          "aktivitaetsart": "Rede",
+          "titel": "Kassem Taher Saleh, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22819"
+        },
+        {
+          "seite": "22820C",
+          "aktivitaetsart": "Rede",
+          "titel": "Roger Beckamp, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22820"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "309844"
+    },
+    {
+      "id": "655936",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-26T18:16:02+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22782",
+        "anfangsseite": 22782,
+        "endseite": 22790,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10943, 20/11788",
+          "seite": "22790A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22783A",
+          "aktivitaetsart": "Rede",
+          "titel": "Katrin Helling-Plahr, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22783"
+        },
+        {
+          "seite": "22784A",
+          "aktivitaetsart": "Rede",
+          "titel": "Ansgar Heveling, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22784"
+        },
+        {
+          "seite": "22784D",
+          "aktivitaetsart": "Rede",
+          "titel": "Sonja Eichwede, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22784"
+        },
+        {
+          "seite": "22786A",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22786"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "309835"
+    },
+    {
+      "id": "655945",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22826",
+        "anfangsseite": 22826,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11315, 20/11789",
+          "seite": "22826C"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "309844"
+    },
+    {
+      "id": "655937",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22790",
+        "anfangsseite": 22790,
+        "endseite": 22790,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10943, 20/11788",
+          "seite": "22790B"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "309835"
+    },
+    {
+      "id": "656314",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Festlegung der Verfahren der Union für die Zulassung und Überwachung von Humanarzneimitteln und zur Festlegung von Vorschriften für die Europäische Arzneimittel-Agentur, zur Änderung der Verordnung (EG) Nr. 1394/2007 und der Verordnung (EU) Nr. 536/2014 sowie zur Aufhebung der Verordnung (EG) Nr. 726/2004, der Verordnung (EG) Nr. 141/2000 und der Verordnung (EG) Nr. 1901/2006\r\nKOM(2023) 193 endg.; Ratsdok. 8758/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "300827"
+    },
+    {
+      "id": "656315",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 22844B - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Schaffung eines Unionskodexes für Humanarzneimittel und zur Aufhebung der Richtlinie 2001/83/EG und der Richtlinie 2009/35/EG\r\nKOM(2023) 192 endg.; Ratsdok. 8759/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22845,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "300829"
+    },
+    {
+      "id": "655926",
+      "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+          "id": "302813"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+          "id": "302866"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22743",
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme",
+          "dokumentnummer": "20/11770",
+          "seite": "22748C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22743D",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Torsten Herbst, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22743"
+        },
+        {
+          "seite": "22744C",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22744"
+        },
+        {
+          "seite": "22745B",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Detlef Müller (Chemnitz), MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22745"
+        },
+        {
+          "seite": "22746A",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22746"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "300155"
+    },
+    {
+      "id": "655928",
+      "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+          "id": "300155"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+          "id": "302813"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+          "id": "302866"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22743",
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme",
+          "dokumentnummer": "20/11790",
+          "seite": "22748D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22743D",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Torsten Herbst, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22743"
+        },
+        {
+          "seite": "22744C",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22744"
+        },
+        {
+          "seite": "22745B",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Detlef Müller (Chemnitz), MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22745"
+        },
+        {
+          "seite": "22746A",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22746"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "300144"
+    },
+    {
+      "id": "655929",
+      "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+          "id": "300155"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+          "id": "302813"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22743",
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme",
+          "dokumentnummer": "20/11800",
+          "seite": "22748D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22743D",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Torsten Herbst, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22743"
+        },
+        {
+          "seite": "22744C",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22744"
+        },
+        {
+          "seite": "22745B",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Detlef Müller (Chemnitz), MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22745"
+        },
+        {
+          "seite": "22746A",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22746"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "302866"
+    },
+    {
+      "id": "655948",
+      "vorgangsposition": "Protokollerklärung/Begleiterklärung zum Vermittlungsverfahren",
+      "zuordnung": "BT",
+      "abstract": "Protokollerklärung der Bundesregierung (Anlage 3), Erklärung des Vermittlungsausschusses (Anlage 4)",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22843",
+        "anfangsseite": 22843,
+        "endseite": 22844,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "300144"
+    },
+    {
+      "id": "655927",
+      "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+          "id": "300155"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+          "id": "302866"
+        }
+      ],
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22743",
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme",
+          "dokumentnummer": "20/11780",
+          "seite": "22748C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22743D",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Torsten Herbst, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22743"
+        },
+        {
+          "seite": "22744C",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22744"
+        },
+        {
+          "seite": "22745B",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Detlef Müller (Chemnitz), MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22745"
+        },
+        {
+          "seite": "22746A",
+          "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22746"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "302813"
+    },
+    {
+      "id": "655947",
+      "vorgangsposition": "Protokollerklärung/Begleiterklärung zum Vermittlungsverfahren",
+      "zuordnung": "BT",
+      "abstract": "Protokollerklärung der Bundesregierung (Anlage 2)",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22842",
+        "anfangsseite": 22842,
+        "endseite": 22843,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "datum": "2024-06-14",
+      "vorgang_id": "302813"
+    },
+    {
+      "id": "655988",
+      "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "fundstelle": {
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "anfangsseite": 22844,
+        "endseite": 22844,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "22844B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stefan Seidler, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844"
+        }
+      ],
+      "datum": "2024-06-14",
+      "vorgang_id": "300144"
+    }
+  ]
+}

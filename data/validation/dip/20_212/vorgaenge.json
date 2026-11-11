@@ -1,0 +1,270 @@
+{
+  "numFound": 11,
+  "documents": [
+    {
+      "id": "320235",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "titel": "Rückblick auf abgelaufene Wahlperiode und Herausforderungen an den nächsten Deutschen Bundestag",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "320234",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-06-02T16:43:23+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundestag: Verabschiedung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundestagsvizepräsident",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Verabschiedung der Bundestagsvizepräsidentin Yvonne Magwas aus dem Deutschen Bundestag",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "320233",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundestag: Verabschiedung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Ansprache der Bundestagsvizepräsidentin Yvonne Magwas anlässlich ihres Ausscheidens aus dem Deutschen Bundestag",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "320228",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundestag: Teilnahmebezeigung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gedenken an Altbundespräsident Horst Köhler",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "320227",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundestag: Teilnahmebezeigung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nachruf auf den Abg Erwin Rüddel (CDU/CSU) (verstorben am 03.02.2025)",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "320225",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundestagsabgeordneter: Nachträglicher Eintritt in den Bundestag",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Eintritt der Abg Ursula Groden-Kranich (CDU/CSU) in den Deutschen Bundestag als Nachfolgerin für den verstorbenen Abg Erwin Rüddel (Mandatsbeginn: 07.02.2025)",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "320224",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundestag: Verabschiedung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verabschiedung des Abg Kevin Kühnert (SPD) aus dem Deutschen Bundestag",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "320223",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-06-02T16:37:02+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundestag: Verabschiedung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verabschiedung der Abg Joana Cotar (fraktionslos) aus dem Deutschen Bundestag",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "320222",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundestag: Verabschiedung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verabschiedung des Abg Axel Schäfer (SPD) aus dem Deutschen Bundestag",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "320221",
+      "vorgangstyp": "Vereinbarte Debatte",
+      "sachgebiet": [
+        "Außenpolitik und internationale Beziehungen",
+        "Migration und Aufenthaltsrecht",
+        "Politisches Leben, Parteien",
+        "Verteidigung",
+        "Wirtschaft",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Flüchtlingspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Illegale Einwanderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innere Sicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Migration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Politische Lage",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Russland",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerreform",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vereinbarte Debatte zur Situation in Deutschland",
+      "datum": "2025-02-11"
+    },
+    {
+      "id": "318567",
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "sachgebiet": [
+        "Bildung und Erziehung",
+        "Medien, Kommunikation und Informationstechnik",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesministerium der Finanzen"
+      ],
+      "aktualisiert": "2025-04-29T10:20:29+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Digitalinfrastrukturfondsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Informations- und Kommunikationstechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Schulfinanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Telekommunikationsnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Über- und außerplanmäßige Haushaltsausgaben: Haushaltsjahr 2024",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Haushaltsführung 2024\r\nÜberplanmäßige Ausgabe bei Kapitel 3002 Titel 882 01 - Zuweisungen an die Länder zur Förderung von Investitionen in die digitale Infrastruktur für Schulen gemäß § 2 Nummer 3 des Digitalinfrastrukturgesetzes - bis zur Höhe von 310 Mio. Euro",
+      "datum": "2025-02-11"
+    }
+  ]
+}

@@ -1,0 +1,1094 @@
+{
+  "numFound": 25,
+  "documents": [
+    {
+      "id": "663064",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Der politischen Handlungsunfähigkeit entgegentreten - Den Weg für Neuwahlen freimachen und die Vertrauensfrage umgehend stellen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 15,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-20T17:19:25+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25789",
+        "anfangsseite": 25789,
+        "endseite": 25808,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25789C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25789"
+        },
+        {
+          "seite": "25790C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dirk Wiese, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25790"
+        },
+        {
+          "seite": "25792B",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25792"
+        },
+        {
+          "seite": "25793C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25793"
+        }
+      ],
+      "datum": "2024-11-08",
+      "vorgang_id": "317287"
+    },
+    {
+      "id": "663065",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Erinnerung an Ereignisse vom 9. November: 35 Jahre Mauerfall, die Reichspogromnacht und Ausrufung der Weimarer Republik",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25767",
+        "anfangsseite": 25767,
+        "endseite": 25768,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25767A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25767"
+        }
+      ],
+      "datum": "2024-11-08",
+      "vorgang_id": "317288"
+    },
+    {
+      "id": "663060",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Der Epochenwechsel in Europa 1989/1990 - 35 Jahre Friedliche Revolution und Deutsche Einheit",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 25,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "35 Jahre Mauerfall - 35 Jahre Freiheit in ganz Deutschland - Verantwortung und Auftrag",
+          "id": "317206"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gerechtigkeit für Familien schaffen, die in der DDR und SBZ Opfer von staatlich organisiertem Kindesraub wurden",
+          "id": "317211"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Erinnerung an die kommunistische Gewaltherrschaft in Deutschland neu aufstellen - Tag des Volksaufstandes in der DDR zum Feiertag erheben, Bau des Mahnmals beschleunigen und Wissensvermittlung gewährleisten",
+          "id": "317212"
+        }
+      ],
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25768",
+        "anfangsseite": 25768,
+        "endseite": 25789,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/13628",
+          "seite": "25789A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25768C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Paula Piechotta, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25768"
+        },
+        {
+          "seite": "25769C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25769"
+        },
+        {
+          "seite": "25771B",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Bernhard Herrmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25771"
+        },
+        {
+          "seite": "25771C",
+          "aktivitaetsart": "Erwiderung",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25771"
+        }
+      ],
+      "datum": "2024-11-08",
+      "vorgang_id": "317189"
+    },
+    {
+      "id": "663061",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "35 Jahre Mauerfall - 35 Jahre Freiheit in ganz Deutschland - Verantwortung und Auftrag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 25,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Der Epochenwechsel in Europa 1989/1990 - 35 Jahre Friedliche Revolution und Deutsche Einheit",
+          "id": "317189"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gerechtigkeit für Familien schaffen, die in der DDR und SBZ Opfer von staatlich organisiertem Kindesraub wurden",
+          "id": "317211"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Erinnerung an die kommunistische Gewaltherrschaft in Deutschland neu aufstellen - Tag des Volksaufstandes in der DDR zum Feiertag erheben, Bau des Mahnmals beschleunigen und Wissensvermittlung gewährleisten",
+          "id": "317212"
+        }
+      ],
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25768",
+        "anfangsseite": 25768,
+        "endseite": 25789,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/13614",
+          "seite": "25789A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25768C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Paula Piechotta, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25768"
+        },
+        {
+          "seite": "25769C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25769"
+        },
+        {
+          "seite": "25771B",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Bernhard Herrmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25771"
+        },
+        {
+          "seite": "25771C",
+          "aktivitaetsart": "Erwiderung",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25771"
+        }
+      ],
+      "datum": "2024-11-08",
+      "vorgang_id": "317206"
+    },
+    {
+      "id": "663062",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Gerechtigkeit für Familien schaffen, die in der DDR und SBZ Opfer von staatlich organisiertem Kindesraub wurden",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 25,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Petitionsausschuss",
+          "ausschuss_kuerzel": "PetA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Der Epochenwechsel in Europa 1989/1990 - 35 Jahre Friedliche Revolution und Deutsche Einheit",
+          "id": "317189"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "35 Jahre Mauerfall - 35 Jahre Freiheit in ganz Deutschland - Verantwortung und Auftrag",
+          "id": "317206"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Erinnerung an die kommunistische Gewaltherrschaft in Deutschland neu aufstellen - Tag des Volksaufstandes in der DDR zum Feiertag erheben, Bau des Mahnmals beschleunigen und Wissensvermittlung gewährleisten",
+          "id": "317212"
+        }
+      ],
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25768",
+        "anfangsseite": 25768,
+        "endseite": 25789,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13621",
+          "seite": "25789B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25768C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Paula Piechotta, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25768"
+        },
+        {
+          "seite": "25769C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25769"
+        },
+        {
+          "seite": "25771B",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Bernhard Herrmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25771"
+        },
+        {
+          "seite": "25771C",
+          "aktivitaetsart": "Erwiderung",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25771"
+        }
+      ],
+      "datum": "2024-11-08",
+      "vorgang_id": "317211"
+    },
+    {
+      "id": "663063",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Erinnerung an die kommunistische Gewaltherrschaft in Deutschland neu aufstellen - Tag des Volksaufstandes in der DDR zum Feiertag erheben, Bau des Mahnmals beschleunigen und Wissensvermittlung gewährleisten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 25,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "ausschuss_kuerzel": "AfMenschenr",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Der Epochenwechsel in Europa 1989/1990 - 35 Jahre Friedliche Revolution und Deutsche Einheit",
+          "id": "317189"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "35 Jahre Mauerfall - 35 Jahre Freiheit in ganz Deutschland - Verantwortung und Auftrag",
+          "id": "317206"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gerechtigkeit für Familien schaffen, die in der DDR und SBZ Opfer von staatlich organisiertem Kindesraub wurden",
+          "id": "317211"
+        }
+      ],
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25768",
+        "anfangsseite": 25768,
+        "endseite": 25789,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13622",
+          "seite": "25789B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25768C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Paula Piechotta, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25768"
+        },
+        {
+          "seite": "25769C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25769"
+        },
+        {
+          "seite": "25771B",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Bernhard Herrmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25771"
+        },
+        {
+          "seite": "25771C",
+          "aktivitaetsart": "Erwiderung",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25771"
+        }
+      ],
+      "datum": "2024-11-08",
+      "vorgang_id": "317212"
+    },
+    {
+      "id": "663099",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates zur Festlegung des im Namen der Europäischen Union im Zusammenhang mit der Überprüfung von Artikel 6 des Übereinkommens über öffentlich unterstützte Exportkredite zu vertretenden Standpunkts \r\nKOM(2024) 282 endg.; Ratsdok. 12123/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "315527"
+    },
+    {
+      "id": "663225",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates zur Festlegung des im Namen der Europäischen Union in der Internationalen Organisation für Rebe und Wein (OIV) zu vertretenden Standpunkts \r\nKOM(2024) 379 endg.; Ratsdok. 12852/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "316063"
+    },
+    {
+      "id": "663228",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission über die gesamte Durchführung amtlicher Kontrollen in den Mitgliedstaaten (2022) zur Gewährleistung der Anwendung des Lebensmittel- und Futtermittelrechts sowie der Vorschriften über Tiergesundheit, Tierschutz, Pflanzengesundheit und Pflanzenschutzmittel \r\nKOM(2024) 388 endg.; Ratsdok. 13156/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "316386"
+    },
+    {
+      "id": "663235",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EG) Nr. 851/2004 zur Errichtung eines Europäischen Zentrums für die Prävention und die Kontrolle von Krankheiten \r\nKOM(2020)726 endg.; Ratsdok. 12972/20",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "285449"
+    },
+    {
+      "id": "663268",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zu schwerwiegenden grenzüberschreitenden Gesundheitsgefahren und zur Aufhebung des Beschlusses Nr. 1082/2013/EU\r\nKOM(2020)727 endg.; Ratsdok. 12973/20",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "285450"
+    },
+    {
+      "id": "663270",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Standpunkt, der im Namen der Europäischen Union im Europäischen Ausschuss zur Ausarbeitung von Standards im Bereich der Binnenschifffahrt und in der Zentralkommission für die Rheinschifffahrt in Bezug auf die Annahme von Standards im Bereich der Binnenschifffahrt zu vertreten ist \r\nKOM(2024) 391 endg.; Ratsdok. 13009/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "316072"
+    },
+    {
+      "id": "663271",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Europäische Erklärung zu den digitalen Rechten und Grundsätzen für die digitale Dekade \r\nKOM(2022) 28 endg.; Ratsdok. 5783/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "285643"
+    },
+    {
+      "id": "663272",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung für einen Beschluss des Rates über die Ermächtigung zur Aufnahme von Verhandlungen im Namen der Europäischen Union über ein Übereinkommen des Europarats über künstliche Intelligenz, Menschenrechte, Demokratie und Rechtsstaatlichkeit \r\nKOM(2022) 414 endg.; Ratsdok. 11818/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "291573"
+    },
+    {
+      "id": "663273",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Unterrichtung durch die Bundesregierung gemäß § 7 Absatz 1 EUZBBG (GASP/GSVP)\r\nFörderung verantwortungsvoller Innovation auf dem Gebiet der künstlichen Intelligenz im Dienste von Frieden und Sicherheit\r\n(Anlage 12 zur 70. Indikativen Vorschau vom 7. November 2022) \r\nEuB-BReg 129/2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "294163"
+    },
+    {
+      "id": "663274",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nEU-Initiative für das Web 4.0 und virtuelle Welten: mit Vorsprung in den nächsten technologischen Wandel \r\nKOM(2023)442 endg.; Ratsdok. 12092/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "303472"
+    },
+    {
+      "id": "663275",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions\r\nReport on the state of the Digital Decade 2023\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2023)570 endg.; Ratsdok. 13558/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "305834"
+    },
+    {
+      "id": "663276",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810D - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Ausübung der der Kommission übertragenen Befugnis zum Erlass delegierter Rechtsakte gemäß der Richtlinie (EU) 2019/1024 des Europäischen Parlaments und des Rates über offene Daten und die Weiterverwendung von Informationen des öffentlichen Sektors (\"Richtlinie über offene Daten\") \r\nKOM(2023) 703 endg.; Ratsdok. 15432/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25811,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "308527"
+    },
+    {
+      "id": "663075",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 25810C - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "titel": "Haushaltsführung 2024\r\nÜberplanmäßige Ausgabe bei Kapitel 0502 Titel 687 01 - Hilfe für Deutsche im Ausland und für nicht vertretene Unionsbürgerinnen und Unionsbürger in Drittstaaten - bis zur Höhe von 4.705.000 Euro",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-19T11:49:46+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25810,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "316190"
+    },
+    {
+      "id": "663077",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 25810C - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht der Bundesregierung zur Umsetzung der Ziele des Bologna-Prozesses 2021 bis 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25810,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "310645"
+    },
+    {
+      "id": "663079",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 25810C - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Entwurf der Fortschreibung der Aufgabenplanung 2022 bis 2025 für das Jahr 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T11:46:03+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25810,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "313105"
+    },
+    {
+      "id": "663076",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 25810C - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht der Bundesregierung gemäß § 37g Satz 2 des Bundes-Immissionsschutzgesetztes zur Evaluierung der Treibhausgasminderungs-Quote",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-19T16:47:23+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25810,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "315264"
+    },
+    {
+      "id": "663078",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 25810C - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bundesbericht Forschung und Innovation 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-19T16:47:07+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25810,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "312446"
+    },
+    {
+      "id": "663072",
+      "vorgangsposition": "Berichtigung zum Gesetzesbeschluss",
+      "zuordnung": "BT",
+      "abstract": "Berichtigung mit Zustimmung der BT-Präsidentin gem. § 122 Abs. 3 Satz 1 der Geschäftsordnung BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Durchsetzung tiergesundheitsrechtlicher und bestimmter kontrollrechtlicher Vorschriften der Europäischen Union und zur Änderung der Binnenmarkt-Tierseuchenschutzverordnung sowie zur Änderung weiterer Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-05-21T17:44:04+02:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25810,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "314879"
+    },
+    {
+      "id": "663071",
+      "vorgangsposition": "Berichtigung zum Gesetzesbeschluss",
+      "zuordnung": "BT",
+      "abstract": "Berichtigung mit Zustimmung der BT-Präsidentin gem. § 122 Abs. 3 Satz 1 Geschäftsordnung BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der Versorgungsqualität im Krankenhaus und zur Reform der Vergütungsstrukturen (Krankenhausversorgungsverbesserungsgesetz - KHVVG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-16T17:35:40+01:00",
+      "fundstelle": {
+        "id": "5682",
+        "dokumentnummer": "20/198",
+        "datum": "2024-11-08",
+        "verteildatum": "2024-11-11",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20198.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20198.pdf#P.25810",
+        "anfangsseite": 25810,
+        "endseite": 25810,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-08",
+      "vorgang_id": "312313"
+    }
+  ]
+}

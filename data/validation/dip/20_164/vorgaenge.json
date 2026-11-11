@@ -1,0 +1,3269 @@
+{
+  "numFound": 41,
+  "documents": [
+    {
+      "id": "306063",
+      "abstract": "Entwicklung einer nationalen Wasserstoffinfrastruktur zwecks Dekarbonisierung insbes. der Wirtschaftssektoren mit den höchsten Treibhausgasemissionen, Anbindung von Wasserstoffverbrauchern, -erzeugern und -speichern über Wasserstoff-Kernnetz hinaus zum Aufbau eines flächendeckenden Wasserstoffnetzes, Etablierung einer fortlaufenden integrierten Netzentwicklungsplanung für Wasserstoff und Gas ab dem Jahr 2025, Errichtung einer datenbankgestützten Koordinierungsstelle der Fernleitungsnetz- und Wasserstofftransportnetzbetreiber zwecks bundeseinheitlich modellierter Entwurfvorlage an Regulierungsbehörde, Veröffentlichung des Netzentwicklungsplanentwurfs, Öffentlichkeitsbeteiligung und Berichterstattung, Ermöglichung eines vollständig aus Netzentgelten finanzierten und auf privatwirtschaftlichen Investitionen beruhenden Wasserstoff-Kernnetzes, Umgehung des Amortisationsrisikos in der Hochlaufphase durch Schaffung eines Amortisationskontos mit subsidiärer Absicherung durch den Bund, Festlegungskompetenz für Bundesnetzagentur zur Erstellung des Präventionsplans Gas;<br />\r\nEinfügung und Änderung versch. §§ Energiewirtschaftsgesetz; Verordnungsermächtigung<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses: </strong>Titeländerung (eingebracht als: Drittes Gesetz zur Änderung des Energiewirtschaftsgesetzes); Änderungen der Regelungen zur kontoführenden Stelle und zum Amortisationskonto, Verlagerung des Insolvenzrisikos von Kernnetz-Betreibern auf Bundesrepublik Deutschland, Ermöglichung zeitlicher Flexibilät für Hochlauf des Kernnetzes, Verankerung einer größeren Systementwicklungsstrategie, Verpflichtung der Bundesnetzagentur zur Anhörung unabhängiger Gutachter bei Genehmigung der Netzentwicklungsplanung, Verzicht auf Umsetzungsbericht;<br />\r\nErneute und zusätzliche Änderung sowie Einfügung versch. §§ Energiewirtschaftsgesetz",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "E046",
+      "archiv": "XX/242",
+      "sachgebiet": [
+        "Energie",
+        "Wirtschaft"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 590/23)",
+        "Nein, laut Verkündung (BGBl I)"
+      ],
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2025-05-07T13:28:51+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Entschließungsantrag der Fraktion der CDU/CSU",
+          "titel": "Entschließungsantrag zum Dritten Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+          "id": "310781",
+          "wahlperiode": 20
+        }
+      ],
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "161",
+          "ausfertigungsdatum": "2024-05-14",
+          "verkuendungsdatum": "2024-05-16",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/161",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 161"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2024-05-17"
+        },
+        {
+          "datum": "2024-06-01",
+          "erlaeuterung": "Artikel 1 Nr. 10"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Aufsichtsbehörde",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bürgerbeteiligung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Datenbank",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiespeicher",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiewirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Energiewirtschaftsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gaswirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gutachten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Investitionsförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftreinhaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Netzentgelt",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Netzentwicklungsplan",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": true,
+          "name": "Netzinfrastruktur",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Planung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wasserstoff",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wasserstofftechnologie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wasserstoffwirtschaft",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Zweites Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+      "datum": "2025-04-14"
+    },
+    {
+      "id": "303278",
+      "abstract": "Vereinheitlichung und Vereinfachung der Regelungen zur Änderung des Geschlechtseintrags und der Vornamen für trans-, intergeschlechtliche und nichtbinäre Menschen: Änderung von Geschlechtseintrag und Vornamen durch Erklärung mit Beifügung einer Eigenversicherung gegenüber dem Standesamt, Dreimonatsfrist für vorherige Anmeldung, einjährige Sperrfrist für erneute Änderung, besondere Regelungen für Minderjährige sowie für Menschen unter Betreuung, Zustimmung durch Sorgeberechtigten oder Familiengericht bzw. Betreuungsgericht, Offenbarungs- und Ausforschungsverbot zum Schutz gegen ein Zwangs-Outing, Ausnahmen, Bußgeldvorschriften, keine Regelungen zu geschlechtsangleichenden medizinischen Maßnahmen, Klarstellungen zum Hausrecht und Zugang zu geschützten Räumlichkeiten, Gesetzesevaluation innerhalb von 5 Jahren nach Inkrafttreten, Berichtspflicht;<br />\r\n<strong>Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag</strong> (SBGG) als Art. 1 der Vorlage, Änderung und Einfügung zahlr. §§ in 9 weiteren Gesetzen und 1 Rechtsverordnung, Aufhebung Transsexuellengesetz<br />\r\n<br />\r\nBezug: Entscheidungen des Bundesverfassungsgerichts zum Transsexuellengesetz vom 16. März 1982 (1 BvR 983/81), vom 26. Januar 1993 (1 BvL 38, 40, 43/92), vom 6. Dezember 2005 (1 BvL 3/03), vom 18. Juli 2006 (1 BvL 1 und 12/04), vom 27. Mai 2008 (1 BvL 10/05), vom 11. Januar 2011 (1 BvR 3295/07) sowie vom 10. Oktober 2017 (1 BvR 2019/16)<br />\r\nVereinbarung im Koalitionsvertrag zur Abschaffung des Transsexuellengesetzes und Ersetzung durch ein Selbstbestimmungsgesetz<br />\r\nEckpunkte des BMFSFJ und BMJ zum Selbstbestimmungsgesetz, Juni 2022<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses: </strong>Vorgaben zur Beratungspflicht für beschränkt geschäftsfähige Minderjährige sowie Anhörung von Kindern ab 5 Jahren, Ausweitung des Offenbarungsverbots auf Familienangehörige, Reisepassregelungen, Streichung der Regelung zur automatisierten Datenweitergabe, Klarstellungen betr. bereits eingereichte Dokumente, Neuausstellung von Dokumenten sowie zum Eltern-Kind-Verhältnis, zweistufiges Inkrafttreten des Gesetzes;<br />\r\nÄnderung versch. §§ Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag, erneute Änderung § 4 Passgesetz, §§ 27 und 45b Personenstandsgesetz sowie § 42 Personenstandsverordnung",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "I013",
+      "archiv": "XX/250",
+      "sachgebiet": [
+        "Gesellschaftspolitik, soziale Gruppen",
+        "Recht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 432/23)",
+        "Nein, laut Verkündung (BGBl I)"
+      ],
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2025-04-03T15:02:50+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Entschließungsantrag der Gruppe Die Linke",
+          "titel": "Entschließungsantrag zum Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+          "id": "310838",
+          "wahlperiode": 20
+        }
+      ],
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "206",
+          "ausfertigungsdatum": "2024-06-19",
+          "verkuendungsdatum": "2024-06-21",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/206",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 206"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2024-08-01",
+          "erlaeuterung": "Artikel 1 § 4"
+        },
+        {
+          "datum": "2024-11-01",
+          "erlaeuterung": "im Übrigen"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Beratung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesmeldegesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesverfassungsgericht",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeszentralregistergesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einführungsgesetz zum Bürgerlichen Gesetzbuche",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Elterliche Sorge",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Familiengerichtsbarkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Frist",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Geldbuße",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gerichts- und Notarkostengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gerichtsentscheidung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Geschlecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzesfolgenabschätzung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hausrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Intersexualität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Justizvergütungs- und -entschädigungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kind",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kinderschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Minderjähriger",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Namensrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Pass",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Passgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Personenstand",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personenstandsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personenstandsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rechtliche Betreuung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rechtspflegergesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Regierungsprogramm",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Selbstbestimmungsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Standesamt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Transsexualität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Transsexuellengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vormundschaft",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+      "datum": "2025-04-02"
+    },
+    {
+      "id": "309057",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "5837/24",
+      "kom": "(2024) 14 endg.",
+      "initiative": [
+        "Europäische Kommission"
+      ],
+      "aktualisiert": "2024-08-13T15:04:31+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Europäischer Betriebsrat",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Mitbestimmung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Multinationales Unternehmen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Richtlinie der EU",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2009/38/EG betreffend die Einsetzung und Arbeitsweise Europäischer Betriebsräte und die wirksame Durchsetzung der Rechte auf länderübergreifende Unterrichtung und Anhörung\r\nKOM(2024) 14 endg.; Ratsdok. 5837/24",
+      "datum": "2024-08-09"
+    },
+    {
+      "id": "308523",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "7433/24",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-06-24T10:50:38+02:00",
+      "titel": "Empfehlung der Kommission vom 12.12.2023 zur Förderung der Mitwirkung und der wirksamen Beteiligung von Bürgerinnen und Bürgern und Organisationen der Zivilgesellschaft an politischen Entscheidungsprozessen \r\nK(2023)8627 endg.; Ratsdok. 7433/24",
+      "datum": "2024-06-19"
+    },
+    {
+      "id": "310772",
+      "beratungsstand": "Erledigt durch Ablauf der Wahlperiode",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2025-07-03T13:59:16+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Arbeitnehmer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Einkommensteuer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Grundfreibetrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Illegale Einwanderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Inflation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klein- und Mittelunternehmen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerbelastung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerentlastung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Steuertarif",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Ausgaben",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Lohnabstandsgebot beachten - Arbeitnehmer und Mittelstand entlasten - Den steuerlichen Grundfreibetrag für 2024 auf 14.000 Euro und weitere Tarifeckwerte korrespondierend erhöhen",
+      "datum": "2024-06-18"
+    },
+    {
+      "id": "303316",
+      "abstract": "Liberalisierung des Namensrechts zur Erleichterung der Namenswahl und familienrechtlicher Namensänderungen sowie Anpassung an die Entwicklung in anderen EU-Staaten: Möglichkeit der Bildung von Doppelnamen für Ehegatten und gemeinsame Kinder, Erweiterung der Regelungen zur Namensführung für minderjährige Kinder geschiedener Eltern oder verwitweter Elternteile, Rückbenennung für einbenannte minderjährige sowie volljährige Stiefkinder, Berücksichtigung von Namenstraditionen anerkannter nationaler Minderheiten sowie geschlechtsangepasster Formen von Personen mit Migrationshintergrund, Namensänderungsmöglichkeiten für Volljährige, Aufhebung des Zwangs zur Namensänderung nach Erwachsenenadoption;<br />\r\nNeufassung § 1355 bei Einfügung §§ 1355a und 1355b, Einfügung §§ 1617d bis 1617i, Aufhebung § 1618 bei Umsetzung § 1618a als § 1618 neu sowie Änderung versch. §§ Bürgerliches Gesetzbuch, Änderung Art. 10, 48 und 229 Einführungsgesetz zum Bürgerlichen Gesetzbuche, Änderung § 1 und Aufhebung § 4 Minderheiten-Namensänderungsgesetz, Änderung §§ 41, 45 und 79 und Aufhebung § 42 Personenstandsgesetz sowie Folgeänderungen in 2 weiteren Gesetzen<br />\r\n<br />\r\nBezug: Eckpunkte zur Reform des Namensrechts vom 11.02.2020, BMJV/BMI<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses: </strong>Titeländerung (eingebracht als: Gesetz zur Änderung des Ehenamens- und Geburtsnamensrechts); zahlr. weitere Änderungen, insbes. betr. Erweiterung der Namensänderungsmöglichkeiten für Volljährige, Verbindung eines Doppelnamens durch Bindestrich als Regelfall, abweichende Bestimmung durch Ehegatten und Eltern, bei unterlassener Ausübung des elterlichen Bestimmungsrechts Erwerb des Geburtsdoppelnamens aus den Familiennamen der Eltern in alphabetischer Reihenfolge kraft Gesetz, Möglichkeit der Wahl des Familiennamens eines verstorbenen Elternteils oder, bei Namensbestimmung nach dänischer Tradition, eines verstorbenen nahen Angehörigen, Anknüpfung des Namens einer Person an ihren gewöhnlichen Aufenthalt, beschränkte Rechtswahlmöglichkeit zugunsten des Heimatrechts, Erweiterung der Überleitungsvorschriften;<br />\r\nErneute Änderung versch. §§ Bürgerliches Gesetzbuch, erneute Änderung Art. 10 und 229 sowie zusätzliche Änderung Art. 23 Einführungsgesetz zum Bürgerlichen Gesetzbuche, erneute Änderung § 1 Minderheiten-Namensänderungsgesetz und § 45 Personenstandsgesetz sowie zusätzliche Folgeänderung § 168g Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "C066",
+      "archiv": "XX/247",
+      "sachgebiet": [
+        "Gesellschaftspolitik, soziale Gruppen",
+        "Recht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 440/23)",
+        "Nein, laut Verkündung (BGBl I)"
+      ],
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-07-26T13:42:36+02:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "185",
+          "ausfertigungsdatum": "2024-06-11",
+          "verkuendungsdatum": "2024-06-14",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/185",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 185"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2025-05-01"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Adoption",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesvertriebenengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bürgerliches Gesetzbuch",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ehescheidung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einführungsgesetz zum Bürgerlichen Gesetzbuche",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesetz zur Änderung des Ehenamens- und Geburtsnamensrechts und des Internationalen Namensrechts",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hinterbliebener",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lebenspartnerschaftsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Migrant",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Minderheiten-Namensänderungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Minderjähriger",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Namensrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nationale Minderheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personenstandsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Stiefkind",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Volljährigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gesetz zur Änderung des Ehenamens- und Geburtsnamensrechts und des Internationalen Namensrechts",
+      "datum": "2024-05-17"
+    },
+    {
+      "id": "305482",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "B055",
+      "archiv": "XX/240",
+      "sachgebiet": [
+        "Migration und Aufenthaltsrecht",
+        "Soziale Sicherung",
+        "Staat und Verwaltung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Ja, laut Gesetzentwurf (Drs 567/23 (bes.eilbed.))",
+        "Ja, laut Verkündung (BGBl I)"
+      ],
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-07-26T13:39:09+02:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "152",
+          "ausfertigungsdatum": "2024-05-08",
+          "verkuendungsdatum": "2024-05-15",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/152",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 152"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2024-03-01",
+          "erlaeuterung": "Artikel 13 Nr. 1 Buchst. c"
+        },
+        {
+          "datum": "2024-05-16",
+          "erlaeuterung": "im Übrigen"
+        },
+        {
+          "datum": "2024-11-01",
+          "erlaeuterung": "Art. 1 (zahlr. Einzelbestimmungen), die Art. 8 - 10 und 12 Nr. 1 Buchst. c, Art. 13 Nr. 1 Buchst. e, Nr. 2 Buchst. a Dbuchst. aa - dd, Buchst. b und c"
+        },
+        {
+          "datum": "2025-05-01",
+          "erlaeuterung": "Artikel 1 Nr. 1 Buchst. f, Nr. 4 Buchst. a Dbuchst. aa und bb, Buchst. e, Nr. 7 Buchst. d Dbuchst. aa, Nr. 8 Buchst. a, Nr. 25, 26 Buchst. a und Nr. 34, Artikel 2 Nr. 5 Buchst. e und g Dbuchst. aa, Buchst. s bis u und Nr. 6 Buchst. a Dbuchst. aa"
+        },
+        {
+          "datum": "2025-11-01",
+          "erlaeuterung": "Artikel 1 (zahlr. Einzelbestimmungen), Artikel 2 (zahlr. Einzelbestimmungen), Artikel 4 bis 7, 12 Nr. 2 Buchst. b Doppelbuchst. bb bis dd, Artikel 13 Nr. 1 Buchst. b"
+        },
+        {
+          "datum": "2026-11-01",
+          "erlaeuterung": "Artikel 1 (weitere Einzelbestimmungen), Artikel 2 (weitere Einzelbestimmungen), Artikel 12 Nr. 1 Buchst. a, Nr. 2 Buchst. a und b Doppelbuchst. aa, ee und ff, Buchst. c, Nr. 3 und 4, Artikel 13 Nr. 1 Buchst. a und Nr. 2 Buchst. a Doppelbuchst. ee    "
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "AZR-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "AZRG-Durchführungsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ankunftsnachweisverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylbewerberleistungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Aufenthaltsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Aufenthaltsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausländerbehörde",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausländerrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausländerzentralregister",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesstatistikgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Chipkarte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Datenaustausch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "E-Government",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesetz zur Anpassung von Datenübermittlungsvorschriften im Ausländer- und Sozialrecht",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Identifikationsnummerngesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Identitätsfeststellung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialgesetzbuch II",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialgesetzbuch VIII",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialgesetzbuch XII",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialverwaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unterhaltsvorschussgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Gesetz zur Anpassung von Datenübermittlungsvorschriften im Ausländer- und Sozialrecht (DÜV-AnpassG)",
+      "datum": "2024-04-26"
+    },
+    {
+      "id": "310993",
+      "vorgangstyp": "Geschäftsordnung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Ordnungsruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Parlamentarische Ordnung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Erteilung eines Ordnungsrufes an die Abg Kordula Schulz-Asche (B90/GR)",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "310955",
+      "abstract": "Aussprache auf Verlangen der Gruppe Die Linke, unabhängig von einer Fragestunde",
+      "vorgangstyp": "Aktuelle Stunde",
+      "sachgebiet": [
+        "Energie",
+        "Wirtschaft"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-07-15T09:03:00+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Arbeitsmarktpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiewende",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Erneuerbare Energie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Internationale Wirtschaftsbeziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Ostdeutsche Länder",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Photovoltaik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Standort Deutschland",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Fertigung und Arbeitsplätze in Ostdeutschland erhalten, Energiewende voranbringen - Abhängigkeit von China bei Solarmodulen verhindern",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "310913",
+      "vorgangstyp": "Geschäftsordnung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Ordnungsruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Parlamentarische Ordnung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Ordnungsruf an die Abg Beatrix von Storch (AfD)",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "310838",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Entschließungsantrag BT",
+      "sachgebiet": [
+        "Gesellschaftspolitik, soziale Gruppen",
+        "Recht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Gruppe Die Linke"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Gesetz",
+          "titel": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+          "id": "303278",
+          "wahlperiode": 20,
+          "gesta": "I013"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Antidiskriminierungsstelle des Bundes",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Arbeitsförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Armut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Beratung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Diskriminierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Entschädigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Familienrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Fonds",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Freiheitsentziehung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Geschlecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesundheitswesen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Intersexualität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Medizinische Versorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Personenstand",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Selbstbestimmungsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Studie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Transsexualität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschließungsantrag zum Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "310781",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Entschließungsantrag BT",
+      "sachgebiet": [
+        "Energie",
+        "Wirtschaft"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Gesetz",
+          "titel": "Zweites Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+          "id": "306063",
+          "wahlperiode": 20,
+          "gesta": "E046"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Biogas",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesnetzagentur für Elektrizität, Gas, Telekommunikation, Post und Eisenbahnen",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einfuhr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Energiewirtschaftsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Evaluation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Finanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gas",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gaskraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gaswirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kohlendioxid",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftreinhaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Netzinfrastruktur",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Planung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wasserstoff",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wasserstofftechnologie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wasserstoffwirtschaft",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschließungsantrag zum Dritten Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "310773",
+      "beratungsstand": "Erledigt durch Ablauf der Wahlperiode",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Außenpolitik und internationale Beziehungen",
+        "Gesellschaftspolitik, soziale Gruppen",
+        "Innere Sicherheit",
+        "Kultur"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2025-05-19T11:36:03+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Arabische Staaten",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausländerrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausweisung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "BDS-Bewegung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Desinformation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Deutsch-Israelisches Jugendwerk",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsprojekt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gazastreifen",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gefahrenabwehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Geiselnahme",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hamas",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hasskriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hisbollah",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Humanitäre Hilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Integrationskurs",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Internationale Sanktion",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Internet",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Iran",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Islamismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Israel",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Juden",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kriminalstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kulturförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Militärische Kooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Nahostkonflikt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Palästinensische Gebiete",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Bildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Straftat",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Projektförderung",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Soziale Medien",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafverfolgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Terrorismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Terrorismusbekämpfung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Terroristische Vereinigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vereinsverbot",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verfassungsfeindlichkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Volksverhetzung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Historische Verantwortung wahrnehmen - Jüdisches Leben in Deutschland schützen",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "310769",
+      "beratungsstand": "Erledigt durch Ablauf der Wahlperiode",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Bildung und Erziehung",
+        "Innere Sicherheit",
+        "Wissenschaft, Forschung und Technologie"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2025-05-19T11:33:17+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Akademischer Austausch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Auszubildender",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "BDS-Bewegung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Berufliche Weiterbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Deutsch-Israelisches Jugendwerk",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Exmatrikulation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Exzellenzstrategie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Forschungseinrichtung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gewaltkriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hasskriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Hochschule",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hochschulrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hochschulrektorenkonferenz",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Juden",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Konzentrationslager",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kultusministerkonferenz",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lehr- und Lernmittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lehrerbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Bewegung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Schule",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schüler",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schüleraustausch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafanzeige",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Student",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unterricht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wissenschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wissenschaftler",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wissenstransfer",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nie wieder ist jetzt - Antisemitismus an Schulen, Hochschulen und Wissenschaftseinrichtungen mit aller Kraft bekämpfen",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "310754",
+      "beratungsstand": "Erledigt durch Ablauf der Wahlperiode",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Medien, Kommunikation und Informationstechnik",
+        "Verkehr"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2025-05-19T11:27:28+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Datenaustausch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Datenschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Datenverarbeitung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kraftfahrzeugtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lizenz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Mobilität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Open Data",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personenbezogene Daten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personenverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Regulierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verkehrsinfrastruktur",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verkehrstechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verkehrswirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vertragsfreiheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Einrichtung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Für eine moderne Regulierung von Mobilitätsdaten",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "310039",
+      "abstract": "Schaffung einer rechtssicheren Grundlage für die Einführung einer Bezahlkarte für Asylsuchende;<br />\r\nÄnderung §§ 2 und 11 Asylbewerberleistungsgesetz",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "G024",
+      "archiv": "XX/1025",
+      "sachgebiet": [
+        "Migration und Aufenthaltsrecht",
+        "Soziale Sicherung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Ja, laut Gesetzentwurf (Drs 20/10722)"
+      ],
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2026-07-21T10:10:48+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylbewerberleistungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bezahlkartengesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Chipkarte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Flüchtling",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Sachleistung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gesetz zur rechtssicheren Einführung einer Bezahlkarte im Asylbewerberleistungsgesetz (Bezahlkartengesetz - BezahlkG)",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "309745",
+      "abstract": "Ausgangslage; Gesetzesänderungen auf dem Strommarkt; Sicherheit der Stromversorgung: Ausbau erneuerbaren Energien, Kraftwerksstrategie 2026, Netzausbau, Monitoring, Würdigung durch Bundesrechnungshof (BRH), BMWK-Stellungnahme; Bezahlbarkeit der Stromversorgung: Preisentwicklung, Netzausbau und Systemdienstleistungen, Stromgestehungs- und Systemkosten, BRH-Würdigung, BMWK-Stellungnahme; Umweltverträglichkeit der Stromversorgung: Umweltwirkungen und Ziele für ein umweltverträgliches Energiesystem, Monitoring, BRH-Würdigung und BMUV-Stellungnahme; Gesamtbewertung und Ausblick",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Energie"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesrechnungshof"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bericht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeshaushaltsordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesrechnungshof",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Elektrizitätswirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energiewende",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": true,
+          "name": "Erneuerbare Energie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Evaluation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Monitoring",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Stromnetz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strompreis",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Umweltverträglichkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bericht nach § 99 der Bundeshaushaltsordnung zur Umsetzung der Energiewende im Hinblick auf die Versorgungssicherheit, Bezahlbarkeit und Umweltverträglichkeit der Stromversorgung",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "309380",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 17. Januar 2024 zum Jahresbericht 2022 über die Tätigkeit der Europäischen Bürgerbeauftragten (2023/2120(INI)) \r\nEP P9_TA(2024)0035",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "309078",
+      "abstract": "Aktuelle Entwicklungen bei der Anerkennung ausländischer Berufsqualifikationen, Dauer der Bearbeitungsprozesse, Zahl der zuständigen Stellen, spezialisierte Beratungs- und Qualifizierungsangebote, Ergebnisse des BIBB-Anerkennungsmonitorings, Statistik, Fokus: ausgewählte Fakten und Trends zu Berufen nach Bundesrecht<br />\r\n ",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Arbeit und Beschäftigung",
+        "Bildung und Erziehung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Anerkennungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Arbeitsmarkt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Arbeitsmigration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausländerintegration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausländischer Arbeitnehmer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bearbeitungsdauer",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Beratung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Beruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Berufliche Qualifikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Beruflicher Bildungsabschluss",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einwanderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Fachkraft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzesfolgenabschätzung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Monitoring",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalbeschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Statistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verwaltungsverfahren",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bericht zum Anerkennungsgesetz 2023",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "309000",
+      "abstract": "Voraussetzungen gesunden Lebens, Eckpunkte der Vision &bdquo;Gesund leben auf einer gesunden Erde&ldquo;, globale Dringlichkeitsgovernance, Nutzung transformativer Potenziale von Gesundheitssystemen, Bewältigung planetarer Risiken betr. Klimawandel, Biodiversitätsverlust und Verschmutzung, Gestaltung der Lebensbereiche Ernährung, Bewegung und Wohnen, Rolle von Bildung und Wissenschaft, Nutzung des UN-Zukunftsgipfels und der Post-2030-Agenda",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Umwelt"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bauwesen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bildungswesen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Biodiversität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ernährung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesundheitspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesundheitsschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesundheitsvorsorge",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesundheitswesen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gutachten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Internationale Zusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klimawandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Konferenz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Naturschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Umweltbelastung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Umweltschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vereinte Nationen",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wissenschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wissenschaftlicher Beirat der Bundesregierung Globale Umweltveränderungen",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Hauptgutachten des Wissenschaftlichen Beirats der Bundesregierung Globale Umweltveränderungen \r\nGesund leben auf einer gesunden Erde \r\n- Zusammenfassung -",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "308229",
+      "abstract": "Ziele von Forschung und Innovation, Förderung von Forschung und Entwicklung, Handlungsfelder (Bevölkerungsschutz, hybride Bedrohungen, sichere Versorgung, Resilienz, sicheres Leben, Wissens- und Praxistransfer \"Innovationslabor Sicherheitsforschung\"), Förderinstrumente, Vernetzung",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Innere Sicherheit",
+        "Wissenschaft, Forschung und Technologie"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsprogramm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Innere Sicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innovation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Katastrophenschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kriminalprävention",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Netzwerk",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ressortforschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wissenstransfer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Zivile Sicherheitsforschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zivilschutz",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Rahmenprogramm der Bundesregierung 2024 bis 2029\r\nForschung für die zivile Sicherheit - gemeinsam für ein sicheres Leben in einer resilienten Gesellschaft",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "308226",
+      "abstract": "Umsetzung unionsrechtlicher und Konkretisierung bundesgesetzlicher Vorgaben zur Ausstellung, Anerkennung, Übertragung und Entwertung von Herkunftsnachweisen für Gas, Wasserstoff, Wärme oder Kälte aus erneuerbaren Energiequellen zur Einrichtung und Betrieb von Herkunftsnachweisregistern beim Umweltbundesamt<br />\r\n<br />\r\nBezug: Richtlinie (EU) 2018/2001 vom 11. Dezember 2018 zur Förderung der Nutzung von Energie aus erneuerbaren Quellen (ABl. L 328, 21.12.2018, S. 82)<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses:</strong> Reduzierung von Bürokratieaufwand und insbes. Berichtspflichten betr. Messeinrichtung, Anlagenförderung und thermischer Abfallbehandlung, Klarstellung zum Aufgabenumfang des Umweltbundesamtes",
+      "vorgangstyp": "Rechtsverordnung",
+      "sachgebiet": [
+        "Energie",
+        "Wirtschaft"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "139",
+          "ausfertigungsdatum": "2024-04-25",
+          "verkuendungsdatum": "2024-04-30",
+          "einleitungstext": "Verordnung",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/139",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 139"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energierecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Erneuerbare Energie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Fernwärme",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gas",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gas-Wärme-Kälte-Herkunftsnachweisregister-Verordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gaswirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Herkunftsnachweis <Energierecht>",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innerstaatliche Umsetzung von EU-Recht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kältetechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Register",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Richtlinie der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Umweltbundesamt",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Warenkennzeichnung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wasserstoff",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wärmeversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verordnung über das Herkunftsnachweisregister für Gas und das Herkunftsnachweisregister für Wärme oder Kälte (Gas-Wärme-Kälte-Herkunftsnachweisregister-Verordnung - GWKHV)",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "308154",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "16987/23",
+      "kom": "(2023)791 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Abschluss - im Namen der Europäischen Union - des Partnerschaftsabkommens zwischen der Europäischen Union einerseits und den Mitgliedern der Organisation afrikanischer, karibischer und pazifischer Staaten andererseits \r\nKOM(2023)791 endg.; Ratsdok. 16987/23",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "308131",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "16292/23",
+      "kom": "(2023)738 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über den Schutz der Arbeitnehmer gegen Gefährdung durch Exposition gegenüber Karzinogenen, Mutagenen oder reproduktionstoxischen Stoffen bei der Arbeit (Sechste Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG des Rates) (kodifizierter Text) \r\nKOM(2023)738 endg.; Ratsdok. 16292/23",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "308130",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "16210/23",
+      "kom": "(2023)724 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "titel": "Bericht der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen über die EURES-Tätigkeiten von Juli 2020 bis Juni 2022 eingereicht gemäß Artikel 33 der Verordnung (EU) 2016/589 \r\nKOM(2023)724 endg.; Ratsdok. 16210/23",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "308129",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "15438/23",
+      "kom": "(2023)904 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "titel": "Proposal for a Joint Employment Report from the Commission and the Council\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2023)904 endg.; Ratsdok. 15438/23",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "307079",
+      "abstract": "Umsetzung der delegierten Rechtsakte entsprechend der Vorgaben für die Herstellung von flüssigen und gasförmigen erneuerbaren Kraftstoffen nicht-biogenen Ursprungs für den Verkehr sowie für die Methode zur Ermittlung der Treibhausgaseinsparungen dieser Kraftstoffe, Einführung eines Systems zur Nachweisführung über die Erfüllung der Anforderungen bei der Herstellung und Lieferung von flüssigen oder gasförmigen erneuerbaren Kraftstoffen nicht-biogenen Ursprungs sowie einer Datenbank zur Bewältigung der behördlichen Vollzugsaufgaben, Anrechenbarkeit auch biogenen Wasserstoffs auf Treibhausgasquote<br />\r\n<br />\r\nBezug: Delegierte Verordnung (EU) 2023/1184 vom 10.02.2023 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates durch die Festlegung einer Unionsmethode mit detaillierten Vorschriften für die Erzeugung flüssiger oder gasförmiger erneuerbarer Kraftstoffe nicht biogenen Ursprungs für den Verkehr (ABl. L 157, 20.06.2023, S. 11) ; Delegierte Verordnung (EU) 2023/1185 vom 10.02.2023 zur Ergänzung der Richtlinie (EU) 2018/2001 des Europäischen Parlaments und des Rates durch Festlegung eines Mindestschwellenwertes für die Treibhausgaseinsparungen durch wiederverwertete kohlenstoffhaltige Kraftstoffe und einer Methode zur Ermittlung der Treibhausgaseinsparungen durch flüssige oder gasförmige erneuerbare Kraftstoffe nicht biogenen Ursprungs für den Verkehr sowie durch wiederverwertete kohlenstoffhaltige Kraftstoffe (ABl. L 157, 20.06.2023, S. 20)<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses: </strong>Annahme einer Entschließung zur Sicherstellung behördlicher Vollzugstrukturen bei der Umsetzung der neugefassten 37. BImSchV; Umsetzung der Richtlinie 2023/2413 (RED III): Ausweitung der Vorgaben der Treibhausgasminderungs-Quote auf sämtliche Kraftstoffe, Förderung strombasierter, erneuerbarer Kraftstoffe auch im Luft- und Langstreckenseeverkehr, langfristige Investitionssicherheit für Produzenten fortschrittlicher Kraftstoffoptionen, Sachstand zur Antriebseffizienz des Wasserstoff-Verbrennungsmotors; Verbesserung und Stärkung der Betrugsprävention, Überprüfung der Anrechnung von Biokraftstoffen aus Co-Processing betr. Menge und Herkunft der Rohstoffe, Einführung des Book-und-Claim(B&C)-System im Rahmen der Initiative ReFuelEU Aviation;",
+      "vorgangstyp": "Rechtsverordnung",
+      "sachgebiet": [
+        "Energie",
+        "Umwelt",
+        "Verkehr"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2026-07-24T13:51:49+02:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "131",
+          "ausfertigungsdatum": "2024-04-17",
+          "verkuendungsdatum": "2024-04-19",
+          "einleitungstext": "Verordnung",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/131",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 131"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Biokraftstoff",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Datenbank",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Erneuerbare Energie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzesvollzug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Immissionsschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innerstaatliche Umsetzung von EU-Recht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kriminalprävention",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Richtlinie der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Seeschifffahrt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Synthetischer Kraftstoff",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verbrennungsmotor",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wasserstoff",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wasserstofftechnologie",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verordnung zur Neufassung der siebenunddreißigsten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes\r\n(Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote - 37. BImSchV)",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "307021",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 23. November 2023 zum Ergebnis der Beratungen des Petitionsausschusses im Jahr 2022 (2023/2047(INI)) \r\nEP P9_TA(2023)0434",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "306277",
+      "abstract": "Leitlinien für die nationale Ausgestaltung des Aktionsplans für den Europäischen Forschungsraum, Wirkungsweise, Handlungsfelder, Umsetzung",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Europapolitik und Europäische Union",
+        "Wissenschaft, Forschung und Technologie"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "EU-Staaten",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Europäische Integration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Europäischer Forschungsraum",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Forschungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innovation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nationaler Aktionsplan für den Europäischen Forschungsraum",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nationaler Aktionsplan für den Europäischen Forschungsraum",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "305903",
+      "abstract": "Regel-Ausweisung bei Vorliegen einer antisemitischen Straftat, Nichterteilung bzw. Entziehung humanitärer Aufenthaltstitel bei Verurteilung wegen einer antisemitische Straftat zu einer Freiheitsstrafe von mindestens sechs Monaten, Bekenntnis zum Existenzrecht des Staates Israel im Rahmen des Einbürgerungsverfahrens, Verlust der deutschen Staatsangehörigkeit für Personen mit mindestens einer weiteren Staatsangehörigkeit im Falle der strafrechtlichen Verurteilung wegen schwerwiegender antisemitischer Handlung;<br />\r\nEinfügung § 55a Aufenthaltsgesetz, Änderung §§ 3 und 4 Asylgesetz sowie §§ 10, 11, 17 und 28 Staatsangehörigkeitsgesetz",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "B059",
+      "archiv": "XX/1008",
+      "sachgebiet": [
+        "Innere Sicherheit",
+        "Migration und Aufenthaltsrecht",
+        "Recht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 20/9311)"
+      ],
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2025-03-26T11:41:45+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Aufenthaltsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Aufenthaltsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausweisung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einbürgerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einwanderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Freiheitsstrafe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesetz zur Beendigung des Aufenthalts und Verhinderung der Einbürgerung antisemitischer Ausländer",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hasskriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Israel",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Migrant",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Straftat",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Staatsangehörigkeitsgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Gesetz zur Beendigung des Aufenthalts und Verhinderung der Einbürgerung antisemitischer Ausländer",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "305901",
+      "abstract": "Strafverfolgung antisemitischer Straftaten: Schließung der Schutzlücken beim Landfriedensbruch und Erhöhung des Strafrahmens auf 5 Jahre Freiheitsstrafe, Wiederherstellung der Strafbarkeit der sog. Sympathiewerbung für kriminelle und terroristische Vereinigungen, Strafbarkeit für das Leugnen des Existenzrechts des Staates Israel und für den Aufruf zur Beseitigung des Staates Israel, Erhöhung des Strafrahmens der Volksverhetzung insbes. durch Einführung eines besonders schweren Falls;<br />\r\nÄnderung §§ 125, 129, 129a und 130 Strafgesetzbuch",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "C076",
+      "archiv": "XX/1020",
+      "sachgebiet": [
+        "Innere Sicherheit",
+        "Recht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 20/9310)"
+      ],
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2026-07-21T10:07:04+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hasskriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Israel",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Landfriedensbruch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Propaganda",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Strafgesetzbuch",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafverfolgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafzumessung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Terrorismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Terrorismusbekämpfung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Terroristische Vereinigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Volksverhetzung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gesetz zur Änderung des Strafgesetzbuches zur Bekämpfung von Antisemitismus, Terror, Hass und Hetze",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "304499",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Antrag",
+      "archiv": "XX/1025",
+      "sachgebiet": [
+        "Migration und Aufenthaltsrecht",
+        "Soziale Sicherung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2026-07-21T10:11:08+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylbewerberleistungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Chipkarte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Flüchtling",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Geldleistung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Sachleistung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bezahlkarte einführen - Sachleistungsprinzip konsequent umsetzen",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "303476",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "11692/23",
+      "kom": "(2023)447 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-19T13:37:20+02:00",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Rücktritt der Union vom Vertrag über die Energiecharta \r\nKOM(2023)447 endg.; Ratsdok. 11692/23",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "303474",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "11691/23",
+      "kom": "(2023)446 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-19T13:37:20+02:00",
+      "titel": "Empfehlung für einen Beschluss des Rates über die Zustimmung zum Rücktritt der Europäischen Atomgemeinschaft vom Vertrag über die Energiecharta \r\nKOM(2023)446 endg.; Ratsdok. 11691/23",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "303403",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "9855/23",
+      "kom": "(2023)599 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2025-09-19T13:37:20+02:00",
+      "titel": "Vorschlag für einen Beschluss des Rates zu Leitlinien für beschäftigungspolitische Maßnahmen der Mitgliedstaaten \r\nKOM(2023)599 endg.; Ratsdok. 9855/23",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "303092",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Gesellschaftspolitik, soziale Gruppen",
+        "Recht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Berufliche Qualifikation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsprojekt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Geschlecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gremium",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personenstand",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Selbstbestimmungsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Studie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Transsexualität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Transsexuellengesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Transsexuellengesetz erhalten und den Schutz von Menschen mit Geschlechtsdysphorie verbessern",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "301325",
+      "abstract": "Aktuelle Entwicklungen und Herausforderungen: F&I-Politik, agile Governance-Struktur, Gesellschaft, Aufholung technologischer Rückstände, Abbau von Innovationshemmnissen, Sicherung der Fachkräftebasis; Kernthemen 2023: Innovation in einer alternden Gesellschaft, Technologiemärkte, deutsche Raumfahrt zwischen Old und New Space; Struktur und Trends: Überführung der Berichterstattung in das neue entwickelte F&I-Dashboard, Link zur interaktiven Aufbereitung der Indikatoren",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Wissenschaft, Forschung und Technologie"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "EFI-Gutachten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Fachkraft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Governance",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gutachten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innovation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luft- und Raumfahrtindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Patent",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalbeschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Raumfahrt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialer Wandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Technischer Fortschritt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Technologiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Weltraumrecht",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2023",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "296413",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 18. Januar 2023 zu Menschenrechten und Demokratie in der Welt und der Politik der Europäischen Union in diesem Bereich - Jahresbericht 2022 (2022/2049(INI)) \r\nEP P9_TA(2023)0011",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "294159",
+      "vorgangstyp": "EU-Vorlage",
+      "sachgebiet": [
+        "Umwelt"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14217/22",
+      "kom": "(2022) 542 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Luftreinhaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftverunreinigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Richtlinie der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Stellungnahme des Bundestages in EU-Angelegenheiten",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über Luftqualität und saubere Luft für Europa (Neufassung)\r\nKOM(2022) 542 endg.; Ratsdok. 14217/22",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "285619",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 17. Februar 2022 zum Thema \"Menschenrechte und Demokratie in der Welt und die Politik der Europäischen Union in diesem Bereich - Jahresbericht 2021\" (2021/2181(INI)) \r\nEP P9_TA(2022)0041",
+      "datum": "2024-04-12"
+    },
+    {
+      "id": "282730",
+      "abstract": "Wesentliche Trends internationaler Zusammenarbeit, Strategien und Maßnahmen, Aktivitäten und Initiativen, Schwerpunkt deutsche EU-Ratspräsidentschaft 2020, Europa, Kooperationen mit außereuropäischen Regionen, Industriestaaten, BRICS-Staaten sowie Schwellen- und Entwicklungsländern, Aktivitäten der Wissenschafts- und Mittlerorganisationen, tabellarischer Überblick über international ausgerichtete sowie ausgewählte Fördermaßnahmen",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Außenpolitik und internationale Beziehungen",
+        "Bildung und Erziehung",
+        "Wissenschaft, Forschung und Technologie"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bildungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bologna-Prozess",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Entwicklungsländer",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Erasmus+",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Europa",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Europäischer Forschungsrat",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsdaten",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": true,
+          "name": "Forschungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsprogramm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsprogramm der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsprojekt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Industriestaaten",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innovation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Internationale Zusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Netzwerk",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rat der Europäischen Union",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schwellenländer",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bericht der Bundesregierung zur internationalen Kooperation in Bildung, Wissenschaft und Forschung 2019 bis 2020",
+      "datum": "2024-04-12"
+    }
+  ]
+}

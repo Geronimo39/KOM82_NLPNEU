@@ -1,0 +1,53 @@
+{
+  "id": "2278",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "FDP"
+  ],
+  "nachname": "Link",
+  "vorname": "Michael Georg",
+  "wahlkreiszusatz": "Heilbronn",
+  "typ": "Person",
+  "wahlperiode": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "aktualisiert": "2024-11-15T12:42:31+01:00",
+  "person_roles": [
+    {
+      "fraktion": "FDP",
+      "nachname": "Link",
+      "vorname": "Michael Georg",
+      "wahlperiode_nummer": [
+        19
+      ]
+    },
+    {
+      "ressort_titel": "Auswärtiges Amt",
+      "nachname": "Link",
+      "vorname": "Michael",
+      "wahlperiode_nummer": [
+        17,
+        18
+      ]
+    },
+    {
+      "fraktion": "FDP",
+      "nachname": "Link",
+      "vorname": "Michael",
+      "wahlkreiszusatz": "Heilbronn",
+      "wahlperiode_nummer": [
+        16,
+        17
+      ]
+    }
+  ],
+  "titel": "Michael Georg Link (Heilbronn), MdB, FDP",
+  "datum": "2025-02-12",
+  "basisdatum": "2005-11-30"
+}

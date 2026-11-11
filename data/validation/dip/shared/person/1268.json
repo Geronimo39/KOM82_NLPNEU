@@ -1,0 +1,48 @@
+{
+  "id": "1268",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "SPD"
+  ],
+  "nachname": "Heil",
+  "vorname": "Hubertus",
+  "wahlkreiszusatz": "Peine",
+  "typ": "Person",
+  "wahlperiode": [
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "aktualisiert": "2025-03-07T11:01:40+01:00",
+  "person_roles": [
+    {
+      "ressort_titel": "Bundesministerium für Arbeit und Soziales",
+      "nachname": "Heil",
+      "vorname": "Hubertus",
+      "wahlperiode_nummer": [
+        19,
+        20
+      ]
+    },
+    {
+      "fraktion": "SPD",
+      "nachname": "Heil",
+      "vorname": "Hubertus",
+      "wahlperiode_nummer": [
+        14,
+        15,
+        16
+      ]
+    }
+  ],
+  "titel": "Hubertus Heil (Peine), MdB, SPD",
+  "datum": "2026-10-07",
+  "basisdatum": "1998-11-13"
+}

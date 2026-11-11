@@ -1,0 +1,3366 @@
+{
+  "numFound": 71,
+  "documents": [
+    {
+      "id": "309835",
+      "abstract": "Rechtsanpassungen im Bereich des elektronischen Rechtsverkehrs und der elektronischen Aktenführung: Förderung bereits fortgeschrittener Digitalisierung in allen Verfahrensordnungen u.a. durch Hybridaktenführung, elektr. Übermittlung von Scans schriftlich einzureichender Anträge und Erklärungen sowie Formfiktion bei in elektronischen Schriftsätzen enthaltenen Willenserklärungen, Ausnahme von der Pflicht zur elektronischen Übermittlung bei Verschlusssachen sowie in Strafsachen bei umfänglichen Akten, Erleichterungen bei der Strafantragstellung, Ersetzung von Schriftformerfordernissen, audiovisuelle Teilnahme an der Revisionshauptverhandlung, Textform für die anwaltliche Vergütungsberechnung, digitale Kommunikation im Insolvenzrecht und Restrukturierungsrecht, Festlegung technischer Standards durch Rechtsverordnung, beschränkte Zulassung des Identifizierungsverfahrens ELSTER, datenschutzrechtliche Klarstellungen bei elektronischen Postfächern;<br />\r\nÄnderung und Einfügung zahlr. §§ in 18 Gesetzen und 4 Rechtsverordnungen; Verordnungsermächtigung<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses:</strong> Verpflichtung des Revisionsgerichts zur Mitteilung der Themenschwerpunkte der Revisionshauptverhandlung an Verfahrensbeteiligte, Möglichkeit der schriftsätzlichen Kündigung eines Arbeitsverhältnisses im Wege der Zustellung über das besondere elektronische Anwaltspostfach, Klarstellungen, Korrektur, Folgeänderungen;<br />\r\nErneute sowie zusätzliche Änderung versch. §§ in 7 Gesetzen",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "C088",
+      "archiv": "XX/257",
+      "sachgebiet": [
+        "Medien, Kommunikation und Informationstechnik",
+        "Recht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 126/24 (bes.eilbed.))",
+        "Nein, laut Verkündung (BGBl I)"
+      ],
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-07-26T13:47:01+02:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "234",
+          "ausfertigungsdatum": "2024-07-12",
+          "verkuendungsdatum": "2024-07-16",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/234",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 234"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2024-07-17"
+        },
+        {
+          "datum": "2024-08-01",
+          "erlaeuterung": "Artikel 46"
+        },
+        {
+          "datum": "2025-07-17",
+          "erlaeuterung": "Artikel 1 Nr. 10"
+        },
+        {
+          "datum": "2026-01-01",
+          "erlaeuterung": "Artikel 1 Nr. 4, Artikel 3, 6 und 8 Nr. 4, Artikel 9, 15, 18, 23, 26, 29, 32 und 47"
+        },
+        {
+          "datum": "2036-01-01",
+          "erlaeuterung": "Artikel 4, 7, 10, 12, 16, 19, 21, 24, 27, 30, 33 und 48"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Arbeitsgerichtsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Audiovisuelle Medien",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesverfassungsgericht",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesverfassungsgerichtsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bußgeldaktenübermittlungsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Dokumentenerstellungs- und -übermittlungsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "ELSTER",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einführungsgesetz zum Gerichtsverfassungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einführungsgesetz zum Handelsgesetzbuch",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einführungsgesetz zur Insolvenzordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einführungsgesetz zur Strafprozessordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Elektronische Aktenführung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Elektronischer Rechtsverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Elektronischer-Rechtsverkehr-Verordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Finanzgerichtsordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Formvorschrift",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gerichtsverfassungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetz betreffend die Einführung der Zivilprozessordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetz über Ordnungswidrigkeiten",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetz über die internationale Rechtshilfe in Strafsachen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Insolvenzordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Insolvenzrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rechtsanwalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rechtsanwaltsvergütung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rechtsanwaltsvergütungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rechtspflege",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Revision <Rechtsmittel>",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialgerichtsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafaktenübermittlungsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafantrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafprozess",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafprozessordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafprozessrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafvollzugsgerichtsaktenübermittlungsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafvollzugsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Telekommunikation-Digitale-Dienste-Datenschutz-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unternehmensstabilisierungs- und -restrukturierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verfassungsgerichtsbarkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verschlusssache",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verwaltungsgerichtsordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zivilprozessordnung",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+      "datum": "2024-07-05"
+    },
+    {
+      "id": "308776",
+      "abstract": "Zustimmung zu dem am 21. Juli 2023 in Lauterbourg unterzeichneten Abkommen: Standardisierung grenzüberschreitender Rahmenbedingungen für eine duale Berufsausbildung auf Grundlage bestehender Rahmenvereinbarungen, u.a. betr. Option der Teilzeitberufsausbildung, zweisprachige Muster für die Ausbildungsverträge und die Ausbildungsvereinbarung, Möglichkeit der erleichterten Zulassung zur optionalen Externenprüfung sowie Finanzierung und Förderung",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "XK002",
+      "archiv": "XX/261",
+      "sachgebiet": [
+        "Arbeit und Beschäftigung",
+        "Bildung und Erziehung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Ja, laut Gesetzentwurf (Drs 76/24)",
+        "Ja, laut Verkündung (BGBl II)"
+      ],
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2025-04-10T18:07:51+02:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "269",
+          "ausfertigungsdatum": "2024-07-15",
+          "verkuendungsdatum": "2024-07-18",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_2/2024/269",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil II",
+          "verkuendungsblatt_kuerzel": "BGBl II",
+          "fundstelle": "BGBl II 2024, 269"
+        },
+        {
+          "jahrgang": "2025",
+          "heftnummer": "110",
+          "ausfertigungsdatum": "2025-04-03",
+          "verkuendungsdatum": "2025-04-10",
+          "einleitungstext": "Bekanntmachung",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_2/2025/110",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil II",
+          "verkuendungsblatt_kuerzel": "BGBl II",
+          "fundstelle": "BGBl II 2025, 110"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2024-07-19"
+        },
+        {
+          "datum": "2025-03-01",
+          "erlaeuterung": "Abkommen nach seinem Artikel 10 Abs. 1 Satz 2"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Ausbildungsvertrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Auswärtige Kultur- und Bildungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bildungsfinanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Frankreich",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Grenzüberschreitende Zusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Prüfung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Teilzeitarbeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gesetz zu dem Abkommen vom 21. Juli 2023 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Französischen Republik über die grenzüberschreitende Berufsausbildung",
+      "datum": "2024-07-05"
+    },
+    {
+      "id": "308109",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Sport, Freizeit und Tourismus"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Deutsche Bahn",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Deutscher Fußball-Bund",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Fußballstadion",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innere Sicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kulturveranstaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Leistungssport",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sportverband",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Tourismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verkehrsplanung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentlicher Personenverkehr",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "311850",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Innere Sicherheit",
+        "Migration und Aufenthaltsrecht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2024-06-27T13:16:38+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausweisung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Finanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gefahrenabwehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Geistlicher",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Islamfeindlichkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Islamismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Muslimbruderschaft",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Palästinenser",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Taliban",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Terroristische Vereinigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Türkisch-Islamische Union der Anstalt für Religion",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unabhängiger Expertenkreis Muslimfeindlichkeit",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verein",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vereinsverbot",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verfassungsfeindlichkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Kampf in Deutschland gegen islamistische Organisationen jetzt mithilfe weiterer Maßnahmen und Verbote konsequent fortführen",
+      "datum": "2024-06-13"
+    },
+    {
+      "id": "311849",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Innere Sicherheit"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2024-06-27T13:16:38+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Islamismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verein",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Vereinsverbot",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verfassungsfeindlichkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verbot des Vereins Muslim Interaktiv",
+      "datum": "2024-06-13"
+    },
+    {
+      "id": "312504",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Schriftliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:11+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundesamt für Verfassungsschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politiker",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Spionage",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Maßnahmen zum Schutz deutscher Staatsbürger gegen chinesische Spionageangriffe",
+      "datum": "2024-05-17"
+    },
+    {
+      "id": "311996",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-13T10:08:15+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundestag: Verabschiedung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verabschiedung der Abg Diana Stöcker (CDU/CSU) aus dem Deutschen Bundestag",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311995",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-13T10:08:15+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundesbeauftragter für den Datenschutz und die Informationsfreiheit",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundestag: Begrüßung von Gästen",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Begrüßung des Bundesbeauftragten für den Datenschutz und die Informationsfreiheit, Uli Kelber",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311948",
+      "abstract": "Aussprache auf Verlangen der Fraktion der CDU/CSU, unabhängig von einer Fragestunde",
+      "vorgangstyp": "Aktuelle Stunde",
+      "sachgebiet": [
+        "Energie",
+        "Staat und Verwaltung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-13T10:08:15+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Atomausstieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Elektrizitätswirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Habeck, Robert",
+          "typ": "Personen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kernenergie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Kernenergiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lemke, Steffi",
+          "typ": "Personen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strompreis",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Kernkraft-Aus - Vorgänge um Bundesminister Habeck und Bundesministerin Lemke transparent aufklären",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311947",
+      "abstract": "Bundesminister BMAS, Hubertus Heil: Lukrativität von Arbeit, Erwartung einer einheitlichen Entscheidung der Mindestlohnkommission für eine deutliche Anhebung des Mindestlohns im Jahr 2025, baldige Vorlage des Rentenpakets II, langfristige Sicherung des Rentenniveaus, Stabilisierung der Beitragsanstiege in den 2030er Jahren;<br />\r\nBundesministerin BMFSFJ, Lisa Paus: Bedeutung bürgerlichen Engagements für die Demokratie, Demokratiefördergesetz, neue Engagementstrategie, besondere Unterstützung junger Engagierter, Vorstellung des \"Familienreport 2024\", vielfältiger Einsatz der Bundesregierung für Familien in Form von Familienleistungen, Gesetzen und Programmen, Kindergrundsicherung, Verabschiedung der EU-Richtlinie für mehr Gewaltschutz für Frauen, Einsamkeitsstrategie;<br />\r\nWeitere Themen: finanzielle Förderung des Bundes im Kita-Bereich, Rechtssicherheit für Selbstständige im Rahmen des Statusfeststellungsverfahrens, Maßnahmen gegen Leistungsmissbrauch, Erhöhung des Renteneintrittsalters, Kita-Fachkräftebedarf, Zusammenhang zwischen fehlenden Erwerbsanreizen und Sozialtransfers, Entlohnung von Facharbeitern und Ungelernten, Bürgergeldreform, Vollsanktionen, Strafverfolgung von Hass und Hetze, Meinungsfreiheit, Vereinbarkeit von Familie und Beruf bei der häuslichen Pflege von Angehörigen, pflegende Kinder, Anwerbung ausländischer Pflegefachkräfte, Stand des Bundestariftreuegesetzes, Vergabe öffentlicher Aufträge des Bundes, Zahlen zur Kinderarmut, Kinderzuschlag, Kinderzusatzbetrag",
+      "vorgangstyp": "Befragung der Bundesregierung",
+      "sachgebiet": [
+        "Arbeit und Beschäftigung",
+        "Gesellschaftspolitik, soziale Gruppen",
+        "Soziale Sicherung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-13T10:08:15+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Alterssicherung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Arbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Arbeitsmigration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausländischer Arbeitnehmer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesmittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bürgergeld",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bürgerschaftliches Engagement",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Demokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Demokratiefördergesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einsamkeit",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Erzieher",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Fachkraft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Familie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Familienleistung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Familienpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Frau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gewaltschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hasskriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Häusliche Pflege",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Junger Erwachsener",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kind",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kinder- und Jugendarmut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Kindergrundsicherung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kindertagesstätte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kinderzusatzbetrag",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kinderzuschlag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Leistungsmissbrauch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Meinungsfreiheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Mindestlohn",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Mindestlohnkommission",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalbedarf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalbeschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Pflegepersonal",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Rente",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Renteneintrittsalter",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Rentenniveau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rentenversicherungsbeitrag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Richtlinie der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sanktion <Sozialrecht>",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Selbstständiger",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafverfolgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Tarifbindung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vereinbarkeit von Familie und Beruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vergütung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verwaltungsverfahren",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Einleitende Ausführungen und Befragung des Bundesministers für Arbeit und Soziales, Hubertus Heil, sowie der Bundesministerin für Familie, Senioren, Frauen und Jugend, Lisa Paus",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311946",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-13T10:08:15+02:00",
+      "titel": "Gewalt gegen politisch Engagierte",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311821",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie ist nach Ansicht des Bundesministers für Ernährung und Landwirtschaft Cem Özdemir die Aufhebung der Handelsbeschränkungen mit der Volksrepublik China für Rindfleisch und perspektivisch für Schweinefleisch mit der Ernährungsstrategie der Bundesregierung, die meiner Meinung nach auf eine Reduzierung des Fleischverzehrs gerichtet ist und eine Bevormundung darstellt, in Einklang zu bringen (vgl. www.nius.de/wirtschaft/steak-und-gummibaerchen-oezdemir-verkauft-den-chinesen-was-er-uns-verbieten-moechte/ed917f39-88ed-4d74-a2a5-ca322f7ec552; www.bmel.de/SharedDocs/Pressemitteilungen/DE/2024/033-china.html, jeweils zuletzt abgerufen am 18. April 2024)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Außenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Außenhandelsbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ernährungsweise",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Rindfleisch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Schweinefleisch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Aufhebung der Handelsbeschränkungen mit China für Rind- und Schweinefleisch",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311820",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche Ergebnisse hat das im Geschäftsbereich des Bundesministeriums der Verteidigung angefertigte Gutachten zur Frage, in welchem Verhältnis der grundgesetzliche Auftrag einsatzbereiter Streitkräfte und die grundgesetzlich normierte Schuldenbremse zueinander stehen (www.spiegel. de/politik/deutschland/so-will-sich-boris-pistorius-von-der-schuldenbremse-befreien-a-d85d8458-5c62-432c-a4ab-b6c52c2d832d), ergeben, und zu welchem Ergebnis kommt das Gutachten bzw. die Rechtsauffassung des Bundesministeriums der Verteidigung zum Verhältnis von Schuldenbremse und anderen Ausgaben, die &ndash; wie die Verteidigungsausgaben &ndash; aus Aufgaben resultieren, die gemäß dem Grundgesetz dem Bund übertragen sind?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Grundgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Schuldenbremse",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Streitkräfte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verteidigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Aufgabe",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gutachten zur Frage des Verhältnisses zwischen dem grundgesetzlichen Auftrag zur Verteidigungsbereitschaft und der Schuldenbremse",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311819",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nÜber welches zertifizierte Schutzniveau gemäß dem Standardisierungsübereinkommen der NATO STANAG 4569 verfügen die aus deutschen Haushaltsmitteln finanzierten und der Ukraine zugesagten militärischen Fahrzeuge (ausschließlich bezugnehmend auf die Modelle APC und MRAP; bitte jeweils das zertifizierte Schutzlevel, den Tag der Zertifizierung, den Durchführer der Zertifizierung nennen und angeben, ob es sich bei der Zertifizierung um einen tatsächlichen materiellen Nachweis oder eine auf Annahmen beruhende Simulation handelt), und entsprechen die auf der Plattform X (vormals Tweitter) gezeigten Fahrzeuge (vgl. https://x.com/julianroepcke/status/1786813730442883483?s=46) &ndash; ausschließlich auf Basis eines äußerlichen Vergleichs von charakteristischen Merkmalen wie Fahrzeugbau, Fahrzeugfarbe etc. &ndash; den in der ersten Teilfrage genannten Fahrzeugen?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Militärfahrzeug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Schutzniveau von den der Ukraine zugesagten Militärfahrzeugen der Modelle APC und MRAP",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311818",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nSieht das Bundesministerium für Arbeit und Soziales (BMAS) die meines Erachtens bestehende Gefahr einer Zersplitterung der Zuständigkeiten für soziale Leistungen durch die neue Digitalstrategie und ein damit einhergehendes Versanden der Digitalisierung, und wenn ja, wie plant das BMAS, dies zu verhindern?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium für Arbeit und Soziales",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Zuständigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Zuständigkeiten für soziale Leistungen im Rahmen der neuen Digitalstrategie",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311817",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie wird sich die Mitarbeiterzahl der Bundesagentur für Arbeit (BA) nach Auffassung des Bundesministeriums für Arbeit und Soziales in der kommenden Zeit und vor dem Hintergrund der entstehenden Kindergrundsicherung bei gleichzeitigem Ziel des Stellenabbaus der BA selbst entwickeln?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundesagentur für Arbeit",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kindergrundsicherung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalabbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalausstattung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Prognose",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Zukünftige Entwicklung der Mitarbeiterzahl in der Bundesagentur für Arbeit",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311816",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nIst der Bundesregierung bekannt, dass nach einer Forsa-Umfrage die Hälfte der Bevölkerung eine stärkere Regulierung von Mieten fordert (siehe dazu: www.berliner-zeitung.de/news/umfrage-zu-mieten-knappe-mehrheit-fuer-mehr-staatliche-regulierung-li.2212051), beispielsweise durch eine gesetzliche Begrenzung von Mieterhöhungen oder das Verbot der Umwandlung von Mietwohnungen in Eigentumswohnungen, und was unternimmt die Bundesregierung dahingehend?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Miete",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Regulierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Umfrage",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stärkere Regulierung von Mieten",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311815",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele Fälle von Haftentlassungen bzw. Strafreduzierungen verurteilter Straftäter im Zuge der Cannabis-Legalisierung aufgrund des Gesetzes zum kontrollierten Umgang mit Cannabis und zur Änderung weiterer Vorschriften (Cannabisgesetz) und der damit verbundenen Amnestieregelung für Cannabis-Delikte sind der Bundesregierung bislang bekannt, und zu wie vielen Haftentlassungen bzw. Strafreduzierungen für verurteilte Straftäter wird es nach Einschätzung der Bundesregierung in diesem Zusammenhang insgesamt kommen?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Cannabis",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Cannabisgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Legalisierung von Drogen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Straftäter",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Strafzumessung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Anzahl von Haftentlassungen bzw. Strafreduzierungen im Rahmen der Cannabis-Legalisierung",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311814",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWird die Bundesregierung, nachdem nie bereits mehrfach sowohl vom UN-Frauenrechtsausschuss als auch vom Menschenrechtskommissariat der Vereinten Nationen dazu aufgefordert wurde, Schwangerschaftsabbrüche zu legalisieren und auch die Kommission zur reproduktiven Selbstbestimmung und Fortpflanzungsmedizin in ihrem Abschlussbericht zu dem Ergebnis kam, dass das 30 Jahre alte grundsätzliche strafrechtliche Verbot des Schwangerschaftsabbruchs in den ersten zwölf Wochen verfassungs-, europa- und völkerrechtlich sowie medizinisch nicht haltbar ist, Schwangerschaftsabbrüche legalisieren, und wenn ja, bis wann wird es den ersten Referentenentwurf zum Reformvorhaben geben?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Kommission zur reproduktiven Selbstbestimmung und Fortpflanzungsmedizin",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Reform",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Reproduktionsmedizin",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Schwangerschaftsabbruch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verbot",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Legalisierung von Schwangerschaftsabbrüchen",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311813",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWird die Bundesregierung vor dem Hintergrund der geplanten Bodenoffensive auf Rafah keine weiteren Genehmigungen erteilen und die Lieferung von Rüstungsgütern an Israel stoppen, wie es beispielsweise die USA angekündigt haben (www.tagesschau.de vom 8. Mai 2024: \"USA setzen Waffenlieferung an Israel aus\"), und sieht die Bundesregierung weiterhin keinen Anlass, an der vollumfänglichen Einhaltung der Vorgaben des Völkerrechts durch Israel zu zweifeln (vgl. Antwort der Bundesregierung auf meine Mündliche Frage 19, Plenarprotokoll 20/133; bitte jeweils begründen)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Gazastreifen",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Genehmigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Israel",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nahostkonflikt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Palästinenser",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Genehmigung der Lieferung von Rüstungsgütern an Israel angesichts der israelischen Bodenoffensive auf Rafah",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311812",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche Kenntnisse hat die Bundesregierung über einen Resolutionsentwurf für die Generalversammlung der Vereinten Nationen mit dem Titel \"International Day of Reflection and Commemoration of the 1995 Genocide in Srebrenica\" und dessen Initiatoren (vgl. www.euronews.com/2024/04/13/how-un-resolution-commemorating-1995s-srebrenica-massacre-is-igniting-tensions, www.passblue.com/2024/04/16/serbia-is-resisting-a-un-general-assembly-plan-to-mark-the-srebrenica-genocide/), und welche Auswirkungen der Resolution erwartet die Bundesregierung auf die Region Westbalkan?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Generalversammlung der Vereinten Nationen",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Srebrenica",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Südosteuropa",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "UN-Resolution",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": true,
+          "name": "Völkermord",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Resolutionsentwurf für die UN-Generalversammlung zum Völkermord von Srebrenica",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311809",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelchen Schiffen deutscher Provenienz (unter deutscher Flagge fahrend oder deutschen Reedereien gehörend) wurde nach Kenntnis der Bundesregierung gegebenenfalls in den vergangenen zwei Jahren die Durchfahrt durch die Taiwanstraße verwehrt vor dem Hintergrund, dass die Bundesministerin des Auswärtigen Annalena Baerbock äußerte, das Recht der friedlichen Durchfahrt gelte \"wie in allen vergleichbaren Meeresgebieten, wo unsere und andere Schiffe langfahren\" auch für die Taiwanstraße, sodass auf dieser Grundlage eine Übungsmission der Fregatte \"Baden-Württemberg\" und des Einsatzgruppenversorgers \"Frankfurt am Main\" nach ihrer Teilnahme am US-geführten Manöver Rimpac 2024 im Pazifik im Rahmen einer \"Präsenzfahrt\" durch die Taiwanstraße nicht ausgeschlossen wird (www.spiegel.de/politik/annalena-baerbock-schliesst-deutsche-fregatte-in-taiwanstrasse-nicht-aus-a-c1cef4b6-3117-47ea-9d14-bb231710d8ed), und inwiefern sieht die Bundesregierung in einer Durchquerung der Taiwanstraße mit Schiffen der Bundesmarine einen konstruktiven Beitrag zur Entspannung des Konflikts zwischen der Volksrepublik China und Taiwan im Rahmen der chinesischen \"Ein-China-Politik\"?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Deutsche Marine",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Internationaler Konflikt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Seeschifffahrt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Taiwan",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Durchfahrt deutscher Schiffe durch die Straße von Taiwan",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311808",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nLassen die Bundesregierung bzw. ihr nachgeordnete Behörden deutschsprachigen Medien im außereuropäischen Ausland Unterstützung zukommen, und wenn ja, inwiefern (bitte ggf. für die Jahre 2020 bis 2023 aufführen)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Auswärtige Kultur- und Bildungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Deutsch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Medien",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Unterstützung von deutschsprachigen Medien im außereuropäischen Ausland",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311807",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nPflegen die Bundesregierung oder ihr nachgeordnete Behörden Kontakte mit der \"Internationalen Medienhilfe\" bzw. unterstützen sie diese, und wenn ja, inwiefern (bitte ggf. für die Jahre 2020 bis 2023 aufführen; www.imh-service.de/)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Dienstleistungswirtschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Medien",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Kontakte zur \"Internationalen Medienhilfe\"",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311806",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche für Deutschland gültigen (EU-)Sanktionen bestehen gegen chinesische und russische Hackergruppierungen, und wo steht die Bundesregierung in den seit 2022 laufenden Diskussionen um Hackbacks, die eine abschreckende Wirkung auf solche Hackergruppierungen entfalten könnten?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "IT-Kriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Informationssicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Internationale Sanktion",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Russland",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Sanktionen gegen chinesische und russische Hackergruppen",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311805",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie hoch ist nach Kenntnis der Bundesregierung der Anteil von Deutschen an den Leiterposten der Auslandsvertretungen des Europäischen Auswärtigen Dienstes, und wie ist das Zahlenverhältnis innerhalb dieser Gruppe zwischen deutschen EU-Beamten und Diplomaten des deutschen Auswärtigen Dienstes?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Auswärtiger Dienst",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Deutsche",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Diplomat",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Diplomatische Vertretung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "EU-Personal",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Europäischer Auswärtiger Dienst",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Führungskraft",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Anteil von Deutschen an den Leiterposten der Auslandsvertretungen des Europäischen Auswärtigen Dienstes",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311804",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nIn welchen der zehn Ausrichterstädte der UEFA EURO 2024 wird nach Kenntnis der Bundesregierung bis zum Start der Fußball-Europameisterschaft am 14. Juni 2024 in den Stadien, auf den Hauptbahnhöfen sowie den umliegenden Flughäfen jeweils mindestens eine \"Toilette für alle\" (hier geht es um eine barrierefreie Toilette zuzüglich ausgestattet mit einer Liege und einem Personen-Lifter, um Kindern, Jugendlichen und Erwachsenen mit schweren und mehrfachen Behinderungen das Wechseln der Inkontinenzeinlage zu ermöglichen; siehe auch www.toiletten-fuer-alle. de), und was hat die Bundesregierung getan, um die Schaffung solcher \"Toiletten für alle\" mit Blick auf den Anspruch, eine barrierefreie und inklusive Fußball-Europameisterschaft auszurichten, zu befördern?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Barrierefreiheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Behinderter Mensch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Sanitäranlage",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Schaffung behindertengerechter Toiletten in den Ausrichterstädten der Fußball-EM",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311803",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele Personen sind nach Kenntnis der Bundesregierung aktuell in der Datei \"Gewalttäter Sport\" erfasst, und in welcher Weise soll diese Datei während der UEFA EURO 2024 durch Behörden und weitere Institutionen aus Deutschland, der Europäischen Union sowie weiteren Staaten Europas genutzt werden (siehe auch Antwort der Bundesregierung auf meine Schriftliche Frage 46 auf Bundestagsdrucksache 20/8008)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gewalttäter",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gewalttäterdatei Sport",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": true,
+          "name": "Polizeiliches Informationssystem",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Sport",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Erfasste Personen in der Datei \"Gewalttäter Sport\"",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311802",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nHat eine deutsche Stelle bzw. Behörde die Eintragung einer Ausschreibung zur Einreise- bzw. Aufenthaltsverweigerung für den palästinensisch- britischen Chirurgen Ghassan Abu-Sitta in das Schengener Informationssystem veranlasst, wie aus Presseberichten zu entnehmen ist (www.theguardian.com/world/article/2024/may/05/gaza-war-surgeon-ghassan-abu-sitta-feels-criminalised-denied-entry-france), und wenn ja, welche, und hält die Bundesregierung dieses Vorgehen für verhältnismäßig angesichts der etwa durch den Anwalt von Ghassan Abu-Sitta geäußerten Kritik, dass die Einreisesperre einen Versuch darstelle, einen Augenzeugen der Folgen des militärischen Vorgehens der israelischen Armee im Gaza-Streifen daran zu hindern, gegenüber Parlamentariern und Strafverfolgungsbehörden von seinen Beobachtungen und Erfahrungen zu berichten vor dem Hintergrund, dass Ghassan Abu-Sitta am ersten Mai-Wochenende nach Paris eingeladen war, um vor dem französischen Senat zu sprechen, was er aufgrund der gegen ihn verhängten Einreisesperre letztlich nur online aus dem Abschiebegewahrsam heraus tun konnte, und auch bereits dem Internationalen Strafgerichtshof in Den Haag Beweismaterial zur Verfügung gestellt hatte, wohin er nun ebenfalls nicht mehr reisen kann (vgl. ebd.)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Arzt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Einreisegenehmigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Frankreich",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gazastreifen",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Internationaler Strafgerichtshof",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Israel",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nahostkonflikt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Palästinenser",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schengener Informationssystem",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Eintragung einer Einreisesperre für den palästinensisch-britischen Chirurgen Ghassan Abu-Sitta in das Schengener Informationssystem",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311801",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nHat sich die Bundesregierung zu der zum Beispiel vom Verband binationaler Familien und Partnerschaften e. V. geäußerten Kritik, dass das geplante Gesetz zur Verhinderung \"missbräuchlicher Vaterschaftsanerkennungen\" alle binationalen Paare mit \"Aufenthaltsrechtsgefälle\" unter Generalverdacht stelle, was unter anderem damit einhergehe, dass diese Paare hohe Kosten für DNA-Tests oder anwaltliche Gutachten tragen müssten, welche für viele nicht bezahlbar seien (https://mediendienst-integration.de/artikel/fragen-und-antworten-zur-scheinvaterschaft.html), eine Auffassung gebildet, und wenn ja, wie lautet diese, und warum greift die Bundesregierung nicht auf mildere Mittel zurück, um Missbrauch vorzubeugen, etwa auf eine effektivere Durchsetzung der Unterhaltspflicht, wobei ich davon ausgehe, dass dies auch vermögenslose Männer treffen würde, weil Väter minderjähriger Kinder verpflichtet sind, alle Anstrengungen zu unternehmen, um Unterhalt zahlen zu können, was auch die Annahme von Aushilfs- und Gelegenheitsarbeiten umfasst, worauf das Bundesverfassungsgericht im Jahr 2013 hingewiesen hat (Beschluss vom 17. Dezember 2013 &ndash; 1 BvL 6/10, www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2013/12/ls20131217_1bvl000610.html)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Aufenthaltsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausländer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Ehe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Genanalyse",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetz zur Reform der missbräuchlichen Anerkennung von Vaterschaften",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzesfolgenabschätzung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unterhaltspflicht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Vaterschaft",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Folgen des geplanten Gesetzes zur Verhinderung missbräuchlicher Vaterschaftsanerkennungen für binationale Paare",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311800",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWarum führt nach Kenntnis der Bundesregierung die bestehende Wehrpflicht in der Ukraine grundsätzlich nicht zu einer Unzumutbarkeit für die Passbeschaffung im Herkunftsland Ukraine (www.fr.de/politik/ukraine-wehrpflicht-deutschland-maenner-fluechtlinge-auslieferung-dilemma-93055259.html) vor dem Hintergrund des Grundrechts auf Verweigerung des Kriegsdienstes mit der Waffe (Artikel 4 Absatz 3 des Grundgesetzes) sowie des Umstandes, dass männliche Staatsangehörige der Ukraine im wehrfähigen Alter zwischen 18 und 60 Jahren im Ausland keine Reisepässe mehr ausgestellt bekommen und ggf. nach Einreise in die Ukraine das Land nicht wieder verlassen können vor dem Hintergrund, dass in der Ukraine der Kriegsdienst aus Gewissensgründen nicht verweigert werden kann bzw. die Kriegsdienstverweigerung unter Strafe steht und die Möglichkeit besteht, mit Zwang zum Wehrdienst mit der Waffe herangezogen zu werden (www.mdr.de/nachrichten/deutschland/politik/wehrpflichtige-ukrainer-reisepass-innenminister-100.html), und setzt sich die Bundesregierung in den Verhandlungen mit den Innenministern der Bundesländer dafür ein, dass den Betroffenen Ersatzpässe ausgestellt werden, damit ihr Aufenthalt in Deutschland weiter bestehen bleiben kann, um nicht ggf. eine unfreiwillige Rekrutierung zu ermöglichen (www.jungewelt.de/artikel/474711.minister-ukraine-bei-rekrutierung-helfen.html)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Aufenthaltsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Flüchtling",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kriegsdienstverweigerung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Mann",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Reisepass",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wehrdienst",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Unzumutbarkeit der Passbeschaffung für wehrpflichtige Ukrainer in Deutschland",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311799",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele der 1.100 Teilnehmer an der Kalifat-Demo von \"Muslim Interaktiv\" in Hamburg sind nach Kenntnis der Bundesregierung vollziehbar ausreisepflichtig (vgl. www.derstandard.at/story/3000000218734/nach-kalifat-rufen-in-hamburg-sind-wir-zu-sanft-zu-islamisten)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Demonstration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hamburg",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Islamismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Bewegung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rückführung ausreisepflichtiger Personen",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Ausreisepflichtige Teilnehmer einer islamistischen Demonstration der Gruppe Muslim Interaktiv in Hamburg",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311798",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele deutsch-russische Staatsangehörige (mit doppelter Staatsangehörigeit) sowie deutsch-türkische (mit doppelter Staatsangehörigeit) gibt es zum aktuellen Zeitpunkt in Deutschland (vgl. www.nzz.ch/feuilleton/medienkritik-geschichte-der-russlanddeutschen-ld.1827141)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Deutsche",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Doppelte Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Russland",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Türkei",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Deutsch-russische bzw. deutsch-türkische Staatsangehörige in Deutschland",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311797",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele behördliche Verfahren sind infolge des am 15. Januar 2003 gegen die Organisation Hizb ut-Tahrir sowie deren Vorfeld- und Unterstützungsorganisationen verhängten Betätigungsverbots nach Kenntnis der Bundesregierung jeweils eingeleitet worden (bitte nach straf-, vereins-, aufenthalts-, gewerbe- oder sonstigen verwaltungsrechtlichen Verfahren aufschlüsseln)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Islam",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Islamismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafprozess",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verein",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vereinsverbot",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verfahren gegen die Organisation Hizb ut-Tahrir seit dem Betätigungsverbot",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311796",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele und welche Gewaltstraftaten zum Nachteil von Ukrainerinnen und Ukrainern oder aus der Ukraine infolge des russischen Angriffskrieges geflüchteten Drittstaatsangehörigen gab es nach Kenntnis der Bundesregierung seit dem 1. März 2022?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Drittstaat",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Flüchtling",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gewaltkriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Krieg",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Russland",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        }
+      ],
+      "titel": "Gewaltstraftaten gegen geflüchtete Ukrainer seit März 2022",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311795",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche konkreten Überlegungen verfolgt die Bundesregierung, im Rahmen der Aufstellung des Bundeshaushalts 2025 die Steuerbegünstigungen von Sonn-, Feiertags- und Nachtzuschlägen zu beschneiden oder gar zu streichen (vgl. www.focus.de/finanzen/news/grosser-ueberblick-steuern-wohnmobil-nachtzuschlaege-das-bedeutet-lindners-streichliste-fuer-sie_id_259902550.html), und welche Auswirkungen sieht die Bundesregierung auf die Motivation hunderttausender Pflegekräfte in der stationären Pflege (eine Berufsgruppe mit schon heute hohem Fachkräftemangel; vgl. u. a. www.deutschlandfunk.de/pflege-fachkraeftemangel-zukunftsaussichten-100.html), wenn ihnen diese Form von staatlicher Anerkennung für ihre belastenden Tätigkeiten in Nachtschichten, an Sonn- und Feiertagen, an denen diese Menschen die Gesundheitsversorgung unserer alten und kranken Mitmenschen sicherstellen, genommen werden sollte?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundeshaushalt 2025",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Lohnzuschlag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Medizinische Versorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Pflege",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Pflegepersonal",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Steuerentlastung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Mögliche Kürzungen von Steuerbegünstigungen von Sonn-, Feiertags- und Nachtzuschlägen im Bundeshaushalt 2025",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311794",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele Arbeitgeberprüfungen hat die Finanzkontrolle Schwarzarbeit nach Kenntnis der Bundesregierung in den Jahren 2019 bis 2022 in Brandenburg durchgeführt, und wie viele Verstöße gegen das Mindestlohngesetz wurden dabei festgestellt (bitte nach Jahren aufschlüsseln?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Arbeitgeber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Brandenburg",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Finanzkontrolle Schwarzarbeit",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Illegale Beschäftigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Mindestlohn",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schwarzarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zollverwaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Arbeitgeberprüfungen der Finanzkontrolle Schwarzarbeit in Brandenburg von 2019 bis 2022",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311793",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche Kosten sind bisher durch die Beauftragung des Beratungsunternehmens Roland Berger Holding GmbH & Co. KGaA in Zusammenhang mit der Errichtung des Bundesamtes zur Bekämpfung von Finanzkriminalität angefallen bzw. werden voraussichtlich noch entstehen, und wie viel Personalaufwand in Vollzeitäquivalenten wurde dabei von der Roland Berger Holding GmbH & Co. KGaA erbracht (bitte ggf. nach den beauftragten Unternehmen aufschlüsseln; vgl. www.welt.de/politik/deutschland/article249785550/Aufbau-des-Finanzkriminalamts-Und-dann-zahlt-Lindner-Millionen-fuer-einen-Unternehmensberater.html)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Baumaßnahme",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesamt zur Bekämpfung von Finanzkriminalität",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kosten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kriminalitätsbekämpfung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalwesen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Unternehmensberatung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftskriminalität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Kosten für ein Beratungsunternehmen im Rahmen der Errichtung des Bundesamts zur Bekämpfung von Finanzkriminalität",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311792",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele private Unternehmen gleich welcher Rechtsform sind laut Kenntnis der Bundesregierung aktuell in Deutschland registriert mit mehr als 1.000 Mitarbeiterinnen und Mitarbeitern (bitte aufschlüsseln nach deutschen Unternehmen und ausländischen Unternehmen), und wie groß ist der Anteil dieser Unternehmen an der Gesamtheit aller in Deutschland registrierter Unternehmen (bitte aufschlüsseln nach Anzahl, prozentualem Anteil, deutschen Unternehmen und ausländischen Unternehmen)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Großunternehmen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalausstattung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Privatunternehmen",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Privatunternehmen mit mehr als 1000 Mitarbeitern",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311791",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie erklärt sich die Bundesregierung den Absatzeinbruch im Modernisierungsmarkt (der Absatz moderner Wärmeerzeuger legte im ersten Quartal 2024 ein Minus von 29 Prozent hin, Wärmepumpen lagen sogar bei minus 52 Prozent) trotz Inkrafttreten des Gebäudeenergiegesetzes (GEG) zum 1. Januar 2024 und bestehenden Förderprogrammen, und mit welchen Maßnahmen will die Bundesregierung den retardierenden Effekt des Wärmeplanungsgesetzes und die meiner Ansicht nach damit verlorene Zeit für den Klimaschutz im Gebäudebereich ausgleichen?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bausanierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gebäudeenergieeffizienz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gebäudeenergiegesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wärmeplanungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wärmepumpe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wärmeversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Absatzeinbruch im Modernisierungsmarkt seit Inkrafttreten des Gebäudeenergiegesetzes",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311790",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nInwiefern erfolgte im Rahmen der Beantwortung der Presseanfrage des \"ZDF Magazin Royale\" durch das Presse- und Informationsamt der Bundesregierung (BPA) am 26. März 2024 (vgl. Antwort der Bundesregierung auf meine Mündliche Frage 35, Plenarprotokoll 20/165) eine Abstimmung zwischen dem BPA und dem Bundeskanzleramt, bei dem die Anfrage ebenfalls eingegangen ist (bitte angeben, ob der Antwortentwurf dem Bundesminister für besondere Aufgaben und Chef des Bundeskanzleramtes Wolfgang Schmidt vorlag, und falls ja, wann, und wurden durch diesen Änderungen an dem Entwurf vorgenommen), und lagen die Anfrage und/oder die Antwort auch dem Bundeskanzler Olaf Scholz vor?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundeskanzler",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeskanzleramt",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Cum/Ex-Geschäft",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kapitalertragsteuer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Medienberichterstattung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Presse- und Informationsamt der Bundesregierung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Scholz, Olaf",
+          "typ": "Personen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerdelikt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Steuerumgehung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "ZDF",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Beantwortung einer Presseanfrage des ZDF Magazin Royale zur Verwicklung von Olaf Scholz in die Cum-Ex-Steueraffäre",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311777",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche konkreten Maßnahmen hat der Runde Tisch \"Serielles, modulares & systemisches Bauen\" in der Bundesstiftung Bauakademie gegen Obdachlosigkeit sowie im Bereich inklusives und barrierefreies Wohnen hervorgebracht?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Barrierefreiheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bautechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesstiftung Bauakademie",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Fertigbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Inklusion",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wohnungsbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vorschläge des Runden Tisches \"Serielles, modulares & systemisches Bauen\" der Stiftung Bauakademie hinsichtlich Obdachlosigkeit und inklusivem barrierefreiem Wohnen",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311776",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie hat sich laut Kenntnis der Bundesregierung der Bundeshaushalt für entwicklungspolitische Mittel an die am wenigsten entwickelten Länder (least developed countries &ndash; LDC) in den letzten zehn Jahren bis heute entwickelt (bitte nach Haushaltsjahren, absoluten Mitteln, Anteil am jährlichen deutschen Bruttoinlandseinkommen tabellarisch aufführen), und welche konkreten Maßnahmen plant die Bundesregierung, um die im Jahr 2023 auf der UN-Konferenz für die am wenigsten entwickelten Länder gemachten Zusagen zu erfüllen, damit \"die reichen Länder 0,2 Prozent ihres Bruttoinlandseinkommens für die Entwicklungszusammenarbeit mit den LDC zur Verfügung stellen\" (www.bmz.de/de/aktuelles/aktuelle-meldungen/bmz-verstaerkt-unterstuetzung-fuer-aermste-laender-146524)?<br />\r\n ",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Entwicklungsländer",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Entwicklungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entwicklungspolitische Mittel für die am wenigsten entwickelten Länder in den letzten zehn Jahren",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311775",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nHat das Bundesministerium für Bildung und Forschung gegenüber dem Bundesministerium der Finanzen bis zum 2. Mai 2024 konkrete Finanzierungsvorschläge zur Umsetzung eines Digitalpakts 2.0 unterbreitet, und wenn ja, wie viele Mittel sollen nach Vorstellung des Bundesministeriums für Bildung und Forschung im Bundeshaushalt 2025 für den Digitalpakt 2.0 bereitgestellt werden?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bildungsfinanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bildungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Finanzierungsvorschläge zur Umsetzung eines Digitalpakts 2.0",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311774",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nNutzen nach Kenntnis der Bundesregierung bereits Start-ups Rechenkapazitäten am Forschungszentrum Jülich sowie an den anderen Supercomputing-Rechenzentren im Rahmen des Gauss Centre for Supercomputing, und falls ja, wie viele Start-ups nutzen diese?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Computer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungseinrichtung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Jülich",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rechenzentrum",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Spitzentechnologie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Unternehmensgründung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nutzung der Rechenkapazitäten des Gauss Centre for Supercomputing durch Startups",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311773",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWer hat nach Kenntnis der Bundesregierung nach welchen allgemeinen Grundsätzen die Herausgeber und die Autoren für das vom Bundesministerium für Bildung und Forschung geförderte Projekt \"Offener Zugang zum Grundgesetz (OZUG)\" (www.jura.uni-hannover.de/de/forschung/forschungsbereiche/einzelansicht/projects/offener-zugang-zum-grundgesetz-ozug) ausgewählt, und erfolgte die Auswahl der Autoren jeweils für jeden einzelnen Grundgesetzartikel?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Grundgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Open Access",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rechtswissenschaft",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Auswahl der Autoren und Herausgeber für den Grundgesetzkommentar \"Offener Zugang zum Grundgesetz\"",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311771",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche Informationen liegen der Bundesregierung hinsichtlich der Anrechnung von in Teilzeit geleisteten Freiwilligendiensten auf Wartesemester sowie auf die Anerkennung an Stelle eines Praktikums zum Erreichen des praktischen Teils der Fachhochschulreife vor?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Fachhochschule",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Freiwilligendienst",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Praktikum",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Studium",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Anrechnung von in Teilzeit geleisteten Freiwilligendiensten auf Wartesemester sowie auf die Anerkennung des praktischen Teils der Fachhochschulreife",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311770",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele Anträge sind beim Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz (BMUV) zum Wildnisfonds des Bundes in der Trägerschaft Zukunft &ndash; Umwelt &ndash; Gesellschaft (ZUG) gGmbH eingegangen und in den Jahren 2021 bis 2023 bewilligt worden (bitte aufschlüsseln nach Jahr und bewilligten Projekten)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Fonds",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Landschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Naturschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Anträge zum Wildnisfonds des Bundes",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311769",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nInwieweit wird das heutige Engagement der Schenker AG (DB Schenker) im Bereich militärischer Transporte für die Bundeswehr und verbündete Streitkräfte beim Verkauf des Unternehmens berücksichtigt und dieses als Bedingung für den Erwerber vertraglich fixiert?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundeswehr",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Deutsche Bahn",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Militärtransport",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Streitkräfte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Unternehmensübernahme",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Berücksichtigung der Tätigkeiten der DB Schenker im Bereich militärischer Transporte beim Verkauf des Unternehmens",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311768",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie lange müssen Kinder nach Kenntnis der Bundesregierung momentan im Durchschnitt auf standardmäßige Hals-Nasen-Ohren-Operationen (wie das Einsetzen von Paukenröhrchen) warten (bitte Gesamtzahl der Kliniken und Angebotsumfang angeben), und welche Spätfolgen kann ein eventueller Mangel hier bewirken (www.ndr.de/nachrichten/niedersachsen/Kinder-muessen-monatelang-auf-HNO-Operationen-warten,hno110.html)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Chirurgischer Eingriff",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Hals-Nasen-Ohren-Heilkunde",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Kind",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Wartezeiten für HNO-Operationen bei Kindern",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311767",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWann ist nach Kenntnis der Bundesregierung mit der vom Bundesminister für Gesundheit Dr. Karl Lauterbach öffentlich versprochenen, vollständigen Entschwärzung der Dokumente des Robert Koch-Instituts (die sogenannten RKI-Files) zu rechnen (www.nordkurier.de/politik/angst-vor-verschwoerungstheorien-lauterbach-versprechen-noch-nicht-eingeloest-2506489)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "COVID-19",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Protokoll <Niederschrift>",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Robert Koch-Institut",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Seuchenbekämpfung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschwärzung der RKI-Corona-Protokolle",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311766",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nMit welchen konkreten Maßnahmen im Rahmen des jeweils als Referentenentwurf vorliegenden Krankenhausversorgungsverbesserungsgesetzes (siehe www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/krankenhausversorgungsverbesserungsgesetz-khvvg.html) und des Gesundheitsversorgungsstärkungsgesetzes (siehe www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/detail/gvsg.html) will die Bundesregierung die wohnortnahe psychiatrische Versorgung in Krankenhäusern sichern bzw. verbessern, und welche weiteren Maßnahmen plant die Bundesregierung darüber hinaus zur Stärkung der wohnortnahen stationären psychiatrischen Versorgung in Deutschland?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Kommunale Gebietskörperschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Krankenhausfinanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Medizinische Versorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Psychiatrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Reform",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Maßnahmen zur Sicherung bzw. Verbesserung der wohnortnahen psychiatrischen Versorgung",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311764",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nGibt es auch in der Bundesregierung Überlegungen zu einem sogenannten Renditedeckel für die Bereiche Gesundheit und Wohnen als Teil der Daseinsvorsorge, wie jüngst im Europaparlament gefordert (siehe dazu: https://taz.de/Gruene-fuer-Wohnen-und-Gesundheit/!6004899/#:~:text=In%20den%20Branchen%20Gesundheit%20und,Immobilienkonzerne%20und%20den%20Gesundheitsbereich%20vorschlagen), und falls ja, wie weit prüft die Bundesregierung bereits, ob es auf europäischer Ebene eher als auf nationaler Ebene möglich ist, einen Renditedeckel für einzelne Branchen einzuführen?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Daseinsvorsorge",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesundheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gewinn",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Rendite-Deckel für die Bereiche Gesundheit und Wohnen in der öffentlichen Daseinsvorsorge",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311763",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche Schlüsse für ihre Arbeit in Hinblick auf Kinder und Jugendliche zieht die Bundesregierung &ndash; insbesondere in Hinblick auf das im Koalitionsvertrag zwischen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP angekündigte Vorhaben einer Verbesserung der Gesundheitsversorgung von Transmenschen &ndash; aus der Tatsache, dass der National Health Service (NHS) in Großbritannien kürzlich die Verschreibung von Pubertätsblockern für Kinder und Jugendliche mit Geschlechts- dysphorie aufgrund von fehlender wissenschaftlicher Evidenz über Wirksamkeit und Nebenwirkungen verboten hat?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Arzneimittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Großbritannien",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Hormontherapie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Minderjähriger",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Transsexualität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verbot",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verbot der Verschreibung von Pubertätsblockern für Kinder und Jugendliche mit Geschlechtsdysphorie in Großbritannien",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311762",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWoraus ergibt sich die Aussage in der Antwort der Bundesregierung auf meine Mündliche Frage 22, Plenarprotokoll 20/165, dass die Bundesregierung keine finanziellen Schäden von Kommunen erwartet, die Maßnahmen, welche durch das Investitionsprogramm zum beschleunigten Infrastrukturausbau der Ganztagsbetreuung für Grundschulkinder nicht mehr gefördert werden konnten, im Investitionsprogramm Ganztagsausbau neu zur Förderung beantragen müssen, vor dem Hintergrund, dass beispielsweise die Gemeinde Hesel in Niedersachsen nach mir vorliegenden Informationen in einem neuen Förderantrag über 200.000 Euro geringere Zuwendungen erhalten würde (sofern der Förderantrag genehmigt wird) und zudem die ausgezahlten Mittel zuzüglich Zinsen (über 30.000 Euro) zurückzahlen muss, sodass insgesamt ein finanzieller Schaden von über 270.000 Euro entsteht?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundesmittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Ganztagsschule",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Grundschule",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kommunale Gebietskörperschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schülerbetreuung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Verringerte Förderung für Projekte im Rahmen des neuen Investitionsprogramms Ganztagsausbau",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311761",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWieso wurde &ndash; entgegen der Antwort der Bundesregierung auf meine Mündliche Frage 20 Plenarprotokoll 20/165 &ndash; die von der Bundesregierung angekündigte Familienstartzeit als Teil der EU-Richtlinie von 2019 zur Partner-Auszeit nach der Geburt, die verbindliche Mindeststandards für die Mitgliedsstaaten formuliert, die eigentlich bis August 2022 hätte umgesetzt werden müssen, noch nicht umgesetzt, woraufhin die EU ein Vertragsverletzungsverfahren gegen Deutschland eingeleitet hat (vgl. Berliner Morgenpost vom 30. April 2024, S. 2, \"Familien müssen warten\"), und hat dies neue Auswirkungen hinsichtlich des Vertragsverletzungsverfahrens, und wenn ja, wie ist der aktuelle Stand diesbezüglich?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Eltern",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Freistellung von der Arbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innerstaatliche Umsetzung von EU-Recht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Richtlinie der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vereinbarkeit von Familie und Beruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vertragsverletzungsverfahren",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Fehlende Umsetzung der Familienstartzeit im Rahmen der EU-Richtlinie zur Partner-Auszeit",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311760",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWann wird der Arbeitsstab zur Etablierung der Koordinierungsstelle zur Umsetzung der Istanbul-Konvention seine Arbeit abgeschlossen haben, sodass die im Koalitionsvertrag zwischen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP versprochene Koordinierungsstelle zeitnah ihre Arbeit aufnimmt, und inwieweit wird die Koordinierungsstelle, wie nach meiner Kenntnis von vielen Organisationen gewünscht, mit einem klaren Mandat ausgestattet und hoch in der administrativen Hierarchie verankert sein, um die verschiedensten Ressorts zu koordinieren (vgl. www.bmfsfj.de/resource/blob/183606/fb14953b4d67ab87db0a0dbe57acdd5c/buendnis-istanbul-konvention-alternativbericht-data.pdf, S. 27)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Frau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gewaltschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Häusliche Gewalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innerstaatliche Umsetzung von EU-Recht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Übereinkommen des Europarats zur Verhütung und Bekämpfung von Gewalt gegen Frauen und häuslicher Gewalt",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Sachstand zur Umsetzung der Istanbul-Konvention",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311759",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nGibt es aus Sicht der Bundesregierung die meines Erachtens bestehende Gefahr, dass Eltern von Kindern unter 14 Jahren eigenmächtig entgegen dem Interesse der Kinder eine Änderung des Geschlechtseintrags ihrer Kinder nach dem neuen Selbstbestimmungsgesetz veranlassen oder gar manipulativ auf das Kind einwirken, sich zu einer solchen Entscheidung zu bekennen, und wenn ja, mit welchen Maßnahmen würden Kinder hiervor geschützt werden?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Geschlecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Kind",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kinderschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Selbstbestimmungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Selbstbestimmungsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Transsexualität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Eigenmächtige Änderung des Geschlechtseintrags von Kindern durch deren Eltern",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311758",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWann wird die Bundesregierung die laut § 29b des Jugendschutzgesetzes drei Jahre nach Inkrafttreten (also am 1. Mai 2024) vorgesehene Evaluation durchführen und dem Deutschen Bundestag darüber berichten?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Gesetzesfolgenabschätzung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Jugendschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Jugendschutzgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Evaluation des Jugendschutzgesetzes",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311757",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWurden bisher von Zuwendungsempfängern des Programms \"Demokratie leben!\" Fördergelder zurückverlangt oder die Auszahlung vor Projekt- ende eingestellt, und wenn ja, wie oft, und aus welchen Gründen (vgl. Antwort der Bundesregierung auf die Mündliche Frage 2 sowie auf die dazugehörigen Nachfragen, Plenarprotokoll 20/165, S. 21192)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundesmittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesprogramm Demokratie leben!",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Rückzahlungen von Zuwendungsempfängern des Programms \"Demokratie leben!\"",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311756",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nPlant die Bundesregierung eigene Maßnahmen hinsichtlich des in Belgien geltenden Verbots sogenannter \"Lootboxen\", um Kinder und Jugendliche vor den Gefahren dieser \"virtuellen Beutekisten\" zu schützen, und wenn ja, welche, und wenn nein, warum nicht?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Computerspiel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Glücksspiel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Jugendlicher",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kind",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Mögliches Verbot sogenannter Lootboxen",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311755",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche konkreten Schritte unternimmt die Bundesregierung, um angesichts gefährlicher Online-Trends wie z. B. der kürzlich auf TikTok zirkulierenden Fake News über einen vermeintlichen \"National Rape Day\" am 24. April sowie sogenannter TikTok-Challenges den Kinder- und Jugendschutz durch Aufklärung und Prävention zu stärken?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Jugendschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Kinderschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Soziale Medien",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stärkung des Kinder- und Jugendschutzes im Bereich Soziale Medien",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311754",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nTeilt die Bundesregierung die Auffassung des Präsidenten des Niedersächsischen Städtetages von vor wenigen Wochen (siehe www.ndr.de/nachrichten/niedersachsen/Ganztag-fuer-Grundschulkinder-ab-2026-nicht-ueberall-moeglich,ganztagsbetreuung118.html), dass es nicht möglich sei, die rechtlich festgeschriebene Betreuung bis in den Nachmitttag hinein an allen Grundschulen zum Schuljahr 2026/2027 zu gewährleisten, und sieht die Bundesregierung dadurch weiteren Handlungsbedarf, und wenn nein, warum nicht?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Grundschule",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Schülerbetreuung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gewährleistung der Kinderbetreuung an Grundschulen",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311753",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie bewertet die Bundesregierung die Forderung einiger Sachverständiger in der Anhörung des Ausschusses für Familie, Senioren, Frauen und Jugend des Deutschen Bundestages zum Freiwilligen-Teilzeitgesetz, Maßnahmen zur Akquise und Öffentlichkeitsarbeit förderfähig zu machen und zu refinanzieren, um das volle Potenzial von Freiwilligendiensten auszuschöpfen?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Finanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Freiwilligen-Teilzeitgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Freiwilligendienst",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentlichkeitsarbeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Förderung von Maßnahmen zur Akquise und Öffentlichkeitsarbeit in Bezug auf Freiwilligendienste",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311749",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWie viele Personen werden nach Schätzung der Bundesministerin für Familie, Senioren, Frauen und Jugend von dem Selbstbestimmungsgesetz voraussichtlich profitieren, und auf welcher Grundlage erfolgt diese Einschätzung?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Geschlecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personenstand",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Selbstbestimmungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Selbstbestimmungsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Transsexualität",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Profiteure des Selbstbestimmungsgesetzes",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311748",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nAus welchen Gründen verschließt sich das Bundesministerium für Familie, Senioren, Frauen und Jugend beim Demokratiefördergesetz einer Extremismusklausel, mit der sich zivilgesellschaftliche Projekte dem Grundgesetz verpflichten (www.tagesspiegel.de/demokratiefordergesetz-ohne-extremismusklausel-9032572.html)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Demokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Demokratiefördergesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Extremismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Bildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Einführung einer Extremismusklausel in das Demokratiefördergesetz",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311747",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWelche Schlüsse für ihr Handeln zieht die Bundesregierung aus der Einschätzung der vom Bundesministerium für Familie, Senioren, Frauen und Jugend eingesetzten Arbeitsgruppe (AG) Frühe Bildung, nach der das Bundesprogramm \"Sprach-Kitas\" eine \"effektive Strategie\" zur \"gezielten Qualitätsentwicklung und Unterstützung von Einrichtungen in besonders herausfordernder Lage\" (Bericht der AG Frühe Bildung, S. 37) dargestellt habe?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Elementarbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Kindertagesstätte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Sprachförderung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Effektivität des Bundesprogramms “Sprach-Kitas” hinsichtlich der Qualitätsentwicklung und Unterstützung von Einrichtungen in besonders herausfordernder Lage",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311746",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nSind der Bundesministerin für Familie, Senioren, Frauen und Jugend Lisa Paus in den letzten beiden Kalenderjahren Fälle bekannt geworden, bei denen Fördermittel des Programms \"Demokratie Leben!\" nicht den Förderrichtlinien entsprechend verwendet wurden, und wenn ja, wurden in diesen etwaigen Fällen Mittel zurückgefordert (vgl. TichysEinblick &ndash; www.tichyseinblick.de/meinungen/dragqueen-workshops-paus/, zuletzt abgerufen am 18. April 2024)?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundesmittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesprogramm Demokratie leben!",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Unsachgemäße Verwendung von Mitteln des Programms “Demokratie Leben!”",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311745",
+      "abstract": "Originaltext der Frage(n):<br />\r\n<br />\r\nWann ist mit einem Start des im Koalitionsvertrag zwischen SPD, BÜNDNIS 90/DIE GRÜNEN und FDP vereinbarten Investitionsprogramms zum weiteren Ausbau von Kita-Plätzen zu rechnen, und was sind die wesentlichen Eckpunkte &ndash; etwa hinsichtlich der Höhe der Mittel, die der Bund zur Verfügung stellt &ndash; des Programms?",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Mündliche Frage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-01-13T07:47:03+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Investitionsförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kinderbetreuung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Kindertagesstätte",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Start des Investitionsprogramms zum weiteren Ausbau von Kita-Plätzen\r\n",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "311349",
+      "beratungsstand": "Erledigt durch Ablauf der Wahlperiode",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Gesundheit"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2025-05-19T11:57:50+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Geriatrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesundheitsvorsorge",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Häusliche Pflege",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Medizinische Forschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Pflege",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Pflegebedürftigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Pflegeberatung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Pflegestützpunkt",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Pflegebedürftigkeit frühestmöglich verhindern - Gesundheitsförderung und Prävention in der Pflege stärken",
+      "datum": "2024-05-15"
+    },
+    {
+      "id": "308702",
+      "beratungsstand": "Erledigt durch Ablauf der Wahlperiode",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "B063",
+      "archiv": "XX/1042",
+      "sachgebiet": [
+        "Recht",
+        "Staat und Verwaltung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 72/24)"
+      ],
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2026-07-21T10:43:39+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundesbeauftragter für den Datenschutz und die Informationsfreiheit",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesdatenschutzgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Datenschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Datenschutzbeauftragter",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Datenverarbeitung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzesfolgenabschätzung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gremium",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kreditwürdigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personenbezogene Daten",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Regierungsprogramm",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Scoring",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialgesetzbuch X",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Transparenz",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verbraucherschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Videoüberwachung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftsauskunftei",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zuständigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Erstes Gesetz zur Änderung des Bundesdatenschutzgesetzes",
+      "datum": "2024-05-15"
+    }
+  ]
+}

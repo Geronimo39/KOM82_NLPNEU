@@ -1,0 +1,3797 @@
+{
+  "numFound": 74,
+  "documents": [
+    {
+      "id": "667187",
+      "vorgangsposition": "Regierungserklärung und Aussprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Regierungserklärung",
+      "titel": "Regierungserklärung zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319804"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319784"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319782"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319783"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032",
+        "anfangsseite": 27032,
+        "endseite": 27064,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27032C",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032"
+        },
+        {
+          "seite": "27038C",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27038"
+        },
+        {
+          "seite": "27043A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27043"
+        },
+        {
+          "seite": "27046B",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Lindner, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27046"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319851"
+    },
+    {
+      "id": "667192",
+      "vorgangsposition": "Einleitende Ausführungen und Befragung der Bundesregierung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Befragung der Bundesregierung",
+      "titel": "Einleitende Ausführungen und Befragung des Bundesministers für Ernährung und Landwirtschaft, Cem Özdemir, sowie der Bundesministerin für wirtschaftliche Zusammenarbeit und Entwicklung, Frau Svenja Schulze",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 43,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27064",
+        "anfangsseite": 27064,
+        "endseite": 27096,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27065A",
+          "aktivitaetsart": "Einleitende Ausführungen und Beantwortung",
+          "titel": "Cem Özdemir, Bundesmin., Bundesministerium für Ernährung und Landwirtschaft",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27065"
+        },
+        {
+          "seite": "27065D",
+          "aktivitaetsart": "Einleitende Ausführungen und Beantwortung",
+          "titel": "Svenja Schulze, Bundesmin., Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27065"
+        },
+        {
+          "seite": "27066C",
+          "aktivitaetsart": "Frage",
+          "titel": "Albert Stegemann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27066"
+        },
+        {
+          "seite": "27067B",
+          "aktivitaetsart": "Frage",
+          "titel": "Sanae Abdi, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27067"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319852"
+    },
+    {
+      "id": "667193",
+      "vorgangsposition": "Antrag zur Geschäftsordnung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Anmerkung zur Plenarsitzung",
+      "titel": "Geschäftsordnungsantrag der Fraktionen SPD und B90/GR auf Unterbrechung der Bundestagssitzung nach Annahme eines Entschließungsantrags zur Regierungserklärung des Bundeskanzlers zu aktuellen innenpolitischen Themen (BT-Drs 20/14698)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-03T12:11:52+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Regierungserklärung und Aussprache",
+          "vorgangstyp": "Regierungserklärung",
+          "titel": "Regierungserklärung zu aktuellen innenpolitischen Themen",
+          "id": "319851"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319782"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319783"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081",
+        "anfangsseite": 27081,
+        "endseite": 27085,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27081B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Rolf Mützenich, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081"
+        },
+        {
+          "seite": "27081D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081"
+        },
+        {
+          "seite": "27082D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27082"
+        },
+        {
+          "seite": "27083D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Judith Skudelny, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27083"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319853"
+    },
+    {
+      "id": "667211",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Gedenken an die Opfer der Gewalttaten von Magdeburg und Aschaffenburg",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27025",
+        "anfangsseite": 27025,
+        "endseite": 27025,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27025A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27025"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319855"
+    },
+    {
+      "id": "667212",
+      "vorgangsposition": "Feststellung der Tagesordnung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Anmerkung zur Plenarsitzung",
+      "titel": "Feststellung der Tagesordnung der 209. bis 211. Sitzung des Deutschen Bundestages",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-03T12:27:06+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27025",
+        "anfangsseite": 27025,
+        "endseite": 27032,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Feststellung der Tagesordnung",
+          "seite": "27032A"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319856"
+    },
+    {
+      "id": "667220",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27060",
+        "anfangsseite": 27060,
+        "endseite": 27060,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27060D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katrin Göring-Eckardt, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27060"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319859"
+    },
+    {
+      "id": "667561",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Sorgen von Wirtschaft und Menschen ernst nehmen - Deutschland braucht jetzt die Wirtschaftswende",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27106",
+        "anfangsseite": 27106,
+        "endseite": 27121,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27106C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Lukas Köhler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27106"
+        },
+        {
+          "seite": "27107D",
+          "aktivitaetsart": "Rede",
+          "titel": "Sebastian Roloff, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27107"
+        },
+        {
+          "seite": "27109A",
+          "aktivitaetsart": "Rede",
+          "titel": "Julia Klöckner, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27109"
+        },
+        {
+          "seite": "27110A",
+          "aktivitaetsart": "Rede",
+          "titel": "Katharina Beck, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27110"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "320005"
+    },
+    {
+      "id": "667616",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Sönke Rix (Die Linke) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27144",
+        "anfangsseite": 27144,
+        "endseite": 27144,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27144B",
+          "aktivitaetsart": "Rede",
+          "titel": "Katrin Göring-Eckardt, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27144"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "320028"
+    },
+    {
+      "id": "667617",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Ingo Gädechens (CDU/CSU) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27147",
+        "anfangsseite": 27147,
+        "endseite": 27147,
+        "anfangsquadrant": "B",
+        "endquadrant": ""
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27147B",
+          "aktivitaetsart": "Rede",
+          "titel": "Katrin Göring-Eckardt, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27147"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "320029"
+    },
+    {
+      "id": "667188",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Regierungserklärung und Aussprache",
+          "vorgangstyp": "Regierungserklärung",
+          "titel": "Regierungserklärung zu aktuellen innenpolitischen Themen",
+          "id": "319851"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319784"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319782"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319783"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032",
+        "anfangsseite": 27032,
+        "endseite": 27064,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/14713",
+          "seite": "27063A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27032C",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032"
+        },
+        {
+          "seite": "27038C",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27038"
+        },
+        {
+          "seite": "27043A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27043"
+        },
+        {
+          "seite": "27046B",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Lindner, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27046"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319804"
+    },
+    {
+      "id": "667189",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Regierungserklärung und Aussprache",
+          "vorgangstyp": "Regierungserklärung",
+          "titel": "Regierungserklärung zu aktuellen innenpolitischen Themen",
+          "id": "319851"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319804"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319782"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319783"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032",
+        "anfangsseite": 27032,
+        "endseite": 27064,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/14701",
+          "seite": "27063A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27032C",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032"
+        },
+        {
+          "seite": "27038C",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27038"
+        },
+        {
+          "seite": "27043A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27043"
+        },
+        {
+          "seite": "27046B",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Lindner, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27046"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319784"
+    },
+    {
+      "id": "667190",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "S. 27064A - Widerspruch der Fraktion der CDU/CSU gegen die Teilung der Frage gem. § 47 GO-BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Regierungserklärung und Aussprache",
+          "vorgangstyp": "Regierungserklärung",
+          "titel": "Regierungserklärung zu aktuellen innenpolitischen Themen",
+          "id": "319851"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319804"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319784"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319783"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032",
+        "anfangsseite": 27032,
+        "endseite": 27064,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme der Vorlage",
+          "abstimm_ergebnis_bemerkung": "348:344:10",
+          "dokumentnummer": "20/14698",
+          "seite": "27075A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27032C",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032"
+        },
+        {
+          "seite": "27038C",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27038"
+        },
+        {
+          "seite": "27043A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27043"
+        },
+        {
+          "seite": "27046B",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Lindner, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27046"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319782"
+    },
+    {
+      "id": "667191",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "S. 27064A - Widerspruch der Fraktion der CDU/CSU gegen die Teilung der Frage gem. § 47 GO-BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Regierungserklärung und Aussprache",
+          "vorgangstyp": "Regierungserklärung",
+          "titel": "Regierungserklärung zu aktuellen innenpolitischen Themen",
+          "id": "319851"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319804"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319784"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319782"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032",
+        "anfangsseite": 27032,
+        "endseite": 27064,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "190:508:3",
+          "dokumentnummer": "20/14699",
+          "seite": "27078A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27032C",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032"
+        },
+        {
+          "seite": "27038C",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27038"
+        },
+        {
+          "seite": "27043A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27043"
+        },
+        {
+          "seite": "27046B",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Lindner, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27046"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319783"
+    },
+    {
+      "id": "667194",
+      "vorgangsposition": "Regierungserklärung und Aussprache",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Regierungserklärung",
+      "titel": "Regierungserklärung zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Antrag zur Geschäftsordnung",
+          "vorgangstyp": "Anmerkung zur Plenarsitzung",
+          "titel": "Geschäftsordnungsantrag der Fraktionen SPD und B90/GR auf Unterbrechung der Bundestagssitzung nach Annahme eines Entschließungsantrags zur Regierungserklärung des Bundeskanzlers zu aktuellen innenpolitischen Themen (BT-Drs 20/14698)",
+          "id": "319853"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319782"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319783"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081",
+        "anfangsseite": 27081,
+        "endseite": 27085,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27081B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Rolf Mützenich, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081"
+        },
+        {
+          "seite": "27081D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081"
+        },
+        {
+          "seite": "27082D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27082"
+        },
+        {
+          "seite": "27083D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Judith Skudelny, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27083"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319851"
+    },
+    {
+      "id": "667215",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Transgeschlechtliche Menschen in Deutschland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27096",
+        "anfangsseite": 27096,
+        "endseite": 27097,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27096B",
+          "aktivitaetsart": "Frage",
+          "titel": "Bernd Schattner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27096"
+        },
+        {
+          "seite": "27096B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27096"
+        },
+        {
+          "seite": "27097B",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27097"
+        },
+        {
+          "seite": "27097C",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Ulle Schauws, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27097"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319681"
+    },
+    {
+      "id": "667217",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Deutschland im Regenbogen-Ranking der ILGA",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27098",
+        "anfangsseite": 27098,
+        "endseite": 27099,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27098A",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27098"
+        },
+        {
+          "seite": "27098A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27098"
+        },
+        {
+          "seite": "27099A",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Ulle Schauws, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27099"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319682"
+    },
+    {
+      "id": "667221",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Gewalt gegen Frauen in Deutschland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 5,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27101",
+        "anfangsseite": 27101,
+        "endseite": 27104,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27101B",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27101"
+        },
+        {
+          "seite": "27101C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27101"
+        },
+        {
+          "seite": "27102C",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Renate Künast, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27102"
+        },
+        {
+          "seite": "27103A",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Ulle Schauws, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27103"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319684"
+    },
+    {
+      "id": "667222",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Gewalt gegen Frauen und Jugendliche in Deutschland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27099",
+        "anfangsseite": 27099,
+        "endseite": 27101,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27099C",
+          "aktivitaetsart": "Frage",
+          "titel": "Bernd Schattner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27099"
+        },
+        {
+          "seite": "27099C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27099"
+        },
+        {
+          "seite": "27101A",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Renate Künast, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27101"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319683"
+    },
+    {
+      "id": "667223",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Ausweitung der Frühen Hilfen auf Kinder über 3 Jahre",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27104",
+        "anfangsseite": 27104,
+        "endseite": 27104,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27104A",
+          "aktivitaetsart": "Frage",
+          "titel": "Ingrid Pahlmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27104"
+        },
+        {
+          "seite": "27104A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27104"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319685"
+    },
+    {
+      "id": "667224",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Engagement des BMFSFJ in der Jugendbildung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27104",
+        "anfangsseite": 27104,
+        "endseite": 27105,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27104D",
+          "aktivitaetsart": "Frage",
+          "titel": "Ingrid Pahlmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27104"
+        },
+        {
+          "seite": "27104D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27104"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319686"
+    },
+    {
+      "id": "667225",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verzicht auf die Staffelung des Kindergeldes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27105",
+        "anfangsseite": 27105,
+        "endseite": 27106,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27105B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Hermann-Josef Tebroke, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27105"
+        },
+        {
+          "seite": "27105C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27105"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319687"
+    },
+    {
+      "id": "667231",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Rückzahlungsansprüche des Bundes im Rahmen des Investitionsprogramms zum beschleunigten Infrastrukturausbau der Ganztagsbetreuung für Grundschulkinder",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173",
+        "anfangsseite": 27173,
+        "endseite": 27173,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27173A",
+          "aktivitaetsart": "Frage",
+          "titel": "Silvia Breher, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173"
+        },
+        {
+          "seite": "27173B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319692"
+    },
+    {
+      "id": "667233",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Beteiligung von Abgeordneten der Opposition an der Erarbeitung des Kinder- und Jugendhilfeinklusionsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27172",
+        "anfangsseite": 27172,
+        "endseite": 27173,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27172D",
+          "aktivitaetsart": "Frage",
+          "titel": "Bettina Margarethe Wiesmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27172"
+        },
+        {
+          "seite": "27173A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319689"
+    },
+    {
+      "id": "667235",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Reformen des Conterganstiftungsgesetzes, der Hinterbliebenenversorgung und der Struktur der Contergan-Stiftung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173",
+        "anfangsseite": 27173,
+        "endseite": 27173,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27173C",
+          "aktivitaetsart": "Frage",
+          "titel": "Anne Janssen, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173"
+        },
+        {
+          "seite": "27173C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319694"
+    },
+    {
+      "id": "667238",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bereitstellung von Bundesmitteln für den Ganztagsausbau",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173",
+        "anfangsseite": 27173,
+        "endseite": 27173,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27173C",
+          "aktivitaetsart": "Frage",
+          "titel": "Anne Janssen, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173"
+        },
+        {
+          "seite": "27173D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Ekin Deligöz, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319695"
+    },
+    {
+      "id": "667239",
+      "vorgangsposition": "Rücknahme",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Voraussichtliche Zunahme des Pflegebedarfs bis 2030",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173",
+        "anfangsseite": 27173,
+        "endseite": 27173,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "datum": "2025-01-29",
+      "vorgang_id": "319696"
+    },
+    {
+      "id": "667258",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Folgen des Austritts der USA aus der WHO",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173",
+        "anfangsseite": 27173,
+        "endseite": 27174,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27173D",
+          "aktivitaetsart": "Frage",
+          "titel": "Kathrin Vogler, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27173"
+        },
+        {
+          "seite": "27174A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Prof. Dr. Edgar Franke, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319697"
+    },
+    {
+      "id": "667259",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Auswirkung der Entbudgetierung der Hausärzte auf die Patientenversorgung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174",
+        "anfangsseite": 27174,
+        "endseite": 27174,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27174A",
+          "aktivitaetsart": "Frage",
+          "titel": "Kathrin Vogler, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174"
+        },
+        {
+          "seite": "27174B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Prof. Dr. Edgar Franke, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319698"
+    },
+    {
+      "id": "667260",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Recyclingverfahren der Rotorblätter von Windenergieanlagen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174",
+        "anfangsseite": 27174,
+        "endseite": 27174,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27174B",
+          "aktivitaetsart": "Frage",
+          "titel": "Carolin Bachmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174"
+        },
+        {
+          "seite": "27174B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Bettina Hoffmann, Parl. Staatssekr., Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319699"
+    },
+    {
+      "id": "667261",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Öffentlich geförderte Kampagnen und Forschungsvorhaben zum Thema Einbürgerung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174",
+        "anfangsseite": 27174,
+        "endseite": 27175,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27174C",
+          "aktivitaetsart": "Frage",
+          "titel": "Gökay Akbulut, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174"
+        },
+        {
+          "seite": "27174C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Reem Alabali-Radovan, Staatsmin., Bundeskanzleramt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27174"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319700"
+    },
+    {
+      "id": "667262",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verträge, Kosten und Gasquellen der staatseigenen Unternehmen SEFE und Uniper für internationale Gaslieferverträge",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27175",
+        "anfangsseite": 27175,
+        "endseite": 27175,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27175A",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27175"
+        },
+        {
+          "seite": "27175A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Stefan Wenzel, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27175"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319701"
+    },
+    {
+      "id": "667263",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Leistungsbestandteile der Rahmenvereinbarung zwischen dem BMWK und der INIT AG für digitale Kommunikation",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27175",
+        "anfangsseite": 27175,
+        "endseite": 27176,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27175C",
+          "aktivitaetsart": "Frage",
+          "titel": "Matthias Hauer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27175"
+        },
+        {
+          "seite": "27175D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Stefan Wenzel, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27175"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319702"
+    },
+    {
+      "id": "667264",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Gesamtkapazität der Grenzkuppelstellen zwischen Deutschland und den Nachbarstaaten im Rahmen des europäischen Stromverbundnetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27176",
+        "anfangsseite": 27176,
+        "endseite": 27177,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27175C",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Seitz, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27175"
+        },
+        {
+          "seite": "27175C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Stefan Wenzel, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27175"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319703"
+    },
+    {
+      "id": "667265",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Maßnahmen gegen Vermögensnachteile europäischer Investoren durch das russische Gesetz 470-FZ",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27177",
+        "anfangsseite": 27177,
+        "endseite": 27178,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27177B",
+          "aktivitaetsart": "Frage",
+          "titel": "Jürgen Hardt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27177"
+        },
+        {
+          "seite": "27178A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sarah Ryglewski, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27178"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319704"
+    },
+    {
+      "id": "667266",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verdachtsfälle nach dem Geldwäschegesetz im Zusammenhang mit Rechtsextremismus",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27178",
+        "anfangsseite": 27178,
+        "endseite": 27179,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27178B",
+          "aktivitaetsart": "Frage",
+          "titel": "Martina Renner, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27178"
+        },
+        {
+          "seite": "27178B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sarah Ryglewski, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27178"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319705"
+    },
+    {
+      "id": "667267",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Kontrollkompetenz der Finanzkontrolle Schwarzarbeit für Betriebe in Brandenburg im Jahr 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27179",
+        "anfangsseite": 27179,
+        "endseite": 27180,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27179A",
+          "aktivitaetsart": "Frage",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27179"
+        },
+        {
+          "seite": "27179C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sarah Ryglewski, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27179"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319706"
+    },
+    {
+      "id": "667268",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Gesetzliche Regelung zur Speicherung von IP-Adressen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180",
+        "anfangsseite": 27180,
+        "endseite": 27180,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27180A",
+          "aktivitaetsart": "Frage",
+          "titel": "Carsten Müller (Braunschweig), MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180"
+        },
+        {
+          "seite": "27180A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319707"
+    },
+    {
+      "id": "667269",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Kritik an der Bereitstellung von Mitteln in der deutschen Sportförderung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180",
+        "anfangsseite": 27180,
+        "endseite": 27180,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27180B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. André Hahn, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180"
+        },
+        {
+          "seite": "27180B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319708"
+    },
+    {
+      "id": "667270",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Mögliche ausländische Einmischung oder Desinformationen bei der Bundestagswahl 2025",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180",
+        "anfangsseite": 27180,
+        "endseite": 27180,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27180C",
+          "aktivitaetsart": "Frage",
+          "titel": "Andrej Hunko, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180"
+        },
+        {
+          "seite": "27180C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319709"
+    },
+    {
+      "id": "667271",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Gespräche mit Italien zur Wiederaufnahme von Dublin-Überstellungen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180",
+        "anfangsseite": 27180,
+        "endseite": 27181,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27180D",
+          "aktivitaetsart": "Frage",
+          "titel": "Clara Bünger, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180"
+        },
+        {
+          "seite": "27180D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27180"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319710"
+    },
+    {
+      "id": "667278",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Einbürgerungen im Jahr 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27181",
+        "anfangsseite": 27181,
+        "endseite": 27181,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27181A",
+          "aktivitaetsart": "Frage",
+          "titel": "Gökay Akbulut, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27181"
+        },
+        {
+          "seite": "27181A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27181"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319712"
+    },
+    {
+      "id": "667279",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Mögliche Wiedereinreise von den am 30.08.2024 nach Afghanistan abgeschoben Männern",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27181",
+        "anfangsseite": 27181,
+        "endseite": 27181,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27181C",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Seitz, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27181"
+        },
+        {
+          "seite": "27181C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27181"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319713"
+    },
+    {
+      "id": "667280",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Ungleichbehandlung von Fachkräftezuwanderern und Zuwanderern mit anderen Aufenthaltstiteln bzgl. des Familiennachzugs",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27181",
+        "anfangsseite": 27181,
+        "endseite": 27182,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27181C",
+          "aktivitaetsart": "Frage",
+          "titel": "Clara Bünger, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27181"
+        },
+        {
+          "seite": "27181D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27181"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319714"
+    },
+    {
+      "id": "667281",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Position der Bundesregierung zum Regierungswechsel in Syrien",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27182",
+        "anfangsseite": 27182,
+        "endseite": 27182,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27182B",
+          "aktivitaetsart": "Frage",
+          "titel": "Tobias Matthias Peterka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27182"
+        },
+        {
+          "seite": "27182C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27182"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319715"
+    },
+    {
+      "id": "667282",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Schutz von belarussischen Staatsbürgern vor politischer Verfolgung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27182",
+        "anfangsseite": 27182,
+        "endseite": 27182,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27182D",
+          "aktivitaetsart": "Frage",
+          "titel": "Jürgen Hardt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27182"
+        },
+        {
+          "seite": "27182D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27182"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319716"
+    },
+    {
+      "id": "667283",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Ausstieg der USA aus dem Pariser Klimaschutz-Abkommen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183",
+        "anfangsseite": 27183,
+        "endseite": 27183,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27183A",
+          "aktivitaetsart": "Frage",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183"
+        },
+        {
+          "seite": "27183A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319717"
+    },
+    {
+      "id": "667284",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Internationaler Haftbefehl gegen Taliban-Chef Haibatullah Achundsada und den Obersten Richter Abdul Hakim Hakkani wegen der Verfolgung von Frauen\r\n",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183",
+        "anfangsseite": 27183,
+        "endseite": 27183,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27183B",
+          "aktivitaetsart": "Frage",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183"
+        },
+        {
+          "seite": "27183B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319718"
+    },
+    {
+      "id": "667285",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Kontaktaufnahme der tschechischen Regierung mit dem Auswärtigen Amt bzgl. der in Dresden blockierten Bundeswasserstraße Elbe",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183",
+        "anfangsseite": 27183,
+        "endseite": 27183,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27183C",
+          "aktivitaetsart": "Frage",
+          "titel": "Lars Rohwer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183"
+        },
+        {
+          "seite": "27183C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319719"
+    },
+    {
+      "id": "667286",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bemühungen der Bundesregierung um die Freilassung eines in Kuba inhaftierten Deutschen mit doppelter Staatsbürgerschaft",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183",
+        "anfangsseite": 27183,
+        "endseite": 27183,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27183C",
+          "aktivitaetsart": "Frage",
+          "titel": "Lars Rohwer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183"
+        },
+        {
+          "seite": "27183D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319720"
+    },
+    {
+      "id": "667287",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Urteil des EuGH zur Kennzeichnungspflicht von Produkten aus der Westsahara",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183",
+        "anfangsseite": 27183,
+        "endseite": 27184,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27183D",
+          "aktivitaetsart": "Frage",
+          "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27183"
+        },
+        {
+          "seite": "27184A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319721"
+    },
+    {
+      "id": "667288",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Pläne von US-Präsident Donald Trump bzgl. der in Europa stationierten Soldaten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184",
+        "anfangsseite": 27184,
+        "endseite": 27184,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27184A",
+          "aktivitaetsart": "Frage",
+          "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        },
+        {
+          "seite": "27184B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319722"
+    },
+    {
+      "id": "667289",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Mögliche Entsendung europäischer Friedenstruppen in die Ukraine",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184",
+        "anfangsseite": 27184,
+        "endseite": 27184,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27184B",
+          "aktivitaetsart": "Frage",
+          "titel": "Andrej Hunko, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        },
+        {
+          "seite": "27184B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319723"
+    },
+    {
+      "id": "667290",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bürokratiekosten der Wirtschaft im Jahr 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184",
+        "anfangsseite": 27184,
+        "endseite": 27184,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27184C",
+          "aktivitaetsart": "Frage",
+          "titel": "Matthias Hauer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        },
+        {
+          "seite": "27184C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium der Justiz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319724"
+    },
+    {
+      "id": "667291",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Umsetzung des Entwurfs eines Sechsten Gesetzes zur Verbesserung rehabilitierungsrechtlicher Vorschriften für Opfer der politischen Verfolgung in der ehemaligen DDR",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184",
+        "anfangsseite": 27184,
+        "endseite": 27184,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27184C",
+          "aktivitaetsart": "Frage",
+          "titel": "Carsten Müller (Braunschweig), MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        },
+        {
+          "seite": "27184C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium der Justiz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319725"
+    },
+    {
+      "id": "667292",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Entlastung des Ehrenamts von Bürokratie und Haftungsrisiken",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184",
+        "anfangsseite": 27184,
+        "endseite": 27185,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27184D",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Martin Plum, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        },
+        {
+          "seite": "27184D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium der Justiz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27184"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319726"
+    },
+    {
+      "id": "667293",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Maßnahmen im Rahmen der Entscheidungen und Beschlüsse der 5. Konferenz der Justizminister in Berlin",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27185",
+        "anfangsseite": 27185,
+        "endseite": 27186,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27185C",
+          "aktivitaetsart": "Frage",
+          "titel": "Tobias Matthias Peterka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27185"
+        },
+        {
+          "seite": "27185C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium der Justiz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27185"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319727"
+    },
+    {
+      "id": "667294",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Unterstützung von Alleinerziehenden im Bereich der haushaltsnahen Dienstleistungen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27186",
+        "anfangsseite": 27186,
+        "endseite": 27186,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27186A",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Hermann-Josef Tebroke, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27186"
+        },
+        {
+          "seite": "27186A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Kerstin Griese, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27186"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319728"
+    },
+    {
+      "id": "667295",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Positiv beschiedene Anträge im Rahmen des Bildungs- und Teilhabepakets in den letzten drei Jahren",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27186",
+        "anfangsseite": 27186,
+        "endseite": 27186,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27186B",
+          "aktivitaetsart": "Frage",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27186"
+        },
+        {
+          "seite": "27186B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Kerstin Griese, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27186"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319729"
+    },
+    {
+      "id": "667296",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verjährung von Forderungen der Jobcentern gegenüber Leistungsempfängern in den Jahren 2014 bis 2024 und zum Jahreswechsel 2025",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27186",
+        "anfangsseite": 27186,
+        "endseite": 27187,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27186D",
+          "aktivitaetsart": "Frage",
+          "titel": "Jens Teutrine, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27186"
+        },
+        {
+          "seite": "27186D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Kerstin Griese, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27186"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319730"
+    },
+    {
+      "id": "667297",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Zeitrahmen für das Beschaffungsvorhaben Artillerie-Radhaubitze RCH 155",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27187",
+        "anfangsseite": 27187,
+        "endseite": 27187,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27187C",
+          "aktivitaetsart": "Frage",
+          "titel": "Ingo Gädechens, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27187"
+        },
+        {
+          "seite": "27187D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27187"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319731"
+    },
+    {
+      "id": "667298",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verlängerung des Betreibervertrags für die Unterstützungsleistung Betrieb und Betreuung des Gefechtsübungszentrums des Heeres",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27187",
+        "anfangsseite": 27187,
+        "endseite": 27188,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27187D",
+          "aktivitaetsart": "Frage",
+          "titel": "Ingo Gädechens, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27187"
+        },
+        {
+          "seite": "27188A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27188"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319732"
+    },
+    {
+      "id": "667299",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Stand des Bürokratieabbaus in der Landwirtschaft",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27188",
+        "anfangsseite": 27188,
+        "endseite": 27188,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27188A",
+          "aktivitaetsart": "Frage",
+          "titel": "Ina Latendorf, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27188"
+        },
+        {
+          "seite": "27188A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Ophelia Nick, Parl. Staatssekr., Bundesministerium für Ernährung und Landwirtschaft",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27188"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319733"
+    },
+    {
+      "id": "667300",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Honorierung von Gemeinwohlleistungen der Landwirtschaft in den Bereichen Klima-, Umwelt-, Naturschutz und Tierwohl",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27188",
+        "anfangsseite": 27188,
+        "endseite": 27188,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27188C",
+          "aktivitaetsart": "Frage",
+          "titel": "Ina Latendorf, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27188"
+        },
+        {
+          "seite": "27188C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Ophelia Nick, Parl. Staatssekr., Bundesministerium für Ernährung und Landwirtschaft",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27188"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319734"
+    },
+    {
+      "id": "667562",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Antisemitismus und Israelfeindlichkeit an Schulen und Hochschulen entschlossen entgegentreten sowie den freien Diskursraum sichern",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 23,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27121",
+        "anfangsseite": 27121,
+        "endseite": 27131,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/14703",
+          "seite": "27131C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27121B",
+          "aktivitaetsart": "Rede",
+          "titel": "Kai Gehring, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27121"
+        },
+        {
+          "seite": "27122D",
+          "aktivitaetsart": "Rede",
+          "titel": "Daniela Ludwig, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27122"
+        },
+        {
+          "seite": "27123C",
+          "aktivitaetsart": "Rede",
+          "titel": "Maja Wallstein, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27123"
+        },
+        {
+          "seite": "27124B",
+          "aktivitaetsart": "Rede",
+          "titel": "Ria Schröder, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27124"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319788"
+    },
+    {
+      "id": "667569",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "S. 27153A - Geschäftsordnungsantrag der Fraktion der AfD auf Feststellung der Beschlussfähigkeit\r\nS. 27153B - Geschäftsordnungsantrag der Fraktion der FDP auf Namentliche Abstimmung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Keine Blockade parlamentarischer Mehrheitsfindung über Ukraine-Hilfen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-10-05T15:28:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27145",
+        "anfangsseite": 27145,
+        "endseite": 27153,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Feststellung der Beschlussunfähigkeit",
+          "abstimm_ergebnis_bemerkung": "320 abgegebene Stimmen; Aufhebung der Sitzung",
+          "seite": "27153D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27145A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Marcus Faber, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27145"
+        },
+        {
+          "seite": "27145C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nils Schmid, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27145"
+        },
+        {
+          "seite": "27146B",
+          "aktivitaetsart": "Rede",
+          "titel": "Ingo Gädechens, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27146"
+        },
+        {
+          "seite": "27147C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sven-Christian Kindler, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27147"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319803"
+    },
+    {
+      "id": "667197",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27167",
+        "anfangsseite": 27167,
+        "endseite": 27171,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27167C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Aniko Glogowski-Merten, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27167"
+        },
+        {
+          "seite": "27168B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Philipp Hartewig, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27168"
+        },
+        {
+          "seite": "27169A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Gyde Jensen, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27169"
+        },
+        {
+          "seite": "27169D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Ulrich Lechte, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27169"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319782"
+    },
+    {
+      "id": "667199",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319782"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27171",
+        "anfangsseite": 27171,
+        "endseite": 27172,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27171C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27171"
+        },
+        {
+          "seite": "27172B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Thomas Rachel, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27172"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319783"
+    },
+    {
+      "id": "667565",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Große Anfrage",
+      "titel": "Heimatpolitik der Bundesregierung - Pläne zur Herstellung gleichwertiger Lebensverhältnisse",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27139",
+        "anfangsseite": 27139,
+        "endseite": 27144,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27139C",
+          "aktivitaetsart": "Rede",
+          "titel": "Henning Otte, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27139"
+        },
+        {
+          "seite": "27140C",
+          "aktivitaetsart": "Rede",
+          "titel": "Tim Wagner, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27140"
+        },
+        {
+          "seite": "27141B",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27141"
+        },
+        {
+          "seite": "27142D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Silke Launert, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27142"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "313973"
+    },
+    {
+      "id": "667198",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319783"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27171",
+        "anfangsseite": 27171,
+        "endseite": 27172,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27171C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27171"
+        },
+        {
+          "seite": "27172B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Thomas Rachel, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27172"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319782"
+    },
+    {
+      "id": "667200",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27172",
+        "anfangsseite": 27172,
+        "endseite": 27172,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27172D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Antje Tillmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27172"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319783"
+    },
+    {
+      "id": "667563",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Opfer von NS-\"Euthanasie\" und Zwangssterilisation - Aufarbeitung intensivieren",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27131",
+        "anfangsseite": 27131,
+        "endseite": 27139,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/11945",
+          "seite": "27139B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27131D",
+          "aktivitaetsart": "Rede",
+          "titel": "Erhard Grundl, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27131"
+        },
+        {
+          "seite": "27132D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dorothee Bär, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27132"
+        },
+        {
+          "seite": "27133C",
+          "aktivitaetsart": "Rede",
+          "titel": "Marianne Schieder, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27133"
+        },
+        {
+          "seite": "27135A",
+          "aktivitaetsart": "Rede",
+          "titel": "Thomas Hacker, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27135"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "313341"
+    },
+    {
+      "id": "667195",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Antrag zur Geschäftsordnung",
+          "vorgangstyp": "Anmerkung zur Plenarsitzung",
+          "titel": "Geschäftsordnungsantrag der Fraktionen SPD und B90/GR auf Unterbrechung der Bundestagssitzung nach Annahme eines Entschließungsantrags zur Regierungserklärung des Bundeskanzlers zu aktuellen innenpolitischen Themen (BT-Drs 20/14698)",
+          "id": "319853"
+        },
+        {
+          "vorgangsposition": "Regierungserklärung und Aussprache",
+          "vorgangstyp": "Regierungserklärung",
+          "titel": "Regierungserklärung zu aktuellen innenpolitischen Themen",
+          "id": "319851"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319783"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081",
+        "anfangsseite": 27081,
+        "endseite": 27085,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27081B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Rolf Mützenich, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081"
+        },
+        {
+          "seite": "27081D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081"
+        },
+        {
+          "seite": "27082D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27082"
+        },
+        {
+          "seite": "27083D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Judith Skudelny, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27083"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319782"
+    },
+    {
+      "id": "667196",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Antrag zur Geschäftsordnung",
+          "vorgangstyp": "Anmerkung zur Plenarsitzung",
+          "titel": "Geschäftsordnungsantrag der Fraktionen SPD und B90/GR auf Unterbrechung der Bundestagssitzung nach Annahme eines Entschließungsantrags zur Regierungserklärung des Bundeskanzlers zu aktuellen innenpolitischen Themen (BT-Drs 20/14698)",
+          "id": "319853"
+        },
+        {
+          "vorgangsposition": "Regierungserklärung und Aussprache",
+          "vorgangstyp": "Regierungserklärung",
+          "titel": "Regierungserklärung zu aktuellen innenpolitischen Themen",
+          "id": "319851"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur Regierungserklärung durch den Bundeskanzler zu aktuellen innenpolitischen Themen",
+          "id": "319782"
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081",
+        "anfangsseite": 27081,
+        "endseite": 27085,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27081B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Rolf Mützenich, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081"
+        },
+        {
+          "seite": "27081D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27081"
+        },
+        {
+          "seite": "27082D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27082"
+        },
+        {
+          "seite": "27083D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Judith Skudelny, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27083"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "319783"
+    },
+    {
+      "id": "667213",
+      "vorgangsposition": "Zurückverweisung an die Ausschüsse in 2./3. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP auf Zurückverweisung an die Ausschüsse",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2025 (ERP-Wirtschaftsplangesetz 2025 - ERPWiPlanG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-29T10:20:23+02:00",
+      "ueberweisung": [
+        {
+          "ueberweisungsart": "Zurückverweisung",
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5695",
+        "dokumentnummer": "20/209",
+        "datum": "2025-01-29",
+        "verteildatum": "2025-01-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20209.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20209.pdf#P.27032",
+        "anfangsseite": 27032,
+        "endseite": 27032,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Zurückverweisung",
+          "dokumentnummer": "20/12786",
+          "seite": "27032B"
+        }
+      ],
+      "datum": "2025-01-29",
+      "vorgang_id": "314907"
+    }
+  ]
+}
