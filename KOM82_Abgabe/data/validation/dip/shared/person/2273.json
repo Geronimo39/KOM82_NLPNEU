@@ -1,0 +1,43 @@
+{
+  "id": "2273",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "CDU/CSU"
+  ],
+  "nachname": "Schön",
+  "vorname": "Nadine",
+  "typ": "Person",
+  "wahlperiode": [
+    17,
+    18,
+    19,
+    20
+  ],
+  "aktualisiert": "2022-07-26T19:57:10+02:00",
+  "person_roles": [
+    {
+      "fraktion": "CDU/CSU",
+      "nachname": "Schön",
+      "vorname": "Nadine",
+      "wahlkreiszusatz": "St. Wendel",
+      "wahlperiode_nummer": [
+        17,
+        18
+      ]
+    },
+    {
+      "fraktion": "CDU/CSU",
+      "nachname": "Müller",
+      "vorname": "Nadine",
+      "wahlkreiszusatz": "St. Wendel",
+      "wahlperiode_nummer": [
+        17
+      ]
+    }
+  ],
+  "titel": "Nadine Schön, MdB, CDU/CSU",
+  "datum": "2025-01-29",
+  "basisdatum": "2010-01-28"
+}

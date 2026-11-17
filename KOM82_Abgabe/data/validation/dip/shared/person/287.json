@@ -1,0 +1,55 @@
+{
+  "id": "287",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "CDU/CSU"
+  ],
+  "nachname": "Meister",
+  "vorname": "Michael",
+  "typ": "Person",
+  "wahlperiode": [
+    13,
+    14,
+    15,
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "aktualisiert": "2026-08-28T10:11:18+02:00",
+  "person_roles": [
+    {
+      "ressort_titel": "Bundeskanzleramt",
+      "nachname": "Meister",
+      "vorname": "Michael",
+      "wahlperiode_nummer": [
+        21
+      ]
+    },
+    {
+      "ressort_titel": "Bundesministerium für Bildung und Forschung",
+      "nachname": "Meister",
+      "vorname": "Michael",
+      "wahlperiode_nummer": [
+        19,
+        20
+      ]
+    },
+    {
+      "ressort_titel": "Bundesministerium der Finanzen",
+      "nachname": "Meister",
+      "vorname": "Michael",
+      "wahlperiode_nummer": [
+        18,
+        19
+      ]
+    }
+  ],
+  "titel": "Dr. Michael Meister, MdB, CDU/CSU",
+  "datum": "2026-10-08",
+  "basisdatum": "1995-01-25"
+}

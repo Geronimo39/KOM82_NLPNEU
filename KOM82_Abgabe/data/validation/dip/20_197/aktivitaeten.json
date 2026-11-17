@@ -1,0 +1,3047 @@
+{
+  "numFound": 65,
+  "documents": [
+    {
+      "id": "1697009",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8127",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T10:56:16+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Ansprache",
+          "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+          "titel": "Begrüßung des Präsidenten der Deutsch-Israelischen Gesellschaft, Volker Beck",
+          "id": "317269"
+        },
+        {
+          "vorgangsposition": "Ansprache",
+          "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+          "titel": "Begrüßung des Geschäftsführers des Zentralrates der Juden in Deutschland, Daniel Botmann",
+          "id": "317270"
+        },
+        {
+          "vorgangsposition": "Ansprache",
+          "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+          "titel": "Begrüßung des ehemaligen Präsidenten des Deutschen Bundestages, Prof. Dr. Norbert Lammert",
+          "id": "317271"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25712D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25712",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25712,
+        "endseite": 25712,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "titel": "Bärbel Bas, Bundestagspräs.",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1697008",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "1601",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:56:40+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25765C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25765",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Nina Scheer, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1697007",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7734",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25765A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25765",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nadine Ruf, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1697006",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7379",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T11:22:47+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25764A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25764",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Boris Mijatović, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1697005",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7343",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-28T16:08:08+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25763B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25763",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Takis Mehmet Ali, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1697004",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7365",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:17:08+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25762D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25762",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Helge Limburg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1697003",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7335",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T15:42:13+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25762C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25762",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Annika Klose, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1697002",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7528",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T14:39:52+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25761C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25761",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Michael Kellner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1697001",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7258",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:51:55+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25760B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25760",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Hakan Demir, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1697000",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "8107",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-21T11:14:54+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25759C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25759",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Isabel Cademartori Dujisin, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696999",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "2081",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25758C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25758",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Leni Breymaier, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696998",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "2062",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25758B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25758",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696997",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7491",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25757C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25757",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Ye-One Rhie, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696996",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7456",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25757C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25757",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Lena Werner, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696995",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7425",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:00:39+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25756D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25756",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Ralf Stegner, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696994",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "8149",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:30:44+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25756D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25756",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Anette Kramme, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696993",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7242",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25756D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25756",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bengt Bergt, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696992",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7626",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25755D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25755",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Tobias B. Bacherle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696991",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "1081",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25755D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25755",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Tabea Rößner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696990",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7265",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T14:07:54+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25755D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25755",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Deborah Düring, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696989",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7595",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25755D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25755",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Michael Sacher, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696988",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7573",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:13:59+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25755D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25755",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Kassem Taher Saleh, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696987",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "2272",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25755D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25755",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Erhard Grundl, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696986",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7422",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25755D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25755",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Merle Spellerberg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696985",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7736",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-19T11:15:23+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25754C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25754",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696984",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "2039",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:36:33+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25753D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25753",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sören Pellmann, MdB, Die Linke (Gruppe)",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696983",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7490",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-15T11:46:03+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25753D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25753",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Heidi Reichinnek, MdB, Die Linke (Gruppe)",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696982",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7258",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:51:55+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25732B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25732",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Hakan Demir, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696981",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "2078",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25731A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25731",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "titel": "Jürgen Braun, MdB, AfD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696980",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "5812",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:04:58+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25730B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25730",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Armin Laschet, MdB, CDU/CSU",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696979",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1078",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T14:11:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25729B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25729",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Oliver Kaczmarek, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696978",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7736",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-19T11:15:23+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25729A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25729",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696977",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8144",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:19:14+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25728B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25728",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Nils Schmid, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696976",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8254",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-30T18:12:01+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25727B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25727",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gitta Connemann, MdB, CDU/CSU",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696975",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "7408",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T17:19:00+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25727A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25727",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Marlene Schönberger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696974",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "7321",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T14:38:04+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25726D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25726",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Malte Kaufmann, MdB, AfD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696973",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7408",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T17:19:00+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25725D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25725",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Marlene Schönberger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696972",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "33",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-02-28T13:40:06+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25724D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25724",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Gregor Gysi, MdB, Die Linke (Gruppe)",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696971",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1974",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:17:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25724A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25724",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Helge Lindh, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696970",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8138",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:03:15+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25723A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25723",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Daniela Ludwig, MdB, CDU/CSU",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696969",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2161",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25721D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25721",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Linda Teuteberg, MdB, FDP",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696968",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7316",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T14:12:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25720D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25720",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Lamya Kaddor, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696967",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2151",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:11:02+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25719C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25719",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Beatrix von Storch, MdB, AfD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696965",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7340",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25718D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25718",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Simona Koß, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696963",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7252",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-06-03T14:21:59+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25717C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25717",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Michael Breilmann, MdB, CDU/CSU",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696962",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2264",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25716B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25716",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Konstantin Kuhle, MdB, FDP",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696961",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2078",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25715B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25715",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jürgen Braun, MdB, AfD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696960",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1191",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:18:17+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25714B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25714",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696959",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8171",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-19T11:11:36+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25713A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25713",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Andrea Lindholz, MdB, CDU/CSU",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696958",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1792",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:40:49+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+          "id": "317188"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25711D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25711",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dirk Wiese, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696955",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7265",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T14:07:54+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25750B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25750",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Deborah Düring, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696954",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7609",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25749D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25749",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Robert Farle, MdB, fraktionslos",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696953",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1648",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25748D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25748",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bernd Westphal, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696952",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7608",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:53:03+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25747D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25747",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Catarina dos Santos-Wintz, MdB, CDU/CSU",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696951",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2254",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-06T17:22:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25746D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25746",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Lukas Köhler, MdB, FDP",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696950",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "33",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-02-28T13:40:06+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25746A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25746",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Gregor Gysi, MdB, Die Linke (Gruppe)",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696949",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1722",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:37:15+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25745A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25745",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Agnieszka Brugger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696948",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "124",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:43:11+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25744A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25744",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Thomas Silberhorn, MdB, CDU/CSU",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696947",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1526",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25743A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25743",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Michelle Müntefering, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696946",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2278",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T17:48:43+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25741D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25741",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Michael Georg Link (Heilbronn), MdB, FDP",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696945",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7381",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T11:36:24+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25740C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25740",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Matthias Moosdorf, MdB, AfD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696944",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1502",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:21:13+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25738D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25738",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Annalena Baerbock, Bundesmin., Auswärtiges Amt",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696941",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1055",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:59:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25737C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25737",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jürgen Hardt, MdB, CDU/CSU",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696940",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7425",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:00:39+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25735D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25735",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Ralf Stegner, MdB, SPD",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "1696939",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7744",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-06T17:23:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+          "id": "317264"
+        }
+      ],
+      "fundstelle": {
+        "seite": "25734C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25734",
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Sahra Wagenknecht, MdB, BSW (Gruppe)",
+      "datum": "2024-11-07"
+    }
+  ]
+}

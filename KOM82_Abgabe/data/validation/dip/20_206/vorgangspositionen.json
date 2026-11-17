@@ -1,0 +1,3051 @@
+{
+  "numFound": 59,
+  "documents": [
+    {
+      "id": "665490",
+      "vorgangsposition": "Einleitende Ausführungen und Befragung der Bundesregierung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Befragung der Bundesregierung",
+      "titel": "Einleitende Ausführungen und Befragung des Bundesministers für Verteidigung, Boris Pistorius, sowie der Bundesministerin für Wohnen, Stadtentwicklung und Bauwesen, Klara Geywitz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 48,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26557",
+        "anfangsseite": 26557,
+        "endseite": 26581,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26557C",
+          "aktivitaetsart": "Einleitende Ausführungen und Beantwortung",
+          "titel": "Boris Pistorius, Bundesmin., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26557"
+        },
+        {
+          "seite": "26558B",
+          "aktivitaetsart": "Einleitende Ausführungen und Beantwortung",
+          "titel": "Klara Geywitz, Bundesmin., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26558"
+        },
+        {
+          "seite": "26559B",
+          "aktivitaetsart": "Frage",
+          "titel": "Florian Hahn, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26559"
+        },
+        {
+          "seite": "26559D",
+          "aktivitaetsart": "Frage",
+          "titel": "Sara Nanni, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26559"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318844"
+    },
+    {
+      "id": "665492",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Aktuelle Stunde zur Lage in Syrien",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 16,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26592",
+        "anfangsseite": 26592,
+        "endseite": 26610,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26592D",
+          "aktivitaetsart": "Rede",
+          "titel": "Annalena Baerbock, Bundesmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26592"
+        },
+        {
+          "seite": "26594C",
+          "aktivitaetsart": "Rede",
+          "titel": "Jürgen Hardt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26594"
+        },
+        {
+          "seite": "26595D",
+          "aktivitaetsart": "Rede",
+          "titel": "Svenja Schulze, Bundesmin., Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26595"
+        },
+        {
+          "seite": "26596C",
+          "aktivitaetsart": "Rede",
+          "titel": "Konstantin Kuhle, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26596"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318845"
+    },
+    {
+      "id": "665548",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Takis Mehmet Ali (SPD) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26625",
+        "anfangsseite": 26625,
+        "endseite": 26625,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26625C",
+          "aktivitaetsart": "Rede",
+          "titel": "Aydan Özoguz, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26625"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318853"
+    },
+    {
+      "id": "665561",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Dr. Wolfgang Strengmann-Kuhn (B90/GR) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26632",
+        "anfangsseite": 26632,
+        "endseite": 26632,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26632B",
+          "aktivitaetsart": "Rede",
+          "titel": "Aydan Özoguz, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26632"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318854"
+    },
+    {
+      "id": "665563",
+      "vorgangsposition": "Feststellung der Tagesordnung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Anmerkung zur Plenarsitzung",
+      "titel": "Feststellung der Tagesordnung der 206. bis 208. Sitzung des Deutschen Bundestages",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-05-21T17:47:02+02:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26539",
+        "anfangsseite": 26539,
+        "endseite": 26557,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Feststellung der Tagesordnung",
+          "seite": "26557B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26554C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26554"
+        },
+        {
+          "seite": "26555D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26555"
+        },
+        {
+          "seite": "26556D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26556"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318856"
+    },
+    {
+      "id": "665497",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Die Mittel aus dem Fonds für Spätaussiedler, jüdische Kontingentflüchtlinge und Härtefälle der Ost-West-Rentenüberleitung den Betroffenen zugutekommen lassen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gerechtigkeitsfonds statt Härtefallfonds - Ein Fonds für alle statt Almosen für wenige",
+          "id": "318278"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Rentenüberleitung abschließen - Einmalzahlungen über Fairnessfonds bereitstellen",
+          "id": "317210"
+        }
+      ],
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26619",
+        "anfangsseite": 26619,
+        "endseite": 26627,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13613",
+          "seite": "26627C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26619B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ottilie Klein, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26619"
+        },
+        {
+          "seite": "26620B",
+          "aktivitaetsart": "Rede",
+          "titel": "Rasha Nasr, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26620"
+        },
+        {
+          "seite": "26621D",
+          "aktivitaetsart": "Rede",
+          "titel": "Anja Schulz, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26621"
+        },
+        {
+          "seite": "26622B",
+          "aktivitaetsart": "Rede",
+          "titel": "Marlene Schönberger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26622"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "317205"
+    },
+    {
+      "id": "665498",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Gerechtigkeitsfonds statt Härtefallfonds - Ein Fonds für alle statt Almosen für wenige",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Die Mittel aus dem Fonds für Spätaussiedler, jüdische Kontingentflüchtlinge und Härtefälle der Ost-West-Rentenüberleitung den Betroffenen zugutekommen lassen",
+          "id": "317205"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Rentenüberleitung abschließen - Einmalzahlungen über Fairnessfonds bereitstellen",
+          "id": "317210"
+        }
+      ],
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26619",
+        "anfangsseite": 26619,
+        "endseite": 26627,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/14018",
+          "seite": "26627C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26619B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ottilie Klein, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26619"
+        },
+        {
+          "seite": "26620B",
+          "aktivitaetsart": "Rede",
+          "titel": "Rasha Nasr, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26620"
+        },
+        {
+          "seite": "26621D",
+          "aktivitaetsart": "Rede",
+          "titel": "Anja Schulz, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26621"
+        },
+        {
+          "seite": "26622B",
+          "aktivitaetsart": "Rede",
+          "titel": "Marlene Schönberger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26622"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318278"
+    },
+    {
+      "id": "665499",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Rentenüberleitung abschließen - Einmalzahlungen über Fairnessfonds bereitstellen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Die Mittel aus dem Fonds für Spätaussiedler, jüdische Kontingentflüchtlinge und Härtefälle der Ost-West-Rentenüberleitung den Betroffenen zugutekommen lassen",
+          "id": "317205"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gerechtigkeitsfonds statt Härtefallfonds - Ein Fonds für alle statt Almosen für wenige",
+          "id": "318278"
+        }
+      ],
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26619",
+        "anfangsseite": 26619,
+        "endseite": 26627,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/13620",
+          "seite": "26627C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26619B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ottilie Klein, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26619"
+        },
+        {
+          "seite": "26620B",
+          "aktivitaetsart": "Rede",
+          "titel": "Rasha Nasr, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26620"
+        },
+        {
+          "seite": "26621D",
+          "aktivitaetsart": "Rede",
+          "titel": "Anja Schulz, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26621"
+        },
+        {
+          "seite": "26622B",
+          "aktivitaetsart": "Rede",
+          "titel": "Marlene Schönberger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26622"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "317210"
+    },
+    {
+      "id": "665500",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Wirtschaftswende voranbringen und Mut zum Risiko wertschätzen - Selbstständigkeit stärken",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26627",
+        "anfangsseite": 26627,
+        "endseite": 26638,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/14260",
+          "seite": "26638B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26627D",
+          "aktivitaetsart": "Rede",
+          "titel": "Johannes Vogel, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26627"
+        },
+        {
+          "seite": "26628D",
+          "aktivitaetsart": "Rede",
+          "titel": "Angela Hohmann, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26628"
+        },
+        {
+          "seite": "26629C",
+          "aktivitaetsart": "Rede",
+          "titel": "Jana Schimke, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26629"
+        },
+        {
+          "seite": "26630C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Wolfgang Strengmann-Kuhn, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26630"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318729"
+    },
+    {
+      "id": "665501",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Chance nutzen - Solidaritätszuschlag abschaffen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Berufstätige Pendler sofort entlasten - Entfernungspauschalen für Kraftfahrzeuge ab dem ersten Kilometer auf 50 Cent erhöhen und an die Preisentwicklung anpassen",
+          "id": "305964"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Lohnabstandsgebot beachten - Arbeitnehmer und Mittelstand entlasten - Den steuerlichen Grundfreibetrag für 2024 auf 15.000 Euro und weitere Tarifeckwerte korrespondierend erhöhen",
+          "id": "318722"
+        }
+      ],
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26638",
+        "anfangsseite": 26638,
+        "endseite": 26649,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der AfD (Sofortabstimmung)",
+          "dokumentnummer": "20/14248",
+          "seite": "26648D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26638D",
+          "aktivitaetsart": "Rede",
+          "titel": "Kay Gottschalk, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26638"
+        },
+        {
+          "seite": "26640A",
+          "aktivitaetsart": "Rede",
+          "titel": "Parsa Marvi, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26640"
+        },
+        {
+          "seite": "26640D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Michael Meister, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26640"
+        },
+        {
+          "seite": "26642A",
+          "aktivitaetsart": "Rede",
+          "titel": "Katharina Beck, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26642"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318718"
+    },
+    {
+      "id": "665503",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Lohnabstandsgebot beachten - Arbeitnehmer und Mittelstand entlasten - Den steuerlichen Grundfreibetrag für 2024 auf 15.000 Euro und weitere Tarifeckwerte korrespondierend erhöhen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Chance nutzen - Solidaritätszuschlag abschaffen",
+          "id": "318718"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Berufstätige Pendler sofort entlasten - Entfernungspauschalen für Kraftfahrzeuge ab dem ersten Kilometer auf 50 Cent erhöhen und an die Preisentwicklung anpassen",
+          "id": "305964"
+        }
+      ],
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26638",
+        "anfangsseite": 26638,
+        "endseite": 26649,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der AfD (Sofortabstimmung)",
+          "dokumentnummer": "20/14249",
+          "seite": "26649A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26638D",
+          "aktivitaetsart": "Rede",
+          "titel": "Kay Gottschalk, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26638"
+        },
+        {
+          "seite": "26640A",
+          "aktivitaetsart": "Rede",
+          "titel": "Parsa Marvi, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26640"
+        },
+        {
+          "seite": "26640D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Michael Meister, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26640"
+        },
+        {
+          "seite": "26642A",
+          "aktivitaetsart": "Rede",
+          "titel": "Katharina Beck, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26642"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318722"
+    },
+    {
+      "id": "665512",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Dienstreisen der Bundesministerin Annalena Baerbock",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26582",
+        "anfangsseite": 26582,
+        "endseite": 26582,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26582A",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26582"
+        },
+        {
+          "seite": "26582A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26582"
+        },
+        {
+          "seite": "26582C",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Dr. Michael Kaufmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26582"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318655"
+    },
+    {
+      "id": "665513",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Ermittlungsverfahren gegen Mitarbeiter des Auswärtigen Amtes wegen des Verdachts der Rechtsbeugung im Zusammenhang mit der Visa-Vergabe an Afghanen trotz ungültiger Pässe",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26582",
+        "anfangsseite": 26582,
+        "endseite": 26583,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26582D",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26582"
+        },
+        {
+          "seite": "26583A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26583"
+        },
+        {
+          "seite": "26583C",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Thomas Seitz, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26583"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318656"
+    },
+    {
+      "id": "665514",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Nichtlieferung von Munition an Israel",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26583",
+        "anfangsseite": 26583,
+        "endseite": 26584,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26583C",
+          "aktivitaetsart": "Frage",
+          "titel": "Jürgen Hardt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26583"
+        },
+        {
+          "seite": "26583D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26583"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318657"
+    },
+    {
+      "id": "665515",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Sanktionen gegen Politiker der Partei Georgischer Traum",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26584",
+        "anfangsseite": 26584,
+        "endseite": 26584,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26584B",
+          "aktivitaetsart": "Frage",
+          "titel": "Jürgen Hardt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26584"
+        },
+        {
+          "seite": "26584B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26584"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318658"
+    },
+    {
+      "id": "665516",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Geschützte Räume für chinesische Menschenrechtsverteidiger",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26584",
+        "anfangsseite": 26584,
+        "endseite": 26585,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26584C",
+          "aktivitaetsart": "Frage",
+          "titel": "Nicolas Zippelius, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26584"
+        },
+        {
+          "seite": "26584C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26584"
+        },
+        {
+          "seite": "26585B",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Leon Eckert, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26585"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318659"
+    },
+    {
+      "id": "665517",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Humanitäre Hilfe in Gebieten der Selbstverwaltung von Nord- und Ostsyrien durch das Flüchtlingshilfswerk der Vereinten Nationen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26585",
+        "anfangsseite": 26585,
+        "endseite": 26586,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26585C",
+          "aktivitaetsart": "Frage",
+          "titel": "Gökay Akbulut, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26585"
+        },
+        {
+          "seite": "26585D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26585"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318660"
+    },
+    {
+      "id": "665518",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bedingungen humanitärer Hilfe für Syrien",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26586",
+        "anfangsseite": 26586,
+        "endseite": 26587,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26586C",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Erndl, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26586"
+        },
+        {
+          "seite": "26586C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26586"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318661"
+    },
+    {
+      "id": "665519",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Sanktionsregime gegen russische Söldnergruppen in Afrika",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26587",
+        "anfangsseite": 26587,
+        "endseite": 26587,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26587A",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Erndl, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26587"
+        },
+        {
+          "seite": "26587A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26587"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318662"
+    },
+    {
+      "id": "665520",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Einhaltung des Gebots der Staatsfreiheit der Presse beim Betrieb der Plattform Deutschland.de",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26587",
+        "anfangsseite": 26587,
+        "endseite": 26588,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26587C",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Martin Plum, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26587"
+        },
+        {
+          "seite": "26587D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26587"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318663"
+    },
+    {
+      "id": "665521",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Konsequenzen aus den Militäraktionen Israels gegen Syrien",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26588",
+        "anfangsseite": 26588,
+        "endseite": 26589,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26588B",
+          "aktivitaetsart": "Frage",
+          "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26588"
+        },
+        {
+          "seite": "26588B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26588"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318664"
+    },
+    {
+      "id": "665522",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Rüstungsexportpolitik gegenüber der Türkei angesichts des türkischen Agierens in Syrien und im Irak",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26589",
+        "anfangsseite": 26589,
+        "endseite": 26590,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26589A",
+          "aktivitaetsart": "Frage",
+          "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26589"
+        },
+        {
+          "seite": "26589B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Katja Keul, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26589"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318665"
+    },
+    {
+      "id": "665523",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Vorlage eines Entwurfs für ein erstes Jahres-Bürokratieentlastungsgesetz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26590",
+        "anfangsseite": 26590,
+        "endseite": 26591,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26590A",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Martin Plum, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26590"
+        },
+        {
+          "seite": "26590A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Johann Saathoff, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26590"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318666"
+    },
+    {
+      "id": "665524",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Sicherheitslage deutscher Soldaten im Nahen Osten nach dem Sturz der syrischen Regierung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26591",
+        "anfangsseite": 26591,
+        "endseite": 26591,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26591A",
+          "aktivitaetsart": "Frage",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26591"
+        },
+        {
+          "seite": "26591A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Siemtje Möller, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26591"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318667"
+    },
+    {
+      "id": "665525",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Änderung der Nutztierhaltungsverordnung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26592",
+        "anfangsseite": 26592,
+        "endseite": 26592,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26592A",
+          "aktivitaetsart": "Frage",
+          "titel": "Ina Latendorf, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26592"
+        },
+        {
+          "seite": "26592A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Ophelia Nick, Parl. Staatssekr., Bundesministerium für Ernährung und Landwirtschaft",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26592"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318673"
+    },
+    {
+      "id": "665526",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bindungsstand des Sondervermögens Bundeswehr zum Stichtag 13. Dezember 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26651",
+        "anfangsseite": 26651,
+        "endseite": 26651,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26651D",
+          "aktivitaetsart": "Frage",
+          "titel": "Karsten Klein, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26651"
+        },
+        {
+          "seite": "26651D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Siemtje Möller, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26651"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318668"
+    },
+    {
+      "id": "665527",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Vergabeverfahren zur Beschaffung von Rucksäcken für die Spezialkräfte der Bundeswehr und zu Optiken für das System Sturmgewehr Bundeswehr",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652",
+        "anfangsseite": 26652,
+        "endseite": 26652,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26652A",
+          "aktivitaetsart": "Frage",
+          "titel": "Ingo Gädechens, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652"
+        },
+        {
+          "seite": "26652A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Siemtje Möller, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318669"
+    },
+    {
+      "id": "665528",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Zeitpunkt der Nutzbarkeit des zu beschaffenden Mehrfachraketenwerfers PULS",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652",
+        "anfangsseite": 26652,
+        "endseite": 26652,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26652B",
+          "aktivitaetsart": "Frage",
+          "titel": "Ingo Gädechens, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652"
+        },
+        {
+          "seite": "26652B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Siemtje Möller, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318670"
+    },
+    {
+      "id": "665529",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Umsetzung der Tierversuchsreduktionsstrategie",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652",
+        "anfangsseite": 26652,
+        "endseite": 26652,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26652C",
+          "aktivitaetsart": "Frage",
+          "titel": "Ina Latendorf, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652"
+        },
+        {
+          "seite": "26652C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Ophelia Nick, Parl. Staatssekr., Bundesministerium für Ernährung und Landwirtschaft",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318674"
+    },
+    {
+      "id": "665530",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Einführung einer kontrollierten Abgabe von Cannabis an Erwachsene zu Genusszwecken in lizensierten Geschäften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652",
+        "anfangsseite": 26652,
+        "endseite": 26653,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26652D",
+          "aktivitaetsart": "Frage",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652"
+        },
+        {
+          "seite": "26652D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Prof. Dr. Edgar Franke, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26652"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318675"
+    },
+    {
+      "id": "665531",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Anpassungsbedarf beim Arzneimittelgesetz hinsichtlich der Erlaubnis zur Herstellung von als Prüfpräparate verwendeten Radiopharmaka",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26653",
+        "anfangsseite": 26653,
+        "endseite": 26653,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26653A",
+          "aktivitaetsart": "Frage",
+          "titel": "Lars Rohwer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26653"
+        },
+        {
+          "seite": "26653A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Prof. Dr. Edgar Franke, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26653"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318676"
+    },
+    {
+      "id": "665532",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verdachtsfälle einer Nebenwirkung bei einzelnen Chargen von COVID-19-Impfstoffen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26653",
+        "anfangsseite": 26653,
+        "endseite": 26653,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26653B",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Seitz, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26653"
+        },
+        {
+          "seite": "26653B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Prof. Dr. Edgar Franke, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26653"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318677"
+    },
+    {
+      "id": "665533",
+      "vorgangsposition": "Rücknahme",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Strategische Planung zur Personalstärke der Bundeswehr bis 2031",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26591",
+        "anfangsseite": 26591,
+        "endseite": 26591,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "datum": "2024-12-18",
+      "vorgang_id": "318671"
+    },
+    {
+      "id": "665535",
+      "vorgangsposition": "Nichtbeantwortung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verhandlungsstand zu einem EU-weiten Stopp der Ausweitung von Rebflächen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26592",
+        "anfangsseite": 26592,
+        "endseite": 26592,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-12-18",
+      "vorgang_id": "318672"
+    },
+    {
+      "id": "665539",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Meldungen zu rechtswidrigen Inhalten im Internet im Jahr 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654",
+        "anfangsseite": 26654,
+        "endseite": 26654,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26654A",
+          "aktivitaetsart": "Frage",
+          "titel": "Tobias Matthias Peterka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654"
+        },
+        {
+          "seite": "26654A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318719"
+    },
+    {
+      "id": "665540",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Sammlung von Meldungen über Treibstoffschnellablässe im internationalen Raum",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654",
+        "anfangsseite": 26654,
+        "endseite": 26654,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26654B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Thomas Gebhart, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654"
+        },
+        {
+          "seite": "26654B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318720"
+    },
+    {
+      "id": "665541",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Auflösung von Verkehrsverbünden seit Einführung des Deutschlandtickets",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654",
+        "anfangsseite": 26654,
+        "endseite": 26654,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26654C",
+          "aktivitaetsart": "Frage",
+          "titel": "Torsten Herbst, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654"
+        },
+        {
+          "seite": "26654C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318721"
+    },
+    {
+      "id": "665542",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bundesmittel aus dem Digitalpakt 2.0 für Neubewilligungen im Jahr 2025",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654",
+        "anfangsseite": 26654,
+        "endseite": 26655,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26654C",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Jarzombek, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654"
+        },
+        {
+          "seite": "26654D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Claudia Müller, Parl. Staatssekr., Bundesministerium für Bildung und Forschung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26654"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318723"
+    },
+    {
+      "id": "665543",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Abstimmung zur Unterbringung der Bundesstiftung Bauakademie",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26655",
+        "anfangsseite": 26655,
+        "endseite": 26655,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26655A",
+          "aktivitaetsart": "Frage",
+          "titel": "Lars Rohwer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26655"
+        },
+        {
+          "seite": "26655A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26655"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318724"
+    },
+    {
+      "id": "665544",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Rückgang der deutschen Wirtschaftsleistung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26655",
+        "anfangsseite": 26655,
+        "endseite": 26655,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26655A",
+          "aktivitaetsart": "Frage",
+          "titel": "Matthias Hauer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26655"
+        },
+        {
+          "seite": "26655B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26655"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318725"
+    },
+    {
+      "id": "665545",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Maßnahmen gegen die Wirtschaftskrise",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26655",
+        "anfangsseite": 26655,
+        "endseite": 26655,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26655D",
+          "aktivitaetsart": "Frage",
+          "titel": "Bernd Schattner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26655"
+        },
+        {
+          "seite": "26655D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26655"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318726"
+    },
+    {
+      "id": "665546",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Gesetzesvorhaben des BMWK bis zur vorgezogenen Bundestagswahl",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26656",
+        "anfangsseite": 26656,
+        "endseite": 26656,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26656A",
+          "aktivitaetsart": "Frage",
+          "titel": "Bernd Schattner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26656"
+        },
+        {
+          "seite": "26656A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26656"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318727"
+    },
+    {
+      "id": "665547",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Garantien für den Nichteinsatz aus Deutschland an die Türkei gelieferter Waffen in Syrien",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26656",
+        "anfangsseite": 26656,
+        "endseite": 26656,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26656C",
+          "aktivitaetsart": "Frage",
+          "titel": "Gökay Akbulut, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26656"
+        },
+        {
+          "seite": "26656C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26656"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318728"
+    },
+    {
+      "id": "665549",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Einnahmen aus dem nationalen und europäischen Emissionshandel seit 2021 und bis 2030",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26656",
+        "anfangsseite": 26656,
+        "endseite": 26657,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26656D",
+          "aktivitaetsart": "Frage",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26656"
+        },
+        {
+          "seite": "26656D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26656"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318730"
+    },
+    {
+      "id": "665550",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Vorstellung des mittelfristigen finanzpolitisch-strukturellen Plans",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657",
+        "anfangsseite": 26657,
+        "endseite": 26657,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26657B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Michael Meister, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657"
+        },
+        {
+          "seite": "26657B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sarah Ryglewski, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318731"
+    },
+    {
+      "id": "665551",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verlängerung der fiskalischen Anpassungsperiode für Staatsfinanzen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657",
+        "anfangsseite": 26657,
+        "endseite": 26657,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26657C",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Michael Meister, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657"
+        },
+        {
+          "seite": "26657C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sarah Ryglewski, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318732"
+    },
+    {
+      "id": "665552",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Evaluation der Sanktionsdurchsetzungsgesetze I und II",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657",
+        "anfangsseite": 26657,
+        "endseite": 26657,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26657C",
+          "aktivitaetsart": "Frage",
+          "titel": "Matthias Hauer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657"
+        },
+        {
+          "seite": "26657D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sarah Ryglewski, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318733"
+    },
+    {
+      "id": "665553",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Steuermehreinnahmen und Erfüllungsaufwand durch die Einführung der Bonpflicht",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657",
+        "anfangsseite": 26657,
+        "endseite": 26658,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26657D",
+          "aktivitaetsart": "Frage",
+          "titel": "Torsten Herbst, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657"
+        },
+        {
+          "seite": "26657D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sarah Ryglewski, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26657"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318734"
+    },
+    {
+      "id": "665554",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Verteilungspolitische Auswirkungen einer Senkung des Umsatzsteuersatzes für Lebensmittel",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26658",
+        "anfangsseite": 26658,
+        "endseite": 26658,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26658A",
+          "aktivitaetsart": "Frage",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26658"
+        },
+        {
+          "seite": "26658B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sarah Ryglewski, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26658"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318735"
+    },
+    {
+      "id": "665555",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Abschiebungen im Jahr 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26658",
+        "anfangsseite": 26658,
+        "endseite": 26658,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26658B",
+          "aktivitaetsart": "Frage",
+          "titel": "Tobias Matthias Peterka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26658"
+        },
+        {
+          "seite": "26658C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26658"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318736"
+    },
+    {
+      "id": "665556",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Mitglieder von rechtsextremistischen Burschenschaften mit waffenrechtlichen Erlaubnissen ",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26658",
+        "anfangsseite": 26658,
+        "endseite": 26659,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26658C",
+          "aktivitaetsart": "Frage",
+          "titel": "Martina Renner, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26658"
+        },
+        {
+          "seite": "26658C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26658"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318737"
+    },
+    {
+      "id": "665557",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Sicherstellung von Waffen und Munition bei Kontrollen des grenzüberschreitenden Verkehrs",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26659",
+        "anfangsseite": 26659,
+        "endseite": 26659,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26659A",
+          "aktivitaetsart": "Frage",
+          "titel": "Martina Renner, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26659"
+        },
+        {
+          "seite": "26659A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26659"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318738"
+    },
+    {
+      "id": "665558",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Reisen von syrischen Staatsangehörigen nach Syrien ohne Verlust des Flüchtlingsstatus",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26659",
+        "anfangsseite": 26659,
+        "endseite": 26659,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26659C",
+          "aktivitaetsart": "Frage",
+          "titel": "Clara Bünger, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26659"
+        },
+        {
+          "seite": "26659D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26659"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318741"
+    },
+    {
+      "id": "665559",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Mögliche Einflussnahme der Bundesregierung auf Bundesländer oder Ausländerbehörden bei Asylverfahren in Dublin-Fällen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26659",
+        "anfangsseite": 26659,
+        "endseite": 26660,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26659D",
+          "aktivitaetsart": "Frage",
+          "titel": "Clara Bünger, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26659"
+        },
+        {
+          "seite": "26660A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26660"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "318742"
+    },
+    {
+      "id": "665502",
+      "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP auf Zurückverweisung an die Ausschüsse",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Berufstätige Pendler sofort entlasten - Entfernungspauschalen für Kraftfahrzeuge ab dem ersten Kilometer auf 50 Cent erhöhen und an die Preisentwicklung anpassen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "ueberweisung": [
+        {
+          "ueberweisungsart": "Zurückverweisung",
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": true
+        },
+        {
+          "ueberweisungsart": "Zurückverweisung",
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ueberweisungsart": "Zurückverweisung",
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Chance nutzen - Solidaritätszuschlag abschaffen",
+          "id": "318718"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Lohnabstandsgebot beachten - Arbeitnehmer und Mittelstand entlasten - Den steuerlichen Grundfreibetrag für 2024 auf 15.000 Euro und weitere Tarifeckwerte korrespondierend erhöhen",
+          "id": "318722"
+        }
+      ],
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26638",
+        "anfangsseite": 26638,
+        "endseite": 26649,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Zurückverweisung",
+          "dokumentnummer": "20/9318, 20/9765",
+          "seite": "26649A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26638D",
+          "aktivitaetsart": "Rede",
+          "titel": "Kay Gottschalk, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26638"
+        },
+        {
+          "seite": "26640A",
+          "aktivitaetsart": "Rede",
+          "titel": "Parsa Marvi, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26640"
+        },
+        {
+          "seite": "26640D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Michael Meister, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26640"
+        },
+        {
+          "seite": "26642A",
+          "aktivitaetsart": "Rede",
+          "titel": "Katharina Beck, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26642"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "305964"
+    },
+    {
+      "id": "665494",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Digitalisierung des Finanzmarktes (Finanzmarktdigitalisierungsgesetz - FinmadiG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26610",
+        "anfangsseite": 26610,
+        "endseite": 26618,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10280, 20/11178",
+          "seite": "26618D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26611A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lennard Oehl, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26611"
+        },
+        {
+          "seite": "26612A",
+          "aktivitaetsart": "Rede",
+          "titel": "Johannes Steiniger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26612"
+        },
+        {
+          "seite": "26613C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sabine Grützmacher, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26613"
+        },
+        {
+          "seite": "26614D",
+          "aktivitaetsart": "Rede",
+          "titel": "Maximilian Mordhorst, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26614"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "307253"
+    },
+    {
+      "id": "665565",
+      "vorgangsposition": "Änderung der Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Erteilung der Zustimmung nach § 7 Absatz 2 in Verbindung mit Absatz 1 des Integrationsverantwortungsgesetzes zu dem Antrag der Europäischen Investitionsbank zur Änderung von Artikel 16 Absatz 5 ihrer Satzung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-07-18T14:42:26+02:00",
+      "ueberweisung": [
+        {
+          "ueberweisungsart": "nachträgliche Überweisung",
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26554",
+        "anfangsseite": 26554,
+        "endseite": 26554,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Änderung des Überweisungsbeschlusses",
+          "dokumentnummer": "20/13949",
+          "seite": "26557B"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "317511"
+    },
+    {
+      "id": "665495",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Digitalisierung des Finanzmarktes (Finanzmarktdigitalisierungsgesetz - FinmadiG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26619",
+        "anfangsseite": 26619,
+        "endseite": 26619,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10280, 20/11178",
+          "seite": "26619A"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "307253"
+    },
+    {
+      "id": "665505",
+      "vorgangsposition": "Zurückverweisung an die Ausschüsse in 2./3. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD und B90/GR auf Zurückverweisung an den Ausschuss",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über Maßnahmen zur Förderung des deutschen Films (Filmförderungsgesetz - FFG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-21T14:42:38+01:00",
+      "ueberweisung": [
+        {
+          "ueberweisungsart": "Zurückverweisung",
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5691",
+        "dokumentnummer": "20/206",
+        "datum": "2024-12-18",
+        "verteildatum": "2024-12-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20206.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20206.pdf#P.26557",
+        "anfangsseite": 26557,
+        "endseite": 26557,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Zurückverweisung",
+          "dokumentnummer": "20/12660, 20/13107",
+          "seite": "26557C"
+        }
+      ],
+      "datum": "2024-12-18",
+      "vorgang_id": "312309"
+    }
+  ]
+}

@@ -1,0 +1,2425 @@
+{
+  "numFound": 45,
+  "documents": [
+    {
+      "id": "652433",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Fertigung und Arbeitsplätze in Ostdeutschland erhalten, Energiewende voranbringen - Abhängigkeit von China bei Solarmodulen verhindern",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21127",
+        "anfangsseite": 21127,
+        "endseite": 21145,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21127C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sören Pellmann, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21127"
+        },
+        {
+          "seite": "21128D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21128"
+        },
+        {
+          "seite": "21129D",
+          "aktivitaetsart": "Rede",
+          "titel": "Mario Czaja, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21129"
+        },
+        {
+          "seite": "21131A",
+          "aktivitaetsart": "Rede",
+          "titel": "Katrin Uhlig, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21131"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "310955"
+    },
+    {
+      "id": "652495",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an die Abg Kordula Schulz-Asche (B90/GR)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21103",
+        "anfangsseite": 21103,
+        "endseite": 21103,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21103A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Aydan Özoguz, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21103"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "310993"
+    },
+    {
+      "id": "652414",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Historische Verantwortung wahrnehmen - Jüdisches Leben in Deutschland schützen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "ausschuss_kuerzel": "AfMenschenr",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "ausschuss_kuerzel": "AWZ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verteidigungsausschuss",
+          "ausschuss_kuerzel": "VgA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Strafgesetzbuches zur Bekämpfung von Antisemitismus, Terror, Hass und Hetze",
+          "id": "305901"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beendigung des Aufenthalts und Verhinderung der Einbürgerung antisemitischer Ausländer",
+          "id": "305903"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Antisemitismus an Schulen, Hochschulen und Wissenschaftseinrichtungen mit aller Kraft bekämpfen",
+          "id": "310769"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21055",
+        "anfangsseite": 21055,
+        "endseite": 21073,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der CDU/CSU (Sofortabstimmung)",
+          "dokumentnummer": "20/10984",
+          "seite": "21073B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21055C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Günter Krings, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21055"
+        },
+        {
+          "seite": "21056C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dirk Wiese, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21056"
+        },
+        {
+          "seite": "21057A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21057"
+        },
+        {
+          "seite": "21058A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lamya Kaddor, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21058"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "310773"
+    },
+    {
+      "id": "652417",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Nie wieder ist jetzt - Antisemitismus an Schulen, Hochschulen und Wissenschaftseinrichtungen mit aller Kraft bekämpfen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Historische Verantwortung wahrnehmen - Jüdisches Leben in Deutschland schützen",
+          "id": "310773"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Strafgesetzbuches zur Bekämpfung von Antisemitismus, Terror, Hass und Hetze",
+          "id": "305901"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beendigung des Aufenthalts und Verhinderung der Einbürgerung antisemitischer Ausländer",
+          "id": "305903"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21055",
+        "anfangsseite": 21055,
+        "endseite": 21073,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10973",
+          "seite": "21073C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21055C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Günter Krings, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21055"
+        },
+        {
+          "seite": "21056C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dirk Wiese, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21056"
+        },
+        {
+          "seite": "21057A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21057"
+        },
+        {
+          "seite": "21058A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lamya Kaddor, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21058"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "310769"
+    },
+    {
+      "id": "652421",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für eine moderne Regulierung von Mobilitätsdaten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21082",
+        "anfangsseite": 21082,
+        "endseite": 21091,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Festlegung der Federführung gegen den Wunsch der Fraktion der CDU/CSU (Federführung beim VerkA)\r\n",
+          "dokumentnummer": "20/10974",
+          "seite": "21091B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21082D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Jonas Geissler, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21082"
+        },
+        {
+          "seite": "21083D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Carolin Wagner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21083"
+        },
+        {
+          "seite": "21084D",
+          "aktivitaetsart": "Rede",
+          "titel": "Eugen Schmidt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21084"
+        },
+        {
+          "seite": "21085D",
+          "aktivitaetsart": "Rede",
+          "titel": "Stefan Gelbhaar, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21085"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "310754"
+    },
+    {
+      "id": "652424",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+          "id": "303278"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Transsexuellengesetz erhalten und den Schutz von Menschen mit Geschlechtsdysphorie verbessern",
+          "id": "303092"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21091",
+        "anfangsseite": 21091,
+        "endseite": 21103,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/11029",
+          "seite": "21117B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21092A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nyke Slawik, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21092"
+        },
+        {
+          "seite": "21092D",
+          "aktivitaetsart": "Rede",
+          "titel": "Mareike Lotte Wulf, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21092"
+        },
+        {
+          "seite": "21093D",
+          "aktivitaetsart": "Rede",
+          "titel": "Anke Hennig, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21093"
+        },
+        {
+          "seite": "21094C",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Reichardt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21094"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "310838"
+    },
+    {
+      "id": "652427",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Lohnabstandsgebot beachten - Arbeitnehmer und Mittelstand entlasten - Den steuerlichen Grundfreibetrag für 2024 auf 14.000 Euro und weitere Tarifeckwerte korrespondierend erhöhen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21103",
+        "anfangsseite": 21103,
+        "endseite": 21114,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10975",
+          "seite": "21114D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21103C",
+          "aktivitaetsart": "Rede",
+          "titel": "Kay Gottschalk, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21103"
+        },
+        {
+          "seite": "21104D",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Schrodi, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21104"
+        },
+        {
+          "seite": "21106A",
+          "aktivitaetsart": "Rede",
+          "titel": "Olav Gutting, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21106"
+        },
+        {
+          "seite": "21107A",
+          "aktivitaetsart": "Rede",
+          "titel": "Katharina Beck, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21107"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "310772"
+    },
+    {
+      "id": "652429",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Dritten Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zweites Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+          "id": "306063"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Rechtsverordnung",
+          "titel": "Verordnung über das Herkunftsnachweisregister für Gas und das Herkunftsnachweisregister für Wärme oder Kälte (Gas-Wärme-Kälte-Herkunftsnachweisregister-Verordnung - GWKHV)",
+          "id": "308226"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21117",
+        "anfangsseite": 21117,
+        "endseite": 21127,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/11020",
+          "seite": "21135B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21118B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21118"
+        },
+        {
+          "seite": "21118D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21118"
+        },
+        {
+          "seite": "21119D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21119"
+        },
+        {
+          "seite": "21120D",
+          "aktivitaetsart": "Rede",
+          "titel": "Marc Bernhard, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21120"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "310781"
+    },
+    {
+      "id": "652450",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Mitteilung über Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 23. November 2023 zum Ergebnis der Beratungen des Petitionsausschusses im Jahr 2022 (2023/2047(INI)) \r\nEP P9_TA(2023)0434",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "307021"
+    },
+    {
+      "id": "652453",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Mitteilung über Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 17. Januar 2024 zum Jahresbericht 2022 über die Tätigkeit der Europäischen Bürgerbeauftragten (2023/2120(INI)) \r\nEP P9_TA(2024)0035",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "309380"
+    },
+    {
+      "id": "652455",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates zu Leitlinien für beschäftigungspolitische Maßnahmen der Mitgliedstaaten \r\nKOM(2023)599 endg.; Ratsdok. 9855/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "303403"
+    },
+    {
+      "id": "652457",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal for a Joint Employment Report from the Commission and the Council\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2023)904 endg.; Ratsdok. 15438/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "308129"
+    },
+    {
+      "id": "652461",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen über die EURES-Tätigkeiten von Juli 2020 bis Juni 2022 eingereicht gemäß Artikel 33 der Verordnung (EU) 2016/589 \r\nKOM(2023)724 endg.; Ratsdok. 16210/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "308130"
+    },
+    {
+      "id": "652462",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über den Schutz der Arbeitnehmer gegen Gefährdung durch Exposition gegenüber Karzinogenen, Mutagenen oder reproduktionstoxischen Stoffen bei der Arbeit (Sechste Einzelrichtlinie im Sinne von Artikel 16 Absatz 1 der Richtlinie 89/391/EWG des Rates) (kodifizierter Text) \r\nKOM(2023)738 endg.; Ratsdok. 16292/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "308131"
+    },
+    {
+      "id": "652472",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Mitteilung über Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 17. Februar 2022 zum Thema \"Menschenrechte und Demokratie in der Welt und die Politik der Europäischen Union in diesem Bereich - Jahresbericht 2021\" (2021/2181(INI)) \r\nEP P9_TA(2022)0041",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "285619"
+    },
+    {
+      "id": "652474",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Mitteilung über Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 18. Januar 2023 zu Menschenrechten und Demokratie in der Welt und der Politik der Europäischen Union in diesem Bereich - Jahresbericht 2022 (2022/2049(INI)) \r\nEP P9_TA(2023)0011",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "296413"
+    },
+    {
+      "id": "652475",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Abschluss - im Namen der Europäischen Union - des Partnerschaftsabkommens zwischen der Europäischen Union einerseits und den Mitgliedern der Organisation afrikanischer, karibischer und pazifischer Staaten andererseits \r\nKOM(2023)791 endg.; Ratsdok. 16987/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "308154"
+    },
+    {
+      "id": "652485",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung für einen Beschluss des Rates über die Zustimmung zum Rücktritt der Europäischen Atomgemeinschaft vom Vertrag über die Energiecharta \r\nKOM(2023)446 endg.; Ratsdok. 11691/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "303474"
+    },
+    {
+      "id": "652486",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Rücktritt der Union vom Vertrag über die Energiecharta \r\nKOM(2023)447 endg.; Ratsdok. 11692/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "303476"
+    },
+    {
+      "id": "652493",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21082B - Mitteilung über Erledigung des von der Abg Beatrix von Storch (AfD) eingelegten Einspruchs",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Ordnungsruf an die Abg Beatrix von Storch (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21082",
+        "anfangsseite": 21082,
+        "endseite": 21082,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "310913"
+    },
+    {
+      "id": "652510",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21164A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Hauptgutachten des Wissenschaftlichen Beirats der Bundesregierung Globale Umweltveränderungen \r\nGesund leben auf einer gesunden Erde \r\n- Zusammenfassung -",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "309000"
+    },
+    {
+      "id": "652514",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21164A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Nationaler Aktionsplan für den Europäischen Forschungsraum",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "306277"
+    },
+    {
+      "id": "652515",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21164A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Rahmenprogramm der Bundesregierung 2024 bis 2029\r\nForschung für die zivile Sicherheit - gemeinsam für ein sicheres Leben in einer resilienten Gesellschaft",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "308229"
+    },
+    {
+      "id": "652516",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21164A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht zum Anerkennungsgesetz 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "309078"
+    },
+    {
+      "id": "652411",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur rechtssicheren Einführung einer Bezahlkarte im Asylbewerberleistungsgesetz (Bezahlkartengesetz - BezahlkG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Anpassung von Datenübermittlungsvorschriften im Ausländer- und Sozialrecht (DÜV-AnpassG)",
+          "id": "305482"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Bezahlkarte einführen - Sachleistungsprinzip konsequent umsetzen",
+          "id": "304499"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21035",
+        "anfangsseite": 21035,
+        "endseite": 21055,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10722",
+          "seite": "21054D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21035C",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21035"
+        },
+        {
+          "seite": "21037C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Stracke, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21037"
+        },
+        {
+          "seite": "21038C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Audretsch, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21038"
+        },
+        {
+          "seite": "21040A",
+          "aktivitaetsart": "Rede",
+          "titel": "Steffen Janich, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21040"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "310039"
+    },
+    {
+      "id": "652412",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Bezahlkarte einführen - Sachleistungsprinzip konsequent umsetzen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Anpassung von Datenübermittlungsvorschriften im Ausländer- und Sozialrecht (DÜV-AnpassG)",
+          "id": "305482"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur rechtssicheren Einführung einer Bezahlkarte im Asylbewerberleistungsgesetz (Bezahlkartengesetz - BezahlkG)",
+          "id": "310039"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21035",
+        "anfangsseite": 21035,
+        "endseite": 21055,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/8729",
+          "seite": "21055A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21035C",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21035"
+        },
+        {
+          "seite": "21037C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Stracke, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21037"
+        },
+        {
+          "seite": "21038C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Audretsch, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21038"
+        },
+        {
+          "seite": "21040A",
+          "aktivitaetsart": "Rede",
+          "titel": "Steffen Janich, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21040"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "304499"
+    },
+    {
+      "id": "652415",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Strafgesetzbuches zur Bekämpfung von Antisemitismus, Terror, Hass und Hetze",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Historische Verantwortung wahrnehmen - Jüdisches Leben in Deutschland schützen",
+          "id": "310773"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Beendigung des Aufenthalts und Verhinderung der Einbürgerung antisemitischer Ausländer",
+          "id": "305903"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Antisemitismus an Schulen, Hochschulen und Wissenschaftseinrichtungen mit aller Kraft bekämpfen",
+          "id": "310769"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21055",
+        "anfangsseite": 21055,
+        "endseite": 21073,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/9310",
+          "seite": "21073C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21055C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Günter Krings, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21055"
+        },
+        {
+          "seite": "21056C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dirk Wiese, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21056"
+        },
+        {
+          "seite": "21057A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21057"
+        },
+        {
+          "seite": "21058A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lamya Kaddor, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21058"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "305901"
+    },
+    {
+      "id": "652416",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Beendigung des Aufenthalts und Verhinderung der Einbürgerung antisemitischer Ausländer",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Historische Verantwortung wahrnehmen - Jüdisches Leben in Deutschland schützen",
+          "id": "310773"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Strafgesetzbuches zur Bekämpfung von Antisemitismus, Terror, Hass und Hetze",
+          "id": "305901"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Nie wieder ist jetzt - Antisemitismus an Schulen, Hochschulen und Wissenschaftseinrichtungen mit aller Kraft bekämpfen",
+          "id": "310769"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21055",
+        "anfangsseite": 21055,
+        "endseite": 21073,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/9311",
+          "seite": "21073C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21055C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Günter Krings, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21055"
+        },
+        {
+          "seite": "21056C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dirk Wiese, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21056"
+        },
+        {
+          "seite": "21057A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21057"
+        },
+        {
+          "seite": "21058A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lamya Kaddor, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21058"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "305903"
+    },
+    {
+      "id": "652425",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Transsexuellengesetz erhalten und den Schutz von Menschen mit Geschlechtsdysphorie verbessern",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+          "id": "303278"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+          "id": "310838"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21091",
+        "anfangsseite": 21091,
+        "endseite": 21103,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/8203",
+          "seite": "21103A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21092A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nyke Slawik, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21092"
+        },
+        {
+          "seite": "21092D",
+          "aktivitaetsart": "Rede",
+          "titel": "Mareike Lotte Wulf, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21092"
+        },
+        {
+          "seite": "21093D",
+          "aktivitaetsart": "Rede",
+          "titel": "Anke Hennig, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21093"
+        },
+        {
+          "seite": "21094C",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Reichardt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21094"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "303092"
+    },
+    {
+      "id": "652431",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Rechtsverordnung",
+      "titel": "Verordnung über das Herkunftsnachweisregister für Gas und das Herkunftsnachweisregister für Wärme oder Kälte (Gas-Wärme-Kälte-Herkunftsnachweisregister-Verordnung - GWKHV)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zweites Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+          "id": "306063"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Dritten Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+          "id": "310781"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21117",
+        "anfangsseite": 21117,
+        "endseite": 21127,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Zustimmung mit Änderungsmaßgaben",
+          "dokumentnummer": "20/10159, 20/10995",
+          "seite": "21127A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21118B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21118"
+        },
+        {
+          "seite": "21118D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21118"
+        },
+        {
+          "seite": "21119D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21119"
+        },
+        {
+          "seite": "21120D",
+          "aktivitaetsart": "Rede",
+          "titel": "Marc Bernhard, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21120"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "308226"
+    },
+    {
+      "id": "652512",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21164A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht der Bundesregierung zur internationalen Kooperation in Bildung, Wissenschaft und Forschung 2019 bis 2020",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "282730"
+    },
+    {
+      "id": "652513",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21164A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Gutachten zu Forschung, Innovation und technologischer Leistungsfähigkeit Deutschlands 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "301325"
+    },
+    {
+      "id": "652517",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21164A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht nach § 99 der Bundeshaushaltsordnung zur Umsetzung der Energiewende im Hinblick auf die Versorgungssicherheit, Bezahlbarkeit und Umweltverträglichkeit der Stromversorgung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "309745"
+    },
+    {
+      "id": "652467",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2009/38/EG betreffend die Einsetzung und Arbeitsweise Europäischer Betriebsräte und die wirksame Durchsetzung der Rechte auf länderübergreifende Unterrichtung und Anhörung\r\nKOM(2024) 14 endg.; Ratsdok. 5837/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "309057"
+    },
+    {
+      "id": "652614",
+      "vorgangsposition": "Berichtigung zum Beschluss",
+      "zuordnung": "BT",
+      "abstract": "Berichtigungen mit Zustimmung der BT-Präsidentin gem. § 122 Abs. 3 Satz 1 Geschäftsordnung BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Rechtsverordnung",
+      "titel": "Verordnung zur Neufassung der siebenunddreißigsten Verordnung zur Durchführung des Bundes-Immissionsschutzgesetzes\r\n(Verordnung zur Anrechnung von strombasierten Kraftstoffen und mitverarbeiteten biogenen Ölen auf die Treibhausgasquote - 37. BImSchV)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-04-29T10:16:04+02:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21163",
+        "anfangsseite": 21163,
+        "endseite": 21164,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "307079"
+    },
+    {
+      "id": "652498",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung der Kommission vom 12.12.2023 zur Förderung der Mitwirkung und der wirksamen Beteiligung von Bürgerinnen und Bürgern und Organisationen der Zivilgesellschaft an politischen Entscheidungsprozessen \r\nK(2023)8627 endg.; Ratsdok. 7433/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "308523"
+    },
+    {
+      "id": "652422",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+          "id": "310838"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Transsexuellengesetz erhalten und den Schutz von Menschen mit Geschlechtsdysphorie verbessern",
+          "id": "303092"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21091",
+        "anfangsseite": 21091,
+        "endseite": 21103,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9049, 20/11004",
+          "seite": "21102C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21092A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nyke Slawik, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21092"
+        },
+        {
+          "seite": "21092D",
+          "aktivitaetsart": "Rede",
+          "titel": "Mareike Lotte Wulf, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21092"
+        },
+        {
+          "seite": "21093D",
+          "aktivitaetsart": "Rede",
+          "titel": "Anke Hennig, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21093"
+        },
+        {
+          "seite": "21094C",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Reichardt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21094"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "303278"
+    },
+    {
+      "id": "652418",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Ehenamens- und Geburtsnamensrechts und des Internationalen Namensrechts",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21073",
+        "anfangsseite": 21073,
+        "endseite": 21082,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9041, 20/10997",
+          "seite": "21082B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21073D",
+          "aktivitaetsart": "Rede",
+          "titel": "Katrin Helling-Plahr, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21073"
+        },
+        {
+          "seite": "21075A",
+          "aktivitaetsart": "Rede",
+          "titel": "Susanne Hierl, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21075"
+        },
+        {
+          "seite": "21076A",
+          "aktivitaetsart": "Rede",
+          "titel": "Jan Plobner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21076"
+        },
+        {
+          "seite": "21076D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tobias Matthias Peterka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21076"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "303316"
+    },
+    {
+      "id": "652426",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Selbstbestimmung in Bezug auf den Geschlechtseintrag und zur Änderung weiterer Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 23,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21102",
+        "anfangsseite": 21102,
+        "endseite": 21103,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "372:251:11",
+          "dokumentnummer": "20/9049, 20/11004",
+          "seite": "21115A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21154B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Jens Beeck, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21154"
+        },
+        {
+          "seite": "21154B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Matthias Seestern-Pauly, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21154"
+        },
+        {
+          "seite": "21155A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Tessa Ganserer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21155"
+        },
+        {
+          "seite": "21155A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Nyke Slawik, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21155"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "303278"
+    },
+    {
+      "id": "652420",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Ehenamens- und Geburtsnamensrechts und des Internationalen Namensrechts",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21082",
+        "anfangsseite": 21082,
+        "endseite": 21082,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9041, 20/10997",
+          "seite": "21082B"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "303316"
+    },
+    {
+      "id": "652428",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Dritten Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+          "id": "310781"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Rechtsverordnung",
+          "titel": "Verordnung über das Herkunftsnachweisregister für Gas und das Herkunftsnachweisregister für Wärme oder Kälte (Gas-Wärme-Kälte-Herkunftsnachweisregister-Verordnung - GWKHV)",
+          "id": "308226"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21117",
+        "anfangsseite": 21117,
+        "endseite": 21127,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10014, 20/11017",
+          "seite": "21126D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21118B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21118"
+        },
+        {
+          "seite": "21118D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21118"
+        },
+        {
+          "seite": "21119D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21119"
+        },
+        {
+          "seite": "21120D",
+          "aktivitaetsart": "Rede",
+          "titel": "Marc Bernhard, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21120"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "306063"
+    },
+    {
+      "id": "652471",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21164C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über Luftqualität und saubere Luft für Europa (Neufassung)\r\nKOM(2022) 542 endg.; Ratsdok. 14217/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21164",
+        "anfangsseite": 21164,
+        "endseite": 21164,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-12",
+      "vorgang_id": "294159"
+    },
+    {
+      "id": "652410",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Anpassung von Datenübermittlungsvorschriften im Ausländer- und Sozialrecht (DÜV-AnpassG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur rechtssicheren Einführung einer Bezahlkarte im Asylbewerberleistungsgesetz (Bezahlkartengesetz - BezahlkG)",
+          "id": "310039"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Bezahlkarte einführen - Sachleistungsprinzip konsequent umsetzen",
+          "id": "304499"
+        }
+      ],
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21035",
+        "anfangsseite": 21035,
+        "endseite": 21055,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9470, 20/11006",
+          "seite": "21054C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21035C",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21035"
+        },
+        {
+          "seite": "21037C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Stracke, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21037"
+        },
+        {
+          "seite": "21038C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Audretsch, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21038"
+        },
+        {
+          "seite": "21040A",
+          "aktivitaetsart": "Rede",
+          "titel": "Steffen Janich, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21040"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "305482"
+    },
+    {
+      "id": "652476",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21127",
+        "anfangsseite": 21127,
+        "endseite": 21127,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "347:202:16",
+          "dokumentnummer": "20/10014, 20/11017",
+          "seite": "21133A"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "306063"
+    },
+    {
+      "id": "652413",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Anpassung von Datenübermittlungsvorschriften im Ausländer- und Sozialrecht (DÜV-AnpassG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-12-11T09:55:23+01:00",
+      "fundstelle": {
+        "id": "5641",
+        "dokumentnummer": "20/164",
+        "datum": "2024-04-12",
+        "verteildatum": "2024-04-15",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20164.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21054",
+        "anfangsseite": 21054,
+        "endseite": 21054,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9470, 20/11006",
+          "seite": "21054D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21148B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21148"
+        },
+        {
+          "seite": "21148B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Erhard Grundl, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21148"
+        },
+        {
+          "seite": "21148D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Karl Bär, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21148"
+        },
+        {
+          "seite": "21149A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Leon Eckert, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20164.pdf#P.21149"
+        }
+      ],
+      "datum": "2024-04-12",
+      "vorgang_id": "305482"
+    }
+  ]
+}

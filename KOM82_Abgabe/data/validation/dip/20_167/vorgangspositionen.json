@@ -1,0 +1,1919 @@
+{
+  "numFound": 45,
+  "documents": [
+    {
+      "id": "653278",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Martin Reichardt (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T14:21:37+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21552",
+        "anfangsseite": 21552,
+        "endseite": 21552,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21552B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21552"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "311438"
+    },
+    {
+      "id": "653226",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer energiewirtschaftsrechtlicher Vorschriften zur Steigerung des Ausbaus photovoltaischer Energieerzeugung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 15,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer energiewirtschaftsrechtlicher Vorschriften zur Steigerung des Ausbaus photovoltaischer Energieerzeugung",
+          "id": "302870"
+        }
+      ],
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21469",
+        "anfangsseite": 21469,
+        "endseite": 21483,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/11182",
+          "seite": "21494B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21469D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Julia Verlinden, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21469"
+        },
+        {
+          "seite": "21470C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Andreas Lenz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21470"
+        },
+        {
+          "seite": "21471B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21471"
+        },
+        {
+          "seite": "21472B",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Michael Donth, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21472"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "311350"
+    },
+    {
+      "id": "653229",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Wirtschaftspolitischen Richtungsstreit der Bundesregierung beenden - Für eine echte Wirtschaftswende",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-21T10:10:47+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21483",
+        "anfangsseite": 21483,
+        "endseite": 21503,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der CDU/CSU (Sofortabstimmung); Festlegung der Federführung gegen den Wunsch der Fraktion der CDU/CSU (Federführung beim FinanzA)",
+          "dokumentnummer": "20/11144",
+          "seite": "21503D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21483D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Mathias Middelberg, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21483"
+        },
+        {
+          "seite": "21485A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bernd Westphal, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21485"
+        },
+        {
+          "seite": "21485D",
+          "aktivitaetsart": "Rede",
+          "titel": "Enrico Komning, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21485"
+        },
+        {
+          "seite": "21486D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Sandra Detzer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21486"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "311345"
+    },
+    {
+      "id": "653232",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für eine kostengünstige, sichere und zukunftsfähige Energieversorgung - Kernenergie konsequent ausbauen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-21T10:39:01+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Beitritt zur europäischen Nuklearallianz",
+          "id": "311335"
+        }
+      ],
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21527",
+        "anfangsseite": 21527,
+        "endseite": 21540,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11145",
+          "seite": "21540D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21527C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21527"
+        },
+        {
+          "seite": "21528D",
+          "aktivitaetsart": "Rede",
+          "titel": "Jakob Blankenburg, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21528"
+        },
+        {
+          "seite": "21530A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Klaus Wiener, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21530"
+        },
+        {
+          "seite": "21532A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bernhard Herrmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21532"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "311334"
+    },
+    {
+      "id": "653233",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Beitritt zur europäischen Nuklearallianz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für eine kostengünstige, sichere und zukunftsfähige Energieversorgung - Kernenergie konsequent ausbauen",
+          "id": "311334"
+        }
+      ],
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21527",
+        "anfangsseite": 21527,
+        "endseite": 21540,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11146",
+          "seite": "21540D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21527C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21527"
+        },
+        {
+          "seite": "21528D",
+          "aktivitaetsart": "Rede",
+          "titel": "Jakob Blankenburg, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21528"
+        },
+        {
+          "seite": "21530A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Klaus Wiener, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21530"
+        },
+        {
+          "seite": "21532A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bernhard Herrmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21532"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "311335"
+    },
+    {
+      "id": "653235",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz zur Erweiterung der Teilzeitmöglichkeit in den Jugendfreiwilligendiensten sowie im Bundesfreiwilligendienst für Personen vor Vollendung des 27. Lebensjahres und zur Umsetzung weiterer Änderungen (Freiwilligen-Teilzeitgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Erweiterung der Teilzeitmöglichkeit in den Jugendfreiwilligendiensten sowie im Bundesfreiwilligendienst für Personen vor Vollendung des 27. Lebensjahres und zur Umsetzung weiterer Änderungen (Freiwilligen-Teilzeitgesetz)",
+          "id": "305386"
+        }
+      ],
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21540",
+        "anfangsseite": 21540,
+        "endseite": 21552,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/11162",
+          "seite": "21552B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21541A",
+          "aktivitaetsart": "Rede",
+          "titel": "Emilia Fester, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21541"
+        },
+        {
+          "seite": "21542D",
+          "aktivitaetsart": "Rede",
+          "titel": "Ralph Edelhäußer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21542"
+        },
+        {
+          "seite": "21543C",
+          "aktivitaetsart": "Rede",
+          "titel": "Erik von Malottki, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21543"
+        },
+        {
+          "seite": "21544D",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "René Bochmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21544"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "311332"
+    },
+    {
+      "id": "653286",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Decision amending Decision 2014/512/CFSP concerning restrictive measures in view of Russia's actions destabilising the situation in Ukraine\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nRatsdok. 5713/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309815"
+    },
+    {
+      "id": "653287",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Gemeinsamer Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) Nr. 833/2014 des Rates über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren\r\nJOIN(2024) 3 endg.; Ratsdok. 5715/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309816"
+    },
+    {
+      "id": "653288",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Decision amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nRatsdok. 5721/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309817"
+    },
+    {
+      "id": "653289",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Implementing Regulation implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nRatsdok. 5723/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309818"
+    },
+    {
+      "id": "653290",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Decision amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nRatsdok. 5725/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309821"
+    },
+    {
+      "id": "653292",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Implementing Regulation implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nRatsdok. 6233/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309823"
+    },
+    {
+      "id": "653293",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag des Hohen Vertreters der Union für Außen- und Sicherheitspolitik - mit Unterstützung der Kommission - an den Rat für einen Beschluss des Rates zur Änderung des Beschlusses (GASP) 2021/509 des Rates vom 22. März 2021 zur Einrichtung einer Europäischen Friedensfazilität\r\nRatsdok. 6394/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309824"
+    },
+    {
+      "id": "653294",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Mitteilung über Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 29. Februar 2024 zu der Notwendigkeit unverbrüchlicher EU-Unterstützung für die Ukraine zwei Jahre nach dem Beginn von Russlands Angriffskrieg gegen die Ukraine (2024/2526(RSP))\r\nEP P9_TA(2024)0119",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-21T17:18:09+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310208"
+    },
+    {
+      "id": "653296",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag des Hohen Vertreters der Union für Außen- und Sicherheitspolitik an den Rat für einen Beschluss des Rates über eine Unterstützungsmaßnahme im Rahmen der Europäischen Friedensfazilität zur Unterstützung der Streitkräfte der Republik Moldau\r\nRatsdok. 7035/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310211"
+    },
+    {
+      "id": "653299",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Report of the High Representative of the Union for Foreign Affairs and Security Policy to the Council Annual Progress Report on the Implementation of the Strategic Compass for Security and Defence\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nRatsdok. 7374/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310922"
+    },
+    {
+      "id": "653300",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Gemeinsame Mitteilung an den Rat\r\nDringende Unterstützung für die Ukraine durch Verwendung von Einnahmen aus immobilisierten russischen Vermögenswerten\r\nJOIN(2024) 11 endg.; Ratsdok. 8090/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310924"
+    },
+    {
+      "id": "653302",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Gemeinsamer Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) Nr. 833/2014 des Rates über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren\r\nJOIN(2024) 12 endg.; Ratsdok. 8092/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310925"
+    },
+    {
+      "id": "653306",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Europäischen Parlaments und des Rates über die Zeichnung zusätzlicher Anteile am Kapital der Europäischen Bank für Wiederaufbau und Entwicklung (EBWE) durch die Europäische Union und die Änderung des Übereinkommens zur Errichtung der EBWE im Hinblick auf die begrenzte und schrittweise Ausdehnung des geografischen Tätigkeitsbereichs der EBWE auf afrikanische Länder südlich der Sahara und Irak und die Aufhebung der vorgeschriebenen Kapitalbeschränkung für ihre ordentliche Geschäftstätigkeit \r\nKOM(2024)42 endg.; Ratsdok. 5768/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309385"
+    },
+    {
+      "id": "653307",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Joint Communication to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions\r\nA new European Defence Industrial Strategy: Achieving EU readiness through a responsive and resilient European Defence Industry\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nJOIN(2024) 10 endg.; Ratsdok. 7339/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310951"
+    },
+    {
+      "id": "653310",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Standpunkt, der im Namen der Europäischen Union in der Internationalen Seeschifffahrtsorganisation auf der 81. Tagung des Ausschusses für den Schutz der Meeresumwelt und der 108. Tagung des Schiffssicherheitsausschusses im Hinblick auf die Annahme von Änderungen des Internationalen Übereinkommens zur Verhütung der Meeresverschmutzung durch Schiffe (MARPOL), des Ballastwasser-Übereinkommens, des Internationalen Übereinkommens zum Schutz des menschlichen Lebens auf See (SOLAS-Übereinkommen), des Internationalen Codes für die Sicherheit von Schiffen, die Gase oder andere Brennstoffe mit niedrigem Flammpunkt verwenden (IGF-Code), des Internationalen Codes für das erweiterte Programm von Untersuchungen während der Besichtigung von Massengutschiffen und Öltankschiffen von 2011 (ESP-Code 2011), des Internationalen Rettungsmittel-Codes (LSA-Code), des Internationalen Codes für Brandsicherheitssysteme (FSS-Code) und des Codes über Normen für die Ausbildung, die Erteilung von Befähigungszeugnissen und den Wachdienst von Seeleuten (STCW-Code) zu vertreten ist\r\nKOM(2024)74 endg.; Ratsdok. 6829/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310228"
+    },
+    {
+      "id": "653313",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Abschluss - im Namen der Union - des Abkommens zwischen der Europäischen Union einerseits und den Vereinigten Staaten von Amerika andererseits zur Festlegung von Sicherheitsverfahren für den Start von Galileo-Satelliten vom Hoheitsgebiet der USA aus\r\nKOM(2024)85 endg.; Ratsdok. 6972/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310229"
+    },
+    {
+      "id": "653314",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über die Unterzeichnung - im Namen der Union - und die vorläufige Anwendung des Abkommens zwischen der Europäischen Union einerseits und den Vereinigten Staaten von Amerika andererseits zur Festlegung von Sicherheitsverfahren für den Start der Galileo-Satelliten vom Hoheitsgebiet der USA aus\r\nKOM(2024)86 endg.; Ratsdok. 6974/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310231"
+    },
+    {
+      "id": "653315",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nAuf dem Weg zu einem resilienteren, wettbewerbsfähigeren und nachhaltigeren Europa \r\nKOM(2023)558 endg.; Ratsdok. 14162/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "305831"
+    },
+    {
+      "id": "653317",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Report from the Commission to the European Parliament and the Council\r\nEU Climate Action Progress Report 2023\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2023) 653 endg.; Ratsdok. 14650/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "306574"
+    },
+    {
+      "id": "653318",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) 2022/2577 zur Festlegung eines Rahmens für einen beschleunigten Ausbau der Nutzung erneuerbarer Energien \r\nKOM(2023)763 endg.; Ratsdok. 16140/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "308178"
+    },
+    {
+      "id": "653280",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21574A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Neunzehnte Tagung der Konferenz am 10. und 11. Oktober 2022 in Prag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "296006"
+    },
+    {
+      "id": "653281",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21574A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Stabilitätsrates gemäß § 9 des Stabilitätsratsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "295759"
+    },
+    {
+      "id": "653282",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21574A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Zwanzigste Tagung der Konferenz am 27. und 28. Februar 2023 in Brüssel",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "301933"
+    },
+    {
+      "id": "653283",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21574A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Einundzwanzigste Tagung der Konferenz am 26. und 27. Oktober 2023 in Madrid \r\n",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "307974"
+    },
+    {
+      "id": "653238",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Potenziale der Geothermie nutzen - Hürden abbauen, Risiken minimieren, Stromsektor entlasten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-21T10:43:57+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21552",
+        "anfangsseite": 21552,
+        "endseite": 21561,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/8210",
+          "seite": "21561C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21552D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Armin Grau, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21552"
+        },
+        {
+          "seite": "21553C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Thomas Gebhart, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21553"
+        },
+        {
+          "seite": "21554A",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Mehltretter, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21554"
+        },
+        {
+          "seite": "21555A",
+          "aktivitaetsart": "Rede",
+          "titel": "Marc Bernhard, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21555"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "303131"
+    },
+    {
+      "id": "653279",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21574A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Deutscher Aufbau- und Resilienzplan",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "285925"
+    },
+    {
+      "id": "653285",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21574A - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht der Bundesregierung zur Umsetzung der Zukunftsstrategie Forschung und Innovation",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "306949"
+    },
+    {
+      "id": "653309",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Einrichtung des Programms für die europäische Verteidigungsindustrie und eines Rahmens für Maßnahmen zur Gewährleistung der zeitnahen Verfügbarkeit und Lieferung von Verteidigungsgütern (EDIP)\r\nKOM(2024) 150 endg.; Ratsdok. 7340/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "310889"
+    },
+    {
+      "id": "653284",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 21574A - Mitteilung über Absehen von Berichterstattung zu 20/10130, 20/10352",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Stabilitätsrates gemäß § 9 des Stabilitätsratsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "308081"
+    },
+    {
+      "id": "653319",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen:\r\nUnsere Zukunft sichern - Europas Klimaziel für 2040 und Weg zur Klimaneutralität bis 2050 für eine nachhaltige, gerechte und wohlhabende Gesellschaft\r\nKOM(2024) 63 endg.; Ratsdok. 6291/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309609"
+    },
+    {
+      "id": "653320",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen:\r\nAuf dem Weg zu einem ehrgeizigen industriellen CO2-Management in der EU\r\nKOM(2024) 62 endg.; Ratsdok. 6306/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "309562"
+    },
+    {
+      "id": "653304",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 21574C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über die Abschöpfung und Einziehung von Vermögenswerten\r\nKOM(2022) 245 endg.; Ratsdok. 9598/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21574",
+        "anfangsseite": 21574,
+        "endseite": 21574,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-04-26",
+      "vorgang_id": "288823"
+    },
+    {
+      "id": "653234",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Erweiterung der Teilzeitmöglichkeit in den Jugendfreiwilligendiensten sowie im Bundesfreiwilligendienst für Personen vor Vollendung des 27. Lebensjahres und zur Umsetzung weiterer Änderungen (Freiwilligen-Teilzeitgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Erweiterung der Teilzeitmöglichkeit in den Jugendfreiwilligendiensten sowie im Bundesfreiwilligendienst für Personen vor Vollendung des 27. Lebensjahres und zur Umsetzung weiterer Änderungen (Freiwilligen-Teilzeitgesetz)",
+          "id": "311332"
+        }
+      ],
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21540",
+        "anfangsseite": 21540,
+        "endseite": 21552,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/11156",
+          "seite": "21552A"
+        },
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/9874, 20/11069",
+          "seite": "21552A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21541A",
+          "aktivitaetsart": "Rede",
+          "titel": "Emilia Fester, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21541"
+        },
+        {
+          "seite": "21542D",
+          "aktivitaetsart": "Rede",
+          "titel": "Ralph Edelhäußer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21542"
+        },
+        {
+          "seite": "21543C",
+          "aktivitaetsart": "Rede",
+          "titel": "Erik von Malottki, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21543"
+        },
+        {
+          "seite": "21544D",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "René Bochmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21544"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "305386"
+    },
+    {
+      "id": "653237",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Erweiterung der Teilzeitmöglichkeit in den Jugendfreiwilligendiensten sowie im Bundesfreiwilligendienst für Personen vor Vollendung des 27. Lebensjahres und zur Umsetzung weiterer Änderungen (Freiwilligen-Teilzeitgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21552",
+        "anfangsseite": 21552,
+        "endseite": 21552,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/9874, 20/11069",
+          "seite": "21552A"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "305386"
+    },
+    {
+      "id": "653224",
+      "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD, B90/GR und FDP auf Aufsetzung der 2. und 3. Beratung auf die TO",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des Bundes-Klimaschutzgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21469",
+        "anfangsseite": 21469,
+        "endseite": 21469,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme Geschäftsordnungsantrag",
+          "seite": "21469B"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "302817"
+    },
+    {
+      "id": "653225",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer energiewirtschaftsrechtlicher Vorschriften zur Steigerung des Ausbaus photovoltaischer Energieerzeugung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 15,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-31T14:01:00+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer energiewirtschaftsrechtlicher Vorschriften zur Steigerung des Ausbaus photovoltaischer Energieerzeugung",
+          "id": "311350"
+        }
+      ],
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21469",
+        "anfangsseite": 21469,
+        "endseite": 21483,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/8657, 20/11180",
+          "seite": "21483B"
+        },
+        {
+          "beschlusstenor": "Annahme einer Entschließung",
+          "dokumentnummer": "20/11180",
+          "seite": "21494B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21469D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Julia Verlinden, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21469"
+        },
+        {
+          "seite": "21470C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Andreas Lenz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21470"
+        },
+        {
+          "seite": "21471B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21471"
+        },
+        {
+          "seite": "21472B",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Michael Donth, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21472"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "302870"
+    },
+    {
+      "id": "653230",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des Bundes-Klimaschutzgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 20,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21504",
+        "anfangsseite": 21504,
+        "endseite": 21527,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/8290, 20/11183",
+          "seite": "21526D"
+        },
+        {
+          "beschlusstenor": "Annahme einer Entschließung",
+          "dokumentnummer": "20/11183",
+          "seite": "21527A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21504B",
+          "aktivitaetsart": "Rede",
+          "titel": "Katharina Dröge, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21504"
+        },
+        {
+          "seite": "21506B",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21506"
+        },
+        {
+          "seite": "21507D",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21507"
+        },
+        {
+          "seite": "21508C",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Wolfgang Kubicki, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21508"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "302817"
+    },
+    {
+      "id": "653228",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer energiewirtschaftsrechtlicher Vorschriften zur Steigerung des Ausbaus photovoltaischer Energieerzeugung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21483",
+        "anfangsseite": 21483,
+        "endseite": 21483,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme der Vorlage",
+          "abstimm_ergebnis_bemerkung": "384:79:200",
+          "dokumentnummer": "20/8657, 20/11180",
+          "seite": "21491B"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "302870"
+    },
+    {
+      "id": "653231",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des Bundes-Klimaschutzgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 24,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-05-07T12:15:21+02:00",
+      "fundstelle": {
+        "id": "5644",
+        "dokumentnummer": "20/167",
+        "datum": "2024-04-26",
+        "verteildatum": "2024-04-29",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20167.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21527",
+        "anfangsseite": 21527,
+        "endseite": 21527,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/8290, 20/11183",
+          "seite": "21527A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "21563D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21563"
+        },
+        {
+          "seite": "21563D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Lukas Benner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21563"
+        },
+        {
+          "seite": "21563D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Deborah Düring, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21563"
+        },
+        {
+          "seite": "21563D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Linda Heitmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20167.pdf#P.21563"
+        }
+      ],
+      "datum": "2024-04-26",
+      "vorgang_id": "302817"
+    }
+  ]
+}

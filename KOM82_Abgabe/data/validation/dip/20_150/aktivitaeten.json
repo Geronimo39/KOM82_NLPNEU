@@ -1,0 +1,5386 @@
+{
+  "numFound": 107,
+  "documents": [
+    {
+      "id": "1668629",
+      "aktivitaetsart": "Zur Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "232",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-15T12:09:48+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Ordnungsruf",
+          "vorgangstyp": "Geschäftsordnung",
+          "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+          "id": "308479"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19217C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19217",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19217,
+        "endseite": 19217,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Ordnungsruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Parlamentarische Ordnung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Katrin Göring-Eckardt, Bundestagsvizepräs.",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668628",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7476",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:23:56+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19240D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19240",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Karoline Otte, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668627",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7609",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19240B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19240",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Robert Farle, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668626",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1539",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19239C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19239",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Karamba Diaby, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668625",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "7224",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:24:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19238A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19238",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668624",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7468",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T11:09:02+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19237D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19237",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Nicolas Zippelius, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668623",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7284",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19237B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19237",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Knut Gerschau, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668622",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7819",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-13T14:35:38+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19236C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19236",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Cornelia Möhring, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668621",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7345",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19235C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19235",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Susanne Menge, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668620",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7457",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:11:05+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19235A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19235",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Edgar Naujok, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668619",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "7232",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:34:17+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19234D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19234",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Sanae Abdi, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668618",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "2247",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T14:44:35+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19234B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19234",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Stefan Keuter, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668617",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7232",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:34:17+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19233B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19233",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Sanae Abdi, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668616",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1620",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:59:11+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19232B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19232",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Wolfgang Stefinger, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668615",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1991",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19231B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19231",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Till Mansmann, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668614",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7300",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19230C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19230",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Kathrin Henneberger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668613",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2171",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19229D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19229",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dietmar Friedhoff, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668612",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7413",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:33:01+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19227B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19227",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Svenja Schulze, Bundesmin., Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668611",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "166",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19226A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19226",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Hermann Gröhe, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668610",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7493",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19225A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19225",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Claudia Raffelhüschen, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668609",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7224",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:24:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19223D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19223",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668608",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2142",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:41:49+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19222C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19222",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Michael Espendiller, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668607",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "571",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:54:40+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19220B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19220",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Bettina Hagedorn, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668606",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1710",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T09:34:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19219B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19219",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "titel": "Carsten Körber, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668605",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1418",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19218B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19218",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Wolfgang Hellmich, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668604",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7609",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19217D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19217",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Robert Farle, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668603",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7404",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T17:06:47+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19216D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19216",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Christoph Schmid, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668602",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7741",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-13T14:35:52+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19216A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19216",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "titel": "Zaklin Nastic, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668601",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "569",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19214D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19214",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Markus Grübel, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668600",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7598",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19214A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19214",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nils Gründer, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668599",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7817",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-14T11:44:15+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19213A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19213",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Gesine Lötzsch, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668598",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7442",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T09:44:48+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19212A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19212",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Niklas Wagener, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668597",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7357",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19211A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19211",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Kevin Leiser, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668596",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "571",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:54:40+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19209D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19209",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "titel": "Bettina Hagedorn, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668595",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1020",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:24:59+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19209B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19209",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Reinhard Brandl, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668594",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2144",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19208C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19208",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Marcus Faber, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668593",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7445",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:10:09+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19207A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19207",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sara Nanni, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668592",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1982",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:19:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19205D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19205",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Rüdiger Lucassen, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668591",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "1020",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:24:59+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19204C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19204",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "titel": "Dr. Reinhard Brandl, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668590",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7650",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T10:14:19+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19203C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19203",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Boris Pistorius, Bundesmin., Bundesministerium der Verteidigung",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668589",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8122",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T10:12:15+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19201D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19201",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Johann David Wadephul, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668588",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2249",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19200C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19200",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Karsten Klein, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668587",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7397",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:54:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19199B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19199",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Sebastian Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668586",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2142",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:41:49+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19198A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19198",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Michael Espendiller, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668585",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1613",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:35:36+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19196C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19196",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Andreas Schwarz, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668584",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1041",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19195B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19195",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundesministerium der Verteidigung",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Verteidigungspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Ingo Gädechens, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668583",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "128",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19194B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19194",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Axel Schäfer (Bochum), MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668582",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7736",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-19T11:15:30+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19193D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19193",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Sevim Dagdelen, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668581",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "1089",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T15:35:29+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19193C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19193",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Roderich Kiesewetter, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668580",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "55",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19193A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19193",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Otto Fricke, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668579",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1089",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T15:35:29+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19192C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19192",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Roderich Kiesewetter, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668578",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8150",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:32:47+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19191C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19191",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Frank Schwabe, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668577",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "33",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-02-28T13:40:06+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19191B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19191",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Gregor Gysi, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668576",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "7381",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T11:36:24+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19191A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19191",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Matthias Moosdorf, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668575",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "33",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-02-28T13:40:06+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19190A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19190",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Gregor Gysi, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668574",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7265",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T14:07:54+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19189C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19189",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Deborah Düring, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668573",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2138",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:38:56+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19188C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19188",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Thomas Erndl, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668572",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7111",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19187D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19187",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Peter Heidt, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668571",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1185",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:45:23+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19186B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19186",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Aydan Özoguz, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668570",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2176",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:03:55+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19185D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19185",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Markus Frohnmaier, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668569",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7379",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T11:22:47+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19184D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19184",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Boris Mijatović, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668568",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8152",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:36:19+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19183D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19183",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Michael Brand (Fulda), MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668567",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2267",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19183A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19183",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Ulrich Lechte, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668564",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "1055",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:59:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19182D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19182",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "titel": "Jürgen Hardt, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668563",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8144",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:19:14+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19181C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19181",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Nils Schmid, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668562",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2134",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:42:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19180C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19180",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Martin Sichert, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668561",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "7827",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-14T11:54:42+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19179B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19179",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "titel": "Kathrin Vogler, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668560",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1502",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:21:13+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19178C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19178",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Annalena Baerbock, Bundesmin., Auswärtiges Amt",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668558",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1055",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:59:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19177B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19177",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Jürgen Hardt, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668556",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "55",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19173A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19173",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Otto Fricke, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668555",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7479",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19171C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19171",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Wiebke Papenbrock, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668554",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2142",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:41:49+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19170B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19170",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Michael Espendiller, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668553",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7396",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:54:58+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19169B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19169",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Jamila Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668552",
+      "abstract": "Epl 05 - Auswärtiges Amt sowie Finanzplan",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1710",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T09:34:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19168A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19168",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Auswärtiges Amt",
+          "typ": "Institutionen"
+        },
+        {
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Carsten Körber, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668545",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "2186",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19244A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19244",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Sandra Weeser, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668543",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1496",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:32:50+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19166D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19166",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Luise Amtsberg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668537",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7415",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:37:53+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19166A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19166",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Stefan Seidler, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668536",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1974",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:17:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19165B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19165",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Helge Lindh, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668535",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7744",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-06T17:23:42+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19164B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19164",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Sahra Wagenknecht, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668534",
+      "aktivitaetsart": "Zwischenfrage",
+      "typ": "Aktivität",
+      "person_id": "7397",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:54:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19163B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19163",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Sebastian Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668533",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1556",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-08-28T10:06:18+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19161D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19161",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Thorsten Frei, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668532",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2272",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19161A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19161",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Erhard Grundl, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668531",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "437",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:29:55+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19158D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19158",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Dietmar Bartsch, MdB, fraktionslos",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668530",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "2140",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:40:22+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19158B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19158",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Wiebke Esdar, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668529",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "2222",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:22:52+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19158B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19158",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Karsten Hilse, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668528",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2140",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:40:22+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19157A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19157",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Wiebke Esdar, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668527",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8252",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-30T18:03:53+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19155D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19155",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Christiane Schenderlein, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668526",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7607",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19155B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19155",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Aniko Glogowski-Merten, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668525",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7316",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T14:12:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19154B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19154",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Lamya Kaddor, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668514",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2106",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:49:07+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19153C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19153",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Gottfried Curio, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668513",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7269",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:35:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19152D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19152",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Sonja Eichwede, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668512",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2016",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:07:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19151C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19151",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Sepp Müller, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668511",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "55",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19150D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19150",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Otto Fricke, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668510",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7484",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:37:53+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19149C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19149",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Paula Piechotta, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668509",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2056",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:36:25+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19148D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19148",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Martin Erwin Renner, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668508",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1577",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19147D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19147",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Achim Post (Minden), MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668507",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1581",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:07:05+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19146D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19146",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Kerstin Radomski, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668506",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2124",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19145B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19145",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Bijan Djir-Sarai, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668505",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7249",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:43:01+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19144A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19144",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Andreas Audretsch, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668504",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2103",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:45:56+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19142D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19142",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Tino Chrupalla, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668503",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "247",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:09:09+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19139C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19139",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Rolf Mützenich, MdB, SPD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668502",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8121",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T10:05:36+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19136D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19136",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Alexander Dobrindt, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668501",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2127",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19134A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19134",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Christian Dürr, MdB, FDP",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668500",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "118",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:00:30+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19130D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19130",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668499",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2187",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T09:58:58+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19128C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19128",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Dr. Alice Weidel, MdB, AfD",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668498",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "986",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T17:18:12+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19122C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19122",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Olaf Scholz, Bundeskanzl.",
+      "datum": "2024-01-31"
+    },
+    {
+      "id": "1668497",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8167",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-15T14:31:51+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung (Einzelpläne)",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "seite": "19117D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "titel": "Friedrich Merz, MdB, CDU/CSU",
+      "datum": "2024-01-31"
+    }
+  ]
+}

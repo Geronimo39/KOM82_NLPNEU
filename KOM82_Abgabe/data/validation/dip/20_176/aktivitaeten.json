@@ -1,0 +1,5717 @@
+{
+  "numFound": 97,
+  "documents": [
+    {
+      "id": "1683500",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "847",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-28T13:39:13+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Ansprache",
+          "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+          "titel": "Begrüßung des Vorsitzenden der Ersten Kammer der Generalstaaten der Niederlande, Professor Jan Anthonie Bruijn",
+          "id": "313086"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22820C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22820",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22820,
+        "endseite": 22820,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bundestag: Begrüßung von Gästen",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Petra Pau, Bundestagsvizepräs.",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683499",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2149",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22839B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22839",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Mathias Stein, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683498",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1646",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:01:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22838A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22838",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Anja Weisgerber, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683497",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1991",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22837B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22837",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Till Mansmann, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683496",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2182",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22836A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22836",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stefan Gelbhaar, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683495",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2045",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:43:36+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22834D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22834",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Christoph Ploß, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683494",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7375",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:39:51+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22833C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22833",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sebastian Roloff, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683493",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2129",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22832C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22832",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Thomas Ehrhorn, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683492",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1118",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22831C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22831",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Judith Skudelny, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683491",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7280",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22830B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22830",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Tessa Ganserer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683490",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8157",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:44:14+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22829B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22829",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Christian Hirte, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683489",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7617",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:38:47+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22828A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22828",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Daniel Rinkert, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683488",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2222",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:22:52+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Aktuelle Stunde",
+          "vorgangstyp": "Aktuelle Stunde",
+          "titel": "Deutsche Autofahrer schützen - Mutmaßlichen Klimabetrug in China beenden",
+          "id": "313058"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22826D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22826",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22826,
+        "endseite": 22840,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Betrug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "China",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "name": "Emissionshandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Karsten Hilse, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683486",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7410",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+          "id": "309844"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22826A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22826",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22817,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gebäude- und Wohnungsstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbaustatistikgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Christina-Johanne Schröder, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683485",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7633",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+          "id": "309844"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22824B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22824",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22817,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gebäude- und Wohnungsstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbaustatistikgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Emily Vontz, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683484",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1659",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T11:06:24+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+          "id": "309844"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22823A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22823",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22817,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gebäude- und Wohnungsstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbaustatistikgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Emmi Zeulner, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683483",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2168",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+          "id": "309844"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22821C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22821",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22817,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gebäude- und Wohnungsstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbaustatistikgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Daniel Föst, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683482",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7228",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+          "id": "309844"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22820C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22820",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22817,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gebäude- und Wohnungsstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbaustatistikgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Roger Beckamp, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683481",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7573",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:13:59+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+          "id": "309844"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22819D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22819",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22817,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gebäude- und Wohnungsstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbaustatistikgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Kassem Taher Saleh, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683480",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7338",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T09:30:08+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+          "id": "309844"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22818D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22818",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22817,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gebäude- und Wohnungsstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbaustatistikgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Anne König, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683479",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "456",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-04-16T08:48:42+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Erstes Gesetz zur Änderung des Hochbaustatistikgesetzes",
+          "id": "309844"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22817D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22817",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22817,
+        "endseite": 22826,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gebäude- und Wohnungsstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Hochbaustatistikgesetz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683478",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7461",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:47:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22816D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22816",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Tina Winklmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683477",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7934",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:03:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22816B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22816",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Matthias Helferich, MdB, fraktionslos",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683476",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7811",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T17:48:10+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22815D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22815",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. André Hahn, MdB, Die Linke (Gruppe)",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683475",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7409",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22814C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22814",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Christian Schreider, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683474",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8255",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-30T18:14:47+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22813C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22813",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Johannes Steiniger, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683473",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7295",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22812C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22812",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Philipp Hartewig, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683472",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2256",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T09:31:04+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22811C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22811",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jörn König, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683471",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7344",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22810D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22810",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Philip Krämer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683470",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "374",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:45:55+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22809C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22809",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stephan Mayer (Altötting), MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683469",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7308",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:30:10+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fußball-EM 2024 - Volle Unterstützung für ein neues Sommermärchen",
+          "id": "308109"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22808C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22808",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22808,
+        "endseite": 22817,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Fußball",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Fußballeuropameisterschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Sportveranstaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jasmina Hostert, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683468",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "884",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+          "id": "311570"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22807D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22807",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Wolfgang Strengmann-Kuhn, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683467",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7815",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T17:48:10+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+          "id": "311570"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22807B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22807",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Caren Lay, MdB, Die Linke (Gruppe)",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683466",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7472",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+          "id": "311570"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22806A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22806",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Brian Nickholz, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683465",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7252",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-06-03T14:21:59+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+          "id": "311570"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22804D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22804",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Michael Breilmann, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683464",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7419",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+          "id": "311570"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22804A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22804",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Rainer Semet, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683461",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7228",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+          "id": "311570"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22802C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22802",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Roger Beckamp, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683460",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7426",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:07:09+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+          "id": "311570"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22801D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22801",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Hanna Steinmüller, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683459",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1659",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T11:06:24+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+          "id": "311570"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22801A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22801",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Emmi Zeulner, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683458",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7521",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Nationaler Aktionsplan gegen Wohnungslosigkeit 2024",
+          "id": "311570"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22800B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22800",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22800,
+        "endseite": 22808,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungslosigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wohnungsversorgung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Klara Geywitz, Bundesmin., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683451",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7397",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:54:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22799C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22799",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Beschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrmaterial",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Sebastian Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683450",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7736",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-19T11:15:23+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22798D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22798",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Beschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrmaterial",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683449",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7404",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T17:06:47+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22797D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22797",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Beschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrmaterial",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Christoph Schmid, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683448",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7389",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:44:39+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22796D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22796",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Beschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrmaterial",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Thomas Röwekamp, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683447",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2233",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-22T15:40:16+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22795D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22795",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Beschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrmaterial",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Reinhard Houben, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683446",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7251",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-22T15:40:08+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22795A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22795",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Beschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrmaterial",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Maik Außendorf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683445",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "577",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:43:50+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22793B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22793",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Beschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrmaterial",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Klaus-Peter Willsch, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683444",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7425",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:00:39+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22791D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22791",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Beschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrmaterial",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Ralf Stegner, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683443",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7321",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T14:38:04+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wettbewerbsfähigkeit der wehrtechnischen Industrie stärken - Aufbau von Produktionskapazitäten ermöglichen",
+          "id": "312973"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutsche Rüstungsunternehmen am höheren Rüstungsetat beteiligen - Rüstungsindustrie wieder wettbewerbsfähig machen",
+          "id": "312893"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Internationale Wettbewerbsfähigkeit deutscher Rüstungsgüter erhöhen - Für eine Politik berechenbarer Rüstungsexportkontrollen",
+          "id": "312972"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22790D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22790",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22790,
+        "endseite": 22800,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "deskriptor": [
+        {
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Beschaffung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungsindustrie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Rüstungskooperation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Verteidigungsausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrmaterial",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wehrtechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wettbewerb",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Wissenschaftliche Kooperation",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Malte Kaufmann, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683421",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7361",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-26T18:15:54+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "id": "309835"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22789A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22789",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22782,
+        "endseite": 22790,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Elektronische Aktenführung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Elektronischer Rechtsverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Luiza Licina-Bode, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683420",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2041",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:37:17+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "id": "309835"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22788C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22788",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22782,
+        "endseite": 22790,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Elektronische Aktenführung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Elektronischer Rechtsverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Tobias Matthias Peterka, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683419",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1633",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-26T18:15:48+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "id": "309835"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22788A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22788",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22782,
+        "endseite": 22790,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Elektronische Aktenführung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Elektronischer Rechtsverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Volker Ullrich, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683418",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7471",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:50:33+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "id": "309835"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22786D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22786",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22782,
+        "endseite": 22790,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Elektronische Aktenführung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Elektronischer Rechtsverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Dr. Till Steffen, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683417",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2075",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:25:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "id": "309835"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22786A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22786",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22782,
+        "endseite": 22790,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Elektronische Aktenführung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Elektronischer Rechtsverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Stephan Brandner, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683416",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7269",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T09:35:20+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "id": "309835"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22784D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22784",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22782,
+        "endseite": 22790,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Elektronische Aktenführung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Elektronischer Rechtsverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Sonja Eichwede, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683415",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1061",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-21T09:51:20+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "id": "309835"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22784A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22784",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22782,
+        "endseite": 22790,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Elektronische Aktenführung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Elektronischer Rechtsverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Ansgar Heveling, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683414",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2211",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-26T18:15:22+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "id": "309835"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22783A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22783",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22782,
+        "endseite": 22790,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "deskriptor": [
+        {
+          "name": "Elektronische Aktenführung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Elektronischer Rechtsverkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Gesetz zur weiteren Digitalisierung der Justiz",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Katrin Helling-Plahr, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683413",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1503",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T10:15:39+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22781D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22781",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Andreas Lenz, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683412",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7761",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-23T16:22:37+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22781B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22781",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Thomas Seitz, MdB, fraktionslos",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683411",
+      "aktivitaetsart": "Erwiderung",
+      "typ": "Aktivität",
+      "person_id": "7310",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-23T16:22:33+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22781A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22781",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Markus Hümpfer, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683410",
+      "aktivitaetsart": "Kurzintervention",
+      "typ": "Aktivität",
+      "person_id": "2260",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T09:40:43+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22780C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22780",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Rainer Kraft, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683409",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7310",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-23T16:22:26+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22779C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22779",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Markus Hümpfer, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683408",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7737",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-23T16:22:23+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22778D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22778",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Klaus Ernst, MdB, BSW (Gruppe)",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683407",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7243",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T12:18:12+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22777D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22777",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jakob Blankenburg, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683406",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7816",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T17:48:10+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22777A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22777",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Ralph Lenkert, MdB, Die Linke (Gruppe)",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683405",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1671",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-23T16:22:14+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22776A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22776",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Stefan Heck, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683404",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7349",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-23T16:22:11+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22775A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22775",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Michael Kruse, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683403",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7471",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:50:33+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22774A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22774",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Till Steffen, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683402",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2075",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:25:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22773A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22773",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stephan Brandner, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683401",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7354",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-23T16:22:01+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22771A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22771",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Robin Mesarosch, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683400",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8251",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-07-30T17:59:41+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22769C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22769",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Steffen Bilger, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683399",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1152",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-07-23T16:21:56+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22768D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22768",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stephan Thomae, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683398",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7050",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T11:21:47+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22767B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22767",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683397",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2260",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T09:40:43+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22766A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22766",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Rainer Kraft, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683396",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1601",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:56:40+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22764D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22764",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Nina Scheer, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683395",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1100",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-08-28T10:07:06+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Untersuchungsausschuss",
+          "titel": "2. Untersuchungsausschuss der 20. Wahlperiode [Atomausstieg]",
+          "id": "312797"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22763D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22763",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22763,
+        "endseite": 22782,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "deskriptor": [
+        {
+          "name": "Energiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Energieversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Kernkraftwerk",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Untersuchungsausschuss",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Patrick Schnieder, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683394",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7491",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22762B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22762",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Ye-One Rhie, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683393",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1046",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:16:06+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22761C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22761",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nicole Gohlke, MdB, Die Linke (Gruppe)",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683392",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1580",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:05:06+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22760C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22760",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Martin Rabanus, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683391",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8155",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:40:40+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22759C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22759",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Thomas Jarzombek, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683390",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7461",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T10:47:32+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22758C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22758",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Tina Winklmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683389",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "8138",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-05-09T12:03:15+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22758A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22758",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Daniela Ludwig, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683388",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1078",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-10T14:11:34+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22756D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22756",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Oliver Kaczmarek, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683387",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2271",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22755D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22755",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gyde Jensen, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683386",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7374",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:39:30+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22755B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22755",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Lars Rohwer, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683385",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7492",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-11T16:35:01+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22753D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22753",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dr. Anja Reinalter, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683384",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "2223",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T11:24:23+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22752C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22752",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nicole Höchst, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683383",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7388",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22751B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22751",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jessica Rosenthal, MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683382",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "1494",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:14:57+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22750B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22750",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Stephan Albani, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683381",
+      "aktivitaetsart": "Rede",
+      "typ": "Aktivität",
+      "person_id": "7247",
+      "vorgangsbezug_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "308708"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Ausbildungsqualtität verbessern - Berufsbildungsgesetz umfassend novellieren",
+          "id": "310121"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Berufsbildungsvalidierungs- und -digitalisierungsgesetz (BVaDiG)",
+          "id": "312911"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22749B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22749",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22749,
+        "endseite": 22763,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "deskriptor": [
+        {
+          "name": "Berufsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Berufsbildungsvalidierungs- und -digitalisierungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "name": "Digitalisierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "name": "Duale Berufsausbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Friedhelm Boginski, MdB, FDP",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683379",
+      "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+      "typ": "Aktivität",
+      "person_id": "7415",
+      "vorgangsbezug_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T10:37:53+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22844B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22844",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22844,
+        "endseite": 22844,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "titel": "Stefan Seidler, MdB, fraktionslos",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683338",
+      "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+      "typ": "Aktivität",
+      "person_id": "7817",
+      "vorgangsbezug_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-01-16T17:48:11+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+          "id": "300155"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+          "id": "302813"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+          "id": "302866"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22748A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22748",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "titel": "Dr. Gesine Lötzsch, MdB, Die Linke (Gruppe)",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683337",
+      "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+      "typ": "Aktivität",
+      "person_id": "1543",
+      "vorgangsbezug_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T14:03:26+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+          "id": "300155"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+          "id": "302813"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+          "id": "302866"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22747A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22747",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "titel": "Katharina Dröge, MdB, BÜNDNIS 90/DIE GRÜNEN",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683336",
+      "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+      "typ": "Aktivität",
+      "person_id": "2075",
+      "vorgangsbezug_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2025-03-07T13:25:41+01:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+          "id": "300155"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+          "id": "302813"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+          "id": "302866"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22746A",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22746",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "titel": "Stephan Brandner, MdB, AfD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683335",
+      "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+      "typ": "Aktivität",
+      "person_id": "344",
+      "vorgangsbezug_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+          "id": "300155"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+          "id": "302813"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+          "id": "302866"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22745B",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22745",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "titel": "Detlef Müller (Chemnitz), MdB, SPD",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683334",
+      "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+      "typ": "Aktivität",
+      "person_id": "1556",
+      "vorgangsbezug_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-08-28T10:06:18+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+          "id": "300155"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+          "id": "302813"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+          "id": "302866"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22744C",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22744",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "titel": "Thorsten Frei, MdB, CDU/CSU",
+      "datum": "2024-06-14"
+    },
+    {
+      "id": "1683333",
+      "aktivitaetsart": "Erklärung zum Vermittlungsverfahren (§ 90 GO-BT, § 10 GO-VermA)",
+      "typ": "Aktivität",
+      "person_id": "2216",
+      "vorgangsbezug_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-06-25T13:25:10+02:00",
+      "vorgangsbezug": [
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Förderung des Einsatzes von Videokonferenztechnik in der Zivilgerichtsbarkeit und den Fachgerichtsbarkeiten",
+          "id": "300155"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Onlinezugangsgesetzes sowie weiterer Vorschriften zur Digitalisierung der Verwaltung (OZG-Änderungsgesetz - OZGÄndG)",
+          "id": "300144"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Viertes Gesetz zur Änderung des Bundesschienenwegeausbaugesetzes",
+          "id": "302813"
+        },
+        {
+          "vorgangsposition": "Abstimmung über Vermittlungsvorschlag",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zehntes Gesetz zur Änderung des Straßenverkehrsgesetzes",
+          "id": "302866"
+        }
+      ],
+      "fundstelle": {
+        "seite": "22743D",
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20176.pdf#P.22743",
+        "id": "5655",
+        "dokumentnummer": "20/176",
+        "datum": "2024-06-14",
+        "verteildatum": "2024-06-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20176.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "anfangsseite": 22743,
+        "endseite": 22749,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "titel": "Torsten Herbst, MdB, FDP",
+      "datum": "2024-06-14"
+    }
+  ]
+}

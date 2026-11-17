@@ -1,0 +1,41 @@
+{
+  "id": "2175",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "FDP"
+  ],
+  "nachname": "Vogel",
+  "vorname": "Johannes",
+  "typ": "Person",
+  "wahlperiode": [
+    17,
+    19,
+    20
+  ],
+  "aktualisiert": "2022-07-26T19:57:10+02:00",
+  "person_roles": [
+    {
+      "fraktion": "FDP",
+      "nachname": "Vogel",
+      "vorname": "Johannes",
+      "wahlkreiszusatz": "Olpe",
+      "wahlperiode_nummer": [
+        19
+      ]
+    },
+    {
+      "fraktion": "FDP",
+      "nachname": "Vogel",
+      "vorname": "Johannes",
+      "wahlkreiszusatz": "Lüdenscheid",
+      "wahlperiode_nummer": [
+        17
+      ]
+    }
+  ],
+  "titel": "Johannes Vogel, MdB, FDP",
+  "datum": "2025-03-18",
+  "basisdatum": "2009-11-11"
+}

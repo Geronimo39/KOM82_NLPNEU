@@ -1,0 +1,3207 @@
+{
+  "numFound": 53,
+  "documents": [
+    {
+      "id": "647662",
+      "vorgangsposition": "Antrag zur Geschäftsordnung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Anmerkung zur Plenarsitzung",
+      "titel": "Unzulässigkeit eines Antrags der Fraktion der AfD auf Abwahl der Bundestagsvizepräsidentin Petra Pau",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18605",
+        "anfangsseite": 18605,
+        "endseite": 18608,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Feststellung der Unzulässigkeit",
+          "seite": "18608B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18605C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18605"
+        },
+        {
+          "seite": "18605D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18605"
+        },
+        {
+          "seite": "18606D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18606"
+        },
+        {
+          "seite": "18607C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18607"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "308033"
+    },
+    {
+      "id": "647668",
+      "vorgangsposition": "Aussprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Vereinbarte Debatte",
+      "titel": "5. Jahrestag der Unterzeichnung des Vertrages von Aachen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 17,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18640",
+        "anfangsseite": 18640,
+        "endseite": 18659,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18640D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Anna Lührmann, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18640"
+        },
+        {
+          "seite": "18642A",
+          "aktivitaetsart": "Rede",
+          "titel": "Armin Laschet, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18642"
+        },
+        {
+          "seite": "18643B",
+          "aktivitaetsart": "Rede",
+          "titel": "Aydan Özoguz, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18643"
+        },
+        {
+          "seite": "18644C",
+          "aktivitaetsart": "Rede",
+          "titel": "Norbert Kleinwächter, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18644"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "308034"
+    },
+    {
+      "id": "647688",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Wehrhafte Demokratie in einem vielfältigen Land - Klare Kante gegen Demokratiefeinde und Vertreibungspläne",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 15,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18681",
+        "anfangsseite": 18681,
+        "endseite": 18701,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18681C",
+          "aktivitaetsart": "Rede",
+          "titel": "Lars Klingbeil, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18681"
+        },
+        {
+          "seite": "18683B",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18683"
+        },
+        {
+          "seite": "18684D",
+          "aktivitaetsart": "Rede",
+          "titel": "Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18684"
+        },
+        {
+          "seite": "18686C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18686"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "308035"
+    },
+    {
+      "id": "647702",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Eintritt der Abg Ingrid Pahlmann (CDU/CSU) in den Deutschen Bundestag als Nachfolgerin für den ausgeschiedenen Abg Dr. André Berghegger (Mandatsbeginn: 02.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18605",
+        "anfangsseite": 18605,
+        "endseite": 18605,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-01-18",
+      "vorgang_id": "308038"
+    },
+    {
+      "id": "647703",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Eintritt des Abg Ottmar von Holtz (B90/GR) in den Deutschen Bundestag als Nachfolger für den ausgeschiedenen Abg Jürgen Trittin (Mandatsbeginn: 10.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18605",
+        "anfangsseite": 18605,
+        "endseite": 18605,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-01-18",
+      "vorgang_id": "308039"
+    },
+    {
+      "id": "647704",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verzicht des Abg Dr. André Berghegger (CDU/CSU) auf die Mitgliedschaft im Deutschen Bundestag (Mandatsende: 31.12.2023)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18605",
+        "anfangsseite": 18605,
+        "endseite": 18605,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-01-18",
+      "vorgang_id": "308040"
+    },
+    {
+      "id": "647705",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verzicht des Abg Jürgen Trittin (B90/GR) auf die Mitgliedschaft im Deutschen Bundestag (Mandatsende: 05.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18605",
+        "anfangsseite": 18605,
+        "endseite": 18605,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-01-18",
+      "vorgang_id": "308041"
+    },
+    {
+      "id": "647706",
+      "vorgangsposition": "Wahl",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung externer Gremien durch BT",
+      "titel": "Wahl des Abg Sven-Christian Kindler (B90/GR) zum stellvertretenden Mitglied des Kuratoriums der Stiftung \"Fonds zur Finanzierung der kerntechnischen Entsorgung\" gemäß § 4 des Entsorgungsfondsgesetzes als Nachfolger für den ausgeschiedenen Abg Jürgen Trittin",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18605",
+        "anfangsseite": 18605,
+        "endseite": 18605,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme",
+          "seite": "18605B"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "308042"
+    },
+    {
+      "id": "647707",
+      "vorgangsposition": "Antrag zur Geschäftsordnung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Anmerkung zur Plenarsitzung",
+      "titel": "Geschäftsordnungsantrag der Fraktion der AfD auf Herbeirufung des Bundeskanzlers, Olaf Scholz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18613",
+        "anfangsseite": 18613,
+        "endseite": 18613,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung Geschäftsordnungsantrag",
+          "seite": "18613C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18613B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18613"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "308043"
+    },
+    {
+      "id": "647718",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an die Abg Beatrix von Storch (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18762",
+        "anfangsseite": 18762,
+        "endseite": 18762,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18762B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18762"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "308052"
+    },
+    {
+      "id": "647665",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Landwirtschaft in Deutschland im Dialog zukunftsfähig gestalten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 31,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Agrarpolitischer Bericht der Bundesregierung 2023",
+          "id": "305702"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Landwirtschaft unterstützen statt ruinieren",
+          "id": "307989"
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18608",
+        "anfangsseite": 18608,
+        "endseite": 18640,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/10057",
+          "seite": "18640C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18608D",
+          "aktivitaetsart": "Rede",
+          "titel": "Cem Özdemir, Bundesmin., Bundesministerium für Ernährung und Landwirtschaft",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18608"
+        },
+        {
+          "seite": "18610D",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18610"
+        },
+        {
+          "seite": "18613D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Matthias Miersch, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18613"
+        },
+        {
+          "seite": "18614D",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Felser, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18614"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307970"
+    },
+    {
+      "id": "647667",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Landwirtschaft unterstützen statt ruinieren",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 31,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Agrarpolitischer Bericht der Bundesregierung 2023",
+          "id": "305702"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Landwirtschaft in Deutschland im Dialog zukunftsfähig gestalten",
+          "id": "307970"
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18608",
+        "anfangsseite": 18608,
+        "endseite": 18640,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "188:420:69",
+          "dokumentnummer": "20/10050",
+          "seite": "18646A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18608D",
+          "aktivitaetsart": "Rede",
+          "titel": "Cem Özdemir, Bundesmin., Bundesministerium für Ernährung und Landwirtschaft",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18608"
+        },
+        {
+          "seite": "18610D",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18610"
+        },
+        {
+          "seite": "18613D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Matthias Miersch, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18613"
+        },
+        {
+          "seite": "18614D",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Felser, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18614"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307989"
+    },
+    {
+      "id": "647671",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Verhältnismäßige Nothilfe für die Ukraine - Keine Wiederaufbaufinanzierung durch die deutsche Entwicklungshilfe",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 20,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "ausschuss_kuerzel": "AWZ",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutschlands Verantwortung für Frieden in Europa gerecht werden - Eine Friedensinitiative mit Sicherheitsgarantien für die Ukraine und Russland",
+          "id": "296250"
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18659",
+        "anfangsseite": 18659,
+        "endseite": 18679,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10061",
+          "seite": "18679A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18659C",
+          "aktivitaetsart": "Rede",
+          "titel": "Robin Wagener, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18659"
+        },
+        {
+          "seite": "18661B",
+          "aktivitaetsart": "Rede",
+          "titel": "Roderich Kiesewetter, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18661"
+        },
+        {
+          "seite": "18662D",
+          "aktivitaetsart": "Rede",
+          "titel": "Adis Ahmetovic, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18662"
+        },
+        {
+          "seite": "18664A",
+          "aktivitaetsart": "Rede",
+          "titel": "Matthias Moosdorf, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18664"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307975"
+    },
+    {
+      "id": "647672",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Warnung vor veganer Ernährung bei Risikogruppen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18679",
+        "anfangsseite": 18679,
+        "endseite": 18679,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/9798",
+          "seite": "18679C"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307034"
+    },
+    {
+      "id": "647673",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Die Grundförderung für Kadersportler ohne Sportförderstelle muss angehoben werden",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Sportausschuss",
+          "ausschuss_kuerzel": "SportA (WP07-20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18679",
+        "anfangsseite": 18679,
+        "endseite": 18679,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10066",
+          "seite": "18679C"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307981"
+    },
+    {
+      "id": "647674",
+      "vorgangsposition": "Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Ambulante ärztliche Versorgung zukunftssicher machen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18679",
+        "anfangsseite": 18679,
+        "endseite": 18679,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10067",
+          "seite": "18679C"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307983"
+    },
+    {
+      "id": "647677",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Verfahren vor dem Bundesverfassungsgericht",
+      "titel": "Beschlussempfehlung und Bericht des Rechtsausschusses (6. Ausschuss) zu dem Streitverfahren vor dem Bundesverfassungsgericht 2 BvR 1523/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18679",
+        "anfangsseite": 18679,
+        "endseite": 18680,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/10073",
+          "seite": "18679D"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307995"
+    },
+    {
+      "id": "647678",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 498 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18680",
+        "anfangsseite": 18680,
+        "endseite": 18680,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/9768",
+          "seite": "18680A"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "306954"
+    },
+    {
+      "id": "647679",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 499 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18680",
+        "anfangsseite": 18680,
+        "endseite": 18680,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/9769",
+          "seite": "18680A"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "306955"
+    },
+    {
+      "id": "647680",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 500 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18680",
+        "anfangsseite": 18680,
+        "endseite": 18680,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/9770",
+          "seite": "18680B"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "306956"
+    },
+    {
+      "id": "647681",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 501 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18680",
+        "anfangsseite": 18680,
+        "endseite": 18680,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/9771",
+          "seite": "18680B"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "306957"
+    },
+    {
+      "id": "647682",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 502 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18680",
+        "anfangsseite": 18680,
+        "endseite": 18680,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/9772",
+          "seite": "18680C"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "306958"
+    },
+    {
+      "id": "647683",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Petition",
+      "titel": "Sammelübersicht 503 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18680",
+        "anfangsseite": 18680,
+        "endseite": 18680,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/9773",
+          "seite": "18680C"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "306959"
+    },
+    {
+      "id": "647686",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Wahl im BT",
+      "titel": "Wahl eines Stellvertreters der Präsidentin",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18681",
+        "anfangsseite": 18681,
+        "endseite": 18681,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "mehrheit": "Absolute Mehrheit",
+          "abstimmungsart": "Geheime Wahl",
+          "beschlusstenor": "Ablehnung des Wahlvorschlags",
+          "abstimm_ergebnis_bemerkung": "91:572:17:0",
+          "seite": "18717B"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307066"
+    },
+    {
+      "id": "647687",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung interner Gremien des BT",
+      "titel": "Wahl eines Mitglieds des Parlamentarischen Kontrollgremiums gemäß Artikel 45d des Grundgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18681",
+        "anfangsseite": 18681,
+        "endseite": 18681,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "mehrheit": "Absolute Mehrheit",
+          "beschlusstenor": "Ablehnung des Wahlvorschlags",
+          "abstimm_ergebnis_bemerkung": "87:584:9:0",
+          "seite": "18717C"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307074"
+    },
+    {
+      "id": "647695",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der Rückführung (Rückführungsverbesserungsgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verbesserung der Rückführung (Rückführungsverbesserungsgesetz)",
+          "id": "305371"
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18725",
+        "anfangsseite": 18725,
+        "endseite": 18737,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10091",
+          "seite": "18737A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18725A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18725"
+        },
+        {
+          "seite": "18726A",
+          "aktivitaetsart": "Rede",
+          "titel": "Christoph de Vries, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18726"
+        },
+        {
+          "seite": "18726B",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Konstantin Kuhle, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18726"
+        },
+        {
+          "seite": "18727C",
+          "aktivitaetsart": "Rede",
+          "titel": "Helge Limburg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18727"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "308001"
+    },
+    {
+      "id": "647899",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Vorteile von per- und polyfluorierten Alkylsubstanzen weiter nutzen - Wertschöpfung erhalten - Gesundheit und Umwelt schützen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-22T16:58:54+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18768",
+        "anfangsseite": 18768,
+        "endseite": 18773,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/9736",
+          "seite": "18773C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18768D",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Engelhard, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18768"
+        },
+        {
+          "seite": "18769B",
+          "aktivitaetsart": "Rede",
+          "titel": "Sebastian Roloff, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18769"
+        },
+        {
+          "seite": "18770A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18770"
+        },
+        {
+          "seite": "18770D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Armin Grau, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18770"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307091"
+    },
+    {
+      "id": "647903",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Deutsche Unternehmen entlasten - Das Lieferkettensorgfaltspflichtengesetz abschaffen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "ausschuss_kuerzel": "AWZ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18786",
+        "anfangsseite": 18786,
+        "endseite": 18790,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10062",
+          "seite": "18790B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18786B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Malte Kaufmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18786"
+        },
+        {
+          "seite": "18787A",
+          "aktivitaetsart": "Rede",
+          "titel": "Manuel Gava, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18787"
+        },
+        {
+          "seite": "18787D",
+          "aktivitaetsart": "Rede",
+          "titel": "Tilman Kuban, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18787"
+        },
+        {
+          "seite": "18788D",
+          "aktivitaetsart": "Rede",
+          "titel": "Kathrin Henneberger, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18788"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307977"
+    },
+    {
+      "id": "647664",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Agrarpolitischer Bericht der Bundesregierung 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 31,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "ausschuss_kuerzel": "AWZ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Landwirtschaft in Deutschland im Dialog zukunftsfähig gestalten",
+          "id": "307970"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Landwirtschaft unterstützen statt ruinieren",
+          "id": "307989"
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18608",
+        "anfangsseite": 18608,
+        "endseite": 18640,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/9100",
+          "seite": "18640B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18608D",
+          "aktivitaetsart": "Rede",
+          "titel": "Cem Özdemir, Bundesmin., Bundesministerium für Ernährung und Landwirtschaft",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18608"
+        },
+        {
+          "seite": "18610D",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18610"
+        },
+        {
+          "seite": "18613D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Matthias Miersch, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18613"
+        },
+        {
+          "seite": "18614D",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Felser, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18614"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "305702"
+    },
+    {
+      "id": "647697",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Durchführung der Verordnung (EU) 2022/2065 des Europäischen Parlaments und des Rates vom 19. Oktober 2022 über einen Binnenmarkt für digitale Dienste und zur Änderung der Richtlinie 2000/31/EG sowie zur Durchführung der Verordnung (EU) 2019/1150 des Europäischen Parlaments und des Rates vom 20. Juni 2019 zur Förderung von Fairness und Transparenz für gewerbliche Nutzer von Online-Vermittlungsdiensten und zur Änderung weiterer Gesetze",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "ausschuss_kuerzel": "AfMenschenr",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ueberweisungsart": "gemäß § 96 Geschäftsordnung BT",
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18747",
+        "anfangsseite": 18747,
+        "endseite": 18754,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10031",
+          "seite": "18754C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18747B",
+          "aktivitaetsart": "Rede",
+          "titel": "Daniela Kluckert, Parl. Staatssekr., Bundesministerium für Digitales und Verkehr",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18747"
+        },
+        {
+          "seite": "18748A",
+          "aktivitaetsart": "Rede",
+          "titel": "Catarina dos Santos-Wintz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18748"
+        },
+        {
+          "seite": "18748D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Jens Zimmermann, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18748"
+        },
+        {
+          "seite": "18749C",
+          "aktivitaetsart": "Rede",
+          "titel": "Beatrix von Storch, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18749"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307296"
+    },
+    {
+      "id": "647700",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Antrag",
+      "titel": "Landwirtschaft unterstützen statt ruinieren",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18819",
+        "anfangsseite": 18819,
+        "endseite": 18820,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18819D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stefan Seidler, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18819"
+        },
+        {
+          "seite": "18820A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Jens Teutrine, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18820"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307989"
+    },
+    {
+      "id": "647900",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Dreiundzwanzigster Bericht nach § 35 des Bundesausbildungsförderungsgesetzes zur Überprüfung der Bedarfssätze, Freibeträge sowie Vomhundertsätze und Höchstbeträge nach § 21 Absatz 2",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18773",
+        "anfangsseite": 18773,
+        "endseite": 18780,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/9870",
+          "seite": "18780B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18773D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Jens Brandenburg, Parl. Staatssekr., Bundesministerium für Bildung und Forschung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18773"
+        },
+        {
+          "seite": "18774C",
+          "aktivitaetsart": "Rede",
+          "titel": "Gitta Connemann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18774"
+        },
+        {
+          "seite": "18775B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Lina Seitzl, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18775"
+        },
+        {
+          "seite": "18776A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18776"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307190"
+    },
+    {
+      "id": "647901",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Große Anfrage",
+      "titel": "Regierungspläne hinsichtlich eines Digitalpaktes 2.0",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-06-05T15:34:26+02:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18780",
+        "anfangsseite": 18780,
+        "endseite": 18783,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18780C",
+          "aktivitaetsart": "Rede",
+          "titel": "Thomas Jarzombek, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18780"
+        },
+        {
+          "seite": "18781B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Carolin Wagner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18781"
+        },
+        {
+          "seite": "18782B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18782"
+        },
+        {
+          "seite": "18783A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nadine Schön, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18783"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "304540"
+    },
+    {
+      "id": "647905",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des DWD-Gesetzes sowie zur Änderung handelsrechtlicher Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 5,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Digitales",
+          "ausschuss_kuerzel": "ADi (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18794",
+        "anfangsseite": 18794,
+        "endseite": 18794,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10032",
+          "seite": "18794C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18794A",
+          "aktivitaetsart": "Rede",
+          "titel": "Jürgen Lenders, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18794"
+        },
+        {
+          "seite": "18848B",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Jan Plobner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18848"
+        },
+        {
+          "seite": "18849A",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Parsa Marvi, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18849"
+        },
+        {
+          "seite": "18849B",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Björn Simon, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18849"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "307295"
+    },
+    {
+      "id": "647669",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Deutschlands Verantwortung für Frieden in Europa gerecht werden - Eine Friedensinitiative mit Sicherheitsgarantien für die Ukraine und Russland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 20,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Verhältnismäßige Nothilfe für die Ukraine - Keine Wiederaufbaufinanzierung durch die deutsche Entwicklungshilfe",
+          "id": "307975"
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18659",
+        "anfangsseite": 18659,
+        "endseite": 18679,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "605:75:2 (Annahme der Beschlussempfehlung auf Ablehnung)",
+          "dokumentnummer": "20/5551, 20/5894",
+          "seite": "18701B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18659C",
+          "aktivitaetsart": "Rede",
+          "titel": "Robin Wagener, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18659"
+        },
+        {
+          "seite": "18661B",
+          "aktivitaetsart": "Rede",
+          "titel": "Roderich Kiesewetter, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18661"
+        },
+        {
+          "seite": "18662D",
+          "aktivitaetsart": "Rede",
+          "titel": "Adis Ahmetovic, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18662"
+        },
+        {
+          "seite": "18664A",
+          "aktivitaetsart": "Rede",
+          "titel": "Matthias Moosdorf, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18664"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "296250"
+    },
+    {
+      "id": "647684",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Hochschulen in Härtefallregelung aufnehmen - Schutzschirm für wissenschaftlichen Nachwuchs spannen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18680",
+        "anfangsseite": 18680,
+        "endseite": 18680,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/4874",
+          "seite": "18680D"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "294376"
+    },
+    {
+      "id": "647691",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Terroranschläge verhindern - Zum Schutz unserer Bevölkerung entschieden gegen potenzielle Terroristen vorgehen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18713",
+        "anfangsseite": 18713,
+        "endseite": 18725,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/7351",
+          "seite": "18724D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18714A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dorothee Martin, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18714"
+        },
+        {
+          "seite": "18714D",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Throm, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18714"
+        },
+        {
+          "seite": "18715D",
+          "aktivitaetsart": "Rede",
+          "titel": "Lamya Kaddor, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18715"
+        },
+        {
+          "seite": "18717C",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Hess, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18717"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "300996"
+    },
+    {
+      "id": "647698",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Deutschlands Rohstoffabhängigkeit reduzieren - Neue Rohstoffpartnerschaften auf den Weg bringen, heimische Rohstoffgewinnung stärken",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für eine erfolgreiche Politik der Außenwirtschaft und der Rohstoffsicherung ohne ideologische Scheuklappen",
+          "id": "292647"
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18754",
+        "anfangsseite": 18754,
+        "endseite": 18762,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/4042",
+          "seite": "18762A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18754D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Sandra Detzer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18754"
+        },
+        {
+          "seite": "18755C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stefan Rouenhoff, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18755"
+        },
+        {
+          "seite": "18756D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bernd Westphal, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18756"
+        },
+        {
+          "seite": "18757C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Malte Kaufmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18757"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "292621"
+    },
+    {
+      "id": "647699",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für eine erfolgreiche Politik der Außenwirtschaft und der Rohstoffsicherung ohne ideologische Scheuklappen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Deutschlands Rohstoffabhängigkeit reduzieren - Neue Rohstoffpartnerschaften auf den Weg bringen, heimische Rohstoffgewinnung stärken",
+          "id": "292621"
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18754",
+        "anfangsseite": 18754,
+        "endseite": 18762,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/4065",
+          "seite": "18762A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18754D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Sandra Detzer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18754"
+        },
+        {
+          "seite": "18755C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stefan Rouenhoff, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18755"
+        },
+        {
+          "seite": "18756D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bernd Westphal, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18756"
+        },
+        {
+          "seite": "18757C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Malte Kaufmann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18757"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "292647"
+    },
+    {
+      "id": "647685",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Eine europäische Antwort auf das US-Gesetz zur Inflationsbekämpfung geben - Standort Europa stärken, transatlantische Partnerschaft ausbauen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18680",
+        "anfangsseite": 18680,
+        "endseite": 18680,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/5352",
+          "seite": "18680D"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "295780"
+    },
+    {
+      "id": "647904",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Erweiterung der Teilzeitmöglichkeit in den Jugendfreiwilligendiensten sowie im Bundesfreiwilligendienst für Personen vor Vollendung des 27. Lebensjahres und zur Umsetzung weiterer Änderungen (Freiwilligen-Teilzeitgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18790",
+        "anfangsseite": 18790,
+        "endseite": 18793,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/9874",
+          "seite": "18793D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18790C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sven Lehmann, Parl. Staatssekr., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18790"
+        },
+        {
+          "seite": "18790D",
+          "aktivitaetsart": "Rede",
+          "titel": "Ingrid Pahlmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18790"
+        },
+        {
+          "seite": "18791C",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Reichardt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18791"
+        },
+        {
+          "seite": "18792C",
+          "aktivitaetsart": "Rede",
+          "titel": "Ana-Maria Trasnea, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18792"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "305386"
+    },
+    {
+      "id": "647907",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Funkanlagengesetzes und weiterer Gesetze",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 5,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18797",
+        "anfangsseite": 18797,
+        "endseite": 18798,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/9873",
+          "seite": "18798D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18797B",
+          "aktivitaetsart": "Rede",
+          "titel": "Chantal Kopf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18797"
+        },
+        {
+          "seite": "18798A",
+          "aktivitaetsart": "Rede",
+          "titel": "Uwe Schulz, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18798"
+        },
+        {
+          "seite": "18853C",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Lena Werner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18853"
+        },
+        {
+          "seite": "18854B",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Jan Metzler, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18854"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "305390"
+    },
+    {
+      "id": "647908",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Neuntes Gesetz zur Änderung des Gemeindefinanzreformgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18798",
+        "anfangsseite": 18798,
+        "endseite": 18799,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/9872",
+          "seite": "18799D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18799A",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Hessel, Parl. Staatssekr., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18799"
+        },
+        {
+          "seite": "18855C",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Bernhard Daldrup, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18855"
+        },
+        {
+          "seite": "18856C",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Dr. Hermann-Josef Tebroke, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18856"
+        },
+        {
+          "seite": "18857B",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Sebastian Brehm, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18857"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "305372"
+    },
+    {
+      "id": "647689",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Polizeibeauftragte oder den Polizeibeauftragten des Bundes beim Deutschen Bundestag (Polizeibeauftragtengesetz - PolBeauftrG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18704",
+        "anfangsseite": 18704,
+        "endseite": 18713,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9148, 20/10092",
+          "seite": "18713C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18704D",
+          "aktivitaetsart": "Rede",
+          "titel": "Sebastian Hartmann, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18704"
+        },
+        {
+          "seite": "18706A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Hendrik Hoppenstedt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18706"
+        },
+        {
+          "seite": "18707B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18707"
+        },
+        {
+          "seite": "18708C",
+          "aktivitaetsart": "Rede",
+          "titel": "Steffen Janich, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18708"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "305531"
+    },
+    {
+      "id": "647906",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Zulassung virtueller Wohnungseigentümerversammlungen, zur Erleichterung des Einsatzes von Steckersolargeräten und zur Übertragbarkeit beschränkter persönlicher Dienstbarkeiten für Erneuerbare-Energien-Anlagen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18794",
+        "anfangsseite": 18794,
+        "endseite": 18797,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/9890",
+          "seite": "18797A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18794D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Marco Buschmann, Bundesmin., Bundesministerium der Justiz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18794"
+        },
+        {
+          "seite": "18795C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Jan-Marco Luczak, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18795"
+        },
+        {
+          "seite": "18796C",
+          "aktivitaetsart": "Rede",
+          "titel": "Fabian Jacobi, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18796"
+        },
+        {
+          "seite": "18851A",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Sonja Eichwede, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18851"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "304775"
+    },
+    {
+      "id": "647690",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Polizeibeauftragte oder den Polizeibeauftragten des Bundes beim Deutschen Bundestag (Polizeibeauftragtengesetz - PolBeauftrG)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18713",
+        "anfangsseite": 18713,
+        "endseite": 18713,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9148, 20/10092",
+          "seite": "18713D"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "305531"
+    },
+    {
+      "id": "647902",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des Energiewirtschaftsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": true
+        },
+        {
+          "ueberweisungsart": "gemäß § 96 Geschäftsordnung BT",
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18783",
+        "anfangsseite": 18783,
+        "endseite": 18786,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10014",
+          "seite": "18786A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18784A",
+          "aktivitaetsart": "Rede",
+          "titel": "Marc Bernhard, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18784"
+        },
+        {
+          "seite": "18784C",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kruse, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18784"
+        },
+        {
+          "seite": "18785C",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Ralph Lenkert, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18785"
+        },
+        {
+          "seite": "18842C",
+          "aktivitaetsart": "Rede (zu Protokoll gegeben)",
+          "titel": "Andreas Rimkus, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18842"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "306063"
+    },
+    {
+      "id": "647696",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "IP-Adressen rechtssicher speichern und Kinder vor sexuellem Missbrauch schützen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18737",
+        "anfangsseite": 18737,
+        "endseite": 18747,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/3687",
+          "seite": "18747A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18737B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Thorsten Lieb, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18737"
+        },
+        {
+          "seite": "18738D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Günter Krings, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18738"
+        },
+        {
+          "seite": "18740A",
+          "aktivitaetsart": "Rede",
+          "titel": "Sebastian Fiedler, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18740"
+        },
+        {
+          "seite": "18741A",
+          "aktivitaetsart": "Rede",
+          "titel": "Fabian Jacobi, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18741"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "291782"
+    },
+    {
+      "id": "647897",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung der Vorschriften des Energiewirtschaftsgesetzes zu Füllstandsvorgaben für Gasspeicheranlagen und zur Anpassung weiterer energiewirtschaftlicher Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18762",
+        "anfangsseite": 18762,
+        "endseite": 18768,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9094, 20/10094",
+          "seite": "18768C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18762D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18762"
+        },
+        {
+          "seite": "18763D",
+          "aktivitaetsart": "Rede",
+          "titel": "Thomas Heilmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18763"
+        },
+        {
+          "seite": "18765A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bengt Bergt, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18765"
+        },
+        {
+          "seite": "18766B",
+          "aktivitaetsart": "Rede",
+          "titel": "Karsten Hilse, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18766"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "304766"
+    },
+    {
+      "id": "647692",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der Rückführung (Rückführungsverbesserungsgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der Rückführung (Rückführungsverbesserungsgesetz)",
+          "id": "308001"
+        }
+      ],
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18725",
+        "anfangsseite": 18725,
+        "endseite": 18737,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9463, 20/10090",
+          "seite": "18736D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18725A",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18725"
+        },
+        {
+          "seite": "18726A",
+          "aktivitaetsart": "Rede",
+          "titel": "Christoph de Vries, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18726"
+        },
+        {
+          "seite": "18726B",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Konstantin Kuhle, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18726"
+        },
+        {
+          "seite": "18727C",
+          "aktivitaetsart": "Rede",
+          "titel": "Helge Limburg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18727"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "305371"
+    },
+    {
+      "id": "647898",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung der Vorschriften des Energiewirtschaftsgesetzes zu Füllstandsvorgaben für Gasspeicheranlagen und zur Anpassung weiterer energiewirtschaftlicher Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18768",
+        "anfangsseite": 18768,
+        "endseite": 18768,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9094, 20/10094",
+          "seite": "18768C"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "304766"
+    },
+    {
+      "id": "647693",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verbesserung der Rückführung (Rückführungsverbesserungsgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 39,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18737",
+        "anfangsseite": 18737,
+        "endseite": 18737,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9463, 20/10090",
+          "seite": "18737A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18824B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stephanie Aeffner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18824"
+        },
+        {
+          "seite": "18824B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Lisa Badum, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18824"
+        },
+        {
+          "seite": "18824B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Dr. Janosch Dahmen, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18824"
+        },
+        {
+          "seite": "18824B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Leon Eckert, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18824"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "305371"
+    },
+    {
+      "id": "647676",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Rechtsverordnung",
+      "titel": "Verordnung zur Änderung der Verordnung über die Verbrennung und die Mitverbrennung von Abfällen und zur Änderung der Chemikalien-Verbotsverordnung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:50+01:00",
+      "fundstelle": {
+        "id": "5622",
+        "dokumentnummer": "20/147",
+        "datum": "2024-01-18",
+        "verteildatum": "2024-01-19",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20147.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20147.pdf#P.18679",
+        "anfangsseite": 18679,
+        "endseite": 18679,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Zustimmung",
+          "dokumentnummer": "20/9649",
+          "seite": "18679D"
+        }
+      ],
+      "datum": "2024-01-18",
+      "vorgang_id": "302900"
+    }
+  ]
+}

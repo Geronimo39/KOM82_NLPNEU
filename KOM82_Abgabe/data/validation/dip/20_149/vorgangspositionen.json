@@ -1,0 +1,732 @@
+{
+  "numFound": 14,
+  "documents": [
+    {
+      "id": "648262",
+      "vorgangsposition": "Änderung der Ausschussüberweisung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Fortentwicklung des Völkerstrafrechts",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-07-18T13:43:50+02:00",
+      "ueberweisung": [
+        {
+          "ueberweisungsart": "nachträgliche Überweisung",
+          "ausschuss": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "ausschuss_kuerzel": "AfMenschenr",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18967",
+        "anfangsseite": 18967,
+        "endseite": 18967,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Änderung des Überweisungsbeschlusses",
+          "dokumentnummer": "20/9471",
+          "seite": "18967C"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "305389"
+    },
+    {
+      "id": "648238",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten s. mitberatenes Haushaltsgesetz 2024",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Finanzplan des Bundes 2023 bis 2027",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18967",
+        "anfangsseite": 18967,
+        "endseite": 19113,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-30",
+      "vorgang_id": "302730"
+    },
+    {
+      "id": "648237",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten und Beschlüsse s. Einzelpläne",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Finanzplan des Bundes 2023 bis 2027",
+          "id": "302730"
+        }
+      ],
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18967",
+        "anfangsseite": 18967,
+        "endseite": 19113,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648239",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 01 - Bundespräsident und Bundespräsidialamt",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18967",
+        "anfangsseite": 18967,
+        "endseite": 18968,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 01",
+          "dokumentnummer": "20/8601, 20/8661",
+          "seite": "18967D"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648241",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 02 - Deutscher Bundestag",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18968",
+        "anfangsseite": 18968,
+        "endseite": 18968,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 02",
+          "dokumentnummer": "20/8602, 20/8661",
+          "seite": "18968A"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648242",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 03 - Bundesrat",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18968",
+        "anfangsseite": 18968,
+        "endseite": 18968,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 03",
+          "dokumentnummer": "20/8661, 20/8662",
+          "seite": "18968A"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648248",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 06 - Bundesministerium des Innern und für Heimat (zusammenberaten mit Epl 21)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 23,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-23T15:56:11+02:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19068",
+        "anfangsseite": 19068,
+        "endseite": 19090,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/10186",
+          "seite": "19090C"
+        },
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 06",
+          "dokumentnummer": "20/8606, 20/8661",
+          "seite": "19090C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19068B",
+          "aktivitaetsart": "Rede",
+          "titel": "Yannick Bury, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19068"
+        },
+        {
+          "seite": "19069C",
+          "aktivitaetsart": "Rede",
+          "titel": "Nancy Faeser, Bundesmin., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19069"
+        },
+        {
+          "seite": "19071B",
+          "aktivitaetsart": "Rede",
+          "titel": "Martin Hess, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19071"
+        },
+        {
+          "seite": "19072A",
+          "aktivitaetsart": "Rede",
+          "titel": "Jamila Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19072"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648243",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 08 - Bundesministerium der Finanzen (zusammenberaten mit Epl 20)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18968",
+        "anfangsseite": 18968,
+        "endseite": 18993,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 08",
+          "dokumentnummer": "20/8608, 20/8661",
+          "seite": "18993C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18968C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Mathias Middelberg, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18968"
+        },
+        {
+          "seite": "18970C",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Otto Fricke, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18970"
+        },
+        {
+          "seite": "18970D",
+          "aktivitaetsart": "Erwiderung",
+          "titel": "Dr. Mathias Middelberg, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18970"
+        },
+        {
+          "seite": "18971A",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Lindner, Bundesmin., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18971"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648247",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 12 - Bundesministerium für Digitales und Verkehr",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 35,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19041",
+        "anfangsseite": 19041,
+        "endseite": 19068,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 12",
+          "dokumentnummer": "20/8612, 20/8661",
+          "seite": "19068A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19041D",
+          "aktivitaetsart": "Rede",
+          "titel": "Florian Oßner, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19041"
+        },
+        {
+          "seite": "19043B",
+          "aktivitaetsart": "Rede",
+          "titel": "Frank Schäffler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19043"
+        },
+        {
+          "seite": "19044A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Dirk Spaniel, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19044"
+        },
+        {
+          "seite": "19045A",
+          "aktivitaetsart": "Rede",
+          "titel": "Metin Hakverdi, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19045"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648245",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 17 - Bundesministerium für Familie, Senioren, Frauen und Jugend",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 24,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18993",
+        "anfangsseite": 18993,
+        "endseite": 19018,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 17",
+          "dokumentnummer": "20/8617, 20/8661",
+          "seite": "19018D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "18993D",
+          "aktivitaetsart": "Rede",
+          "titel": "Paul Lehrieder, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18993"
+        },
+        {
+          "seite": "18994D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bruno Hönel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18994"
+        },
+        {
+          "seite": "18996A",
+          "aktivitaetsart": "Rede",
+          "titel": "Ulrike Schielke-Ziesing, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18996"
+        },
+        {
+          "seite": "18997B",
+          "aktivitaetsart": "Rede",
+          "titel": "Felix Döring, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18997"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648244",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 20 - Bundesrechnungshof (zusammenberaten mit Epl 08, Rednerliste s. dort)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.18968",
+        "anfangsseite": 18968,
+        "endseite": 18993,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "einstimmig, damit Annahme Epl 20",
+          "dokumentnummer": "20/8661, 20/8662",
+          "seite": "18993C"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648249",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 21 - Bundesbeauftragter für den Datenschutz und die Informationsfreiheit (zusammenberaten mit Epl 06, Rednerliste s. dort)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19068",
+        "anfangsseite": 19068,
+        "endseite": 19090,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 21",
+          "dokumentnummer": "20/8661, 20/8662",
+          "seite": "19090C"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648246",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 25 - Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 23,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19018",
+        "anfangsseite": 19018,
+        "endseite": 19041,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 25",
+          "dokumentnummer": "20/8661, 20/8662",
+          "seite": "19041C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19019A",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Uhl, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19019"
+        },
+        {
+          "seite": "19020B",
+          "aktivitaetsart": "Rede",
+          "titel": "Uwe Schmidt, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19020"
+        },
+        {
+          "seite": "19021C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sebastian Münzenmaier, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19021"
+        },
+        {
+          "seite": "19022C",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Kurth, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19022"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648251",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 30 - Bundesministerium für Bildung und Forschung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 23,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-03-11T11:52:54+01:00",
+      "fundstelle": {
+        "id": "5624",
+        "dokumentnummer": "20/149",
+        "datum": "2024-01-30",
+        "verteildatum": "2024-01-31",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20149.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19090",
+        "anfangsseite": 19090,
+        "endseite": 19113,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 30",
+          "dokumentnummer": "20/8630, 20/8661",
+          "seite": "19113C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19090D",
+          "aktivitaetsart": "Rede",
+          "titel": "Kerstin Radomski, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19090"
+        },
+        {
+          "seite": "19092A",
+          "aktivitaetsart": "Rede",
+          "titel": "Christoph Meyer, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19092"
+        },
+        {
+          "seite": "19093C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Götz Frömming, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19093"
+        },
+        {
+          "seite": "19094D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Wiebke Esdar, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20149.pdf#P.19094"
+        }
+      ],
+      "datum": "2024-01-30",
+      "vorgang_id": "302729"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "7435",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "SPD"
+  ],
+  "nachname": "Müller",
+  "vorname": "Michael",
+  "typ": "Person",
+  "wahlperiode": [
+    18,
+    19,
+    20
+  ],
+  "aktualisiert": "2022-07-26T19:57:10+02:00",
+  "person_roles": [
+    {
+      "funktionszusatz": "Regierender Bürgermeister",
+      "bundesland": "Berlin",
+      "nachname": "Müller",
+      "vorname": "Michael",
+      "wahlperiode_nummer": [
+        18,
+        19
+      ]
+    },
+    {
+      "nachname": "Müller",
+      "vorname": "Michael",
+      "wahlperiode_nummer": [
+        19
+      ]
+    },
+    {
+      "nachname": "Müller",
+      "vorname": "Michael",
+      "wahlperiode_nummer": [
+        19
+      ]
+    }
+  ],
+  "titel": "Michael Müller, MdB, SPD",
+  "datum": "2025-01-31",
+  "basisdatum": "2015-03-27"
+}

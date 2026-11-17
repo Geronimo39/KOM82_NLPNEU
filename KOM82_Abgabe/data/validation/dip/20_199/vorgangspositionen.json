@@ -1,0 +1,3194 @@
+{
+  "numFound": 62,
+  "documents": [
+    {
+      "id": "663455",
+      "vorgangsposition": "Antrag zur Geschäftsordnung",
+      "zuordnung": "BT",
+      "abstract": "S. 25814B - Geschäftsordnungsantrag der Fraktion der AfD auf Erweiterung der Tagesordnung\r\nS. 25814B – Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP auf Erweiterung der Tagesordnung\r\nS. 25814C - Geschäftsordnungsantrag der Gruppe Die Linke auf Erweiterung der Tagesordnung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Anmerkung zur Plenarsitzung",
+      "titel": "Feststellung der Tagesordnung der 199. bis 201. Sitzung des Deutschen Bundestages",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-11T11:12:05+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Griechenland: Vorzeitige Teilrückzahlung bilateraler europäischer Kredite des ersten Hilfsprogramms\r\n1. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Absatz 2 Nummer 2 des Stabilisierungsmechanismusgesetzes\r\n2. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 5 Absatz 2 Nummer 1 des ESM-Finanzierungsgesetzes",
+          "id": "316662"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung der Höfeordnung, zur Änderung der Verfahrensordnung für Höfesachen und zur Änderung des Gesetzes zur Modernisierung des Strafverfahrens",
+          "id": "314875"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317183"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317185"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317184"
+        }
+      ],
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25813",
+        "anfangsseite": 25813,
+        "endseite": 25820,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP",
+          "seite": "25819D"
+        },
+        {
+          "beschlusstenor": "Ablehnung Geschäftsordnungsantrag der Fraktion der AfD",
+          "seite": "25819D"
+        },
+        {
+          "beschlusstenor": "Ablehnung Geschäftsordnungsantrag der Gruppe Die Linke",
+          "seite": "25819D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25814C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25814"
+        },
+        {
+          "seite": "25815B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25815"
+        },
+        {
+          "seite": "25816A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25816"
+        },
+        {
+          "seite": "25817A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25817"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317593"
+    },
+    {
+      "id": "663460",
+      "vorgangsposition": "Regierungserklärung und Aussprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Regierungserklärung",
+      "titel": "Regierungserklärung zur aktuellen Lage",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 20,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25820",
+        "anfangsseite": 25820,
+        "endseite": 25858,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25820A",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25820"
+        },
+        {
+          "seite": "25826D",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25826"
+        },
+        {
+          "seite": "25831C",
+          "aktivitaetsart": "Rede",
+          "titel": "Annalena Baerbock, Bundesmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25831"
+        },
+        {
+          "seite": "25834C",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Lindner, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25834"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317598"
+    },
+    {
+      "id": "663474",
+      "vorgangsposition": "Einleitende Ausführungen und Befragung der Bundesregierung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Befragung der Bundesregierung",
+      "titel": "Einleitende Ausführungen und Befragung des Bundesministers für Arbeit und Soziales, Hubertus Heil, sowie des Bundesministers für besondere Aufgaben, Wolfgang Schmidt",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 36,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-01-22T13:42:57+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25858",
+        "anfangsseite": 25858,
+        "endseite": 25883,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25858B",
+          "aktivitaetsart": "Einleitende Ausführungen und Beantwortung",
+          "titel": "Hubertus Heil, Bundesmin., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25858"
+        },
+        {
+          "seite": "25859A",
+          "aktivitaetsart": "Einleitende Ausführungen und Beantwortung",
+          "titel": "Wolfgang Schmidt, Bundesmin. f. besondere Aufgaben und Ch. des Bundeskanzleramtes, Bundeskanzleramt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25859"
+        },
+        {
+          "seite": "25860A",
+          "aktivitaetsart": "Frage",
+          "titel": "Jürgen Hardt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25860"
+        },
+        {
+          "seite": "25861A",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25861"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317607"
+    },
+    {
+      "id": "663479",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Kein Stillstand im Parlament - Sachbezogene Mehrheiten nutzen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 14,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25907",
+        "anfangsseite": 25907,
+        "endseite": 25925,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25907B",
+          "aktivitaetsart": "Rede",
+          "titel": "Sebastian Münzenmaier, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25907"
+        },
+        {
+          "seite": "25909A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Johannes Fechner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25909"
+        },
+        {
+          "seite": "25910B",
+          "aktivitaetsart": "Rede",
+          "titel": "Patrick Schnieder, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25910"
+        },
+        {
+          "seite": "25911D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25911"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317608"
+    },
+    {
+      "id": "663484",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Maßnahmen gegen betrügerische Webseiten zur Wohngeld-Antragstellung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25883",
+        "anfangsseite": 25883,
+        "endseite": 25884,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25883B",
+          "aktivitaetsart": "Frage",
+          "titel": "Tobias Matthias Peterka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25883"
+        },
+        {
+          "seite": "25883C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25883"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317394"
+    },
+    {
+      "id": "663488",
+      "vorgangsposition": "Rücknahme",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Wirtschaftliche Lage der deutschen Baubranche",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25884",
+        "anfangsseite": 25884,
+        "endseite": 25884,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-11-13",
+      "vorgang_id": "317395"
+    },
+    {
+      "id": "663491",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bereitstellung von Bundesmitteln im Rahmen des kommunalen Wärmeplanungsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25884",
+        "anfangsseite": 25884,
+        "endseite": 25885,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25884A",
+          "aktivitaetsart": "Frage",
+          "titel": "Michael Kießling, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25884"
+        },
+        {
+          "seite": "25884B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25884"
+        },
+        {
+          "seite": "25884D",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Dr. Jan-Marco Luczak, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25884"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317396"
+    },
+    {
+      "id": "663493",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Kritik der Bauwirtschaft an der geplanten Umsetzung des sog. Gebäudetyp E",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25885",
+        "anfangsseite": 25885,
+        "endseite": 25885,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25885A",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Jan-Marco Luczak, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25885"
+        },
+        {
+          "seite": "25885B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25885"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317397"
+    },
+    {
+      "id": "663494",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bau-Turbo-Pakt als Bestandteil der BauGB-Novelle",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25885",
+        "anfangsseite": 25885,
+        "endseite": 25887,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25885D",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Jan-Marco Luczak, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25885"
+        },
+        {
+          "seite": "25885D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25885"
+        },
+        {
+          "seite": "25886C",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Bernhard Daldrup, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25886"
+        },
+        {
+          "seite": "25887A",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Michael Kießling, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25887"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317398"
+    },
+    {
+      "id": "663495",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Vorlage der geplanten \"Baukulturellen Leitlinien des Bundes\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25887",
+        "anfangsseite": 25887,
+        "endseite": 25888,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25887A",
+          "aktivitaetsart": "Frage",
+          "titel": "Lars Rohwer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25887"
+        },
+        {
+          "seite": "25887B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25887"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317399"
+    },
+    {
+      "id": "663496",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Wichtige Vorhaben des BMWSB bis Ende der aktuellen Wahlperiode",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25888",
+        "anfangsseite": 25888,
+        "endseite": 25890,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25888A",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25888"
+        },
+        {
+          "seite": "25888A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25888"
+        },
+        {
+          "seite": "25889A",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Bernhard Daldrup, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25889"
+        },
+        {
+          "seite": "25889D",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Dr. Jan-Marco Luczak, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25889"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317400"
+    },
+    {
+      "id": "663498",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Wohneigentumsquote in Deutschland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 4,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25890",
+        "anfangsseite": 25890,
+        "endseite": 25892,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25890B",
+          "aktivitaetsart": "Frage",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25890"
+        },
+        {
+          "seite": "25890B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25890"
+        },
+        {
+          "seite": "25891D",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Bernhard Daldrup, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25891"
+        },
+        {
+          "seite": "25892B",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Michael Kießling, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25892"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317401"
+    },
+    {
+      "id": "663499",
+      "vorgangsposition": "Mündliche Frage/Mündliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Zwischenunterbringung der Bundesstiftung Bauakademie aufgrund des Auslaufens des Mietvertrags Ende Januar 2025",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 3,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25892",
+        "anfangsseite": 25892,
+        "endseite": 25894,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25892D",
+          "aktivitaetsart": "Frage",
+          "titel": "Lars Rohwer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25892"
+        },
+        {
+          "seite": "25892D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25892"
+        },
+        {
+          "seite": "25893C",
+          "aktivitaetsart": "Zusatzfrage",
+          "titel": "Michael Kießling, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25893"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317402"
+    },
+    {
+      "id": "663523",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Abstimmung zum Gesetz zur Stärkung der integrierten Stadtentwicklung im Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25927",
+        "anfangsseite": 25927,
+        "endseite": 25928,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25927D",
+          "aktivitaetsart": "Frage",
+          "titel": "Caren Lay, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25927"
+        },
+        {
+          "seite": "25927D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25927"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317403"
+    },
+    {
+      "id": "663528",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Entwicklung der Zahl der Sozialwohnungen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928",
+        "anfangsseite": 25928,
+        "endseite": 25928,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25928A",
+          "aktivitaetsart": "Frage",
+          "titel": "Caren Lay, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928"
+        },
+        {
+          "seite": "25928A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317404"
+    },
+    {
+      "id": "663531",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Erfahrungsberichte der Kommunen zum Raumordnungsänderungsgesetz von 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928",
+        "anfangsseite": 25928,
+        "endseite": 25928,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25928A",
+          "aktivitaetsart": "Frage",
+          "titel": "Michael Breilmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928"
+        },
+        {
+          "seite": "25928A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sören Bartol, Parl. Staatssekr., Bundesministerium für Wohnen, Stadtentwicklung und Bauwesen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317405"
+    },
+    {
+      "id": "663536",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Nichtgenehmigung von Netzanschlussbegehren für Photovoltaikanlagen in den vergangenen zwölf Monaten in Rheinland-Pfalz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928",
+        "anfangsseite": 25928,
+        "endseite": 25928,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25928C",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Thomas Gebhart, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928"
+        },
+        {
+          "seite": "25928C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317406"
+    },
+    {
+      "id": "663542",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Entscheidungsprozess bzgl. einer möglichen Unterstützung der Beteiligung des amerikanischen Finanzinvestors Carlyle an der Werftengruppe Thyssen-Krupp Marine Systems",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928",
+        "anfangsseite": 25928,
+        "endseite": 25929,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25928D",
+          "aktivitaetsart": "Frage",
+          "titel": "Ingo Gädechens, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928"
+        },
+        {
+          "seite": "25928D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25928"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317407"
+    },
+    {
+      "id": "663545",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Dialogformate mit der industriellen Gesundheitswirtschaft",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929",
+        "anfangsseite": 25929,
+        "endseite": 25929,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25929A",
+          "aktivitaetsart": "Frage",
+          "titel": "Kristine Lütke, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929"
+        },
+        {
+          "seite": "25929A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317408"
+    },
+    {
+      "id": "663548",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Nutzung des Postblockgeländes in der Wilhelmstraße in Berlin nach dem verkündeten Stopp der Pläne für einen Erweiterungsbau des BMF",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929",
+        "anfangsseite": 25929,
+        "endseite": 25929,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25929B",
+          "aktivitaetsart": "Frage",
+          "titel": "Mechthild Heil, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929"
+        },
+        {
+          "seite": "25929B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317409"
+    },
+    {
+      "id": "663552",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Schaffung zusätzlicher Stellen in der geplanten Stiftung \"Finanzbildung, Geld und Währung\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929",
+        "anfangsseite": 25929,
+        "endseite": 25929,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25929C",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Jarzombek, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929"
+        },
+        {
+          "seite": "25929D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317410"
+    },
+    {
+      "id": "663554",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Anzahl der Basiskonten bei öffentlichen und privaten Banken",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929",
+        "anfangsseite": 25929,
+        "endseite": 25930,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25929D",
+          "aktivitaetsart": "Frage",
+          "titel": "Clara Bünger, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929"
+        },
+        {
+          "seite": "25929D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25929"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317411"
+    },
+    {
+      "id": "663555",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Treffen des ehemaligen Staatssekretärs und heutigen Bundesministers Jörg Kukies mit Vertretern der UniCredit Group",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25930",
+        "anfangsseite": 25930,
+        "endseite": 25930,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25930A",
+          "aktivitaetsart": "Frage",
+          "titel": "Matthias Hauer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25930"
+        },
+        {
+          "seite": "25930A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25930"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317412"
+    },
+    {
+      "id": "663556",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Mögliche Begründung für eine Aussetzung der Schuldenbremse",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25930",
+        "anfangsseite": 25930,
+        "endseite": 25930,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25930B",
+          "aktivitaetsart": "Frage",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25930"
+        },
+        {
+          "seite": "25930C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25930"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317413"
+    },
+    {
+      "id": "663558",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Auswirkungen einer vorläufigen Haushaltsführung des Bundes auf die finanzielle Lage der Bundesländer",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25930",
+        "anfangsseite": 25930,
+        "endseite": 25931,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25930D",
+          "aktivitaetsart": "Frage",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25930"
+        },
+        {
+          "seite": "25931A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317414"
+    },
+    {
+      "id": "663559",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Steigerung der Attraktivität Deutschlands als Investitionsstandort für privates Wagniskapital im Gesundheitssektor",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931",
+        "anfangsseite": 25931,
+        "endseite": 25931,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25931A",
+          "aktivitaetsart": "Frage",
+          "titel": "Kristine Lütke, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931"
+        },
+        {
+          "seite": "25931A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317415"
+    },
+    {
+      "id": "663565",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Möglichkeit gemischter nationaler Identitäten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931",
+        "anfangsseite": 25931,
+        "endseite": 25931,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25931B",
+          "aktivitaetsart": "Frage",
+          "titel": "Eugen Schmidt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931"
+        },
+        {
+          "seite": "25931C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317416"
+    },
+    {
+      "id": "663566",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Unterscheidung zwischen uniformierten und nicht uniformierten Ortskräften aus Afghanistan im Rahmen der Prüfung einer bestehenden Gefährdungslage",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931",
+        "anfangsseite": 25931,
+        "endseite": 25931,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25931C",
+          "aktivitaetsart": "Frage",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931"
+        },
+        {
+          "seite": "25931D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317417"
+    },
+    {
+      "id": "663568",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Funde im Rahmen der Durchsuchungsmaßnahmen bei den Beschuldigten der mutmaßlich rechtsterroristischen Vereinigung \"Sächsische Separatisten\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931",
+        "anfangsseite": 25931,
+        "endseite": 25932,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25931D",
+          "aktivitaetsart": "Frage",
+          "titel": "Martina Renner, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931"
+        },
+        {
+          "seite": "25931D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25931"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317418"
+    },
+    {
+      "id": "663570",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Waffenrechtliche Erlaubnisse von Mitgliedern und Unterstützern der mutmaßlich rechtsterroristischen Vereinigung \"Sächsische Separatisten\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932",
+        "anfangsseite": 25932,
+        "endseite": 25932,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25932A",
+          "aktivitaetsart": "Frage",
+          "titel": "Martina Renner, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932"
+        },
+        {
+          "seite": "25932A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317631"
+    },
+    {
+      "id": "663571",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Entscheidungen der Verwaltungsgerichte zu Untätigkeitsklagen von Asylsuchenden aus dem Gazastreifen seit dem 7. Oktober 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932",
+        "anfangsseite": 25932,
+        "endseite": 25932,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25932A",
+          "aktivitaetsart": "Frage",
+          "titel": "Clara Bünger, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932"
+        },
+        {
+          "seite": "25932B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317432"
+    },
+    {
+      "id": "663572",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Koordinierungsmaßnahmen des BKA beim 10. nationalen Aktionstag gegen Hasskriminalität im Netz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932",
+        "anfangsseite": 25932,
+        "endseite": 25932,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25932B",
+          "aktivitaetsart": "Frage",
+          "titel": "Eugen Schmidt, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932"
+        },
+        {
+          "seite": "25932C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317434"
+    },
+    {
+      "id": "663573",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Unternehmensbeteiligungen von Mitgliedern der Bundesregierung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932",
+        "anfangsseite": 25932,
+        "endseite": 25933,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25932D",
+          "aktivitaetsart": "Frage",
+          "titel": "Matthias Hauer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932"
+        },
+        {
+          "seite": "25932D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25932"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317435"
+    },
+    {
+      "id": "663574",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Nicht religionsbezogene Bestrebungen gegen die Weltanschauungsfreiheit gemäß Bundesverfassungsschutzgesetz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933",
+        "anfangsseite": 25933,
+        "endseite": 25933,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25933B",
+          "aktivitaetsart": "Frage",
+          "titel": "Roger Beckamp, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933"
+        },
+        {
+          "seite": "25933B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317436"
+    },
+    {
+      "id": "663575",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Handlungsspielraum der ukrainischen Bevölkerung in Bezug auf die Fortführung bzw. Beendigung des Krieges mit Russland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933",
+        "anfangsseite": 25933,
+        "endseite": 25933,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25933C",
+          "aktivitaetsart": "Frage",
+          "titel": "Andrej Hunko, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933"
+        },
+        {
+          "seite": "25933C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Tobias Lindner, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317437"
+    },
+    {
+      "id": "663576",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Todesfälle deutscher Staatsangehöriger infolge des Ukrainekriegs seit Februar 2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933",
+        "anfangsseite": 25933,
+        "endseite": 25933,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25933D",
+          "aktivitaetsart": "Frage",
+          "titel": "Andrej Hunko, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933"
+        },
+        {
+          "seite": "25933D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Tobias Lindner, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317438"
+    },
+    {
+      "id": "663577",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Beeinträchtigung humanitärer Hilfszahlungen nach Syrien aufgrund bestehender Over-Compliance von Banken",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933",
+        "anfangsseite": 25933,
+        "endseite": 25934,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25933D",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Stephan Pilsinger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25933"
+        },
+        {
+          "seite": "25934A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Tobias Lindner, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317439"
+    },
+    {
+      "id": "663578",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Bewertung der Zulassungspraxis einzelner Universitäten in den USA",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934",
+        "anfangsseite": 25934,
+        "endseite": 25934,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25934A",
+          "aktivitaetsart": "Frage",
+          "titel": "Roger Beckamp, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934"
+        },
+        {
+          "seite": "25934B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Tobias Lindner, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317440"
+    },
+    {
+      "id": "663579",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Mögliche Verwendung von EU-Fördermitteln für die Errichtung eines Skigebiets in der Ukraine",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934",
+        "anfangsseite": 25934,
+        "endseite": 25934,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25934B",
+          "aktivitaetsart": "Frage",
+          "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934"
+        },
+        {
+          "seite": "25934B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Tobias Lindner, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317442"
+    },
+    {
+      "id": "663580",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Gewährleistung der Verschwiegenheitsverpflichtung von Beschäftigten an Gerichten und bei Staatsanwaltschaften bzgl. der Nutzung des Tools \"juris Collect\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934",
+        "anfangsseite": 25934,
+        "endseite": 25935,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25934C",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Martin Plum, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934"
+        },
+        {
+          "seite": "25934C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25934"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317443"
+    },
+    {
+      "id": "663582",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Beauftragung externer Gutachten durch das BMJ seit dem 1. Mai 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25935",
+        "anfangsseite": 25935,
+        "endseite": 25935,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25935C",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Martin Plum, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25935"
+        },
+        {
+          "seite": "25935C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Rita Schwarzelühr-Sutter, Parl. Staatssekr., Bundesministerium des Innern und für Heimat",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25935"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317445"
+    },
+    {
+      "id": "663583",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Abschaffung des Lieferkettengesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25935",
+        "anfangsseite": 25935,
+        "endseite": 25935,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25935B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25935"
+        },
+        {
+          "seite": "25935B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25935"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317448"
+    },
+    {
+      "id": "663584",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Aufhebung des generellen Prüfstopps in Statusfeststellungsverfahren der Deutschen Rentenversicherung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25935",
+        "anfangsseite": 25935,
+        "endseite": 25936,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25935B",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Seitz, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25935"
+        },
+        {
+          "seite": "25935D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Anette Kramme, Parl. Staatssekr., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25935"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317450"
+    },
+    {
+      "id": "663585",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Abbau bürokratischer Hemmnisse zur beschleunigten Beschaffung von Rüstungsgütern",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25936",
+        "anfangsseite": 25936,
+        "endseite": 25936,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25936B",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Seitz, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25936"
+        },
+        {
+          "seite": "25936B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25936"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317452"
+    },
+    {
+      "id": "663586",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Höhe der seit dem 24. Februar 2022 geleisteten Militärhilfe an die Ukraine",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25936",
+        "anfangsseite": 25936,
+        "endseite": 25936,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25936C",
+          "aktivitaetsart": "Frage",
+          "titel": "Sevim Dagdelen, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25936"
+        },
+        {
+          "seite": "25936C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25936"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317453"
+    },
+    {
+      "id": "663600",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Wirtschaftlichkeitsuntersuchung zum Betrieb und zur Betreuung des Gefechtsübungszentrums Heer",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25936",
+        "anfangsseite": 25936,
+        "endseite": 25937,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25936D",
+          "aktivitaetsart": "Frage",
+          "titel": "Ingo Gädechens, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25936"
+        },
+        {
+          "seite": "25936D",
+          "aktivitaetsart": "Antwort",
+          "titel": "Thomas Hitschler, Parl. Staatssekr., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25936"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317454"
+    },
+    {
+      "id": "663601",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Stärkung von Gewaltschutzambulanzen in Krankenhäusern bei der Versorgung von Betroffenen häuslicher Gewalt",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937",
+        "anfangsseite": 25937,
+        "endseite": 25937,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25937A",
+          "aktivitaetsart": "Frage",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937"
+        },
+        {
+          "seite": "25937A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sabine Dittmar, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317455"
+    },
+    {
+      "id": "663602",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Weiterführung des parlamentarischen Verfahrens zu eingebrachten Gesetzentwürfen im Bereich Gesundheitspolitik nach dem Bruch der Regierungskoalition",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937",
+        "anfangsseite": 25937,
+        "endseite": 25937,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25937B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Stephan Pilsinger, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937"
+        },
+        {
+          "seite": "25937B",
+          "aktivitaetsart": "Antwort",
+          "titel": "Sabine Dittmar, Parl. Staatssekr., Bundesministerium für Gesundheit",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317456"
+    },
+    {
+      "id": "663603",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Sachstand zum Konzept der Überdachung von Mitfahrerparkplätzen in Rheinland-Pfalz mit Photovoltaik-Anlagen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937",
+        "anfangsseite": 25937,
+        "endseite": 25937,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25937B",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Thomas Gebhart, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937"
+        },
+        {
+          "seite": "25937C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Susanne Henckel, Staatssekr., Bundesministerium für Digitales und Verkehr",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317458"
+    },
+    {
+      "id": "663604",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Rückbau von Dämmen und Flutbarrieren im Zuge der EU-Biodiversitätsstrategie",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937",
+        "anfangsseite": 25937,
+        "endseite": 25937,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25937C",
+          "aktivitaetsart": "Frage",
+          "titel": "Dr. Rainer Kraft, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937"
+        },
+        {
+          "seite": "25937C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Dr. Jan-Niclas Gesenhues, Parl. Staatssekr., Bundesministerium für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317459"
+    },
+    {
+      "id": "663605",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Konzept zur Deutschen Agentur für Transfer und Innovation",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937",
+        "anfangsseite": 25937,
+        "endseite": 25938,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25937D",
+          "aktivitaetsart": "Frage",
+          "titel": "Thomas Jarzombek, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25937"
+        },
+        {
+          "seite": "25938A",
+          "aktivitaetsart": "Antwort",
+          "titel": "Judith Pirscher, Staatssekr., Bundesministerium für Bildung und Forschung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25938"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317460"
+    },
+    {
+      "id": "663607",
+      "vorgangsposition": "Mündliche Frage/Schriftliche Antwort",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Entwicklungshilfe für Projekte zur Gendergerechtigkeit seit Beginn der 20. Wahlperiode",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25938",
+        "anfangsseite": 25938,
+        "endseite": 25938,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25938A",
+          "aktivitaetsart": "Frage",
+          "titel": "Tobias Matthias Peterka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25938"
+        },
+        {
+          "seite": "25938C",
+          "aktivitaetsart": "Antwort",
+          "titel": "Niels Annen, Parl. Staatssekr., Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25938"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317462"
+    },
+    {
+      "id": "663608",
+      "vorgangsposition": "Rücknahme",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Mündliche Frage",
+      "titel": "Etat für Entwicklungshilfeleistungen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25938",
+        "anfangsseite": 25938,
+        "endseite": 25938,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2024-11-13",
+      "vorgang_id": "317463"
+    },
+    {
+      "id": "663866",
+      "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP auf Aufsetzung auf die Tagesordnung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Griechenland: Vorzeitige Teilrückzahlung bilateraler europäischer Kredite des ersten Hilfsprogramms\r\n1. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Absatz 2 Nummer 2 des Stabilisierungsmechanismusgesetzes\r\n2. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 5 Absatz 2 Nummer 1 des ESM-Finanzierungsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-11T11:12:05+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Antrag zur Geschäftsordnung",
+          "vorgangstyp": "Anmerkung zur Plenarsitzung",
+          "titel": "Feststellung der Tagesordnung der 199. bis 201. Sitzung des Deutschen Bundestages",
+          "id": "317593"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung der Höfeordnung, zur Änderung der Verfahrensordnung für Höfesachen und zur Änderung des Gesetzes zur Modernisierung des Strafverfahrens",
+          "id": "314875"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317183"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317185"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317184"
+        }
+      ],
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25813",
+        "anfangsseite": 25813,
+        "endseite": 25820,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme Geschäftsordnungsantrag",
+          "seite": "25819D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25814C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25814"
+        },
+        {
+          "seite": "25815B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25815"
+        },
+        {
+          "seite": "25816A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25816"
+        },
+        {
+          "seite": "25817A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25817"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "316662"
+    },
+    {
+      "id": "663868",
+      "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP auf Aufsetzung der Wahlen auf die Tagesordnung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung externer Gremien durch BT",
+      "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-11T11:12:05+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Antrag zur Geschäftsordnung",
+          "vorgangstyp": "Anmerkung zur Plenarsitzung",
+          "titel": "Feststellung der Tagesordnung der 199. bis 201. Sitzung des Deutschen Bundestages",
+          "id": "317593"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Griechenland: Vorzeitige Teilrückzahlung bilateraler europäischer Kredite des ersten Hilfsprogramms\r\n1. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Absatz 2 Nummer 2 des Stabilisierungsmechanismusgesetzes\r\n2. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 5 Absatz 2 Nummer 1 des ESM-Finanzierungsgesetzes",
+          "id": "316662"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung der Höfeordnung, zur Änderung der Verfahrensordnung für Höfesachen und zur Änderung des Gesetzes zur Modernisierung des Strafverfahrens",
+          "id": "314875"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317185"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317184"
+        }
+      ],
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25813",
+        "anfangsseite": 25813,
+        "endseite": 25820,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme Geschäftsordnungsantrag",
+          "seite": "25819D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25814C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25814"
+        },
+        {
+          "seite": "25815B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25815"
+        },
+        {
+          "seite": "25816A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25816"
+        },
+        {
+          "seite": "25817A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25817"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317183"
+    },
+    {
+      "id": "663869",
+      "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP auf Aufsetzung des Wahlvorschlags auf die Tagesordnung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung externer Gremien durch BT",
+      "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-11T11:15:05+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Antrag zur Geschäftsordnung",
+          "vorgangstyp": "Anmerkung zur Plenarsitzung",
+          "titel": "Feststellung der Tagesordnung der 199. bis 201. Sitzung des Deutschen Bundestages",
+          "id": "317593"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Griechenland: Vorzeitige Teilrückzahlung bilateraler europäischer Kredite des ersten Hilfsprogramms\r\n1. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Absatz 2 Nummer 2 des Stabilisierungsmechanismusgesetzes\r\n2. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 5 Absatz 2 Nummer 1 des ESM-Finanzierungsgesetzes",
+          "id": "316662"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung der Höfeordnung, zur Änderung der Verfahrensordnung für Höfesachen und zur Änderung des Gesetzes zur Modernisierung des Strafverfahrens",
+          "id": "314875"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317183"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317184"
+        }
+      ],
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25813",
+        "anfangsseite": 25813,
+        "endseite": 25820,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme Geschäftsordnungsantrag",
+          "seite": "25819D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25814C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25814"
+        },
+        {
+          "seite": "25815B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25815"
+        },
+        {
+          "seite": "25816A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25816"
+        },
+        {
+          "seite": "25817A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25817"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317185"
+    },
+    {
+      "id": "663870",
+      "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP auf Aufsetzung der Wahlen auf die Tagesordnung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung externer Gremien durch BT",
+      "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-11T11:12:05+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Antrag zur Geschäftsordnung",
+          "vorgangstyp": "Anmerkung zur Plenarsitzung",
+          "titel": "Feststellung der Tagesordnung der 199. bis 201. Sitzung des Deutschen Bundestages",
+          "id": "317593"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Griechenland: Vorzeitige Teilrückzahlung bilateraler europäischer Kredite des ersten Hilfsprogramms\r\n1. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Absatz 2 Nummer 2 des Stabilisierungsmechanismusgesetzes\r\n2. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 5 Absatz 2 Nummer 1 des ESM-Finanzierungsgesetzes",
+          "id": "316662"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung der Höfeordnung, zur Änderung der Verfahrensordnung für Höfesachen und zur Änderung des Gesetzes zur Modernisierung des Strafverfahrens",
+          "id": "314875"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317183"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317185"
+        }
+      ],
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25813",
+        "anfangsseite": 25813,
+        "endseite": 25820,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme Geschäftsordnungsantrag",
+          "seite": "25819D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25814C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25814"
+        },
+        {
+          "seite": "25815B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25815"
+        },
+        {
+          "seite": "25816A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25816"
+        },
+        {
+          "seite": "25817A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25817"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "317184"
+    },
+    {
+      "id": "663892",
+      "vorgangsposition": "Feststellung der Tagesordnung",
+      "zuordnung": "BT",
+      "abstract": "S. 25820A - Feststellung der Tagesordnung durch Annahme des Geschäftsordnungsantrags der Fraktionen SPD, CDU/CSU, B90/GR und FDP",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Anmerkung zur Plenarsitzung",
+      "titel": "Feststellung der Tagesordnung der 199. bis 201. Sitzung des Deutschen Bundestages",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25813",
+        "anfangsseite": 25813,
+        "endseite": 25820,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-11-13",
+      "vorgang_id": "317593"
+    },
+    {
+      "id": "663477",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Griechenland: Vorzeitige Teilrückzahlung bilateraler europäischer Kredite des ersten Hilfsprogramms\r\n1. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Absatz 2 Nummer 2 des Stabilisierungsmechanismusgesetzes\r\n2. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 5 Absatz 2 Nummer 1 des ESM-Finanzierungsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25907",
+        "anfangsseite": 25907,
+        "endseite": 25907,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/13421",
+          "seite": "25907A"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "316662"
+    },
+    {
+      "id": "663476",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Rechtsverordnung (Außenwirtschaftsrecht)",
+      "titel": "Einundzwanzigste Verordnung zur Änderung der Außenwirtschaftsverordnung - aufhebbare Verordnung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-26T15:31:33+01:00",
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25900",
+        "anfangsseite": 25900,
+        "endseite": 25906,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Beschlussempfehlung",
+          "abstimm_ergebnis_bemerkung": "kein Verlangen auf Aufhebung der Verordnung (20/12685)",
+          "dokumentnummer": "20/13712",
+          "seite": "25906D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25900D",
+          "aktivitaetsart": "Rede",
+          "titel": "Maik Außendorf, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25900"
+        },
+        {
+          "seite": "25902A",
+          "aktivitaetsart": "Rede",
+          "titel": "Stefan Rouenhoff, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25902"
+        },
+        {
+          "seite": "25902D",
+          "aktivitaetsart": "Rede",
+          "titel": "Sebastian Roloff, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25902"
+        },
+        {
+          "seite": "25903D",
+          "aktivitaetsart": "Rede",
+          "titel": "Carl-Julius Cronenberg, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25903"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "315192"
+    },
+    {
+      "id": "663475",
+      "vorgangsposition": "Zurückverweisung an die Ausschüsse in 2./3. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP auf Zurückverweisung an den Ausschuss",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung eines Nachtrags zum Bundeshaushaltsplan für das Haushaltsjahr 2024 (Nachtragshaushaltsgesetz 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-05-20T10:53:08+02:00",
+      "ueberweisung": [
+        {
+          "ueberweisungsart": "Zurückverweisung",
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": true
+        }
+      ],
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25894",
+        "anfangsseite": 25894,
+        "endseite": 25900,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Zurückverweisung",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/12770, 20/13337",
+          "seite": "25900C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25894A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Jörg Kukies, Bundesmin., Bundesministerium der Finanzen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25894"
+        },
+        {
+          "seite": "25895A",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Haase, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25895"
+        },
+        {
+          "seite": "25895C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sven-Christian Kindler, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25895"
+        },
+        {
+          "seite": "25896C",
+          "aktivitaetsart": "Rede",
+          "titel": "Otto Fricke, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25896"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "315277"
+    },
+    {
+      "id": "663867",
+      "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD, CDU/CSU, B90/GR und FDP auf Aufsetzung auf die Tagesordnung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung der Höfeordnung, zur Änderung der Verfahrensordnung für Höfesachen und zur Änderung des Gesetzes zur Modernisierung des Strafverfahrens",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 7,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-02-11T11:12:05+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Antrag zur Geschäftsordnung",
+          "vorgangstyp": "Anmerkung zur Plenarsitzung",
+          "titel": "Feststellung der Tagesordnung der 199. bis 201. Sitzung des Deutschen Bundestages",
+          "id": "317593"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag auf Aufsetzung auf die TO",
+          "vorgangstyp": "Antrag",
+          "titel": "Griechenland: Vorzeitige Teilrückzahlung bilateraler europäischer Kredite des ersten Hilfsprogramms\r\n1. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages nach § 3 Absatz 2 Nummer 2 des Stabilisierungsmechanismusgesetzes\r\n2. Antrag auf Einholung eines zustimmenden Beschlusses des Deutschen Bundestages gemäß § 5 Absatz 2 Nummer 1 des ESM-Finanzierungsgesetzes",
+          "id": "316662"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317183"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317185"
+        },
+        {
+          "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+          "vorgangstyp": "Besetzung externer Gremien durch BT",
+          "titel": "Wahl der Mitglieder des Kuratoriums der Stiftung \"Deutsches Historisches Museum\"",
+          "id": "317184"
+        }
+      ],
+      "fundstelle": {
+        "id": "5683",
+        "dokumentnummer": "20/199",
+        "datum": "2024-11-13",
+        "verteildatum": "2024-11-14",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20199.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25813",
+        "anfangsseite": 25813,
+        "endseite": 25820,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme Geschäftsordnungsantrag",
+          "seite": "25819D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25814C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25814"
+        },
+        {
+          "seite": "25815B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Dr. Bernd Baumann, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25815"
+        },
+        {
+          "seite": "25816A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25816"
+        },
+        {
+          "seite": "25817A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Christian Görke, MdB, Die Linke (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20199.pdf#P.25817"
+        }
+      ],
+      "datum": "2024-11-13",
+      "vorgang_id": "314875"
+    }
+  ]
+}

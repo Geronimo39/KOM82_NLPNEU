@@ -1,0 +1,150 @@
+{
+  "numFound": 3,
+  "documents": [
+    {
+      "id": "665308",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Sören Pellmann (Die Linke)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-10-31T08:05:48+01:00",
+      "fundstelle": {
+        "id": "5690",
+        "dokumentnummer": "20/205",
+        "datum": "2024-12-16",
+        "verteildatum": "2024-12-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20205.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20205.pdf#P.26527",
+        "anfangsseite": 26527,
+        "endseite": 26527,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26527B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20205.pdf#P.26527"
+        }
+      ],
+      "datum": "2024-12-16",
+      "vorgang_id": "318684"
+    },
+    {
+      "id": "665309",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Thomas Seitz (fraktionslos)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-10-31T08:05:48+01:00",
+      "fundstelle": {
+        "id": "5690",
+        "dokumentnummer": "20/205",
+        "datum": "2024-12-16",
+        "verteildatum": "2024-12-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20205.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20205.pdf#P.26530",
+        "anfangsseite": 26530,
+        "endseite": 26530,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26530C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20205.pdf#P.26530"
+        }
+      ],
+      "datum": "2024-12-16",
+      "vorgang_id": "318685"
+    },
+    {
+      "id": "665307",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Vertrauensantrag des Bundeskanzlers",
+      "titel": "Antrag des Bundeskanzlers Olaf Scholz gemäß Artikel 68 des Grundgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 22,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-10-31T08:05:48+01:00",
+      "fundstelle": {
+        "id": "5690",
+        "dokumentnummer": "20/205",
+        "datum": "2024-12-16",
+        "verteildatum": "2024-12-17",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20205.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20205.pdf#P.26495",
+        "anfangsseite": 26495,
+        "endseite": 26536,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "mehrheit": "Absolute Mehrheit",
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "207:394:116",
+          "dokumentnummer": "20/14150",
+          "seite": "26533A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "26495B",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20205.pdf#P.26495"
+        },
+        {
+          "seite": "26501D",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20205.pdf#P.26501"
+        },
+        {
+          "seite": "26506D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20205.pdf#P.26506"
+        },
+        {
+          "seite": "26511C",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Lindner, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20205.pdf#P.26511"
+        }
+      ],
+      "datum": "2024-12-16",
+      "vorgang_id": "318527"
+    }
+  ]
+}

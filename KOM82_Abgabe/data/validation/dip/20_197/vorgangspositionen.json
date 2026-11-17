@@ -1,0 +1,414 @@
+{
+  "numFound": 10,
+  "documents": [
+    {
+      "id": "662974",
+      "vorgangsposition": "Vereidigung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Bekanntgabe der Ernennung von Dr. Jörg Kukies zum Bundesminister der Finanzen; Vereidigung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25734",
+        "anfangsseite": 25734,
+        "endseite": 25734,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "datum": "2024-11-07",
+      "vorgang_id": "317262"
+    },
+    {
+      "id": "662977",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 15,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25734",
+        "anfangsseite": 25734,
+        "endseite": 25751,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25734C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Sahra Wagenknecht, MdB, BSW (Gruppe)",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25734"
+        },
+        {
+          "seite": "25735D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ralf Stegner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25735"
+        },
+        {
+          "seite": "25737C",
+          "aktivitaetsart": "Rede",
+          "titel": "Jürgen Hardt, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25737"
+        },
+        {
+          "seite": "25738D",
+          "aktivitaetsart": "Rede",
+          "titel": "Annalena Baerbock, Bundesmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25738"
+        }
+      ],
+      "datum": "2024-11-07",
+      "vorgang_id": "317264"
+    },
+    {
+      "id": "663007",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Begrüßung des Präsidenten der Deutsch-Israelischen Gesellschaft, Volker Beck",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25712",
+        "anfangsseite": 25712,
+        "endseite": 25712,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25712D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25712"
+        }
+      ],
+      "datum": "2024-11-07",
+      "vorgang_id": "317269"
+    },
+    {
+      "id": "663008",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Begrüßung des Geschäftsführers des Zentralrates der Juden in Deutschland, Daniel Botmann",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25712",
+        "anfangsseite": 25712,
+        "endseite": 25712,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25712D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25712"
+        }
+      ],
+      "datum": "2024-11-07",
+      "vorgang_id": "317270"
+    },
+    {
+      "id": "663009",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Begrüßung des ehemaligen Präsidenten des Deutschen Bundestages, Prof. Dr. Norbert Lammert",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25712",
+        "anfangsseite": 25712,
+        "endseite": 25712,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25712D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25712"
+        }
+      ],
+      "datum": "2024-11-07",
+      "vorgang_id": "317271"
+    },
+    {
+      "id": "663010",
+      "vorgangsposition": "Wahl",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Besetzung externer Gremien durch BT",
+      "titel": "Wahl von Mitgliedern des Stiftungsrates der Stiftung Humboldt Forum im Berliner Schloss",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-20T17:02:46+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25711",
+        "anfangsseite": 25711,
+        "endseite": 25711,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme",
+          "seite": "25711B"
+        }
+      ],
+      "datum": "2024-11-07",
+      "vorgang_id": "317272"
+    },
+    {
+      "id": "663287",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Bekanntgabe der Entlassung des Bundesministers der Finanzen, Christian Lindner",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-20T17:05:41+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25734",
+        "anfangsseite": 25734,
+        "endseite": 25734,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-11-07",
+      "vorgang_id": "317474"
+    },
+    {
+      "id": "663288",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Bekanntgabe der Entlassung des Bundesministers der Justiz, Dr. Marco Buschmann",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-20T17:06:39+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25734",
+        "anfangsseite": 25734,
+        "endseite": 25734,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-11-07",
+      "vorgang_id": "317475"
+    },
+    {
+      "id": "663289",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Bekanntgabe der Entlassung der Bundesministerin für Bildung und Forschung, Bettina Stark-Watzinger",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-20T17:07:42+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25734",
+        "anfangsseite": 25734,
+        "endseite": 25734,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-11-07",
+      "vorgang_id": "317476"
+    },
+    {
+      "id": "662969",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 49,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "fundstelle": {
+        "id": "5681",
+        "dokumentnummer": "20/197",
+        "datum": "2024-11-07",
+        "verteildatum": "2024-11-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20197.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25711",
+        "anfangsseite": 25711,
+        "endseite": 25733,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/13653",
+          "seite": "25733C"
+        },
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/13654",
+          "seite": "25733C"
+        },
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/13627",
+          "seite": "25733C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "25711D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dirk Wiese, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25711"
+        },
+        {
+          "seite": "25713A",
+          "aktivitaetsart": "Rede",
+          "titel": "Andrea Lindholz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25713"
+        },
+        {
+          "seite": "25714B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Konstantin von Notz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25714"
+        },
+        {
+          "seite": "25715B",
+          "aktivitaetsart": "Rede",
+          "titel": "Jürgen Braun, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20197.pdf#P.25715"
+        }
+      ],
+      "datum": "2024-11-07",
+      "vorgang_id": "317188"
+    }
+  ]
+}

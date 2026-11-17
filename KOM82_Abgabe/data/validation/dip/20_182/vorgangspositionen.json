@@ -1,0 +1,2410 @@
+{
+  "numFound": 47,
+  "documents": [
+    {
+      "id": "657395",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Vertrauen in die Bahn stärken - Investitionen statt Kappung von Verbindungen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23723",
+        "anfangsseite": 23723,
+        "endseite": 23739,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23723A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bodo Ramelow, MdBR (Ministerpräsident), Thüringen",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23723"
+        },
+        {
+          "seite": "23725D",
+          "aktivitaetsart": "Rede",
+          "titel": "Isabel Cademartori Dujisin, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23725"
+        },
+        {
+          "seite": "23726C",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Donth, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23726"
+        },
+        {
+          "seite": "23727C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Julia Verlinden, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23727"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313790"
+    },
+    {
+      "id": "657486",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Martin Reichardt (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-23T14:18:43+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23703",
+        "anfangsseite": 23703,
+        "endseite": 23703,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23703D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Aydan Özoguz, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23703"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313827"
+    },
+    {
+      "id": "657378",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Erfolgsgeschichte Strukturwandel weiterschreiben - Planbarkeit und Verlässlichkeit für die ostdeutschen Strukturwandelregionen sicherstellen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 16,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Fairen Strukturwandel in den ostdeutschen Kohleregionen ermöglichen - Verunsicherungen beenden",
+          "id": "305638"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23648",
+        "anfangsseite": 23648,
+        "endseite": 23665,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12102",
+          "seite": "23665C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23648B",
+          "aktivitaetsart": "Rede",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23648"
+        },
+        {
+          "seite": "23649C",
+          "aktivitaetsart": "Rede",
+          "titel": "Carsten Schneider, Staatsmin., Bundeskanzleramt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23649"
+        },
+        {
+          "seite": "23650D",
+          "aktivitaetsart": "Rede",
+          "titel": "Enrico Komning, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23650"
+        },
+        {
+          "seite": "23651D",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23651"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313715"
+    },
+    {
+      "id": "657385",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zum Ersten Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes und des GAP-Direktzahlungen-Gesetzes",
+          "id": "308700"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung agrarrechtlicher Vorschriften und zur Änderung weiterer Gesetze",
+          "id": "313367"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verlängerung der Tarifermäßigung für Einkünfte aus Land- und Forstwirtschaft",
+          "id": "313365"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Landwirtschaft tatsächlich entlasten - Versprechen der Bundesregierung umgehend umsetzen",
+          "id": "313377"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Die deutsche Landwirtschaft wirklich entlasten",
+          "id": "313397"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23665",
+        "anfangsseite": 23665,
+        "endseite": 23686,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/12155",
+          "seite": "23685C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23666B",
+          "aktivitaetsart": "Rede",
+          "titel": "Renate Künast, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23666"
+        },
+        {
+          "seite": "23668A",
+          "aktivitaetsart": "Rede",
+          "titel": "Hermann Färber, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23668"
+        },
+        {
+          "seite": "23669A",
+          "aktivitaetsart": "Rede",
+          "titel": "Susanne Mittag, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        },
+        {
+          "seite": "23669D",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Protschka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313712"
+    },
+    {
+      "id": "657389",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Kriminell erlangte Vermögen konsequent abschöpfen - Vermögensermittlungs- und Einziehungsverfahren außerhalb des Strafrechts schaffen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23686",
+        "anfangsseite": 23686,
+        "endseite": 23695,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11966",
+          "seite": "23695C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23686C",
+          "aktivitaetsart": "Rede",
+          "titel": "Matthias Hauer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23686"
+        },
+        {
+          "seite": "23687D",
+          "aktivitaetsart": "Rede",
+          "titel": "Sebastian Fiedler, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23687"
+        },
+        {
+          "seite": "23689B",
+          "aktivitaetsart": "Rede",
+          "titel": "Kay Gottschalk, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23689"
+        },
+        {
+          "seite": "23690B",
+          "aktivitaetsart": "Rede",
+          "titel": "Sabine Grützmacher, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23690"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313482"
+    },
+    {
+      "id": "657392",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Rehabilitierung von Personen, die aufgrund von Verstößen gegen Verhaltenspflichten zur Verhinderung der Verbreitung der COVID-19-Krankheit wegen einer Straftat verurteilt oder nach dem Ordnungswidrigkeitengesetz mit einer Geldbuße belegt wurden (COVID-19-Rehabilitierungsgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-23T16:56:16+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Rehabilitierung von Soldaten und Reservisten wegen Verstößen gegen die Duldungspflicht betreffend die COVID-19-Schutzimpfung",
+          "id": "313703"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23710",
+        "anfangsseite": 23710,
+        "endseite": 23720,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12034",
+          "seite": "23720C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23710C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23710"
+        },
+        {
+          "seite": "23711B",
+          "aktivitaetsart": "Rede",
+          "titel": "Sonja Eichwede, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23711"
+        },
+        {
+          "seite": "23712D",
+          "aktivitaetsart": "Rede",
+          "titel": "Nina Warken, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23712"
+        },
+        {
+          "seite": "23714D",
+          "aktivitaetsart": "Rede",
+          "titel": "Helge Limburg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23714"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313511"
+    },
+    {
+      "id": "657393",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Rehabilitierung von Soldaten und Reservisten wegen Verstößen gegen die Duldungspflicht betreffend die COVID-19-Schutzimpfung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verteidigungsausschuss",
+          "ausschuss_kuerzel": "VgA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Rehabilitierung von Personen, die aufgrund von Verstößen gegen Verhaltenspflichten zur Verhinderung der Verbreitung der COVID-19-Krankheit wegen einer Straftat verurteilt oder nach dem Ordnungswidrigkeitengesetz mit einer Geldbuße belegt wurden (COVID-19-Rehabilitierungsgesetz)",
+          "id": "313511"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23710",
+        "anfangsseite": 23710,
+        "endseite": 23720,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12093",
+          "seite": "23720C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23710C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23710"
+        },
+        {
+          "seite": "23711B",
+          "aktivitaetsart": "Rede",
+          "titel": "Sonja Eichwede, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23711"
+        },
+        {
+          "seite": "23712D",
+          "aktivitaetsart": "Rede",
+          "titel": "Nina Warken, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23712"
+        },
+        {
+          "seite": "23714D",
+          "aktivitaetsart": "Rede",
+          "titel": "Helge Limburg, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23714"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313703"
+    },
+    {
+      "id": "657472",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Bundesbedarfsplangesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Umsetzung der EU-Erneuerbaren-Richtlinie in den Bereichen Windenergie auf See und Stromnetze und zur Änderung des Bundesbedarfsplangesetzes",
+          "id": "310640"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23637",
+        "anfangsseite": 23637,
+        "endseite": 23647,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11226, 20/12415",
+          "seite": "23647C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23637C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23637"
+        },
+        {
+          "seite": "23638D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23638"
+        },
+        {
+          "seite": "23639D",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23639"
+        },
+        {
+          "seite": "23640D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23640"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313719"
+    },
+    {
+      "id": "657554",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 6/2024\r\nDie Fazilität für Flüchtlinge in der Türkei: Von Nutzen für Flüchtlinge und Aufnahmegemeinschaften, doch Auswirkungen und Nachhaltigkeit sind noch nicht sichergestellt\r\nERH 6/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "312098"
+    },
+    {
+      "id": "657555",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Communication from the Commission to the European Parliament, the European Council, the Council, the European Economic and Social Committee and the Committee of the Region\r\nState of Schengen report 2024\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nKOM(2024) 173 endg.; Ratsdok. 9012/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "312099"
+    },
+    {
+      "id": "657556",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates für den Schengen-Zyklus 2024-2025\r\nKOM(2024) 174 endg.; Ratsdok. 9013/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "312105"
+    },
+    {
+      "id": "657557",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament und den Rat\r\nSiebter Fortschrittsbericht über die Umsetzung der EU-Strategie für eine Sicherheitsunion \r\nKOM(2024) 198 endg.; Ratsdok. 11270/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "313071"
+    },
+    {
+      "id": "657561",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "ECB Annual Report 2023\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nEU-Dok 161/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "312854"
+    },
+    {
+      "id": "657563",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nHalbjährlicher Bericht über die Durchführung von Mittelaufnahme- und Schuldenmanagementtransaktionen sowie von damit verbundenen Darlehenstransaktionen gemäß Artikel 12 des Durchführungsbeschlusses C(2022) 9700 der Kommission\r\n1. Juli 2023 - 31. Dezember 2023\r\nKOM(2024) 93 endg.",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "310939"
+    },
+    {
+      "id": "657565",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung der Kommission vom 3.10.2023 zu Technologiebereichen, die für die wirtschaftliche Sicherheit der EU von entscheidender Bedeutung sind, zwecks weiterer Risikobewertung mit den Mitgliedstaaten \r\nK(2023)6689 endg.; Ratsdok. 13892/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "305796"
+    },
+    {
+      "id": "657566",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Standpunkt, der im Namen der Europäischen Union in dem mit dem umfassenden Wirtschafts- und Handelsabkommen (CETA) zwischen Kanada einerseits und der Europäischen Union und ihren Mitgliedstaaten andererseits eingesetzten Gemischten CETA-Ausschuss hinsichtlich der Annahme eines Beschlusses zu vertreten ist, mit dem ergänzende Vorschriften betreffend beschleunigte Verfahren - insbesondere für natürliche Personen sowie kleine und mittlere Unternehmen (KMU) - zur Beilegung von Investitionsstreitigkeiten zwischen Investoren und Staaten festgelegt werden \r\nKOM(2024) 178 endg.; Ratsdok. 9372/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "312855"
+    },
+    {
+      "id": "657575",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) 2021/2278 des Rates zur Aussetzung der in Artikel 56 Absatz 2 Buchstabe c der Verordnung (EU) Nr. 952/2013 des Europäischen Parlaments und des Rates genannten Zölle des Gemeinsamen Zolltarifs für bestimmte landwirtschaftliche und gewerbliche Waren \r\nKOM(2024) 201 endg.; Ratsdok. 10069/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-15T11:41:49+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "313072"
+    },
+    {
+      "id": "657576",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates zur Festlegung des Standpunkts, der im Namen der Union in Bezug auf den Beschluss der Teilnehmer an dem Übereinkommen über öffentlich unterstützte Exportkredite zur Aktualisierung bestimmter Verfallsklauseln der Sektorvereinbarung über Exportkredite zur Bewältigung des Klimawandels zu vertreten ist \r\nKOM(2024) 209 endg.; Ratsdok. 10189/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "313075"
+    },
+    {
+      "id": "657577",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions \r\nLabour and skills shortages in the EU: an action plan \r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nKOM(2024) 131 endg.; Ratsdok. 8153/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "311426"
+    },
+    {
+      "id": "657579",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates zu einem verstärkten Qualitätsrahmen für Praktika\r\nKOM(2024) 133 endg.; Ratsdok. 8155/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "311427"
+    },
+    {
+      "id": "657580",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den im Namen der Europäischen Union auf der 16. Tagung des Fachausschusses für technische Fragen der Zwischenstaatlichen Organisation für den internationalen Eisenbahnverkehr (OTIF) in Bezug auf die Überarbeitung der einheitlichen technischen Vorschriften für das Teilsystem \"Fahrzeuge - Güterwagen\" (ETV WAG), das Teilsystem \"Fahrzeuge - Lärm\" (ETV Lärm), die Zugbildung und Prüfung der Streckenkompatibilität (ETV TCRC) sowie das Teilsystem \"Telematikanwendungen für den Güterverkehr\" (ETV TAF) zu vertretenden Standpunkt \r\nKOM(2024) 210 endg.; Ratsdok. 9960/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "313078"
+    },
+    {
+      "id": "657581",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den im Namen der Europäischen Union im Gemeinsamen Ausschuss EU/ICAO zu vertretenden Standpunkt zum Beschluss über die Annahme eines \"Anhangs IV über Kapazitätsaufbau, technische Hilfe und Unterstützung bei der Durchführung\" der Kooperationsvereinbarung zwischen der Europäischen Union und der Internationalen Zivilluftfahrt-Organisation zur Schaffung eines Rahmens für eine verstärkte Zusammenarbeit \r\nKOM(2024) 211 endg.; Ratsdok. 10304/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "313080"
+    },
+    {
+      "id": "657603",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates zu attraktiven und nachhaltigen Laufbahnen in der Hochschulbildung\r\nKOM(2024) 145 endg.; Ratsdok. 8506/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "312119"
+    },
+    {
+      "id": "657605",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates über ein europäisches Qualitätssicherungs- und Anerkennungssystem in der Hochschulbildung\r\nKOM(2024) 147 endg.; Ratsdok. 8517/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "312120"
+    },
+    {
+      "id": "657606",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Durchführung der Verordnung (EU) 2018/841 (\"LULUCF-Verordnung\") gemäß Artikel 17 Absatz 2 in der durch die Verordnung (EU) 2023/839 geänderten Fassung \r\nKOM(2024) 195 endg.; Ratsdok. 10049/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "313084"
+    },
+    {
+      "id": "657607",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Anwendung des Europäischen Klimagesetzes und der Lastenteilungsverordnung sowie über die Richtlinie über das Emissionshandelssystem im Zusammenhang mit der weltweiten Bestandsaufnahme \r\nKOM(2024) 196 endg.; Ratsdok. 10053/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "313085"
+    },
+    {
+      "id": "657471",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Bundesbedarfsplangesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23647",
+        "anfangsseite": 23647,
+        "endseite": 23647,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11226, 20/12415",
+          "seite": "23647D"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313719"
+    },
+    {
+      "id": "657538",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 23743D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht der Bundesregierung über Struktur und Höhe des Finanzkraftausgleichs sowie der Zuweisungen gemäß § 11 des Finanzausgleichsgesetzes im Ausgleichsjahr 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23743",
+        "anfangsseite": 23743,
+        "endseite": 23744,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "312447"
+    },
+    {
+      "id": "657604",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23744C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen über ein Konzept für einen europäischen Hochschulabschluss\r\nKOM(2024) 144 endg.; Ratsdok. 8508/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23744",
+        "anfangsseite": 23744,
+        "endseite": 23744,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "310999"
+    },
+    {
+      "id": "657379",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Fairen Strukturwandel in den ostdeutschen Kohleregionen ermöglichen - Verunsicherungen beenden",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 16,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Erfolgsgeschichte Strukturwandel weiterschreiben - Planbarkeit und Verlässlichkeit für die ostdeutschen Strukturwandelregionen sicherstellen",
+          "id": "313715"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23648",
+        "anfangsseite": 23648,
+        "endseite": 23665,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/9141",
+          "seite": "23665C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23648B",
+          "aktivitaetsart": "Rede",
+          "titel": "Sepp Müller, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23648"
+        },
+        {
+          "seite": "23649C",
+          "aktivitaetsart": "Rede",
+          "titel": "Carsten Schneider, Staatsmin., Bundeskanzleramt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23649"
+        },
+        {
+          "seite": "23650D",
+          "aktivitaetsart": "Rede",
+          "titel": "Enrico Komning, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23650"
+        },
+        {
+          "seite": "23651D",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23651"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "305638"
+    },
+    {
+      "id": "657381",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung agrarrechtlicher Vorschriften und zur Änderung weiterer Gesetze",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes und des GAP-Direktzahlungen-Gesetzes",
+          "id": "308700"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verlängerung der Tarifermäßigung für Einkünfte aus Land- und Forstwirtschaft",
+          "id": "313365"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Landwirtschaft tatsächlich entlasten - Versprechen der Bundesregierung umgehend umsetzen",
+          "id": "313377"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Die deutsche Landwirtschaft wirklich entlasten",
+          "id": "313397"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Ersten Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes",
+          "id": "313712"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23665",
+        "anfangsseite": 23665,
+        "endseite": 23686,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11948, 20/12148",
+          "seite": "23685C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23666B",
+          "aktivitaetsart": "Rede",
+          "titel": "Renate Künast, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23666"
+        },
+        {
+          "seite": "23668A",
+          "aktivitaetsart": "Rede",
+          "titel": "Hermann Färber, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23668"
+        },
+        {
+          "seite": "23669A",
+          "aktivitaetsart": "Rede",
+          "titel": "Susanne Mittag, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        },
+        {
+          "seite": "23669D",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Protschka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313367"
+    },
+    {
+      "id": "657383",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Landwirtschaft tatsächlich entlasten - Versprechen der Bundesregierung umgehend umsetzen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes und des GAP-Direktzahlungen-Gesetzes",
+          "id": "308700"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung agrarrechtlicher Vorschriften und zur Änderung weiterer Gesetze",
+          "id": "313367"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verlängerung der Tarifermäßigung für Einkünfte aus Land- und Forstwirtschaft",
+          "id": "313365"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Die deutsche Landwirtschaft wirklich entlasten",
+          "id": "313397"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Ersten Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes",
+          "id": "313712"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23665",
+        "anfangsseite": 23665,
+        "endseite": 23686,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/11951",
+          "seite": "23686A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23666B",
+          "aktivitaetsart": "Rede",
+          "titel": "Renate Künast, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23666"
+        },
+        {
+          "seite": "23668A",
+          "aktivitaetsart": "Rede",
+          "titel": "Hermann Färber, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23668"
+        },
+        {
+          "seite": "23669A",
+          "aktivitaetsart": "Rede",
+          "titel": "Susanne Mittag, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        },
+        {
+          "seite": "23669D",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Protschka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313377"
+    },
+    {
+      "id": "657384",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Die deutsche Landwirtschaft wirklich entlasten",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes und des GAP-Direktzahlungen-Gesetzes",
+          "id": "308700"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung agrarrechtlicher Vorschriften und zur Änderung weiterer Gesetze",
+          "id": "313367"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verlängerung der Tarifermäßigung für Einkünfte aus Land- und Forstwirtschaft",
+          "id": "313365"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Landwirtschaft tatsächlich entlasten - Versprechen der Bundesregierung umgehend umsetzen",
+          "id": "313377"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Ersten Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes",
+          "id": "313712"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23665",
+        "anfangsseite": 23665,
+        "endseite": 23686,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/11958",
+          "seite": "23686B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23666B",
+          "aktivitaetsart": "Rede",
+          "titel": "Renate Künast, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23666"
+        },
+        {
+          "seite": "23668A",
+          "aktivitaetsart": "Rede",
+          "titel": "Hermann Färber, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23668"
+        },
+        {
+          "seite": "23669A",
+          "aktivitaetsart": "Rede",
+          "titel": "Susanne Mittag, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        },
+        {
+          "seite": "23669D",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Protschka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313397"
+    },
+    {
+      "id": "657534",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23743D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "titel": "Haushaltsführung 2022\r\nÜber- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen im ersten Vierteljahr des Haushaltsjahres 2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23743",
+        "anfangsseite": 23743,
+        "endseite": 23744,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "290517"
+    },
+    {
+      "id": "657535",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23743D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "titel": "Haushaltsführung 2022\r\nÜber- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen im zweiten Vierteljahr des Haushaltsjahres 2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23743",
+        "anfangsseite": 23743,
+        "endseite": 23744,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "296270"
+    },
+    {
+      "id": "657536",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23743D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "titel": "Haushaltsführung 2022\r\nÜber- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen im dritten Vierteljahr des Haushaltsjahres 2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23743",
+        "anfangsseite": 23743,
+        "endseite": 23744,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "296724"
+    },
+    {
+      "id": "657537",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 23743D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "titel": "Haushaltsführung 2022 \r\nÜber- und außerplanmäßige Ausgaben und Verpflichtungsermächtigungen im vierten Vierteljahr des Haushaltsjahres 2022",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23743",
+        "anfangsseite": 23743,
+        "endseite": 23744,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "299172"
+    },
+    {
+      "id": "657539",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 23743D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Erster Bericht über die Evaluierung des Investitionsgesetzes Kohleregionen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-31T09:32:14+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23743",
+        "anfangsseite": 23743,
+        "endseite": 23744,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "302919"
+    },
+    {
+      "id": "657541",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 23743D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht der Bundesregierung zum Umsetzungsstand des Investitionsgesetzes Kohleregionen 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-31T09:35:58+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23743",
+        "anfangsseite": 23743,
+        "endseite": 23744,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2024-07-05",
+      "vorgang_id": "308752"
+    },
+    {
+      "id": "657382",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verlängerung der Tarifermäßigung für Einkünfte aus Land- und Forstwirtschaft",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes und des GAP-Direktzahlungen-Gesetzes",
+          "id": "308700"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung agrarrechtlicher Vorschriften und zur Änderung weiterer Gesetze",
+          "id": "313367"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Landwirtschaft tatsächlich entlasten - Versprechen der Bundesregierung umgehend umsetzen",
+          "id": "313377"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Die deutsche Landwirtschaft wirklich entlasten",
+          "id": "313397"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Ersten Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes",
+          "id": "313712"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23665",
+        "anfangsseite": 23665,
+        "endseite": 23686,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11947, 20/12152",
+          "seite": "23685D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23666B",
+          "aktivitaetsart": "Rede",
+          "titel": "Renate Künast, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23666"
+        },
+        {
+          "seite": "23668A",
+          "aktivitaetsart": "Rede",
+          "titel": "Hermann Färber, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23668"
+        },
+        {
+          "seite": "23669A",
+          "aktivitaetsart": "Rede",
+          "titel": "Susanne Mittag, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        },
+        {
+          "seite": "23669D",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Protschka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313365"
+    },
+    {
+      "id": "657387",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung agrarrechtlicher Vorschriften und zur Änderung weiterer Gesetze",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23685",
+        "anfangsseite": 23685,
+        "endseite": 23685,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11948, 20/12148",
+          "seite": "23685D"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313367"
+    },
+    {
+      "id": "657388",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Verlängerung der Tarifermäßigung für Einkünfte aus Land- und Forstwirtschaft",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23686",
+        "anfangsseite": 23686,
+        "endseite": 23686,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/11947, 20/12152",
+          "seite": "23686A"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "313365"
+    },
+    {
+      "id": "657380",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes und des GAP-Direktzahlungen-Gesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-12T12:45:14+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung agrarrechtlicher Vorschriften und zur Änderung weiterer Gesetze",
+          "id": "313367"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Verlängerung der Tarifermäßigung für Einkünfte aus Land- und Forstwirtschaft",
+          "id": "313365"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Landwirtschaft tatsächlich entlasten - Versprechen der Bundesregierung umgehend umsetzen",
+          "id": "313377"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Die deutsche Landwirtschaft wirklich entlasten",
+          "id": "313397"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zum Ersten Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes",
+          "id": "313712"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23665",
+        "anfangsseite": 23665,
+        "endseite": 23686,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10819, 20/12147",
+          "seite": "23685B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23666B",
+          "aktivitaetsart": "Rede",
+          "titel": "Renate Künast, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23666"
+        },
+        {
+          "seite": "23668A",
+          "aktivitaetsart": "Rede",
+          "titel": "Hermann Färber, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23668"
+        },
+        {
+          "seite": "23669A",
+          "aktivitaetsart": "Rede",
+          "titel": "Susanne Mittag, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        },
+        {
+          "seite": "23669D",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Protschka, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23669"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "308700"
+    },
+    {
+      "id": "657386",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des GAP-Konditionalitäten-Gesetzes und des GAP-Direktzahlungen-Gesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23685",
+        "anfangsseite": 23685,
+        "endseite": 23685,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10819, 20/12147",
+          "seite": "23685C"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "308700"
+    },
+    {
+      "id": "657390",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des Schwangerschaftskonfliktgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 19,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-22T15:32:13+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23695",
+        "anfangsseite": 23695,
+        "endseite": 23709,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/10861, 20/12151",
+          "seite": "23709D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23695D",
+          "aktivitaetsart": "Rede",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23695"
+        },
+        {
+          "seite": "23696D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bettina Margarethe Wiesmann, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23696"
+        },
+        {
+          "seite": "23698A",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23698"
+        },
+        {
+          "seite": "23698D",
+          "aktivitaetsart": "Rede",
+          "titel": "Beatrix von Storch, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23698"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "308701"
+    },
+    {
+      "id": "657391",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Gesetz zur Änderung des Schwangerschaftskonfliktgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-22T15:37:37+02:00",
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23710",
+        "anfangsseite": 23710,
+        "endseite": 23710,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "381:169:0",
+          "dokumentnummer": "20/10861, 20/12151",
+          "seite": "23720B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23742C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Hubert Hüppe, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23742"
+        },
+        {
+          "seite": "23743B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stefan Seidler, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23743"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "308701"
+    },
+    {
+      "id": "657376",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Umsetzung der EU-Erneuerbaren-Richtlinie in den Bereichen Windenergie auf See und Stromnetze und zur Änderung des Bundesbedarfsplangesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-07-11T13:46:50+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Bundesbedarfsplangesetzes",
+          "id": "313719"
+        }
+      ],
+      "fundstelle": {
+        "id": "5662",
+        "dokumentnummer": "20/182",
+        "datum": "2024-07-05",
+        "verteildatum": "2024-07-08",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20182.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23637",
+        "anfangsseite": 23637,
+        "endseite": 23647,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Abspaltung eines Teils der Vorlage",
+          "dokumentnummer": "20/11226, 20/12415a)",
+          "seite": "23647C"
+        },
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Vorbehalt späterer Beschlussfassung im Übrigen ",
+          "dokumentnummer": "20/11226, 20/12415b)",
+          "seite": "23647D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "23637C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23637"
+        },
+        {
+          "seite": "23638D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23638"
+        },
+        {
+          "seite": "23639D",
+          "aktivitaetsart": "Zwischenfrage",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23639"
+        },
+        {
+          "seite": "23640D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20182.pdf#P.23640"
+        }
+      ],
+      "datum": "2024-07-05",
+      "vorgang_id": "310640"
+    }
+  ]
+}

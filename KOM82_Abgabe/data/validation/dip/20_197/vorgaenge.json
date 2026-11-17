@@ -1,0 +1,534 @@
+{
+  "numFound": 10,
+  "documents": [
+    {
+      "id": "317476",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-20T17:07:30+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundesminister",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium für Bildung und Forschung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesregierung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Regierungsbildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Stark-Watzinger, Bettina",
+          "typ": "Personen"
+        }
+      ],
+      "titel": "Bekanntgabe der Entlassung der Bundesministerin für Bildung und Forschung, Bettina Stark-Watzinger",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "317475",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-20T17:06:30+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundesminister",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium der Justiz",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesregierung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Buschmann, Marco",
+          "typ": "Personen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Regierungsbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bekanntgabe der Entlassung des Bundesministers der Justiz, Dr. Marco Buschmann",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "317474",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-20T17:04:48+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundesminister",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium der Finanzen",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesregierung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lindner, Christian",
+          "typ": "Personen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Regierungsbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bekanntgabe der Entlassung des Bundesministers der Finanzen, Christian Lindner",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "317272",
+      "abstract": "Mitglied: AfD: Dr. Götz Frömming (Nachfolger für Dr. Marc Jongen)<br />\r\nStellvertretung: AfD: Dr. Michael Kaufmann (Nachfolger für Matthias Moosdorf)",
+      "beratungsstand": "Abgeschlossen",
+      "vorgangstyp": "Besetzung externer Gremien durch BT",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-06-02T14:43:02+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Stiftung Humboldt Forum im Berliner Schloss",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Wahl von Mitgliedern des Stiftungsrates der Stiftung Humboldt Forum im Berliner Schloss",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "317271",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "titel": "Begrüßung des ehemaligen Präsidenten des Deutschen Bundestages, Prof. Dr. Norbert Lammert",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "317270",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "titel": "Begrüßung des Geschäftsführers des Zentralrates der Juden in Deutschland, Daniel Botmann",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "317269",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "titel": "Begrüßung des Präsidenten der Deutsch-Israelischen Gesellschaft, Volker Beck",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "317264",
+      "abstract": "Aussprache auf Verlangen der Gruppe BSW, unabhängig von einer Fragestunde",
+      "vorgangstyp": "Aktuelle Stunde",
+      "sachgebiet": [
+        "Außenpolitik und internationale Beziehungen"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Internationale Beziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Internationale Wirtschaftsbeziehungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Militärhilfe",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Regierungswechsel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sicherheitspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "USA",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ukraine",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Wahl",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zollpolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Konsequenzen des amerikanischen Wahlergebnisses für Deutschland",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "317262",
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Amtseid",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesminister",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium der Finanzen",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesregierung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kukies, Jörg",
+          "typ": "Personen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Regierungsbildung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bekanntgabe der Ernennung von Dr. Jörg Kukies zum Bundesminister der Finanzen; Vereidigung",
+      "datum": "2024-11-07"
+    },
+    {
+      "id": "317188",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Außenpolitik und internationale Beziehungen",
+        "Gesellschaftspolitik, soziale Gruppen",
+        "Innere Sicherheit",
+        "Kultur",
+        "Wissenschaft, Forschung und Technologie"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+        "Fraktion der CDU/CSU",
+        "Fraktion der FDP",
+        "Fraktion der SPD"
+      ],
+      "aktualisiert": "2024-11-12T12:45:26+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Antisemitismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Attentat",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Aufenthaltsrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "BDS-Bewegung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Boykott",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Desinformation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Deutsch-Israelisches Jugendwerk",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einwanderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Extremismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Feiertag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gedenken",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gedenkstätte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gefahrenabwehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hamas",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hasskriminalität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hisbollah",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hochschule",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hochschullehrer",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Holocaust",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Innere Sicherheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Islamismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Israel",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Juden",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Judentum",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kultureinrichtung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kulturförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kulturpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kulturveranstaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Linksextremismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nahostkonflikt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nationalsozialistisches Unrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Bildung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Straftat",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Projektförderung",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rechtsextremismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sicherheitspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Soziale Medien",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Staatsangehörigkeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Student",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Studienordnung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Terrorismusbekämpfung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vereinsverbot",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Vergangenheitsbewältigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verhaltenskodex",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zivilgesellschaft",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Nie wieder ist jetzt - Jüdisches Leben in Deutschland schützen, bewahren und stärken",
+      "datum": "2024-11-07"
+    }
+  ]
+}

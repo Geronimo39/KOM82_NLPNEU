@@ -1,0 +1,614 @@
+{
+  "numFound": 14,
+  "documents": [
+    {
+      "id": "648365",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-15T12:09:58+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19217",
+        "anfangsseite": 19217,
+        "endseite": 19217,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19217C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Katrin Göring-Eckardt, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19217"
+        }
+      ],
+      "datum": "2024-01-31",
+      "vorgang_id": "308479"
+    },
+    {
+      "id": "648396",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Eintritt der Abg Bettina Margarethe Wiesmann (CDU/CSU) in den Deutschen Bundestag als Nachfolgerin für den ausgeschiedenen Abg Armin Schwarz (Mandatsbeginn: 26.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-15T11:26:05+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19117,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-01-31",
+      "vorgang_id": "308493"
+    },
+    {
+      "id": "648397",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verzicht des Abg Armin Schwarz (CDU/CSU) auf die Mitgliedschaft im Deutschen Bundestag (Mandatsende: 25.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-15T11:20:27+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19117,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-01-31",
+      "vorgang_id": "308494"
+    },
+    {
+      "id": "648398",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Eintritt des Abg Martin Rabanus (SPD) in den Deutschen Bundestag als Nachfolger für den ausgeschiedenen Abg Kaweh Mansoori (Mandatsbeginn: 26.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-15T11:26:46+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19117,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "datum": "2024-01-31",
+      "vorgang_id": "308495"
+    },
+    {
+      "id": "648399",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verzicht des Abg Kaweh Mansoori (SPD) auf die Mitgliedschaft im Deutschen Bundestag (Mandatsende: 25.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-15T11:21:01+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19117,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "datum": "2024-01-31",
+      "vorgang_id": "308496"
+    },
+    {
+      "id": "648400",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Eintritt der Abg Nadine Ruf (SPD) in den Deutschen Bundestag als Nachfolgerin für den ausgeschiedenen Abg Timon Gremmels (Mandatsbeginn: 26.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-15T11:27:16+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19117,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "datum": "2024-01-31",
+      "vorgang_id": "308497"
+    },
+    {
+      "id": "648401",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verzicht des Abg Timon Gremmels (SPD) auf die Mitgliedschaft im Deutschen Bundestag (Mandatsende: 25.01.2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-15T11:21:33+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19117,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "datum": "2024-01-31",
+      "vorgang_id": "308498"
+    },
+    {
+      "id": "648325",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten s. mitberatenes Haushaltsgesetz 2024",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Finanzplan des Bundes 2023 bis 2027",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19241,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-31",
+      "vorgang_id": "302730"
+    },
+    {
+      "id": "648324",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten und Beschlüsse s. Einzelpläne",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Finanzplan des Bundes 2023 bis 2027",
+          "id": "302730"
+        }
+      ],
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19241,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "datum": "2024-01-31",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648328",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 04 - Bundeskanzler und Bundeskanzleramt (zusammenberaten mit Epl 22)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 33,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-04-23T15:56:30+02:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "386:293:0, damit Annahme Epl 04",
+          "dokumentnummer": "20/8604, 20/8661",
+          "seite": "19174B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19117D",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117"
+        },
+        {
+          "seite": "19122C",
+          "aktivitaetsart": "Rede",
+          "titel": "Olaf Scholz, Bundeskanzl.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19122"
+        },
+        {
+          "seite": "19128C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Alice Weidel, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19128"
+        },
+        {
+          "seite": "19130D",
+          "aktivitaetsart": "Rede",
+          "titel": "Britta Haßelmann, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19130"
+        }
+      ],
+      "datum": "2024-01-31",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648331",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 05 - Auswärtiges Amt",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 28,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19167",
+        "anfangsseite": 19167,
+        "endseite": 19195,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 05",
+          "dokumentnummer": "20/8605, 20/8661",
+          "seite": "19195B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19168A",
+          "aktivitaetsart": "Rede",
+          "titel": "Carsten Körber, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19168"
+        },
+        {
+          "seite": "19169B",
+          "aktivitaetsart": "Rede",
+          "titel": "Jamila Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19169"
+        },
+        {
+          "seite": "19170B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Michael Espendiller, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19170"
+        },
+        {
+          "seite": "19171C",
+          "aktivitaetsart": "Rede",
+          "titel": "Wiebke Papenbrock, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19171"
+        }
+      ],
+      "datum": "2024-01-31",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648333",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 14 - Bundesministerium der Verteidigung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 22,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19195",
+        "anfangsseite": 19195,
+        "endseite": 19219,
+        "anfangsquadrant": "B",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 14",
+          "dokumentnummer": "20/8614, 20/8661",
+          "seite": "19219A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19195B",
+          "aktivitaetsart": "Rede",
+          "titel": "Ingo Gädechens, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19195"
+        },
+        {
+          "seite": "19196C",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Schwarz, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19196"
+        },
+        {
+          "seite": "19198A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Michael Espendiller, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19198"
+        },
+        {
+          "seite": "19199B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Sebastian Schäfer, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19199"
+        }
+      ],
+      "datum": "2024-01-31",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648329",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 22 - Unabhängiger Kontrollrat (zusammenberaten mit Epl 04, Rednerliste s. dort)",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19117",
+        "anfangsseite": 19117,
+        "endseite": 19167,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 22",
+          "dokumentnummer": "20/8661, 20/8662",
+          "seite": "19167D"
+        }
+      ],
+      "datum": "2024-01-31",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648334",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 23 - Bundesministerium für wirtschaftliche Zusammenarbeit und Entwicklung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 23,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-02-09T14:54:20+01:00",
+      "fundstelle": {
+        "id": "5625",
+        "dokumentnummer": "20/150",
+        "datum": "2024-01-31",
+        "verteildatum": "2024-02-01",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20150.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19219",
+        "anfangsseite": 19219,
+        "endseite": 19241,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 23",
+          "dokumentnummer": "20/8661, 20/8662"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19219B",
+          "aktivitaetsart": "Rede",
+          "titel": "Carsten Körber, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19219"
+        },
+        {
+          "seite": "19220B",
+          "aktivitaetsart": "Rede",
+          "titel": "Bettina Hagedorn, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19220"
+        },
+        {
+          "seite": "19222C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Michael Espendiller, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19222"
+        },
+        {
+          "seite": "19223D",
+          "aktivitaetsart": "Rede",
+          "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20150.pdf#P.19223"
+        }
+      ],
+      "datum": "2024-01-31",
+      "vorgang_id": "302729"
+    }
+  ]
+}

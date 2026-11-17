@@ -1,0 +1,44 @@
+{
+  "id": "962",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "SPD"
+  ],
+  "nachname": "Högl",
+  "vorname": "Eva",
+  "typ": "Person",
+  "wahlperiode": [
+    16,
+    17,
+    18,
+    19,
+    20,
+    21
+  ],
+  "aktualisiert": "2026-05-12T15:47:25+02:00",
+  "person_roles": [
+    {
+      "nachname": "Högl",
+      "vorname": "Eva",
+      "wahlperiode_nummer": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "funktionszusatz": "Senatorin für Inneres und Sport",
+      "bundesland": "Bremen",
+      "nachname": "Högl",
+      "vorname": "Eva",
+      "wahlperiode_nummer": [
+        21
+      ]
+    }
+  ],
+  "titel": "Dr. Eva Högl, MdB, SPD",
+  "datum": "2026-03-06",
+  "basisdatum": "2008-12-11"
+}

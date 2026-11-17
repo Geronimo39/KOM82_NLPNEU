@@ -1,0 +1,31 @@
+{
+  "id": "7789",
+  "funktion": [
+    "MdB"
+  ],
+  "fraktion": [
+    "fraktionslos"
+  ],
+  "nachname": "Spaniel",
+  "vorname": "Dirk",
+  "typ": "Person",
+  "wahlperiode": [
+    19,
+    20
+  ],
+  "aktualisiert": "2025-03-13T17:19:29+01:00",
+  "person_roles": [
+    {
+      "fraktion": "AfD",
+      "nachname": "Spaniel",
+      "vorname": "Dirk",
+      "wahlperiode_nummer": [
+        19,
+        20
+      ]
+    }
+  ],
+  "titel": "Dr. Dirk Spaniel, MdB, fraktionslos",
+  "datum": "2025-03-18",
+  "basisdatum": "2018-01-30"
+}

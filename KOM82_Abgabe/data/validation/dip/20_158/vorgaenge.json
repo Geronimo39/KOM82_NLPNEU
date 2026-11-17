@@ -1,0 +1,1386 @@
+{
+  "numFound": 37,
+  "documents": [
+    {
+      "id": "309753",
+      "beratungsstand": "Erledigt durch Ablauf der Wahlperiode",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Innere Sicherheit"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2025-05-19T10:58:28+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundesamt für Verfassungsschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeskriminalamt",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Extremismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gefahrenabwehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gefährder",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Linksextremismus",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Personalausstattung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Gewalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politische Straftat",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentlichkeitsarbeit der Bundesregierung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Linksextremistische Gewalt konsequent bekämpfen - Unterwanderungen von Organisationen verhindern und mehr Transparenz bei Gefährdungslagen sicherstellen",
+      "datum": "2024-03-21"
+    },
+    {
+      "id": "309822",
+      "vorgangstyp": "Vereinbarte Debatte",
+      "sachgebiet": [
+        "Gesellschaftspolitik, soziale Gruppen"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Chancengleichheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Frau",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Frauenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gleichstellung der Geschlechter",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Häusliche Gewalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Internationaler Frauentag",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lohngleichheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Menschenrechte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schwangerschaftsabbruch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vereinbarte Debatte zum Internationalen Frauentag",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "309751",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Antrag",
+      "sachgebiet": [
+        "Europapolitik und Europäische Union",
+        "Migration und Aufenthaltsrecht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Abschiebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylbewerber",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Asylverfahren",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bearbeitungsdauer",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bund-Länder-Kooperation",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Drittstaat",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Dublin-Verordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "EU-Staaten",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Europäische Union",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Familiennachzug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Flüchtling",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Flüchtlingspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Frontex",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Grenzkontrolle",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Grenzschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Illegale Einwanderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Länder der Bundesrepublik Deutschland",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Migration",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rückführung ausreisepflichtiger Personen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rückführungsabkommen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialleistung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Türkei",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zuständigkeit",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Länder und Kommunen in der Migrationskrise nicht im Stich lassen - Bund muss Vereinbarungen mit den Ländern umsetzen",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "308157",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:14:06+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 12. Dezember 2023 zur Umgestaltung des künftigen Rahmens der EU-Strukturfonds zur Unterstützung der besonders von den Herausforderungen im Zusammenhang mit dem Übergang in der Automobilindustrie sowie dem ökologischen und dem digitalen Wandel betroffenen Regionen (2023/2061(INI)) \r\nEP P9_TA(2023)0461",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "308123",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "15864/23",
+      "kom": "(2023)707 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:14:06+01:00",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nZusammenfassung der GAP-Strategiepläne für den Zeitraum 2023-2027: Gemeinsame Bemühungen und kollektive Ambitionen \r\nKOM(2023)707 endg.; Ratsdok. 15864/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "308092",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "16863/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:14:06+01:00",
+      "titel": "Vorschlag des Hohen Vertreters der Union für Außen- und Sicherheitspolitik an den Rat für einen Beschluss des Rates über restriktive Maßnahmen angesichts der Lage in Guatemala \r\nRatsdok. 16863/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "308091",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "17031/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:14:06+01:00",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Decision amending Joint Action 2008/851/CFSP on a European Union military operation to contribute to maritime security in the West Indian Ocean and in the Red Sea (EUNAVFOR ATALANTA)\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nRatsdok. 17031/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "308089",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "16865/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:14:06+01:00",
+      "titel": "Gemeinsamer Vorschlag für eine Verordnung des Rates über restriktive Maßnahmen angesichts der Lage in Guatemala \r\nRatsdok. 16865/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "308086",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "16752/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:14:06+01:00",
+      "titel": "Gemeinsamer Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) Nr. 833/2014 des Rates über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren \r\nJOIN(2023)53 endg.; Ratsdok. 16752/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "308085",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "16743/23",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:14:06+01:00",
+      "titel": "Vorschlag des Hohen Vertreters der Union für Außen- und Sicherheitspolitik an den Rat vom 12.12.2023 für einen Beschluss des Rates zur Änderung des Beschlusses 2014/512/GASP über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren \r\nRatsdok. 16743/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "308083",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "15986/23",
+      "kom": "(2023)717 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:14:06+01:00",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nJahresbericht 2023 über die Anwendung der Instrumente der Europäischen Union für das auswärtige Handeln im Jahr 2022 \r\nKOM(2023)717 endg.; Ratsdok. 15986/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "308082",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:14:06+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 13. Dezember 2023 zu den Beziehungen zwischen der EU und Japan (2023/2107(INI)) \r\nEP P9_TA(2023)0463",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "307190",
+      "abstract": "Entwicklung der Ausbildungsförderung in den Jahren 2021 bis 2022, Änderung der Rechts- und Verwaltungsvorschriften, Familienleistungsausgleich, Zahl der Geförderten in den einzelnen Bereichen, Veränderung der Grunddaten, zeitliche Struktur und Umfang einer Anpassung",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Bildung und Erziehung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Ausbildungsförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesausbildungsförderungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schüler",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Student",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Dreiundzwanzigster Bericht nach § 35 des Bundesausbildungsförderungsgesetzes zur Überprüfung der Bedarfssätze, Freibeträge sowie Vomhundertsätze und Höchstbeträge nach § 21 Absatz 2",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "306881",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "15200/23",
+      "kom": "(2023) 702 endg.",
+      "initiative": [
+        "Europäische Kommission"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Datenerhebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Energieeinsparung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Kombinierter Verkehr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftreinhaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftverunreinigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lärm",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lärmschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Richtlinie der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 92/106/EWG des Rates im Hinblick auf einen Unterstützungsrahmen für den intermodalen Güterverkehr und der Verordnung (EU) 2020/1056 des Europäischen Parlaments und des Rates im Hinblick auf die Berechnung der Einsparungen bei externen Kosten und die Erhebung aggregierter Daten\r\nKOM(2023) 702 endg.; Ratsdok. 15200/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "306578",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14718/23",
+      "kom": "(2023) 668 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:11:23+01:00",
+      "titel": "Communication from the Commission to the European Parliament, the Council, the European Economic and Social Committee and the Committee of the Regions\r\nDelivering on the EU offshore renewable energy ambitions\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2023) 668 endg.; Ratsdok. 14718/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "306577",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14712/23",
+      "kom": "(2023) 669 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:11:23+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Programm der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Windenergie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Windenergieanlage",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nEuropäischer Windkraft-Aktionsplan\r\nKOM(2023) 669 endg.; Ratsdok. 14712/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "306573",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "14710/23",
+      "kom": "(2023) 684 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-12-02T09:11:23+01:00",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat und den Rat\r\nBericht über EU-Initiativen zur Förderung von Investitionen in saubere Technologien\r\n(Vorläufige Bewertung der von der EU ergriffenen Maßnahmen zur Förderung von Investitionen in saubere Technologien und der Auswirkungen des US-amerikanischen Inflation Reduction Act auf Investitionen) \r\nKOM(2023) 684 endg.; Ratsdok. 14710/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "305823",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "13215/23",
+      "kom": "(2023)545 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "titel": "Report from the Commission to the European Parliament and the Council on the implementation of the Recovery and Resilience Facility: Moving forward\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2023)545 endg.; Ratsdok. 13215/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "305228",
+      "abstract": "Gesamtüberblick über bereits abgeschlossene, noch laufende sowie geplante Maßnahmen zur besseren Rechtsetzung und Bürokratieabbau: Aktivitäten des Staatssekretärs-Ausschusses, Initiativen auf EU-Ebene, innovative methodische Ansätze, Zusammenarbeit mit dem Nationalen Normenkontrollrat, einzelne Politikfelder",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Recht",
+        "Staat und Verwaltung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Ausschuss",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bessere Rechtsetzung",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bürokratie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gesetzgebungsverfahren",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sonderbericht der Bundesregierung - Bessere Rechtsetzung und Bürokratieabbau in der 20. Legislaturperiode",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "304909",
+      "abstract": "Gesamtentwicklung, Kreditaufnahme durch die Europäische Kommission, detaillierte Mittelverwendung der Aufbau- und Resilienzfazilität durch die Mitgliedstaaten, diesbezügliche Erörterungen des Wirtschafts- und Finanzausschusses (WFA) sowie des Europäischen Rates; Sachstand zu den geplanten und ggf. eingeführten neuen Eigenmitteln der EU",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Europapolitik und Europäische Union",
+        "Wirtschaft",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "COVID-19",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "EU-Haushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "EU-Staaten",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Europäischer Aufbauplan",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Fonds der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftsförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Anleihe",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Fünfter Bericht der Bundesregierung zum Aufbauinstrument \"Next Generation EU\"",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "304769",
+      "abstract": "(insgesamt 18 Einzelfragen)",
+      "beratungsstand": "Beantwortet",
+      "vorgangstyp": "Große Anfrage",
+      "sachgebiet": [
+        "Gesundheit",
+        "Wissenschaft, Forschung und Technologie"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der CDU/CSU"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium für Bildung und Forschung",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesmittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Chronische Krankheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungspolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsprogramm der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungsprojekt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Grundlagenforschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Impfschaden",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Impfung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Jugendlicher",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kind",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Long COVID",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Medizinische Forschung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Neurologische Erkrankung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Projektförderung",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Ausgaben",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Projektförderung des Bundes im Bereich der Grundlagenforschung zu Long Covid, ME/CFS und dem Post-Vac-Syndrom",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "302263",
+      "abstract": "Halbzeitbilanz 2023 zur Umsetzung der Agenda 2030: Chancen und Herausforderungen; zentrale Maßnahmen im Rahmen des Hebels \"Internationale Verantwortung und Zusammenarbeit\" der Deutschen Nachhaltigkeitsstrategie (DNS): Handeln in Deutschland, beschleunigte Umsetzung der Agenda 2030 auf europäischer und internationaler Ebene sowie außen-, umwelt- und entwicklungspolitische Zusammenarbeit mit Partnerländern; Indikatoren der DNS mit Bezug zum Bereich Internationale Verantwortung und Zusammenarbeit",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Außenpolitik und internationale Beziehungen",
+        "Entwicklungspolitik",
+        "Umwelt"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Außenpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Entwicklungszusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Internationale Zusammenarbeit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sustainable Development Goals",
+          "typ": "Freier Deskriptor"
+        },
+        {
+          "fundstelle": false,
+          "name": "Umweltpolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Transformationsbericht der Bundesregierung zu internationaler Verantwortung und Zusammenarbeit - Herausforderungen und Wege der Transformation",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "301545",
+      "abstract": "Allgemeine Informationen über die Arbeit der Nationalen Stelle, von der Nationalen Stelle entwickelte unabdingbare Standards für eine menschenwürdige Unterbringung und Behandlung von Personen im Freiheitsentzug als Maßstab für Aufsichtsbehörden und Gewahrsamseinrichtungen zur erleichterten Umsetzung der Empfehlungen; Übersicht über die Besuche von Einrichtungen: Schwerpunktthema Maßregelvollzug; Justizvollzug, Kinder- und Jugendhilfe und Kinder- und Jugendpsychiatrie, Abschiebungshaft, Alten- und Pflegeheime, Bundes- und Landespolizei/Zollverwaltung, Bundeswehr",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Gesundheit",
+        "Innere Sicherheit",
+        "Recht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Nationale Stelle zur Verhütung von Folter"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Abschiebungshaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Altenheim",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundespolizei",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Folter",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Freiheitsentziehung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Haft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Haftbedingungen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Jugendstrafvollzug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Justizvollzugsanstalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Landesrecht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Maßregelvollzug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Menschenrechte",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Menschenwürde",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Misshandlung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Nationale Stelle zur Verhütung von Folter",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Pflegeheim",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Polizei",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Psychiatrische Einrichtung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rückführung ausreisepflichtiger Personen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Strafvollzug",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zollverwaltung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Jahresbericht 2022",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "300476",
+      "abstract": "Rückmeldung der Bundesländer über den Einsatz der freigewordenen Mittel nach BAföG im Jahr 2022, Verwendung der BAföG-Mittel für den Schulbereich (zusätzliche Lehrkräfte, Lehrkräftegewinnung, Unterrichtsvertretungen, Weiterbildungsmaßnahmen, Inklusion, Schulsozialarbeit, Integration, Sprachförderung, Berufsorientierungsmaßnahmen, Ganztagsbetreuung, (digitale) Schulausstattung) und für den Hochschulbereich (Grundfinanzierung, Bau- und Unterhaltsmaßnahmen, Infrastruktur, Qualität in der Lehre, Förderung der Fachhochschulen), detaillierte Übersicht der Rückmeldungen in tabellarischer Form (unterschiedlicher Detaillierungsgrad)",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Bildung und Erziehung",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Ausbildungsförderung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bildungsfinanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesausbildungsförderungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundesmittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Hochschulfinanzierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Informationsaustausch",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Landeshaushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Landesmittel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Länder der Bundesrepublik Deutschland",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schulfinanzierung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Bericht über die Verwendung der 2022 in den Landeshaushalten freigewordenen BAföG-Mittel",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "299342",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "7551/23",
+      "kom": "(2023) 165 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nEine sichere und nachhaltige Versorgung mit kritischen Rohstoffen zur Förderung des grünen und des digitalen Wandels \r\nKOM(2023) 165 endg.; Ratsdok. 7551/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "299332",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "7568/23",
+      "kom": "(2023) 160 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Einfuhr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Europäischer Binnenmarkt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rohstoff",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rohstoffressourcen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Rohstoffversorgung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verordnung der EU",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens zur Gewährleistung einer sicheren und nachhaltigen Versorgung mit kritischen Rohstoffen und zur Änderung der Verordnungen (EU) 168/2013, (EU) 2018/858, (EU) 2018/1724 und (EU) 2019/1020\r\nKOM(2023) 160 endg.; Ratsdok 7568/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "299180",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "7613/23",
+      "kom": "(2023) 161 endg.",
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Europäischer Binnenmarkt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Industriepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klimaschutz",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftreinhaltung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Luftverunreinigung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Produktion",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Produktionsverfahren",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Technologiepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Treibhausgas",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Umwelttechnik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Verordnung der EU",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für Maßnahmen zur Stärkung des europäischen Ökosystems der Fertigung von Netto-Null-Technologieprodukten (Netto-Null-Industrie-Verordnung)\r\nKOM(2023) 161 endg.; Ratsdok. 7613/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "297625",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-11-27T11:20:51+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 16. Februar 2023 zu einer EU-Strategie zur Förderung von industrieller Wettbewerbsfähigkeit, Handel und hochwertigen Arbeitsplätzen (2023/2513(RSP)) \r\nEP P9_TA(2023)0053",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "296272",
+      "vorgangstyp": "EU-Vorlage",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "ratsdok": "5933/23",
+      "kom": "(2023) 62 endg.",
+      "initiative": [
+        "Europäische Kommission"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Industriepolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Klimaneutralität",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nachhaltige Entwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Programm der EU",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wachstumspolitik",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Europäischen Rat, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen:\r\nEin Industrieplan zum Grünen Deal für das klimaneutrale Zeitalter\r\nKOM(2023) 62 endg.; Ratsdok. 5933/23",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "287364",
+      "abstract": "Entstehung des Vorschlags, Zielstellung und Bestandteile des Zukunftszentrums, Bereich Wissenschaft, Kulturbereich, Dialog- und Begegnungszentrum, Verfahren und nächste Schritte zur Einrichtung des Zukunftszentrums, Standortkriterien, Ausschreibung des Standortwettbewerbs",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Deutsche Einheit / Innerdeutsche Beziehungen (bis 1990)",
+        "Kultur",
+        "Wissenschaft, Forschung und Technologie"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Arbeitsgruppe Zukunftszentrum für Europäische Transformation und Deutsche Einheit",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Beauftragter der Bundesregierung für Ostdeutschland",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bericht der Bundesregierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Deutsche Einheit",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forschungseinrichtung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Kultureinrichtung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ostdeutsche Länder",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ostmitteleuropa",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Politischer Wandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sozialer Wandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zivilgesellschaft",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Zukunftszentrum für Deutsche Einheit und Europäische Transformation",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Eckpunkte zur Einrichtung eines Zukunftszentrums für Deutsche Einheit und Europäische Transformation",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "276582",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 19,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 11. März 2021 zu der Tätigkeit des Europäischen Bürgerbeauftragten - Jahresbericht 2019 (2020/2125(INI)) \r\nEP P9_TA-PROV(2021)0082",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "274453",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 19,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 17. Dezember 2020 zu den Ergebnissen der Beratungen des Petitionsausschusses im Jahr 2019 (2020/2044(INI)) \r\nEP P9_TA-PROV(2020)0383",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "259033",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 19,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 16. Januar 2020 zur Tätigkeit des Europäischen Bürgerbeauftragten - Jahresbericht 2018 (2019/2134(INI)) \r\nEP P9_TA-PROV(2020)0016",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "245012",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 19,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 13. Februar 2019 zu den Ergebnissen der Beratungen des Petitionsausschusses im Jahr 2018 (2018/2280(INI)) \r\nEP P8_TA-PROV(2019)0114",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "243808",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 19,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 13. Dezember 2018 zum Jahresbericht 2017 über die Tätigkeit des Europäischen Bürgerbeauftragten (2018/2105(INI)) \r\nEP P8_TA-PROV(2018)0531",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "232248",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 19,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 14. Dezember 2017 gemäß Artikel 216 Absatz 7 der Geschäftsordnung über die Beratungen des Petitionsausschusses im Jahr 2016 (2017/2222(INI)) \r\nEP P8_TA-PROV(2017)0502",
+      "datum": "2024-03-15"
+    },
+    {
+      "id": "232244",
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "typ": "Vorgang",
+      "wahlperiode": 19,
+      "initiative": [
+        "Bundestag"
+      ],
+      "aktualisiert": "2024-03-25T14:44:21+01:00",
+      "titel": "Entschließung des Europäischen Parlaments vom 16. November 2017 zu dem Jahresbericht 2016 über die Tätigkeit des Europäischen Bürgerbeauftragten (2017/2126(INI)) \r\nEP P8_TA-PROV(2017)0449",
+      "datum": "2024-03-15"
+    }
+  ]
+}

@@ -1,0 +1,2227 @@
+{
+  "numFound": 41,
+  "documents": [
+    {
+      "id": "660677",
+      "vorgangsposition": "Aussprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Vereinbarte Debatte",
+      "titel": "Vereinbarte Debatte anlässlich des dritten Jahrestags der Evakuierungsmission in Afghanistan",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24621",
+        "anfangsseite": 24621,
+        "endseite": 24630,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24621C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sara Nanni, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24621"
+        },
+        {
+          "seite": "24622B",
+          "aktivitaetsart": "Rede",
+          "titel": "Thomas Röwekamp, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24622"
+        },
+        {
+          "seite": "24623B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ralf Stegner, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24623"
+        },
+        {
+          "seite": "24624C",
+          "aktivitaetsart": "Rede",
+          "titel": "Stefan Keuter, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24624"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "316027"
+    },
+    {
+      "id": "660696",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Begrüßung der Wehrbeauftragten des Deutschen Bundestages, Dr. Eva Högl",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24621",
+        "anfangsseite": 24621,
+        "endseite": 24621,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24621C",
+          "aktivitaetsart": "Rede",
+          "titel": "Yvonne Magwas, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24621"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "316039"
+    },
+    {
+      "id": "660703",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an die Abg Beatrix von Storch (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24624",
+        "anfangsseite": 24624,
+        "endseite": 24624,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24624B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Yvonne Magwas, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24624"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "316044"
+    },
+    {
+      "id": "660671",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für eine sichere Rente unserer Kinder - Junior-Spardepot",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 18,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stabilisierung des Rentenniveaus und zum Aufbau eines Generationenkapitals für die gesetzliche Rentenversicherung (Rentenniveaustabilisierungs- und Generationenkapitalgesetz)",
+          "id": "312434"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Von Österreich lernen - Eine gute Rente für alle",
+          "id": "310068"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24581",
+        "anfangsseite": 24581,
+        "endseite": 24599,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11847",
+          "seite": "24599B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24581D",
+          "aktivitaetsart": "Rede",
+          "titel": "Hubertus Heil, Bundesmin., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24581"
+        },
+        {
+          "seite": "24583B",
+          "aktivitaetsart": "Rede",
+          "titel": "Hermann Gröhe, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24583"
+        },
+        {
+          "seite": "24584C",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Kurth, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24584"
+        },
+        {
+          "seite": "24585C",
+          "aktivitaetsart": "Rede",
+          "titel": "Ulrike Schielke-Ziesing, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24585"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "313097"
+    },
+    {
+      "id": "660674",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Von Österreich lernen - Eine gute Rente für alle",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 18,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stabilisierung des Rentenniveaus und zum Aufbau eines Generationenkapitals für die gesetzliche Rentenversicherung (Rentenniveaustabilisierungs- und Generationenkapitalgesetz)",
+          "id": "312434"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für eine sichere Rente unserer Kinder - Junior-Spardepot",
+          "id": "313097"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24581",
+        "anfangsseite": 24581,
+        "endseite": 24599,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/10735",
+          "seite": "24599B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24581D",
+          "aktivitaetsart": "Rede",
+          "titel": "Hubertus Heil, Bundesmin., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24581"
+        },
+        {
+          "seite": "24583B",
+          "aktivitaetsart": "Rede",
+          "titel": "Hermann Gröhe, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24583"
+        },
+        {
+          "seite": "24584C",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Kurth, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24584"
+        },
+        {
+          "seite": "24585C",
+          "aktivitaetsart": "Rede",
+          "titel": "Ulrike Schielke-Ziesing, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24585"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "310068"
+    },
+    {
+      "id": "660675",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Unsere Automobilindustrie braucht eine Zukunft - Den Industriestandort Deutschland wettbewerbsfähig machen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T15:10:01+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für Wachstum und mehr Wettbewerbsfähigkeit - Die deutsche Wirtschaft braucht jetzt ein Sofortprogramm",
+          "id": "313376"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24599",
+        "anfangsseite": 24599,
+        "endseite": 24621,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der CDU/CSU (Sofortabstimmung)",
+          "dokumentnummer": "20/12963",
+          "seite": "24621A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24599C",
+          "aktivitaetsart": "Rede",
+          "titel": "Julia Klöckner, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24599"
+        },
+        {
+          "seite": "24600C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sabine Poschmann, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24600"
+        },
+        {
+          "seite": "24601B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Dirk Spaniel, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24601"
+        },
+        {
+          "seite": "24602B",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24602"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "315929"
+    },
+    {
+      "id": "660678",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Verbesserung von Abschiebungsmöglichkeiten - Eröffnung eines deutschen Verbindungsbüros in Kabul",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wiedereröffnung der deutschen Botschaft in Damaskus",
+          "id": "315941"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Kein deutsches Steuergeld für die Tätigkeit der Vereinten Nationen in Afghanistan gewähren - Mögliche Zahlungen an die Taliban aufklären",
+          "id": "315974"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24630",
+        "anfangsseite": 24630,
+        "endseite": 24641,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12973",
+          "seite": "24641D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24630D",
+          "aktivitaetsart": "Rede",
+          "titel": "Joachim Wundrak, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24630"
+        },
+        {
+          "seite": "24631D",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Müller, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24631"
+        },
+        {
+          "seite": "24632D",
+          "aktivitaetsart": "Rede",
+          "titel": "Thomas Silberhorn, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24632"
+        },
+        {
+          "seite": "24634A",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Stefan Keuter, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24634"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "315939"
+    },
+    {
+      "id": "660679",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Wiedereröffnung der deutschen Botschaft in Damaskus",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Verbesserung von Abschiebungsmöglichkeiten - Eröffnung eines deutschen Verbindungsbüros in Kabul",
+          "id": "315939"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Kein deutsches Steuergeld für die Tätigkeit der Vereinten Nationen in Afghanistan gewähren - Mögliche Zahlungen an die Taliban aufklären",
+          "id": "315974"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24630",
+        "anfangsseite": 24630,
+        "endseite": 24641,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12974",
+          "seite": "24641D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24630D",
+          "aktivitaetsart": "Rede",
+          "titel": "Joachim Wundrak, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24630"
+        },
+        {
+          "seite": "24631D",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Müller, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24631"
+        },
+        {
+          "seite": "24632D",
+          "aktivitaetsart": "Rede",
+          "titel": "Thomas Silberhorn, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24632"
+        },
+        {
+          "seite": "24634A",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Stefan Keuter, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24634"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "315941"
+    },
+    {
+      "id": "660680",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Kein deutsches Steuergeld für die Tätigkeit der Vereinten Nationen in Afghanistan gewähren - Mögliche Zahlungen an die Taliban aufklären",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "ausschuss_kuerzel": "AWZ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Verbesserung von Abschiebungsmöglichkeiten - Eröffnung eines deutschen Verbindungsbüros in Kabul",
+          "id": "315939"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Wiedereröffnung der deutschen Botschaft in Damaskus",
+          "id": "315941"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24630",
+        "anfangsseite": 24630,
+        "endseite": 24641,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12975",
+          "seite": "24641D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24630D",
+          "aktivitaetsart": "Rede",
+          "titel": "Joachim Wundrak, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24630"
+        },
+        {
+          "seite": "24631D",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Müller, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24631"
+        },
+        {
+          "seite": "24632D",
+          "aktivitaetsart": "Rede",
+          "titel": "Thomas Silberhorn, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24632"
+        },
+        {
+          "seite": "24634A",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Stefan Keuter, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24634"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "315974"
+    },
+    {
+      "id": "660681",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Fortsetzung des Einsatzes bewaffneter deutscher Streitkräfte - Stabilisierung sichern, Wiedererstarken des IS verhindern, Versöhnung in Irak fördern",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 10,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Inneres und Heimat",
+          "ausschuss_kuerzel": "InnenA (WP19-20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Menschenrechte und humanitäre Hilfe",
+          "ausschuss_kuerzel": "AfMenschenr",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "ausschuss_kuerzel": "AWZ",
+          "federfuehrung": false
+        },
+        {
+          "ueberweisungsart": "gemäß § 96 Geschäftsordnung BT",
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verteidigungsausschuss",
+          "ausschuss_kuerzel": "VgA",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24642",
+        "anfangsseite": 24642,
+        "endseite": 24649,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12893",
+          "seite": "24649D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24642A",
+          "aktivitaetsart": "Rede",
+          "titel": "Boris Pistorius, Bundesmin., Bundesministerium der Verteidigung",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24642"
+        },
+        {
+          "seite": "24643A",
+          "aktivitaetsart": "Rede",
+          "titel": "Tobias Winkler, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24643"
+        },
+        {
+          "seite": "24644A",
+          "aktivitaetsart": "Rede",
+          "titel": "Max Lucks, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24644"
+        },
+        {
+          "seite": "24644D",
+          "aktivitaetsart": "Rede",
+          "titel": "Joachim Wundrak, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24644"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "315562"
+    },
+    {
+      "id": "660682",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für eine praxistaugliche und effektive Nationale Kreislaufwirtschaftsstrategie",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-21T12:04:04+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24649",
+        "anfangsseite": 24649,
+        "endseite": 24657,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12964",
+          "seite": "24657B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24649D",
+          "aktivitaetsart": "Rede",
+          "titel": "Björn Simon, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24649"
+        },
+        {
+          "seite": "24650D",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Thews, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24650"
+        },
+        {
+          "seite": "24652B",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Bleck, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24652"
+        },
+        {
+          "seite": "24653A",
+          "aktivitaetsart": "Rede",
+          "titel": "Jürgen Kretz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24653"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "315930"
+    },
+    {
+      "id": "660685",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "CO2-Export-Ermöglichungsgesetz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für wirtschaftliche Zusammenarbeit und Entwicklung",
+          "ausschuss_kuerzel": "AWZ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Auswärtiger Ausschuss",
+          "ausschuss_kuerzel": "AuswA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Kohlendioxid-Speicherungsgesetzes",
+          "id": "312438"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Potentiale der CO2-Abscheidung und -Speicherung und CO2-Nutzung entfesseln und Hürden konsequent aus dem Weg räumen",
+          "id": "315931"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24657",
+        "anfangsseite": 24657,
+        "endseite": 24666,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12084",
+          "seite": "24666D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24657D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24657"
+        },
+        {
+          "seite": "24658D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Thomas Gebhart, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24658"
+        },
+        {
+          "seite": "24659C",
+          "aktivitaetsart": "Rede",
+          "titel": "Helmut Kleebank, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24659"
+        },
+        {
+          "seite": "24660D",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Karsten Hilse, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24660"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "313709"
+    },
+    {
+      "id": "660686",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Potentiale der CO2-Abscheidung und -Speicherung und CO2-Nutzung entfesseln und Hürden konsequent aus dem Weg räumen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für die Angelegenheiten der Europäischen Union",
+          "ausschuss_kuerzel": "AfEU",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Ernährung und Landwirtschaft",
+          "ausschuss_kuerzel": "AfEL",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Kohlendioxid-Speicherungsgesetzes",
+          "id": "312438"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "CO2-Export-Ermöglichungsgesetz",
+          "id": "313709"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24657",
+        "anfangsseite": 24657,
+        "endseite": 24666,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/12965",
+          "seite": "24666D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24657D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24657"
+        },
+        {
+          "seite": "24658D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Thomas Gebhart, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24658"
+        },
+        {
+          "seite": "24659C",
+          "aktivitaetsart": "Rede",
+          "titel": "Helmut Kleebank, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24659"
+        },
+        {
+          "seite": "24660D",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Karsten Hilse, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24660"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "315931"
+    },
+    {
+      "id": "660800",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag des Hohen Vertreters der Union für Außen- und Sicherheitspolitik an den Rat für einen Beschluss des Rates über eine Unterstützungsmaßnahme im Rahmen der Europäischen Friedensfazilität für die Bereitstellung militärischer Ausrüstung und Plattformen, die dazu konzipiert sind, tödliche Gewalt anzuwenden, für die ukrainischen Streitkräfte \r\nRatsdok. 10925/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "313923"
+    },
+    {
+      "id": "660801",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Georgia: Options in response to the situation in the country\r\nForeign Affairs Council, 24 June 2024\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nEU-Dok 219/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "315452"
+    },
+    {
+      "id": "660802",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Decision (CFSP) 2024/… concerning restrictive measures in view of Russia’s destabilising activities\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nRatsdok. 8741/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "315455"
+    },
+    {
+      "id": "660803",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Gemeinsamer Vorschlag für eine Verordnung des Rates über restriktive Maßnahmen angesichts der destabilisierenden Aktivitäten Russlands \r\nJOIN(2024)23 endg.; Ratsdok. 8743/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "315492"
+    },
+    {
+      "id": "660804",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag des Hohen Vertreters der Union für Außen- und Sicherheitspolitik an den Rat für einen Beschluss des Rates über eine Unterstützungsmaßnahme im Rahmen der Europäischen Friedensfazilität zur Unterstützung der libanesischen Streitkräfte \r\nRatsdok. 12248/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "315493"
+    },
+    {
+      "id": "660805",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung der Kommission vom 19.3.2024 über Maßnahmen zur Bekämpfung von Nachahmungen und zur Verbesserung der Durchsetzung der Rechte des geistigen Eigentums\r\nK(2024) 1739 endg.; Ratsdok. 8044/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "310933"
+    },
+    {
+      "id": "660806",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nJahresbericht über die 2021 finanzierten humanitären Hilfsmaßnahmen der Europäischen Union\r\nKOM(2022) 647 endg.; Ratsdok. 15055/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "294580"
+    },
+    {
+      "id": "660807",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nBewertungsbericht über die nationalen strategischen Rahmen der Mitgliedstaaten für die Roma \r\nKOM(2023) 7 endg.; Ratsdok. 5211/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "297156"
+    },
+    {
+      "id": "660808",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nJahresbericht über die 2022 finanzierten humanitären Hilfsmaßnahmen der Europäischen Union \r\nKOM(2023) 500 endg.; Ratsdok. 12552/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "304237"
+    },
+    {
+      "id": "660810",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 14. März 2024 zum repressiven Umfeld in Afghanistan, darunter öffentliche Hinrichtungen und Gewalt gegen Frauen (2024/2617(RSP))\r\nEP P9_TA(2024)0160",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "310957"
+    },
+    {
+      "id": "660811",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 14. März 2024 zu dem Fall von Rocío San Miguel und General Hernández Da Costa sowie anderer politischer Gefangener in Venezuela (2024/2618(RSP))\r\nEP P9_TA(2024)0161",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "310959"
+    },
+    {
+      "id": "660812",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 25. April 2024 zu Aserbaidschan, vor allem der Unterdrückung der Zivilgesellschaft und den Fällen von Dr. Qubad Ibadoglu und Ilhamiz Quliyev\r\n(2024/2698(RSP))\r\nEP P9_TA(2024)0369",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "312117"
+    },
+    {
+      "id": "660813",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nBewertungsbericht gemäß Artikel 38 der Verordnung über das Statut und die Finanzierung europäischer politischer Parteien und europäischer politischer Stiftungen \r\nKOM(2021) 717 endg.; Ratsdok. 14388/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "284221"
+    },
+    {
+      "id": "660814",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung für einen Beschluss des Rates über die Ermächtigung zur Aufnahme von Verhandlungen über ein Abkommen zwischen der Europäischen Union und dem Vereinigten Königreich Großbritannien und Nordirland über die Zusammenarbeit und den Informationsaustausch in Wettbewerbssachen \r\nKOM(2021) 228 endg.; Ratsdok. 8760/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "285126"
+    },
+    {
+      "id": "660815",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 3/2024\r\nRechtsstaatlichkeit in der EU\r\nEin verbesserter Rahmen für den Schutz der finanziellen Interessen der EU, doch bestehen nach wie vor Risiken\r\nERH 3/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "309851"
+    },
+    {
+      "id": "660816",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Unterrichtung durch das Europäische Parlament",
+      "titel": "Entschließung des Europäischen Parlaments vom 8. Februar 2024 zur Lage in Serbien nach den Wahlen (2024/2521(RSP))\r\nEP P9_TA(2024)0075",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "309852"
+    },
+    {
+      "id": "660717",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 24673D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA)\r\nKünstliche Intelligenz und Distributed-Ledger-Technologie in der öffentlichen Verwaltung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24673",
+        "anfangsseite": 24673,
+        "endseite": 24674,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "291723"
+    },
+    {
+      "id": "660719",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 24673D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Bericht des Ausschusses für Bildung, Forschung und Technikfolgenabschätzung (18. Ausschuss) gemäß § 56a der Geschäftsordnung\r\nTechnikfolgenabschätzung (TA)\r\nData-Mining - gesellschaftspolitische und rechtliche Herausforderungen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24673",
+        "anfangsseite": 24673,
+        "endseite": 24674,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "295126"
+    },
+    {
+      "id": "660817",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24674A - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen: Bericht über die Rechtsstaatlichkeit 2024 - Die Lage der Rechtsstaatlichkeit in der Europäischen Union\r\nKOM(2024) 800 endg.; Ratsdok. 12605/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24674",
+        "anfangsseite": 24674,
+        "endseite": 24674,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "315044"
+    },
+    {
+      "id": "660676",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für Wachstum und mehr Wettbewerbsfähigkeit - Die deutsche Wirtschaft braucht jetzt ein Sofortprogramm",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 21,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Unsere Automobilindustrie braucht eine Zukunft - Den Industriestandort Deutschland wettbewerbsfähig machen",
+          "id": "315929"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24599",
+        "anfangsseite": 24599,
+        "endseite": 24621,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/11950",
+          "seite": "24621B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24599C",
+          "aktivitaetsart": "Rede",
+          "titel": "Julia Klöckner, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24599"
+        },
+        {
+          "seite": "24600C",
+          "aktivitaetsart": "Rede",
+          "titel": "Sabine Poschmann, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24600"
+        },
+        {
+          "seite": "24601B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Dirk Spaniel, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24601"
+        },
+        {
+          "seite": "24602B",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kellner, Parl. Staatssekr., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24602"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "313376"
+    },
+    {
+      "id": "660713",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 24673D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "titel": "Haushaltsführung 2024\r\nÜberplanmäßige Ausgabe bei Kapitel 0502 Titel 687 01 - Hilfe für Deutsche im Ausland und für nicht vertretene Unionsbürgerinnen und Unionsbürger in Drittstaaten - bis zur Höhe von 4.468.000 Euro",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24673",
+        "anfangsseite": 24673,
+        "endseite": 24674,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "314667"
+    },
+    {
+      "id": "660714",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 24673D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Umweltbericht 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24673",
+        "anfangsseite": 24673,
+        "endseite": 24674,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "311885"
+    },
+    {
+      "id": "660715",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 24673D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Nationales Luftreinhalteprogramm",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24673",
+        "anfangsseite": 24673,
+        "endseite": 24674,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "312290"
+    },
+    {
+      "id": "660716",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 24673D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Diskussionspapier des Sachverständigenrates für Umweltfragen \r\nSuffizienz als \"Strategie des Genug\": Eine Einladung zur Diskussion über Suffizienz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24673",
+        "anfangsseite": 24673,
+        "endseite": 24674,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "312420"
+    },
+    {
+      "id": "660670",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Stabilisierung des Rentenniveaus und zum Aufbau eines Generationenkapitals für die gesetzliche Rentenversicherung (Rentenniveaustabilisierungs- und Generationenkapitalgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 18,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-09T16:52:01+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Arbeit und Soziales",
+          "ausschuss_kuerzel": "AfArbSoz",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ueberweisungsart": "gemäß § 96 Geschäftsordnung BT",
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für eine sichere Rente unserer Kinder - Junior-Spardepot",
+          "id": "313097"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Von Österreich lernen - Eine gute Rente für alle",
+          "id": "310068"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24581",
+        "anfangsseite": 24581,
+        "endseite": 24599,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11898, 20/12611",
+          "seite": "24599B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24581D",
+          "aktivitaetsart": "Rede",
+          "titel": "Hubertus Heil, Bundesmin., Bundesministerium für Arbeit und Soziales",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24581"
+        },
+        {
+          "seite": "24583B",
+          "aktivitaetsart": "Rede",
+          "titel": "Hermann Gröhe, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24583"
+        },
+        {
+          "seite": "24584C",
+          "aktivitaetsart": "Rede",
+          "titel": "Markus Kurth, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24584"
+        },
+        {
+          "seite": "24585C",
+          "aktivitaetsart": "Rede",
+          "titel": "Ulrike Schielke-Ziesing, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24585"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "312434"
+    },
+    {
+      "id": "660683",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Kohlendioxid-Speicherungsgesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-08T13:04:20+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Umwelt, Naturschutz, nukleare Sicherheit und Verbraucherschutz",
+          "ausschuss_kuerzel": "AfU (WP20)",
+          "federfuehrung": false
+        },
+        {
+          "ueberweisungsart": "gemäß § 96 Geschäftsordnung BT",
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Haushaltsausschuss",
+          "ausschuss_kuerzel": "HaushA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "CO2-Export-Ermöglichungsgesetz",
+          "id": "313709"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Potentiale der CO2-Abscheidung und -Speicherung und CO2-Nutzung entfesseln und Hürden konsequent aus dem Weg räumen",
+          "id": "315931"
+        }
+      ],
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24657",
+        "anfangsseite": 24657,
+        "endseite": 24666,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/11900, 20/12717",
+          "seite": "24666D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "24657D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Robert Habeck, Bundesmin., Bundesministerium für Wirtschaft und Klimaschutz",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24657"
+        },
+        {
+          "seite": "24658D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Thomas Gebhart, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24658"
+        },
+        {
+          "seite": "24659C",
+          "aktivitaetsart": "Rede",
+          "titel": "Helmut Kleebank, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24659"
+        },
+        {
+          "seite": "24660D",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Karsten Hilse, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24660"
+        }
+      ],
+      "datum": "2024-09-27",
+      "vorgang_id": "312438"
+    },
+    {
+      "id": "660711",
+      "vorgangsposition": "Berichtigung zum Gesetzesbeschluss",
+      "zuordnung": "BT",
+      "abstract": "Berichtigung mit Zustimmung der BT-Präsidentin gem. § 122 Abs. 3 Satz 1 der Geschäftsordnung BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Regelung hybrider und virtueller Versammlungen in der Bundesnotarordnung, der Bundesrechtsanwaltsordnung, der Patentanwaltsordnung und dem Steuerberatungsgesetz sowie zur Änderung weiterer Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24673",
+        "anfangsseite": 24673,
+        "endseite": 24673,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "302865"
+    },
+    {
+      "id": "660712",
+      "vorgangsposition": "Berichtigung zum Gesetzesbeschluss",
+      "zuordnung": "BT",
+      "abstract": "Berichtigungen mit Zustimmung der BT-Präsidentin gem. § 122 Absatz 3 Satz der Geschäftsordnung BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Medizinforschungsgesetz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2024-10-02T11:33:28+02:00",
+      "fundstelle": {
+        "id": "5672",
+        "dokumentnummer": "20/189",
+        "datum": "2024-09-27",
+        "verteildatum": "2024-09-30",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20189.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20189.pdf#P.24673",
+        "anfangsseite": 24673,
+        "endseite": 24673,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "datum": "2024-09-27",
+      "vorgang_id": "310586"
+    }
+  ]
+}

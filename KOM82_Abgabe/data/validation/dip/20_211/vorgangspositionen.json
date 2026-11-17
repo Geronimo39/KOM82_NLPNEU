@@ -1,0 +1,5058 @@
+{
+  "numFound": 108,
+  "documents": [
+    {
+      "id": "667482",
+      "vorgangsposition": "Aktuelle Stunde",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Aktuelle Stunde",
+      "titel": "Magdeburg und Aschaffenburg - Hintergründe und Konsequenzen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 13,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27594",
+        "anfangsseite": 27594,
+        "endseite": 27610,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27594B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Gottfried Curio, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27594"
+        },
+        {
+          "seite": "27595C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Daniela De Ridder, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27595"
+        },
+        {
+          "seite": "27597A",
+          "aktivitaetsart": "Rede",
+          "titel": "Tino Sorge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27597"
+        },
+        {
+          "seite": "27598D",
+          "aktivitaetsart": "Rede",
+          "titel": "Canan Bayram, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27598"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319944"
+    },
+    {
+      "id": "667485",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Ansprache der Bundestagsvizepräsidentin Petra Pau anlässlich ihres Ausscheidens aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27610",
+        "anfangsseite": 27610,
+        "endseite": 27611,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27610D",
+          "aktivitaetsart": "Rede",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27610"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319946"
+    },
+    {
+      "id": "667486",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Staatsministers im Auswärtigen Amt, Dr. Tobias Lindner",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:38:24+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27495",
+        "anfangsseite": 27495,
+        "endseite": 27495,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27495B",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27495"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319947"
+    },
+    {
+      "id": "667490",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung der Abg Dr. Ingrid Nestle (B90/GR) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:38:49+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27504",
+        "anfangsseite": 27504,
+        "endseite": 27504,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27504C",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27504"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319951"
+    },
+    {
+      "id": "667491",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Michael Kruse (FDP) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:39:09+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27509",
+        "anfangsseite": 27509,
+        "endseite": 27509,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27509A",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27509"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319953"
+    },
+    {
+      "id": "667529",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung der Abg Ekin Deligöz (B90/GR) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:39:33+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27569",
+        "anfangsseite": 27569,
+        "endseite": 27569,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27569C",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27569"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319980"
+    },
+    {
+      "id": "667530",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Jürgen Lenders (FDP) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:40:09+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27570",
+        "anfangsseite": 27570,
+        "endseite": 27570,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27570D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27570"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319981"
+    },
+    {
+      "id": "667531",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an die Abg Nicole Höchst (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27571",
+        "anfangsseite": 27571,
+        "endseite": 27571,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27571B",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27571"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319982"
+    },
+    {
+      "id": "667532",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Dr. Stefan Kaufmann (CDU/CSU) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:40:29+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27572",
+        "anfangsseite": 27572,
+        "endseite": 27572,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27572B",
+          "aktivitaetsart": "Rede",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27572"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319983"
+    },
+    {
+      "id": "667533",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an die Abg Heike Engelhardt (SPD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27574",
+        "anfangsseite": 27574,
+        "endseite": 27575,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27574D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27574"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319984"
+    },
+    {
+      "id": "667537",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung der Abg Leni Breymaier (SPD) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:40:48+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27582",
+        "anfangsseite": 27582,
+        "endseite": 27582,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27582A",
+          "aktivitaetsart": "Rede",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27582"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319988"
+    },
+    {
+      "id": "667539",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung der Abg Cornelia Möhring (Gruppe Die Linke) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:41:06+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27583",
+        "anfangsseite": 27583,
+        "endseite": 27583,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27583C",
+          "aktivitaetsart": "Rede",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27583"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319990"
+    },
+    {
+      "id": "667542",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Sönke Rix (SPD) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:41:25+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27584",
+        "anfangsseite": 27584,
+        "endseite": 27584,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27584B",
+          "aktivitaetsart": "Rede",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27584"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319993"
+    },
+    {
+      "id": "667548",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Paul Lehrieder (CDU/CSU) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:41:46+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27587",
+        "anfangsseite": 27587,
+        "endseite": 27587,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27587B",
+          "aktivitaetsart": "Rede",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27587"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "320000"
+    },
+    {
+      "id": "667551",
+      "vorgangsposition": "Ansprache",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Ansprache/Erklärung/Mitteilung",
+      "titel": "Verabschiedung des Abg Manuel Höferlin (FDP) aus dem Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-02T16:42:04+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27606",
+        "anfangsseite": 27606,
+        "endseite": 27606,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27606A",
+          "aktivitaetsart": "Rede",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27606"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "320001"
+    },
+    {
+      "id": "667453",
+      "vorgangsposition": "1. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Integration von Photovoltaik- und anderen Erneuerbare-Energien-Anlagen in den Strommarkt und zur Vermeidung solarstrombedingter Netznotfallmaßnahmen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": true
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen",
+          "id": "318835"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung",
+          "id": "318831"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024)",
+          "id": "316398"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung",
+          "id": "317190"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für mehr Steuerung und Akzeptanz beim Windenergieausbau",
+          "id": "318830"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine Klimaabgaben, kein Geld für CO2 - CO2-Bepreisung abschaffen",
+          "id": "319785"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27502",
+        "anfangsseite": 27502,
+        "endseite": 27514,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "dokumentnummer": "20/14705",
+          "seite": "27514B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27503B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27503"
+        },
+        {
+          "seite": "27504D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27504"
+        },
+        {
+          "seite": "27505D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27505"
+        },
+        {
+          "seite": "27506C",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kruse, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27506"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319802"
+    },
+    {
+      "id": "667454",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Keine Klimaabgaben, kein Geld für CO2 - CO2-Bepreisung abschaffen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Klimaschutz und Energie",
+          "ausschuss_kuerzel": "AfKlima",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Wohnen, Stadtentwicklung, Bauwesen und Kommunen",
+          "ausschuss_kuerzel": "BauA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Finanzausschuss",
+          "ausschuss_kuerzel": "FinanzA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Verkehrsausschuss",
+          "ausschuss_kuerzel": "VerkA",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Wirtschaftsausschuss",
+          "ausschuss_kuerzel": "AfWirtschaft",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen",
+          "id": "318835"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung",
+          "id": "318831"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024)",
+          "id": "316398"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung",
+          "id": "317190"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für mehr Steuerung und Akzeptanz beim Windenergieausbau",
+          "id": "318830"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Integration von Photovoltaik- und anderen Erneuerbare-Energien-Anlagen in den Strommarkt und zur Vermeidung solarstrombedingter Netznotfallmaßnahmen",
+          "id": "319802"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27502",
+        "anfangsseite": 27502,
+        "endseite": 27514,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der AfD (Sofortabstimmung)",
+          "dokumentnummer": "20/14697",
+          "seite": "27514C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27503B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27503"
+        },
+        {
+          "seite": "27504D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27504"
+        },
+        {
+          "seite": "27505D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27505"
+        },
+        {
+          "seite": "27506C",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kruse, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27506"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319785"
+    },
+    {
+      "id": "667469",
+      "vorgangsposition": "Abstimmung",
+      "zuordnung": "BT",
+      "abstract": "Einspruch des Abg Stephan Brandner (AfD) gegen die Ordnungsmaßnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27566",
+        "anfangsseite": 27566,
+        "endseite": 27566,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Zurückweisung des Einspruchs",
+          "seite": "27566C"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319923"
+    },
+    {
+      "id": "667470",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Für eine Einstellung der Finanzierung frühkindlicher Sexualaufklärung in der Bundesrepublik Deutschland",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 15,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Bildung, Forschung und Technikfolgenabschätzung",
+          "ausschuss_kuerzel": "AfBFT",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Ausschuss für Kultur und Medien",
+          "ausschuss_kuerzel": "AfKult",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Schutz von Kindern und Jugendlichen mit Geschlechtsdysphorie vor geschlechtsangleichenden medizinischen Eingriffen",
+          "id": "292974"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27566",
+        "anfangsseite": 27566,
+        "endseite": 27576,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der AfD (Sofortabstimmung)",
+          "dokumentnummer": "20/14717",
+          "seite": "27575D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27567A",
+          "aktivitaetsart": "Rede",
+          "titel": "Beatrix von Storch, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27567"
+        },
+        {
+          "seite": "27567C",
+          "aktivitaetsart": "Rede",
+          "titel": "Anke Hennig, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27567"
+        },
+        {
+          "seite": "27568C",
+          "aktivitaetsart": "Rede",
+          "titel": "Ekin Deligöz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27568"
+        },
+        {
+          "seite": "27569D",
+          "aktivitaetsart": "Rede",
+          "titel": "Jürgen Lenders, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27569"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319825"
+    },
+    {
+      "id": "667471",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Schutz von Kindern und Jugendlichen mit Geschlechtsdysphorie vor geschlechtsangleichenden medizinischen Eingriffen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 15,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "ueberweisung": [
+        {
+          "ausschuss": "Ausschuss für Familie, Senioren, Frauen und Jugend",
+          "ausschuss_kuerzel": "AfFSFJ",
+          "federfuehrung": true
+        },
+        {
+          "ausschuss": "Ausschuss für Gesundheit",
+          "ausschuss_kuerzel": "AfG",
+          "federfuehrung": false
+        },
+        {
+          "ausschuss": "Rechtsausschuss",
+          "ausschuss_kuerzel": "RechtsA",
+          "federfuehrung": false
+        }
+      ],
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Für eine Einstellung der Finanzierung frühkindlicher Sexualaufklärung in der Bundesrepublik Deutschland",
+          "id": "319825"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27566",
+        "anfangsseite": 27566,
+        "endseite": 27576,
+        "anfangsquadrant": "C",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Überweisung",
+          "abstimm_ergebnis_bemerkung": "Überweisung gegen den Wunsch der Fraktion der AfD (Sofortabstimmung)",
+          "dokumentnummer": "20/4213",
+          "seite": "27576A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27567A",
+          "aktivitaetsart": "Rede",
+          "titel": "Beatrix von Storch, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27567"
+        },
+        {
+          "seite": "27567C",
+          "aktivitaetsart": "Rede",
+          "titel": "Anke Hennig, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27567"
+        },
+        {
+          "seite": "27568C",
+          "aktivitaetsart": "Rede",
+          "titel": "Ekin Deligöz, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27568"
+        },
+        {
+          "seite": "27569D",
+          "aktivitaetsart": "Rede",
+          "titel": "Jürgen Lenders, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27569"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "292974"
+    },
+    {
+      "id": "667588",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal for a Council Implementing Decision on the suspension of certain provisions of Regulation (EC) 810/2009 of the European Parliament and of the Council with respect to Somalia\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2024) 324 endg.; Ratsdok. 12536/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "315496"
+    },
+    {
+      "id": "667589",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament und den Rat\r\nZweiter Bericht zur Anwendung der Datenschutz-Grundverordnung (DSGVO) \r\nKOM(2024) 357 endg.; Ratsdok. 12583/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "315497"
+    },
+    {
+      "id": "667591",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nBericht über die Umsetzung des EU-Aktionsplans gegen Rassismus 2020-2025 und über die nationalen Aktionspläne gegen Rassismus und Diskriminierung\r\nKOM(2024) 419 endg.; Ratsdok. 13819/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "316664"
+    },
+    {
+      "id": "667593",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Rates über die Ausstellung von auf Personalausweisen basierenden digitalen Reiseausweisen und technische Standards für solche Reiseausweise\r\nKOM(2024) 671 endg.; Ratsdok. 14389/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317427"
+    },
+    {
+      "id": "667599",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Report from the Commission to the European Parliament and the Council\r\nFirst progress report of the EU Strategy on combating antisemitism and fostering Jewish life\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nKOM(2024) 476 endg.; Ratsdok. 14520/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317695"
+    },
+    {
+      "id": "667610",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung für einen Beschluss des Rates zur Ermächtigung der Europäischen Kommission, im Namen der Europäischen Union an den Verhandlungen über ein Übereinkommen des Europarats teilzunehmen, das das Übereinkommen von 1998 über den Schutz der Umwelt durch das Strafrecht (SEV 172) aufhebt und ersetzt, sowie ein Entwurf eines diesbezüglichen erläuternden Berichts \r\nKOM(2023) 419 endg.; Ratsdok. 11545/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "303330"
+    },
+    {
+      "id": "667618",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung für einen Beschluss des Rates über die Ermächtigung zur Aufnahme von Verhandlungen über eine internationale Übereinkunft in Bezug auf geistiges Eigentum, genetische Ressourcen und mit genetischen Ressourcen verbundenes traditionelles Wissen \r\nKOM(2024) 3 endg.; Ratsdok. 5237/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "309383"
+    },
+    {
+      "id": "667620",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung für einen Beschluss des Rates zur Ermächtigung der Europäischen Kommission, im Namen der Europäischen Union an den Verhandlungen über ein Zusatzprotokoll zum Übereinkommen des Europarats über Geldwäsche sowie Ermittlung, Beschlagnahme und Einziehung von Erträgen aus Straftaten und über die Finanzierung des Terrorismus (SEV Nr. 198) teilzunehmen\r\nKOM(2024) 177 endg.; Ratsdok. 9038/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "312106"
+    },
+    {
+      "id": "667621",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung für einen Beschluss des Rates über die Ermächtigung zur Aufnahme von Verhandlungen über den Vertrag über das Designrecht \r\nKOM(2024) 232 endg.; Ratsdok. 10873/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "313515"
+    },
+    {
+      "id": "667622",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Umsetzung der Richtlinie (EU) 2016/800 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Verfahrensgarantien in Strafverfahren für Kinder, die Verdächtige oder beschuldigte Personen in Strafverfahren sind \r\nKOM(2024) 489 endg.; Ratsdok. 14910/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "318366"
+    },
+    {
+      "id": "667681",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen über die Umsetzung und Durchsetzung der Handelspolitik der EU\r\nKOM(2024) 385 endg.; Ratsdok. 14145/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317430"
+    },
+    {
+      "id": "667682",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nVierter Jahresbericht über die Überprüfung ausländischer Direktinvestitionen in der Union\r\nKOM(2024) 464 endg.; Ratsdok. 14640/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317444"
+    },
+    {
+      "id": "667683",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 21/2024\r\nStaatliche Beihilfen in Krisenzeiten: Zügige Reaktion der Kommission, aber mangelhafte Kontrollen und Widersprüche in den Leitlinien zur Unterstützung der industriepolitischen Ziele der EU\r\nERH 21/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317741"
+    },
+    {
+      "id": "667684",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Abschluss - im Namen der Europäischen Union - des Erweiterten Abkommens über Partnerschaft und Zusammenarbeit zwischen der Europäischen Union einerseits und der Republik Usbekistan andererseits \r\nKOM(2024) 472 endg.; Ratsdok. 14755/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317743"
+    },
+    {
+      "id": "667685",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über die Unterzeichnung - im Namen der Europäischen Union - des Erweiterten Abkommens über Partnerschaft und Zusammenarbeit zwischen der Europäischen Union einerseits und der Republik Usbekistan andererseits \r\nKOM(2024) 471 endg.; Ratsdok. 14756/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317745"
+    },
+    {
+      "id": "667686",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Abschluss - im Namen der Union - eines Abkommens zwischen der Europäischen Union einerseits und dem Königreich Norwegen andererseits zur Festlegung der Grundsätze und Bedingungen der ausführlichen Regeln für den Zugang des Königreichs Norwegen zum öffentlichen regulierten Dienst, der von dem weltweiten Satellitennavigationssystem bereitgestellt wird, das durch das Weltraumprogramm der Union eingerichtet wurde \r\nKOM(2024) 462 endg.; Ratsdok. 15110/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "318371"
+    },
+    {
+      "id": "667687",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über die Unterzeichnung - im Namen der Union - und die vorläufige Anwendung eines Abkommens zwischen der Europäischen Union einerseits und dem Königreich Norwegen andererseits zur Festlegung der Grundsätze und Bedingungen der ausführlichen Regeln für den Zugang des Königreichs Norwegen zum öffentlichen regulierten Dienst, der von dem weltweiten Satellitennavigationssystem bereitgestellt wird, das durch das Weltraumprogramm der Union eingerichtet wurde \r\nKOM(2024) 463 endg.; Ratsdok. 15111/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "318373"
+    },
+    {
+      "id": "667689",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) Nr. 1026/2012 über bestimmte Maßnahmen zur Unterstützung der Bestandserhaltung gegenüber Ländern, die nicht nachhaltigen Fischfang zulassen \r\nKOM(2024) 407 endg.; Ratsdok. 13384/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "316387"
+    },
+    {
+      "id": "667692",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 19/2024\r\nÖkologischer/biologischer Landbau in der EU: Lücken und Unstimmigkeiten beeinträchtigen den Erfolg der Politik\r\nERH 19/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "316665"
+    },
+    {
+      "id": "667693",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 20/2024\r\nPläne der Gemeinsamen Agrarpolitik: Grüner, aber nicht auf einer Höhe mit den Klima- und Umweltambitionen der EU\r\nERH 20/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317446"
+    },
+    {
+      "id": "667694",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) 2023/1115 hinsichtlich der Bestimmungen zum Geltungsbeginn\r\nKOM(2024) 452 endg.; Ratsdok. 14141/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317447"
+    },
+    {
+      "id": "667697",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Rates zur Festsetzung der Fangmöglichkeiten für 2025 und 2026 für bestimmte Fischbestände in Unionsgewässern sowie für Fischereifahrzeuge der Union in bestimmten Nicht-Unionsgewässern \r\nKOM(2024) 506 endg.; Ratsdok. 15106/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "318387"
+    },
+    {
+      "id": "667698",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament, den Rat und den Europäischen Wirtschafts- und Sozialausschuss über die Anwendung und Umsetzung der Richtlinie (EU) 2018/957 des Europäischen Parlaments und des Rates vom 28. Juni 2018 zur Änderung der Richtlinie 96/71/EG über die Entsendung von Arbeitnehmern im Rahmen der Erbringung von Dienstleistungen \r\nKOM(2024) 320 endg.; Ratsdok. 9724/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "313076"
+    },
+    {
+      "id": "667699",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Sonderbericht des Europäischen Rechnungshofs Nr. 10/2024\r\nAnerkennung von Berufsqualifikationen in der EU\r\nEin wichtiger Mechanismus, der aber nur wenig genutzt und nicht einheitlich angewandt wird\r\nERH 10/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "315528"
+    },
+    {
+      "id": "667700",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates zu Leitlinien für beschäftigungspolitische Maßnahmen der Mitgliedstaaten \r\nKOM(2024) 599 endg.; Ratsdok. 11462/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "315529"
+    },
+    {
+      "id": "667701",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Safer Together\r\nStrengthening Europe's Civilian and Military Preparedness and Readiness\r\nReport by Sauli Niinistö, former President of the Republic of Finland,\r\nIn his capacity as Special Adviser to the President of the European Commission\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nEU-Dok 314/2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "318374"
+    },
+    {
+      "id": "667703",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Standpunkt, der im Namen der Europäischen Union auf der 233. Tagung des Rates der Internationalen Zivilluftfahrt-Organisation (ICAO) zu vertreten ist\r\nKOM(2024) 478 endg.; Ratsdok. 14559/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317451"
+    },
+    {
+      "id": "667704",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Standpunkt, der im Namen der Europäischen Union auf der 233. Tagung des Rates der Internationalen Zivilluftfahrt-Organisation (ICAO) zu vertreten ist und zwar in Bezug auf die vorgeschlagenen Änderungen zu Kapitel 1 \"Definitions and general principles\" (Definitionen und allgemeine Grundsätze), Kapitel 3 \"Entry and Departure of persons and their baggage\" (Ein- und Ausreise von Personen mit ihrem Gepäck) Abschnitt C \"Security of travel documents\" (Sicherheit von Reisedokumenten), Abschnitt D \"Travel documents\" (Reisedokumente), Abschnitt G \"Embarkation/Disembarkation Cards\" (Ein- und Aussteigekarten), Abschnitt H \"Inspection of travel documents\" (Prüfung von Reisedokumenten) und Kapitel 8 \"Facilitation provisions covering specific subjects\" (Bestimmungen zu Erleichterungen bei besonderen Themen) Abschnitt H \"Trafficking in persons\" (Menschenhandel) und Abschnitt I \"Wildlife Trafficking\" (Illegaler Artenhandel), die in Änderung 30 zu Anhang 9 - \"Facilitation\" (Erleichterungen) - des Abkommens über die Internationale Zivilluftfahrt enthalten sind\r\nKOM(2024) 477 endg.; Ratsdok. 14563/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317457"
+    },
+    {
+      "id": "667705",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für einen Beschluss des Rates über den Abschluss - im Namen der Europäischen Union - des Abkommens zwischen der Europäischen Union und der Ukraine zur Änderung des Abkommens zwischen der Europäischen Union und der Ukraine über die Beförderung von Gütern im Straßenverkehr vom 29. Juni 2022 \r\nKOM(2024) 524 endg.; Ratsdok. 15396/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "318389"
+    },
+    {
+      "id": "667706",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Empfehlung des Rates zur Stärkung der Forschungssicherheit\r\nKOM(2024) 26 endg.; Ratsdok. 5788/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "309847"
+    },
+    {
+      "id": "667707",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen über die Förderung von Start-ups und Innovation im Bereich der vertrauenswürdigen künstlichen Intelligenz\r\nKOM(2024) 28 endg.; Ratsdok. 5853/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "309848"
+    },
+    {
+      "id": "667709",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Gemeinsame Mitteilung an das Europäische Parlament, den Rat, den Wirtschafts- und Sozialausschuss, den Ausschuss der Regionen und die Europäische Investitionsbank\r\nTeam Europa - Aufbau nachhaltiger internationaler Partnerschaften\r\nJOIN(2024)25 endg.; Ratsdok. 14205/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317468"
+    },
+    {
+      "id": "667441",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Keine Blockade parlamentarischer Mehrheitsfindung über Ukraine-Hilfen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-06-03T12:00:15+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr\r\n[Artikelgesetz Zeitenwende]",
+          "id": "315286"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zu dem Abkommen vom 13. September 2024 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Litauen über die Zusammenarbeit im Verteidigungsbereich",
+          "id": "318239"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Strafbarkeit der Ausübung von Tätigkeiten für fremde Mächte sowie zur Änderung soldatenrechtlicher und soldatenbeteiligungsrechtlicher Vorschriften",
+          "id": "316380"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27491",
+        "anfangsseite": 27491,
+        "endseite": 27502,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/14712",
+          "seite": "27502B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27492A",
+          "aktivitaetsart": "Rede",
+          "titel": "Johannes Arlt, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27492"
+        },
+        {
+          "seite": "27493A",
+          "aktivitaetsart": "Rede",
+          "titel": "Kerstin Vieregge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27493"
+        },
+        {
+          "seite": "27494A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Tobias Lindner, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27494"
+        },
+        {
+          "seite": "27495B",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Müller, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27495"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "319803"
+    },
+    {
+      "id": "667553",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 27630D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Dringende Handlungsbedarfe für die Opfer der SED-Diktatur",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27630",
+        "anfangsseite": 27630,
+        "endseite": 27631,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "282665"
+    },
+    {
+      "id": "667554",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 27630D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Jahresbericht 2022 \r\nDie Unterstützung der Opfer der SED-Diktatur - unsere gemeinsame gesamtdeutsche Verantwortung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27630",
+        "anfangsseite": 27630,
+        "endseite": 27631,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "288693"
+    },
+    {
+      "id": "667555",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 27630D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Jahresbericht 2023 \r\n70 Jahre DDR-Volksaufstand. An die Opfer der SED-Diktatur erinnern - die Betroffenen heute unterstützen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27630",
+        "anfangsseite": 27630,
+        "endseite": 27631,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "300754"
+    },
+    {
+      "id": "667556",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 27630D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Gesetzgeberischer Handlungsbedarf zur Verbesserung der Anerkennung verfolgungsbedingter Gesundheitsschäden von Opfern politischer Verfolgung in der DDR",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27630",
+        "anfangsseite": 27630,
+        "endseite": 27631,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "309712"
+    },
+    {
+      "id": "667557",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 27630D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Jahresbericht 2024\r\nDie SED-Diktatur und ihre Folgen für die Opfer verstehen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27630",
+        "anfangsseite": 27630,
+        "endseite": 27631,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "312966"
+    },
+    {
+      "id": "667712",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission zum Jahresbericht 2023 über die Anwendung der Grundsätze der Subsidiarität und der Verhältnismäßigkeit und die Beziehungen zu den nationalen Parlamenten\r\nKOM(2024) 493 endg.; Ratsdok. 15386/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317902"
+    },
+    {
+      "id": "667438",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zu dem Abkommen vom 13. September 2024 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Litauen über die Zusammenarbeit im Verteidigungsbereich",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr\r\n[Artikelgesetz Zeitenwende]",
+          "id": "315286"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Strafbarkeit der Ausübung von Tätigkeiten für fremde Mächte sowie zur Änderung soldatenrechtlicher und soldatenbeteiligungsrechtlicher Vorschriften",
+          "id": "316380"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine Blockade parlamentarischer Mehrheitsfindung über Ukraine-Hilfen",
+          "id": "319803"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27491",
+        "anfangsseite": 27491,
+        "endseite": 27502,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/14020",
+          "seite": "27501D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27492A",
+          "aktivitaetsart": "Rede",
+          "titel": "Johannes Arlt, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27492"
+        },
+        {
+          "seite": "27493A",
+          "aktivitaetsart": "Rede",
+          "titel": "Kerstin Vieregge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27493"
+        },
+        {
+          "seite": "27494A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Tobias Lindner, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27494"
+        },
+        {
+          "seite": "27495B",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Müller, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27495"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318239"
+    },
+    {
+      "id": "667450",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen",
+          "id": "318835"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung",
+          "id": "318831"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024)",
+          "id": "316398"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für mehr Steuerung und Akzeptanz beim Windenergieausbau",
+          "id": "318830"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Integration von Photovoltaik- und anderen Erneuerbare-Energien-Anlagen in den Strommarkt und zur Vermeidung solarstrombedingter Netznotfallmaßnahmen",
+          "id": "319802"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine Klimaabgaben, kein Geld für CO2 - CO2-Bepreisung abschaffen",
+          "id": "319785"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27502",
+        "anfangsseite": 27502,
+        "endseite": 27514,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/13615, 20/14776",
+          "seite": "27514A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27503B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27503"
+        },
+        {
+          "seite": "27504D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27504"
+        },
+        {
+          "seite": "27505D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27505"
+        },
+        {
+          "seite": "27506C",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kruse, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27506"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "317190"
+    },
+    {
+      "id": "667452",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz für mehr Steuerung und Akzeptanz beim Windenergieausbau",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen",
+          "id": "318835"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung",
+          "id": "318831"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024)",
+          "id": "316398"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung",
+          "id": "317190"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Integration von Photovoltaik- und anderen Erneuerbare-Energien-Anlagen in den Strommarkt und zur Vermeidung solarstrombedingter Netznotfallmaßnahmen",
+          "id": "319802"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine Klimaabgaben, kein Geld für CO2 - CO2-Bepreisung abschaffen",
+          "id": "319785"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27502",
+        "anfangsseite": 27502,
+        "endseite": 27514,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/14234, 20/14777",
+          "seite": "27514A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27503B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27503"
+        },
+        {
+          "seite": "27504D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27504"
+        },
+        {
+          "seite": "27505D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27505"
+        },
+        {
+          "seite": "27506C",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kruse, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27506"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318830"
+    },
+    {
+      "id": "667462",
+      "vorgangsposition": "Geschäftsordnungsantrag zur Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktion der CDU/CSU auf Sitzungsunterbrechung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27514",
+        "anfangsseite": 27514,
+        "endseite": 27515,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme Geschäftsordnungsantrag",
+          "seite": "27515A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27514D",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27514"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "315331"
+    },
+    {
+      "id": "667474",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Verbesserung des Schutzes von Kindern und Jugendlichen  vor sexuellem Missbrauch - Aufarbeitungskommission mit dem Recht zur Aufklärung und Mitwirkung einrichten sowie strafrechtliche Anzeigepflicht für bestimmte Personengruppen einführen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für ein verlässliches Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt",
+          "id": "318243"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gewalt gegen Frauen entschieden bekämpfen - Frauenhäuser ausbauen und Prävention stärken",
+          "id": "318259"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Strafgesetzbuches und weiterer Gesetze - Verbesserung des Opferschutzes, insbesondere für Frauen und verletzliche Personen",
+          "id": "313674"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Frauen und ihre Kinder vor Gewalt schützen - Istanbul-Konvention umsetzen - Gewalthilfegesetz jetzt beschließen",
+          "id": "317583"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27576",
+        "anfangsseite": 27576,
+        "endseite": 27585,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/6086",
+          "seite": "27584C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27577A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lisa Paus, Bundesmin., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27577D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dorothee Bär, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27578C",
+          "aktivitaetsart": "Rede",
+          "titel": "Daniel Baldy, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27578"
+        },
+        {
+          "seite": "27579C",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Adler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27579"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "297844"
+    },
+    {
+      "id": "667476",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Gewalt gegen Frauen entschieden bekämpfen - Frauenhäuser ausbauen und Prävention stärken",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Verbesserung des Schutzes von Kindern und Jugendlichen  vor sexuellem Missbrauch - Aufarbeitungskommission mit dem Recht zur Aufklärung und Mitwirkung einrichten sowie strafrechtliche Anzeigepflicht für bestimmte Personengruppen einführen",
+          "id": "297844"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für ein verlässliches Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt",
+          "id": "318243"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Strafgesetzbuches und weiterer Gesetze - Verbesserung des Opferschutzes, insbesondere für Frauen und verletzliche Personen",
+          "id": "313674"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Frauen und ihre Kinder vor Gewalt schützen - Istanbul-Konvention umsetzen - Gewalthilfegesetz jetzt beschließen",
+          "id": "317583"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27576",
+        "anfangsseite": 27576,
+        "endseite": 27585,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/14029",
+          "seite": "27584D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27577A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lisa Paus, Bundesmin., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27577D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dorothee Bär, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27578C",
+          "aktivitaetsart": "Rede",
+          "titel": "Daniel Baldy, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27578"
+        },
+        {
+          "seite": "27579C",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Adler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27579"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318259"
+    },
+    {
+      "id": "667477",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Strafgesetzbuches und weiterer Gesetze - Verbesserung des Opferschutzes, insbesondere für Frauen und verletzliche Personen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Verbesserung des Schutzes von Kindern und Jugendlichen  vor sexuellem Missbrauch - Aufarbeitungskommission mit dem Recht zur Aufklärung und Mitwirkung einrichten sowie strafrechtliche Anzeigepflicht für bestimmte Personengruppen einführen",
+          "id": "297844"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für ein verlässliches Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt",
+          "id": "318243"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gewalt gegen Frauen entschieden bekämpfen - Frauenhäuser ausbauen und Prävention stärken",
+          "id": "318259"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Frauen und ihre Kinder vor Gewalt schützen - Istanbul-Konvention umsetzen - Gewalthilfegesetz jetzt beschließen",
+          "id": "317583"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27576",
+        "anfangsseite": 27576,
+        "endseite": 27585,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/12085",
+          "seite": "27585A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27577A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lisa Paus, Bundesmin., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27577D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dorothee Bär, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27578C",
+          "aktivitaetsart": "Rede",
+          "titel": "Daniel Baldy, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27578"
+        },
+        {
+          "seite": "27579C",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Adler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27579"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "313674"
+    },
+    {
+      "id": "667478",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Frauen und ihre Kinder vor Gewalt schützen - Istanbul-Konvention umsetzen - Gewalthilfegesetz jetzt beschließen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Verbesserung des Schutzes von Kindern und Jugendlichen  vor sexuellem Missbrauch - Aufarbeitungskommission mit dem Recht zur Aufklärung und Mitwirkung einrichten sowie strafrechtliche Anzeigepflicht für bestimmte Personengruppen einführen",
+          "id": "297844"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für ein verlässliches Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt",
+          "id": "318243"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gewalt gegen Frauen entschieden bekämpfen - Frauenhäuser ausbauen und Prävention stärken",
+          "id": "318259"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Strafgesetzbuches und weiterer Gesetze - Verbesserung des Opferschutzes, insbesondere für Frauen und verletzliche Personen",
+          "id": "313674"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27576",
+        "anfangsseite": 27576,
+        "endseite": 27585,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/13739",
+          "seite": "27585A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27577A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lisa Paus, Bundesmin., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27577D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dorothee Bär, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27578C",
+          "aktivitaetsart": "Rede",
+          "titel": "Daniel Baldy, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27578"
+        },
+        {
+          "seite": "27579C",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Adler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27579"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "317583"
+    },
+    {
+      "id": "667481",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Prävention stärken - Kinder mit psychisch oder suchtkranken Eltern unterstützen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27585",
+        "anfangsseite": 27585,
+        "endseite": 27594,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/12089",
+          "seite": "27594A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27585C",
+          "aktivitaetsart": "Rede",
+          "titel": "Emilia Fester, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27585"
+        },
+        {
+          "seite": "27586B",
+          "aktivitaetsart": "Rede",
+          "titel": "Paul Lehrieder, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27586"
+        },
+        {
+          "seite": "27587C",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Adler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27587"
+        },
+        {
+          "seite": "27588C",
+          "aktivitaetsart": "Rede",
+          "titel": "Mike Moncsek, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27588"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "313673"
+    },
+    {
+      "id": "667558",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 27630D - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Beschluss der Deutsch-Französischen Parlamentarischen Versammlung zu Impulsen für die Europäische Wirtschafts- und Währungsunion",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27630",
+        "anfangsseite": 27630,
+        "endseite": 27631,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "285919"
+    },
+    {
+      "id": "667713",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Festlegung harmonisierter Vorschriften für Künstliche Intelligenz (Gesetz über Künstliche Intelligenz) und zur Änderung bestimmter Rechtsakte der Union\r\nKOM(2021) 206 endg.; Ratsdok. 8115/21",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "285935"
+    },
+    {
+      "id": "667444",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zu dem Abkommen vom 13. September 2024 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Litauen über die Zusammenarbeit im Verteidigungsbereich",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27502",
+        "anfangsseite": 27502,
+        "endseite": 27502,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/14020",
+          "seite": "27502A"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318239"
+    },
+    {
+      "id": "667446",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung",
+          "id": "318831"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024)",
+          "id": "316398"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung",
+          "id": "317190"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für mehr Steuerung und Akzeptanz beim Windenergieausbau",
+          "id": "318830"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Integration von Photovoltaik- und anderen Erneuerbare-Energien-Anlagen in den Strommarkt und zur Vermeidung solarstrombedingter Netznotfallmaßnahmen",
+          "id": "319802"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine Klimaabgaben, kein Geld für CO2 - CO2-Bepreisung abschaffen",
+          "id": "319785"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27502",
+        "anfangsseite": 27502,
+        "endseite": 27514,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/14235, 20/14773",
+          "seite": "27513B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27503B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27503"
+        },
+        {
+          "seite": "27504D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27504"
+        },
+        {
+          "seite": "27505D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27505"
+        },
+        {
+          "seite": "27506C",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kruse, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27506"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318835"
+    },
+    {
+      "id": "667448",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen",
+          "id": "318835"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024)",
+          "id": "316398"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung",
+          "id": "317190"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für mehr Steuerung und Akzeptanz beim Windenergieausbau",
+          "id": "318830"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Integration von Photovoltaik- und anderen Erneuerbare-Energien-Anlagen in den Strommarkt und zur Vermeidung solarstrombedingter Netznotfallmaßnahmen",
+          "id": "319802"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine Klimaabgaben, kein Geld für CO2 - CO2-Bepreisung abschaffen",
+          "id": "319785"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27502",
+        "anfangsseite": 27502,
+        "endseite": 27514,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/14246, 20/14774",
+          "seite": "27513C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27503B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27503"
+        },
+        {
+          "seite": "27504D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27504"
+        },
+        {
+          "seite": "27505D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27505"
+        },
+        {
+          "seite": "27506C",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kruse, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27506"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318831"
+    },
+    {
+      "id": "667459",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27514",
+        "anfangsseite": 27514,
+        "endseite": 27514,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/13615, 20/14776",
+          "seite": "27514A"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "317190"
+    },
+    {
+      "id": "667460",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz für mehr Steuerung und Akzeptanz beim Windenergieausbau",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27514",
+        "anfangsseite": 27514,
+        "endseite": 27514,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/14234, 20/14777",
+          "seite": "27514B"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318830"
+    },
+    {
+      "id": "667464",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktionen SPD und B90/GR auf Zurückverweisung an die Ausschüsse",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Begrenzung des illegalen Zustroms von Drittstaatsangehörigen nach Deutschland (Zustrombegrenzungsgesetz)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 51,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27514",
+        "anfangsseite": 27514,
+        "endseite": 27547,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung Geschäftsordnungsantrag",
+          "seite": "27547A"
+        },
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "338:349:5",
+          "dokumentnummer": "20/12804",
+          "seite": "27554A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27515B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Rolf Mützenich, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27515"
+        },
+        {
+          "seite": "27517B",
+          "aktivitaetsart": "Rede",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27517"
+        },
+        {
+          "seite": "27520C",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Felix Banaszak, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27520"
+        },
+        {
+          "seite": "27521A",
+          "aktivitaetsart": "Erwiderung",
+          "titel": "Friedrich Merz, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27521"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "315331"
+    },
+    {
+      "id": "667467",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Neuregelung der Vormünder- und Betreuervergütung und zur Entlastung von Betreuungsgerichten und Betreuern sowie zur Änderung des Rechtsanwaltsvergütungsgesetzes und des Justizkostenrechts (Kosten- und Betreuervergütungsrechtsänderungsgesetz 2025 - KostBRÄG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 8,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27561",
+        "anfangsseite": 27561,
+        "endseite": 27566,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/14828",
+          "seite": "27566B"
+        },
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/14259, 20/14768",
+          "seite": "27566B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27561C",
+          "aktivitaetsart": "Rede",
+          "titel": "Hans-Jürgen Thies, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27561"
+        },
+        {
+          "seite": "27562D",
+          "aktivitaetsart": "Rede",
+          "titel": "Otto Fricke, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27562"
+        },
+        {
+          "seite": "27564A",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Brandner, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27564"
+        },
+        {
+          "seite": "27565A",
+          "aktivitaetsart": "Rede",
+          "titel": "Stephan Mayer (Altötting), MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27565"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318787"
+    },
+    {
+      "id": "667475",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz für ein verlässliches Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+          "id": "314885"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Verbesserung des Schutzes von Kindern und Jugendlichen  vor sexuellem Missbrauch - Aufarbeitungskommission mit dem Recht zur Aufklärung und Mitwirkung einrichten sowie strafrechtliche Anzeigepflicht für bestimmte Personengruppen einführen",
+          "id": "297844"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gewalt gegen Frauen entschieden bekämpfen - Frauenhäuser ausbauen und Prävention stärken",
+          "id": "318259"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Strafgesetzbuches und weiterer Gesetze - Verbesserung des Opferschutzes, insbesondere für Frauen und verletzliche Personen",
+          "id": "313674"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Frauen und ihre Kinder vor Gewalt schützen - Istanbul-Konvention umsetzen - Gewalthilfegesetz jetzt beschließen",
+          "id": "317583"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27576",
+        "anfangsseite": 27576,
+        "endseite": 27585,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/14025, 20/14785",
+          "seite": "27584C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27577A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lisa Paus, Bundesmin., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27577D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dorothee Bär, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27578C",
+          "aktivitaetsart": "Rede",
+          "titel": "Daniel Baldy, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27578"
+        },
+        {
+          "seite": "27579C",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Adler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27579"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318243"
+    },
+    {
+      "id": "667456",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27513",
+        "anfangsseite": 27513,
+        "endseite": 27513,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/14235, 20/14773",
+          "seite": "27513B"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318835"
+    },
+    {
+      "id": "667457",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27513",
+        "anfangsseite": 27513,
+        "endseite": 27513,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/14246, 20/14774",
+          "seite": "27513C"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318831"
+    },
+    {
+      "id": "667468",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Neuregelung der Vormünder- und Betreuervergütung und zur Entlastung von Betreuungsgerichten und Betreuern sowie zur Änderung des Rechtsanwaltsvergütungsgesetzes und des Justizkostenrechts (Kosten- und Betreuervergütungsrechtsänderungsgesetz 2025 - KostBRÄG 2025)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27566",
+        "anfangsseite": 27566,
+        "endseite": 27566,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/14259, 20/14768",
+          "seite": "27566C"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318787"
+    },
+    {
+      "id": "667480",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz für ein verlässliches Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27584",
+        "anfangsseite": 27584,
+        "endseite": 27584,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "390:0:70",
+          "dokumentnummer": "20/14025, 20/14785",
+          "seite": "27591A"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "318243"
+    },
+    {
+      "id": "667695",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Änderung der Verordnung (EU) 2020/2220 hinsichtlich spezifischer Maßnahmen im Rahmen des Europäischen Landwirtschaftsfonds für die Entwicklung des ländlichen Raums (ELER) zur Bereitstellung zusätzlicher Unterstützung für von Naturkatastrophen betroffene Mitgliedstaaten\r\nKOM(2024) 495 endg.; Ratsdok. 14767/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "316842"
+    },
+    {
+      "id": "667440",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Strafbarkeit der Ausübung von Tätigkeiten für fremde Mächte sowie zur Änderung soldatenrechtlicher und soldatenbeteiligungsrechtlicher Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr\r\n[Artikelgesetz Zeitenwende]",
+          "id": "315286"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zu dem Abkommen vom 13. September 2024 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Litauen über die Zusammenarbeit im Verteidigungsbereich",
+          "id": "318239"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine Blockade parlamentarischer Mehrheitsfindung über Ukraine-Hilfen",
+          "id": "319803"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27491",
+        "anfangsseite": 27491,
+        "endseite": 27502,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/13957, 20/14298",
+          "seite": "27502A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27492A",
+          "aktivitaetsart": "Rede",
+          "titel": "Johannes Arlt, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27492"
+        },
+        {
+          "seite": "27493A",
+          "aktivitaetsart": "Rede",
+          "titel": "Kerstin Vieregge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27493"
+        },
+        {
+          "seite": "27494A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Tobias Lindner, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27494"
+        },
+        {
+          "seite": "27495B",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Müller, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27495"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "316380"
+    },
+    {
+      "id": "667466",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "abstract": "Geschäftsordnungsantrag der Fraktion der SPD auf Sitzungsunterbrechung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Enquete-Kommission",
+      "titel": "Enquete-Kommission \"Lehren aus Afghanistan für das künftige vernetzte Engagement Deutschlands\"",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27547",
+        "anfangsseite": 27547,
+        "endseite": 27561,
+        "anfangsquadrant": "D",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme Geschäftsordnungsantrag",
+          "seite": "27557A"
+        },
+        {
+          "beschlusstenor": "Kenntnisnahme",
+          "dokumentnummer": "20/14500",
+          "seite": "27561B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27548A",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Müller, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27548"
+        },
+        {
+          "seite": "27549B",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Beyer, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27549"
+        },
+        {
+          "seite": "27550C",
+          "aktivitaetsart": "Rede",
+          "titel": "Schahina Gambir, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27550"
+        },
+        {
+          "seite": "27551C",
+          "aktivitaetsart": "Rede",
+          "titel": "Christian Sauter, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27551"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "289298"
+    },
+    {
+      "id": "667598",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Einrichtung einer Anwendung für die elektronische Übermittlung von Reisedaten (\"Digitale EU-Reise-Anwendung\") und zur Änderung der Verordnungen (EU) 2016/399 und (EU) 2018/1726 des Europäischen Parlaments und des Rates sowie der Verordnung (EG) Nr. 2252/2004 des Rates in Bezug auf die Verwendung digitaler Reiseausweise\r\nKOM(2024) 670 endg.; Ratsdok. 14392/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "317428"
+    },
+    {
+      "id": "667603",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Rates über die Zuständigkeit, das anzuwendende Recht, die Anerkennung von Entscheidungen und die Annahme öffentlicher Urkunden in Elternschaftssachen sowie zur Einführung eines europäischen Elternschaftszertifikats\r\nKOM(2022) 695 endg.; Ratsdok. 15837/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "295424"
+    },
+    {
+      "id": "667607",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über standardessenzielle Patente und zur Änderung der Verordnung (EU) 2017/1001\r\nKOM(2023) 232 endg.; Ratsdok. 8900/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "300810"
+    },
+    {
+      "id": "667608",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Vergabe von Zwangslizenzen für das Krisenmanagement sowie zur Änderung der Verordnung (EG) Nr. 816/2006\r\nKOM(2023) 224 endg.; Ratdok. 8901/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "300512"
+    },
+    {
+      "id": "667613",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Bekämpfung von Zahlungsverzug im Geschäftsverkehr\r\nKOM(2023) 533 endg.; Ratsdok. 12976/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "303427"
+    },
+    {
+      "id": "667615",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2013/11/EU über die alternative Beilegung verbraucherrechtlicher Streitigkeiten sowie der Richtlinien (EU) 2015/2302, (EU) 2019/2161 und (EU) 2020/1828\r\nKOM(2023) 649 endg.; Ratsdok. 14434/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "305726"
+    },
+    {
+      "id": "667708",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat: Ex-post-Bewertung des EU-Rahmenprogramms für Forschung und Innovation - Horizont 2020\r\nKOM(2024) 49 endg.; Ratsdok. 5941/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "309850"
+    },
+    {
+      "id": "667437",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr\r\n[Artikelgesetz Zeitenwende]",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zu dem Abkommen vom 13. September 2024 zwischen der Regierung der Bundesrepublik Deutschland und der Regierung der Republik Litauen über die Zusammenarbeit im Verteidigungsbereich",
+          "id": "318239"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Strafbarkeit der Ausübung von Tätigkeiten für fremde Mächte sowie zur Änderung soldatenrechtlicher und soldatenbeteiligungsrechtlicher Vorschriften",
+          "id": "316380"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine Blockade parlamentarischer Mehrheitsfindung über Ukraine-Hilfen",
+          "id": "319803"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27491",
+        "anfangsseite": 27491,
+        "endseite": 27502,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/13488, 20/14787",
+          "seite": "27501C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27492A",
+          "aktivitaetsart": "Rede",
+          "titel": "Johannes Arlt, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27492"
+        },
+        {
+          "seite": "27493A",
+          "aktivitaetsart": "Rede",
+          "titel": "Kerstin Vieregge, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27493"
+        },
+        {
+          "seite": "27494A",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Tobias Lindner, Staatsmin., Auswärtiges Amt",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27494"
+        },
+        {
+          "seite": "27495B",
+          "aktivitaetsart": "Rede",
+          "titel": "Alexander Müller, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27495"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "315286"
+    },
+    {
+      "id": "667445",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Strafbarkeit der Ausübung von Tätigkeiten für fremde Mächte sowie zur Änderung soldatenrechtlicher und soldatenbeteiligungsrechtlicher Vorschriften",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27502",
+        "anfangsseite": 27502,
+        "endseite": 27502,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/13957, 20/14298",
+          "seite": "27502B"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "316380"
+    },
+    {
+      "id": "667601",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Anpassung der Vorschriften über außervertragliche zivilrechtliche Haftung an künstliche Intelligenz (Richtlinie über KI-Haftung)\r\nKOM(2022) 496 endg.; Ratsdok. 13079/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "292017"
+    },
+    {
+      "id": "667604",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Aspekte des Insolvenzrechts\r\nKOM(2022) 702 endg.; Ratsdok. 15896/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "295792"
+    },
+    {
+      "id": "667611",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinie 2012/29/EU über Mindeststandards für die Rechte, die Unterstützung und den Schutz von Opfern von Straftaten sowie zur Ersetzung des Rahmenbeschlusses 2001/220/JI\r\nKOM(2023) 424 endg.; Ratsdok. 11840/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "302453"
+    },
+    {
+      "id": "667614",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Bekämpfung der Korruption, zur Ersetzung des Rahmenbeschlusses 2003/568/JI des Rates und des Übereinkommens über die Bekämpfung der Bestechung, an der Beamte der Europäischen Gemeinschaften oder der Mitgliedstaaten der Europäischen Union beteiligt sind, sowie zur Änderung der Richtlinie (EU) 2017/1371 des Europäischen Parlaments und des Rates\r\nKOM(2023) 234 endg.; Ratsdok. 9241/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "300238"
+    },
+    {
+      "id": "667443",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur weiteren Stärkung der personellen Einsatzbereitschaft und zur Änderung von Vorschriften für die Bundeswehr\r\n[Artikelgesetz Zeitenwende]",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27501",
+        "anfangsseite": 27501,
+        "endseite": 27501,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/13488, 20/14787",
+          "seite": "27501D"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "315286"
+    },
+    {
+      "id": "667473",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 11,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Verbesserung des Schutzes von Kindern und Jugendlichen  vor sexuellem Missbrauch - Aufarbeitungskommission mit dem Recht zur Aufklärung und Mitwirkung einrichten sowie strafrechtliche Anzeigepflicht für bestimmte Personengruppen einführen",
+          "id": "297844"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für ein verlässliches Hilfesystem bei geschlechtsspezifischer und häuslicher Gewalt",
+          "id": "318243"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Gewalt gegen Frauen entschieden bekämpfen - Frauenhäuser ausbauen und Prävention stärken",
+          "id": "318259"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Strafgesetzbuches und weiterer Gesetze - Verbesserung des Opferschutzes, insbesondere für Frauen und verletzliche Personen",
+          "id": "313674"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Frauen und ihre Kinder vor Gewalt schützen - Istanbul-Konvention umsetzen - Gewalthilfegesetz jetzt beschließen",
+          "id": "317583"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27576",
+        "anfangsseite": 27576,
+        "endseite": 27585,
+        "anfangsquadrant": "A",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/13183, 20/14784",
+          "seite": "27584B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27577A",
+          "aktivitaetsart": "Rede",
+          "titel": "Lisa Paus, Bundesmin., Bundesministerium für Familie, Senioren, Frauen und Jugend",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27577D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dorothee Bär, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27577"
+        },
+        {
+          "seite": "27578C",
+          "aktivitaetsart": "Rede",
+          "titel": "Daniel Baldy, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27578"
+        },
+        {
+          "seite": "27579C",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Adler, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27579"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "314885"
+    },
+    {
+      "id": "667605",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über das einheitliche ergänzende Zertifikat für Arzneimittel und zur Änderung der Verordnung (EU) 2017/1001, der Verordnung (EG) Nr. 1901/2006 und der Verordnung (EU) Nr. 608/2013\r\nKOM(2023) 222 endg.; Ratsdok. 8869/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "300806"
+    },
+    {
+      "id": "667606",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über das ergänzende Schutzzertifikat für Arzneimittel (Neufassung)\r\nKOM(2023) 231 endg.; Ratsdok. 8894/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "300808"
+    },
+    {
+      "id": "667609",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über die Zuständigkeit, das anwendbare Recht, die Anerkennung und Vollstreckung von Maßnahmen und die Zusammenarbeit in Fragen betreffend den Schutz Erwachsener\r\nKOM(2023) 280 endg.; Ratsdok. 10108/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "301299"
+    },
+    {
+      "id": "667619",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Bekämpfung des sexuellen Missbrauchs und der sexuellen Ausbeutung von Kindern sowie von Darstellungen sexuellen Missbrauchs von Kindern sowie zur Ersetzung des Rahmenbeschlusses 2004/68/JI des Rates (Neufassung)\r\nKOM(2024) 60 endg.; Ratsdok. 6241/24",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "309833"
+    },
+    {
+      "id": "667449",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 12,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Energiewirtschaftsrechts zur Vermeidung von temporären Erzeugungsüberschüssen",
+          "id": "318835"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes zur Flexibilisierung von Biogasanlagen und Sicherung der Anschlussförderung",
+          "id": "318831"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Änderung des Kraft-Wärme-Kopplungsgesetzes und der KWK-Ausschreibungsverordnung",
+          "id": "317190"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz für mehr Steuerung und Akzeptanz beim Windenergieausbau",
+          "id": "318830"
+        },
+        {
+          "vorgangsposition": "1. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz zur Integration von Photovoltaik- und anderen Erneuerbare-Energien-Anlagen in den Strommarkt und zur Vermeidung solarstrombedingter Netznotfallmaßnahmen",
+          "id": "319802"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Keine Klimaabgaben, kein Geld für CO2 - CO2-Bepreisung abschaffen",
+          "id": "319785"
+        }
+      ],
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27502",
+        "anfangsseite": 27502,
+        "endseite": 27514,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/13585, 20/14775",
+          "seite": "27513D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "27503B",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Ingrid Nestle, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27503"
+        },
+        {
+          "seite": "27504D",
+          "aktivitaetsart": "Rede",
+          "titel": "Andreas Jung, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27504"
+        },
+        {
+          "seite": "27505D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Nina Scheer, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27505"
+        },
+        {
+          "seite": "27506C",
+          "aktivitaetsart": "Rede",
+          "titel": "Michael Kruse, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27506"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "316398"
+    },
+    {
+      "id": "667479",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Stärkung der Strukturen gegen sexuelle Gewalt an Kindern und Jugendlichen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27584",
+        "anfangsseite": 27584,
+        "endseite": 27584,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "einstimmig",
+          "dokumentnummer": "20/13183, 20/14784",
+          "seite": "27584B"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "314885"
+    },
+    {
+      "id": "667495",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz zur Anpassung des Treibhausgas-Emissionshandelsgesetzes an die Änderung der Richtlinie 2003/87/EG (TEHG-Europarechtsanpassungsgesetz 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27513",
+        "anfangsseite": 27513,
+        "endseite": 27514,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/13585, 20/14775",
+          "seite": "27513D"
+        }
+      ],
+      "datum": "2025-01-31",
+      "vorgang_id": "316398"
+    },
+    {
+      "id": "667612",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 27631C - Mitteilung über Kenntnisnahme bzw. Absehen von Beratung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates über europäische grenzübergreifende Vereine\r\nKOM (2023) 516 endg.; Ratsdok. 12800/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-04-09T16:11:39+02:00",
+      "fundstelle": {
+        "id": "5697",
+        "dokumentnummer": "20/211",
+        "datum": "2025-01-31",
+        "verteildatum": "2025-02-03",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20211.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20211.pdf#P.27631",
+        "anfangsseite": 27631,
+        "endseite": 27632,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "datum": "2025-01-31",
+      "vorgang_id": "304092"
+    }
+  ]
+}

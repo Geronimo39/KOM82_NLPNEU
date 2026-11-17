@@ -1,0 +1,719 @@
+{
+  "numFound": 16,
+  "documents": [
+    {
+      "id": "308367",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Entschließungsantrag BT",
+      "sachgebiet": [
+        "Wirtschaft",
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Haushaltsgesetz",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729",
+          "wahlperiode": 20,
+          "gesta": "D037"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesministerium für Wirtschaft und Klimaschutz",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Haushaltskonsolidierung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Schuldenbremse",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Steuerentlastung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)\r\nhier: Einzelplan 09 - Geschäftsbereich des Bundesministeriums für Wirtschaft und Klimaschutz",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "304914",
+      "abstract": "Anpassung von Wahlkreiszuschnitten und Wahlkreisbeschreibungen an Bevölkerungsveränderungen sowie an Gebiets- und Verwaltungsreformen; Bekanntmachung künftiger Namensänderungen in der Beschreibung von Wahlkreisen durch das BMI im BGBl; redaktionelle Folgeänderungen und Anpassungen an geänderte Behördenbezeichnungen;<br />\r\nNeufassung Anlage 2 [Wahlkreise] und redaktionelle Folgeänderung §§ 20 und 46 sowie redaktionelle Änderung zahlr weiterer §§ Bundeswahlgesetz; Bekanntmachungserlaubnis<br />\r\n<br />\r\nBezug: Bericht der Wahlkreiskommission für die 20. Wahlperiode des Deutschen Bundestages gemäß § 3 des Bundeswahlgesetzes, BT-Drs 20/5200<br />\r\nGesetz zur Änderung des Bundeswahlgesetzes und des Fünfundzwanzigsten Gesetzes zur Änderung des Bundeswahlgesetzes, GESTA B029 ; Gesetz zur Änderung des Grundgesetzes (Artikel 21), GESTA 18. WP B115<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses:</strong> Neueinteilung in den Wahlkreisen 62 und 65 (Brandenburg) nach zwischenzeitlich eingetretener Überschreitung der Neueinteilungsgrenze;<br />\r\nErneute Neufassung Anlage 2 [Wahlkreise]",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "B053",
+      "archiv": "XX/224",
+      "sachgebiet": [
+        "Bundestag",
+        "Politisches Leben, Parteien",
+        "Staat und Verwaltung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 20/8867)",
+        "Nein, laut Verkündung (BGBl I)"
+      ],
+      "initiative": [
+        "Fraktion BÜNDNIS 90/DIE GRÜNEN",
+        "Fraktion der FDP",
+        "Fraktion der SPD"
+      ],
+      "aktualisiert": "2024-03-13T16:09:25+01:00",
+      "vorgang_verlinkung": [
+        {
+          "verweisung": "Bericht Wahlkreiskommission",
+          "titel": "Bericht der Wahlkreiskommission für die 20. Wahlperiode des Deutschen Bundestages gemäß § 3 des Bundeswahlgesetzes",
+          "id": "295185",
+          "wahlperiode": 20
+        }
+      ],
+      "verkuendung": [
+        {
+          "titel": "Siebenundzwanzigstes Gesetz zur Änderung des Bundeswahlgesetzes",
+          "jahrgang": "2024",
+          "heftnummer": "91",
+          "ausfertigungsdatum": "2024-03-07",
+          "verkuendungsdatum": "2024-03-13",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/91",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 91"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2024-03-14"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundestagswahl",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundeswahlgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wahlkreis",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "... Gesetz zur Änderung des Bundeswahlgesetzes",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "302730",
+      "abstract": "Gesamtwirtschaftliche Entwicklung mit Projektion bis 2027, Bundeshaushalt 2024 und Finanzplan bis 2027, Entwicklung der Schuldenstandsquote, Ausgaben und Einnahmen des Bundes, Finanzbeziehungen zu anderen öffentlichen Ebenen",
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "sachgebiet": [
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Bundeshaushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesschulden",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Finanzplanung des Bundes",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Finanzpolitik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftsentwicklung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Ausgaben",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Einnahmen",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Finanzplan des Bundes 2023 bis 2027",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "302729",
+      "abstract": "Feststellung des Bundeshaushaltsplans 2024 in Einnahmen und Ausgaben auf 445,688 Mrd Euro unter besonderer Berücksichtigung der Auswirkungen der Krisenbewältigung mit erheblichen Mitteln für Zukunftsinvestitionen insbes. in Klimaschutz, Digitalisierung und Bildung sowie zur Stärkung des sozialen Zusammenhalts, Sicherung der Energieversorgung und Wahrnehmung internationaler Verantwortung, Feststellung des Wirtschaftsplans des Sondervermögens &quot;Bundeswehr&quot; auf 19,174 Mrd Euro, des Sondervermögens &quot;Aufbauhilfe 2021&quot; auf 11,061 Mrd Euro, des Sondervermögens &quot;Wirtschaftsstabilisierungsfonds&quot; auf 46,815 Mrd Euro und des Sondervermögens &quot;Klima- und Transformationsfonds&quot; auf 99,138 Mrd Euro; Nettokreditaufnahme bis zur Höhe von 16,557 Mrd Euro entsprechend der nach Art. 115 GG zulässigen Obergrenze, Gewährleistungsermächtigungen bis zu 1.000,460 Mrd Euro, keine pauschalen Stelleneinsparungen; Investitionen in Höhe von 54,234 Mrd Euro, erwartete Steuereinnahmen von 375,451 Mrd Euro<br />\r\n<br />\r\n<strong>Beschlussempfehlung des Ausschusses:</strong> Erhöhung des Gesamthaushalts auf 476,808 Mrd Euro sowie des Sondervermögens &quot;Bundeswehr&quot; auf 19,800 Mrd Euro, Wegfall der Feststellung WSF Energie, Ergänzung der Feststellung des Sondervermögens &quot;Digitale Infrastruktur&quot; auf 4,072 Mrd Euro, Verringerung des Sondervermögens &quot;Aufbauhilfe 2021&quot; auf 2,657 Mrd Euro und des Sondervermögens &quot;Klima- und Transformationsfonds&quot; auf 49,454 Mrd Euro; Erhöhung der max. Nettokreditaufnahme auf 39,028 Mrd Euro entsprechend der nach der Schuldenregel zulässigen Obergrenze bei Umsetzung der notwendigen Anpassungen aus dem Urteil des Bundesverfassungsgerichts vom 15. November 2023; Erhöhung der Investitionen auf 70,522 Mrd Euro und der erwarteten Steuereinnahmen auf 377,613 Mrd Euro<br />\r\n<br />\r\nBezug: Entscheidung des Bundesverfassungsgerichts vom 15. November 2023 betr. Nichtigerklärung des Zweiten Nachtragshaushaltsgesetzes 2021",
+      "beratungsstand": "Verkündet",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "D037",
+      "archiv": "XX/216",
+      "mitteilung": "Beschlussempfehlungen zu den Einzelplänen s. Vorgangsablauf",
+      "sachgebiet": [
+        "Öffentliche Finanzen, Steuern und Abgaben"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 320/23)",
+        "Nein, laut Verkündung (BGBl I)"
+      ],
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2024-03-13T15:51:16+01:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2024",
+          "heftnummer": "38",
+          "ausfertigungsdatum": "2024-02-10",
+          "verkuendungsdatum": "2024-02-12",
+          "einleitungstext": "Gesetz",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/38",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 38"
+        },
+        {
+          "jahrgang": "2024",
+          "heftnummer": "65",
+          "ausfertigungsdatum": "2024-02-26",
+          "verkuendungsdatum": "2024-02-28",
+          "einleitungstext": "Berichtigung",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2024/65",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2024, 65"
+        }
+      ],
+      "inkrafttreten": [
+        {
+          "datum": "2024-01-01"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Aufbauhilfefonds 2021",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": true,
+          "name": "Bundeshaushalt 2024",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundesverfassungsgericht",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Bundeswehr",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Digitalinfrastrukturfonds",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gerichtsentscheidung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Haushaltsgesetz 2024",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Investitionshaushalt",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Klima- und Transformationsfonds",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Nettokreditaufnahme",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Sondervermögen",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wirtschaftsstabilisierungsfonds",
+          "typ": "Institutionen"
+        }
+      ],
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "datum": "2024-02-02"
+    },
+    {
+      "id": "308499",
+      "vorgangstyp": "Geschäftsordnung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Ordnungsruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Parlamentarische Ordnung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Enrico Komning (AfD)",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "308479",
+      "vorgangstyp": "Geschäftsordnung",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Ordnungsruf",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Parlamentarische Ordnung",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "308357",
+      "abstract": "Aufgrund der gestiegenen Lebenserwartung und zur Vermeidung einer Ungleichbehandlung Anhebung der Altersgrenze für Schöffen von 70 auf 75 Jahre, Streichung aus der Schöffenliste bei Vollendung des 75. Lebensjahrs;<br />\r\nÄnderung §§ 33 und 52 Gerichtsverfassungsgesetz",
+      "beratungsstand": "Erledigt durch Ablauf der Wahlperiode",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "C083",
+      "archiv": "XX/2035",
+      "sachgebiet": [
+        "Recht"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 20/10188)"
+      ],
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Altersgrenze",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Ehrenamtlicher Richter",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Gerichtsverfassungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesetz zur Heraufsetzung der Altershöchstgrenze für Schöffen",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Lebenserwartung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Älterer Mensch",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gesetz zur Heraufsetzung der Altershöchstgrenze für Schöffen",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "308032",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Petition",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Petitionsausschuss"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Petition",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sammelübersicht 510 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "308031",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Petition",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Petitionsausschuss"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Petition",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sammelübersicht 509 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "308030",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Petition",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Petitionsausschuss"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Petition",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sammelübersicht 508 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "308029",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Petition",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Petitionsausschuss"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Petition",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sammelübersicht 507 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "308028",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Petition",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Petitionsausschuss"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Petition",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sammelübersicht 506 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "308027",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Petition",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Petitionsausschuss"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Petition",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sammelübersicht 505 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "308026",
+      "beratungsstand": "Angenommen",
+      "vorgangstyp": "Petition",
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Petitionsausschuss"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Petition",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Sammelübersicht 504 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "305184",
+      "abstract": "Einführung der Möglichkeit des Erlasses elektronischer Verwaltungsakte, Anpassung der Vorschriften über Anforderungen an Angaben bei Ausfuhranmeldungen, Aufhebung der Regelung zur Vorlage von Ladungsverzeichnissen für seewärts ausgehende Schiffe, Einstellung der vom Bundesamt für Wirtschaft und Ausfuhrkontrolle erstellten Statistiken über die Einfuhren von Erdgas, Ausweitung des personenbezogenes Waffenembargos betr. Haiti, Änderung der Ausnahmen vom Waffenembargo gegen Somalia, Aufhebung der Ausnahmeregelung vom Waffenembargo gegen Russland, Bußgeldbewehrungen für Verstöße gegen restriktive Maßnahmen gegen Russland, Genehmigungspflicht für Ausfuhr von Entwicklungs- und Herstellungstechnologie für Polymethacrylimid-Hartschäume, Aktualisierung der nationalen Ausfuhrliste gemäß Änderungen des Wassenaar Abkommens für konventionelle Rüstungsgüter",
+      "vorgangstyp": "Rechtsverordnung (Außenwirtschaftsrecht)",
+      "sachgebiet": [
+        "Außenwirtschaft"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "initiative": [
+        "Bundesregierung"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "verkuendung": [
+        {
+          "jahrgang": "2023",
+          "heftnummer": "264",
+          "ausfertigungsdatum": "2023-09-27",
+          "verkuendungsdatum": "2023-10-04",
+          "einleitungstext": "Verordnung",
+          "pdf_url": "https://www.recht.bund.de/eli/bund/BGBl_1/2023/264",
+          "verkuendungsblatt_bezeichnung": "Bundesgesetzblatt Teil I",
+          "verkuendungsblatt_kuerzel": "BGBl I",
+          "fundstelle": "BGBl I 2023, 264"
+        }
+      ],
+      "deskriptor": [
+        {
+          "fundstelle": false,
+          "name": "Ausfuhr",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Ausfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Ausfuhrliste",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Außenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Außenhandelsstatistik",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Außenwirtschaftsverordnung",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Dual-Use-Technologie",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "E-Government",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einfuhrbeschränkung",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Einfuhrliste",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Erdgas",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Geldbuße",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Haiti",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Russland",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Rüstungsgut",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Somalia",
+          "typ": "Geograph. Begriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Waffenembargo",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Waffenhandel",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": false,
+          "name": "Wassenaar-Abkommen",
+          "typ": "Rechtsmaterialien"
+        }
+      ],
+      "titel": "Zwanzigste Verordnung zur Änderung der Außenwirtschaftsverordnung - aufhebbare Verordnung",
+      "datum": "2024-02-01"
+    },
+    {
+      "id": "292230",
+      "abstract": "Zur Vermeidung unnötiger Haushaltsausgaben in Zeiten hoher Inflation und steigender Energiekosten Regelungen zur Auflösung und Abwicklung der öffentlich-rechtlichen Bundesstiftung Stiftung Forum Recht;<br />\r\nGesetz zur Auflösung der Stiftung Forum Recht<strong> (Forum-Recht-Abwicklungsgesetz) </strong>als Art. 2 der Vorlage, Aufhebung Forum-Recht-Gesetz",
+      "beratungsstand": "Abgelehnt",
+      "vorgangstyp": "Gesetzgebung",
+      "gesta": "C040",
+      "archiv": "XX/1018",
+      "sachgebiet": [
+        "Recht",
+        "Staat und Verwaltung"
+      ],
+      "typ": "Vorgang",
+      "wahlperiode": 20,
+      "zustimmungsbeduerftigkeit": [
+        "Nein, laut Gesetzentwurf (Drs 20/3939)"
+      ],
+      "initiative": [
+        "Fraktion der AfD"
+      ],
+      "aktualisiert": "2026-10-12T10:29:13+02:00",
+      "deskriptor": [
+        {
+          "fundstelle": true,
+          "name": "Forum-Recht-Abwicklungsgesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Forum-Recht-Gesetz",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": true,
+          "name": "Gesetz zur Auflösung der Stiftung Forum Recht",
+          "typ": "Rechtsmaterialien"
+        },
+        {
+          "fundstelle": false,
+          "name": "Inflation",
+          "typ": "Sachbegriffe"
+        },
+        {
+          "fundstelle": true,
+          "name": "Stiftung Forum Recht",
+          "typ": "Institutionen"
+        },
+        {
+          "fundstelle": false,
+          "name": "Öffentliche Ausgaben",
+          "typ": "Sachbegriffe"
+        }
+      ],
+      "titel": "Gesetz zur Auflösung der \"Stiftung Forum Recht\" (Forum-Recht-Abwicklungsgesetz)",
+      "datum": "2024-02-01"
+    }
+  ]
+}

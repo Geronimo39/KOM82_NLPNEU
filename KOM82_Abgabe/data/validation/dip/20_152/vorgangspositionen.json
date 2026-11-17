@@ -1,0 +1,2327 @@
+{
+  "numFound": 47,
+  "documents": [
+    {
+      "id": "648674",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19444",
+        "anfangsseite": 19444,
+        "endseite": 19444,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19444A",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Petra Pau, Bundestagsvizepräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19444"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308577"
+    },
+    {
+      "id": "648675",
+      "vorgangsposition": "Ordnungsruf",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Erteilung eines Ordnungsrufes an den Abg Stephan Brandner (AfD)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19425",
+        "anfangsseite": 19425,
+        "endseite": 19425,
+        "anfangsquadrant": "C",
+        "endquadrant": "C"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19425C",
+          "aktivitaetsart": "Zur Geschäftsordnung BT",
+          "titel": "Bärbel Bas, Bundestagspräs.",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19425"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308578"
+    },
+    {
+      "id": "648665",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Antrag",
+      "titel": "Mitgliederzahl in den Ausschüssen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Geschäftsordnung",
+          "titel": "Anerkennung und Rechtsstellung der Gruppe Die Linke im 20. Deutschen Bundestag",
+          "id": "308505"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Geschäftsordnung",
+          "titel": "Anerkennung und Rechtsstellung der Gruppe BSW im 20. Deutschen Bundestag",
+          "id": "308506"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19439",
+        "anfangsseite": 19439,
+        "endseite": 19455,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme der Vorlage",
+          "dokumentnummer": "20/10197",
+          "seite": "19447D"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19440B",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19440"
+        },
+        {
+          "seite": "19441A",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19441"
+        },
+        {
+          "seite": "19441D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19441"
+        },
+        {
+          "seite": "19442C",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Dr. Gregor Gysi, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19442"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308361"
+    },
+    {
+      "id": "648667",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 27,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "3. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+          "id": "307621"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308373"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308376"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308380"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308382"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410",
+        "anfangsseite": 19410,
+        "endseite": 19439,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10196",
+          "seite": "19451A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19410B",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Helge Braun, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410"
+        },
+        {
+          "seite": "19411C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dennis Rohde, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19411"
+        },
+        {
+          "seite": "19413A",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Boehringer, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        },
+        {
+          "seite": "19413D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bruno Hönel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308383"
+    },
+    {
+      "id": "648669",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 27,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "3. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+          "id": "307621"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308383"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308376"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308380"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308382"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410",
+        "anfangsseite": 19410,
+        "endseite": 19439,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10192",
+          "seite": "19451A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19410B",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Helge Braun, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410"
+        },
+        {
+          "seite": "19411C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dennis Rohde, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19411"
+        },
+        {
+          "seite": "19413A",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Boehringer, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        },
+        {
+          "seite": "19413D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bruno Hönel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308373"
+    },
+    {
+      "id": "648671",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 27,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "3. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+          "id": "307621"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308383"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308373"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308380"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308382"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410",
+        "anfangsseite": 19410,
+        "endseite": 19439,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10193",
+          "seite": "19451A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19410B",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Helge Braun, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410"
+        },
+        {
+          "seite": "19411C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dennis Rohde, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19411"
+        },
+        {
+          "seite": "19413A",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Boehringer, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        },
+        {
+          "seite": "19413D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bruno Hönel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308376"
+    },
+    {
+      "id": "648672",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 27,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "3. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+          "id": "307621"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308383"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308373"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308376"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308382"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410",
+        "anfangsseite": 19410,
+        "endseite": 19439,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "abstimm_ergebnis_bemerkung": "65:583:0",
+          "dokumentnummer": "20/10194",
+          "seite": "19452A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19410B",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Helge Braun, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410"
+        },
+        {
+          "seite": "19411C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dennis Rohde, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19411"
+        },
+        {
+          "seite": "19413A",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Boehringer, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        },
+        {
+          "seite": "19413D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bruno Hönel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308380"
+    },
+    {
+      "id": "648673",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 27,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "3. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        },
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+          "id": "307621"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308383"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308373"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308376"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308380"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410",
+        "anfangsseite": 19410,
+        "endseite": 19439,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10195",
+          "seite": "19451B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19410B",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Helge Braun, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410"
+        },
+        {
+          "seite": "19411C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dennis Rohde, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19411"
+        },
+        {
+          "seite": "19413A",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Boehringer, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        },
+        {
+          "seite": "19413D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bruno Hönel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308382"
+    },
+    {
+      "id": "648696",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Options for future EU Support for Armenia\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nEU-Dok 358/2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "305734"
+    },
+    {
+      "id": "648697",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Countering Hamas at EU and global level\r\nRestrictive measures and political delegitimisation\r\n(Dokument liegt nicht in deutscher Sprache vor)\r\nEU-Dok 417/2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "307035"
+    },
+    {
+      "id": "648698",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Decision amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nRatsdok. 14896/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "307036"
+    },
+    {
+      "id": "648699",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Proposal from the High Representative of the Union for Foreign Affairs and Security Policy to the Council for a Council Implementing Regulation implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine\r\n(Dokument liegt nicht in deutscher Sprache vor) \r\nRatsdok. 14898/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "307037"
+    },
+    {
+      "id": "648700",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Gemeinsamer Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) Nr. 269/2014 über restriktive Maßnahmen angesichts von Handlungen, die die territoriale Unversehrtheit, Souveränität und Unabhängigkeit der Ukraine untergraben oder bedrohen \r\nJOIN(2023)38 endg.; Ratsdok. 14902/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "307039"
+    },
+    {
+      "id": "648701",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag des Hohen Vertreters der Union für Außen- und Sicherheitspolitik an den Rat für einen Beschluss des Rates zur Änderung des Beschlusses 2014/512/GASP über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren \r\nRatsdok. 15245/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "307041"
+    },
+    {
+      "id": "648702",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Gemeinsamer Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) Nr. 833/2014 des Rates über restriktive Maßnahmen angesichts der Handlungen Russlands, die die Lage in der Ukraine destabilisieren \r\nJOIN(2023)39 endg.; Ratsdok. 15247/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "307042"
+    },
+    {
+      "id": "648740",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Empfehlung der Kommission vom 8.2.2022 über ein gemeinsames Instrumentarium der Union zur Behebung von Lieferengpässen bei Halbleitern und einen EU-Mechanismus zur Überwachung des Halbleiter-Ökosystems \r\nK(2022) 782 endg.",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "285591"
+    },
+    {
+      "id": "648741",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Mitteilung der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nEin Chip-Gesetz für Europa \r\nKOM(2022) 45 endg.; Ratsdok. 6169/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "285596"
+    },
+    {
+      "id": "648743",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Rates zur Änderung der Verordnung (EU) 2021/2085 zur Gründung der Gemeinsamen Unternehmen im Rahmen von \"Horizont Europa\" hinsichtlich des Gemeinsamen Unternehmens für Chips \r\nKOM(2022) 47 endg.; Ratsdok. 6171/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "285598"
+    },
+    {
+      "id": "648744",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat\r\nDritter Jahresbericht über die Überprüfung ausländischer Direktinvestitionen in der Union \r\nKOM(2023)590 endg.; Ratsdok. 14427/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "306113"
+    },
+    {
+      "id": "648746",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Richtlinie des Europäischen Parlaments und des Rates zur Änderung der Richtlinien des Rates 2001/110/EG über Honig, 2001/112/EG über Fruchtsäfte und bestimmte gleichartige Erzeugnisse für die menschliche Ernährung, 2001/113/EG über Konfitüren, Gelees, Marmeladen und Maronenkrem für die menschliche Ernährung und 2001/114/EG über bestimmte Sorten eingedickter Milch und Trockenmilch für die menschliche Ernährung\r\nKOM(2023)201 endg.; Ratsdok. 8624/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "300147"
+    },
+    {
+      "id": "648748",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Rates zur Festsetzung der Fangmöglichkeiten für 2024, 2025 und 2026 für bestimmte Fischbestände in Unionsgewässern sowie für Fischereifahrzeuge der Union in bestimmten Nicht-Unionsgewässern und zur Änderung der Verordnung (EU) 2023/194 im Hinblick auf Tiefseebestände \r\nKOM(2023) 587 endg.; Ratsdok. 14720/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "306549"
+    },
+    {
+      "id": "648750",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament und den Rat über die Marktbeobachtungsstellen der Union \r\nKOM(2023) 679 endg.; Ratsdok. 14965/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "306551"
+    },
+    {
+      "id": "648751",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Bericht der Kommission an das Europäische Parlament, den Rat, den Europäischen Wirtschafts- und Sozialausschuss und den Ausschuss der Regionen\r\nEin vitaler zivilgesellschaftlicher Raum für die Wahrung der Grundrechte in der EU\r\nJährlicher Bericht über die Anwendung der Charta der Grundrechte der Europäischen Union 2022 \r\nKOM(2022) 716 endg.; Ratsdok. 15737/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "295971"
+    },
+    {
+      "id": "648661",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Anerkennung und Rechtsstellung der Gruppe Die Linke im 20. Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Geschäftsordnung",
+          "titel": "Anerkennung und Rechtsstellung der Gruppe BSW im 20. Deutschen Bundestag",
+          "id": "308506"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Mitgliederzahl in den Ausschüssen",
+          "id": "308361"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19439",
+        "anfangsseite": 19439,
+        "endseite": 19455,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/10236",
+          "seite": "19447B"
+        },
+        {
+          "beschlusstenor": "Annahme",
+          "dokumentnummer": "20/10219",
+          "seite": "19447B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19440B",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19440"
+        },
+        {
+          "seite": "19441A",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19441"
+        },
+        {
+          "seite": "19441D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19441"
+        },
+        {
+          "seite": "19442C",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Dr. Gregor Gysi, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19442"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308505"
+    },
+    {
+      "id": "648663",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Anerkennung und Rechtsstellung der Gruppe BSW im 20. Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 9,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Geschäftsordnung",
+          "titel": "Anerkennung und Rechtsstellung der Gruppe Die Linke im 20. Deutschen Bundestag",
+          "id": "308505"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Antrag",
+          "titel": "Mitgliederzahl in den Ausschüssen",
+          "id": "308361"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19439",
+        "anfangsseite": 19439,
+        "endseite": 19455,
+        "anfangsquadrant": "D",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/10237",
+          "seite": "19447C"
+        },
+        {
+          "beschlusstenor": "Annahme",
+          "dokumentnummer": "20/10220",
+          "seite": "19447C"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19440B",
+          "aktivitaetsart": "Rede",
+          "titel": "Katja Mast, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19440"
+        },
+        {
+          "seite": "19441A",
+          "aktivitaetsart": "Rede",
+          "titel": "Thorsten Frei, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19441"
+        },
+        {
+          "seite": "19441D",
+          "aktivitaetsart": "Rede",
+          "titel": "Dr. Irene Mihalic, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19441"
+        },
+        {
+          "seite": "19442C",
+          "aktivitaetsart": "Kurzintervention",
+          "titel": "Dr. Gregor Gysi, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19442"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308506"
+    },
+    {
+      "id": "648684",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 19473B - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Nationale Strategie für Soziale Innovationen und Gemeinwohlorientierte Unternehmen",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "303872"
+    },
+    {
+      "id": "648685",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 19473B - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Evaluierungsbericht zu den Regelungen über unlautere Handelspraktiken des Agrarorganisationen-und-Lieferketten-Gesetzes",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "306488"
+    },
+    {
+      "id": "648686",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 19473B - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Erster Tätigkeitsbericht des Bundesarchivs für den Zeitraum Januar 2021 bis Juni 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "304910"
+    },
+    {
+      "id": "677530",
+      "vorgangsposition": "Abstimmung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Entschließungsantrag BT",
+      "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)\r\nhier: Einzelplan 09 - Geschäftsbereich des Bundesministeriums für Wirtschaft und Klimaschutz",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19451",
+        "anfangsseite": 19451,
+        "endseite": 19451,
+        "anfangsquadrant": "A",
+        "endquadrant": "C"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung der Vorlage",
+          "dokumentnummer": "20/10190",
+          "seite": "19451A"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308367"
+    },
+    {
+      "id": "648680",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Anerkennung und Rechtsstellung der Gruppe Die Linke im 20. Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19472",
+        "anfangsseite": 19472,
+        "endseite": 19472,
+        "anfangsquadrant": "D",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19472D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stefan Seidler, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19472"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308505"
+    },
+    {
+      "id": "648681",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Geschäftsordnung",
+      "titel": "Anerkennung und Rechtsstellung der Gruppe BSW im 20. Deutschen Bundestag",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19473A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stefan Seidler, MdB, fraktionslos",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "308506"
+    },
+    {
+      "id": "648682",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473B - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Über- und außerplanmäßige Haushaltsausgaben",
+      "titel": "Vorläufige Haushaltsführung 2024\r\nÜberplanmäßige Verpflichtungsermächtigung bis zur Höhe von insgesamt 168.000.000 Euro bei Kapitel 0903 Titel 682 01 - Finanzierung der Deutschen Energy Terminal GmbH, der FSRU und FSRU-Standorte -",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "307353"
+    },
+    {
+      "id": "648650",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 27,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "3. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308383"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308373"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308376"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308380"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308382"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410",
+        "anfangsseite": 19410,
+        "endseite": 19439,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "dokumentnummer": "20/10191",
+          "seite": "19435C"
+        },
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Ablehnung des Änderungsantrags",
+          "abstimm_ergebnis_bemerkung": "284:375:4",
+          "dokumentnummer": "20/10202",
+          "seite": "19436A"
+        },
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9999, 20/10150",
+          "seite": "19439A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19410B",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Helge Braun, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410"
+        },
+        {
+          "seite": "19411C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dennis Rohde, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19411"
+        },
+        {
+          "seite": "19413A",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Boehringer, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        },
+        {
+          "seite": "19413D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bruno Hönel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "307621"
+    },
+    {
+      "id": "648683",
+      "vorgangsposition": "Mitteilung",
+      "zuordnung": "BT",
+      "abstract": "S. 19473B - Mitteilung über Absehen von Berichterstattung",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Nationales Reformprogramm 2023",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "B",
+        "endquadrant": "C"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "298082"
+    },
+    {
+      "id": "648676",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "abstract": "zur namentlichen Abstimmung über den Änderungsantrag Drs 20/10202",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 2,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19458",
+        "anfangsseite": 19458,
+        "endseite": 19459,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19458B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Nicole Bauer, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19458"
+        },
+        {
+          "seite": "19458D",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Siemtje Möller, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19458"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "307621"
+    },
+    {
+      "id": "648742",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates zur Schaffung eines Rahmens für Maßnahmen zur Stärkung des europäischen Halbleiter-Ökosystems (Chip-Gesetz)\r\nKOM(2022) 46 endg.; Ratsdok. 6170/22",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "284433"
+    },
+    {
+      "id": "648678",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "abstract": "zur namentlichen Abstimmung über den Änderungsantrag Drs 20/10202 und zum Zweiten Haushaltsfinanzierungsgesetz 2024",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19472",
+        "anfangsseite": 19472,
+        "endseite": 19472,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19472C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Karlheinz Busen, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19472"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "307621"
+    },
+    {
+      "id": "648660",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 24,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19439",
+        "anfangsseite": 19439,
+        "endseite": 19439,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "dokumentnummer": "20/9999, 20/10150",
+          "seite": "19439B"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19459B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stephanie Aeffner, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19459"
+        },
+        {
+          "seite": "19459B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Sabine Grützmacher, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19459"
+        },
+        {
+          "seite": "19459B",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Awet Tesfaiesus, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19459"
+        },
+        {
+          "seite": "19460A",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Annika Klose, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19460"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "307621"
+    },
+    {
+      "id": "648747",
+      "vorgangsposition": "Mitteilung des federführenden Ausschusses",
+      "zuordnung": "BT",
+      "abstract": "S. 19473C - Kenntnisnahme",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "EU-Vorlage",
+      "titel": "Vorschlag für eine Verordnung des Europäischen Parlaments und des Rates über mit bestimmten neuen genomischen Techniken gewonnene Pflanzen und die aus ihnen gewonnenen Lebens- und Futtermittel sowie zur Änderung der Verordnung (EU) 2017/625 \r\nKOM(2023) 411 endg.; Ratsdok. 11592/23",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19473",
+        "anfangsseite": 19473,
+        "endseite": 19473,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "302256"
+    },
+    {
+      "id": "648642",
+      "vorgangsposition": "Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Bericht, Gutachten, Programm",
+      "titel": "Finanzplan des Bundes 2023 bis 2027",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+          "id": "302729"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19409",
+        "anfangsseite": 19409,
+        "endseite": 19410,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Kenntnisnahme",
+          "dokumentnummer": "20/7801",
+          "seite": "19410A"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "302730"
+    },
+    {
+      "id": "648641",
+      "vorgangsposition": "2. Beratung",
+      "zuordnung": "BT",
+      "abstract": "Rednerlisten und Beschlüsse s. Einzelpläne",
+      "gang": true,
+      "fortsetzung": true,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Bericht, Gutachten, Programm",
+          "titel": "Finanzplan des Bundes 2023 bis 2027",
+          "id": "302730"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19409",
+        "anfangsseite": 19409,
+        "endseite": 19410,
+        "anfangsquadrant": "A",
+        "endquadrant": "A"
+      },
+      "datum": "2024-02-02",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648644",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 32 - Bundesschuld",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19409",
+        "anfangsseite": 19409,
+        "endseite": 19409,
+        "anfangsquadrant": "B",
+        "endquadrant": "B"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 32",
+          "dokumentnummer": "20/8632"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648645",
+      "vorgangsposition": "2. Beratung (Einzelpläne)",
+      "zuordnung": "BT",
+      "abstract": "Epl 60 - Allgemeine Finanzverwaltung",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19409",
+        "anfangsseite": 19409,
+        "endseite": 19409,
+        "anfangsquadrant": "C",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Epl 60",
+          "dokumentnummer": "20/8660",
+          "seite": "19409D"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648647",
+      "vorgangsposition": "2. Beratung (Gesetzentwurf)",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 0,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19409",
+        "anfangsseite": 19409,
+        "endseite": 19410,
+        "anfangsquadrant": "D",
+        "endquadrant": "A"
+      },
+      "beschlussfassung": [
+        {
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "damit Annahme Haushaltsgesetz 2024",
+          "dokumentnummer": "20/7800, 20/8662",
+          "seite": "19410A"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648649",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": true,
+      "fortsetzung": false,
+      "nachtrag": false,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 27,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "mitberaten": [
+        {
+          "vorgangsposition": "2. Beratung",
+          "vorgangstyp": "Gesetzgebung",
+          "titel": "Zweites Haushaltsfinanzierungsgesetz 2024",
+          "id": "307621"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308383"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308373"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308376"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308380"
+        },
+        {
+          "vorgangsposition": "Beratung",
+          "vorgangstyp": "Entschließungsantrag BT",
+          "titel": "Entschließungsantrag zur dritten Beratung des Gesetzes über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024\r\n(Haushaltsgesetz 2024 - HG 2024)",
+          "id": "308382"
+        }
+      ],
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410",
+        "anfangsseite": 19410,
+        "endseite": 19439,
+        "anfangsquadrant": "A",
+        "endquadrant": "D"
+      },
+      "beschlussfassung": [
+        {
+          "abstimmungsart": "Namentliche Abstimmung",
+          "beschlusstenor": "Annahme in Ausschussfassung",
+          "abstimm_ergebnis_bemerkung": "385:278:0",
+          "dokumentnummer": "20/7800, 20/7802, 20/8601,20/8602, 20/8604, 20/8605, 20/8606, 20/8607, 20/8608, 20/8609, 20/8610, 20/8611, 20/8612, 20/8614, 20/8616, 20/8617, 20/8630, 20/8632, 20/8660, 20/8661, 20/8662",
+          "seite": "19448A"
+        }
+      ],
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19410B",
+          "aktivitaetsart": "Rede",
+          "titel": "Prof. Dr. Helge Braun, MdB, CDU/CSU",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19410"
+        },
+        {
+          "seite": "19411C",
+          "aktivitaetsart": "Rede",
+          "titel": "Dennis Rohde, MdB, SPD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19411"
+        },
+        {
+          "seite": "19413A",
+          "aktivitaetsart": "Rede",
+          "titel": "Peter Boehringer, MdB, AfD",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        },
+        {
+          "seite": "19413D",
+          "aktivitaetsart": "Rede",
+          "titel": "Bruno Hönel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19413"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648677",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 6,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2025-09-30T17:31:22+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19470",
+        "anfangsseite": 19470,
+        "endseite": 19472,
+        "anfangsquadrant": "C",
+        "endquadrant": "B"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19470C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Matthias Gastel, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19470"
+        },
+        {
+          "seite": "19470C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Stefan Gelbhaar, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19470"
+        },
+        {
+          "seite": "19470C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Susanne Menge, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19470"
+        },
+        {
+          "seite": "19470C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Swantje Henrike Michaelsen, MdB, BÜNDNIS 90/DIE GRÜNEN",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19470"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "302729"
+    },
+    {
+      "id": "648679",
+      "vorgangsposition": "3. Beratung",
+      "zuordnung": "BT",
+      "gang": false,
+      "fortsetzung": false,
+      "nachtrag": true,
+      "vorgangstyp": "Gesetzgebung",
+      "titel": "Gesetz über die Feststellung des Bundeshaushaltsplans für das Haushaltsjahr 2024 (Haushaltsgesetz 2024 - HG 2024)",
+      "typ": "Vorgangsposition",
+      "aktivitaet_anzahl": 1,
+      "dokumentart": "Plenarprotokoll",
+      "aktualisiert": "2026-09-04T09:27:32+02:00",
+      "fundstelle": {
+        "id": "5627",
+        "dokumentnummer": "20/152",
+        "datum": "2024-02-02",
+        "verteildatum": "2024-02-05",
+        "xml_url": "https://dserver.bundestag.de/btp/20/20152.xml",
+        "dokumentart": "Plenarprotokoll",
+        "herausgeber": "BT",
+        "urheber": [],
+        "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19472",
+        "anfangsseite": 19472,
+        "endseite": 19472,
+        "anfangsquadrant": "B",
+        "endquadrant": "D"
+      },
+      "aktivitaet_anzeige": [
+        {
+          "seite": "19472C",
+          "aktivitaetsart": "Schriftliche Erklärung gem. § 31 Geschäftsordnung BT",
+          "titel": "Karlheinz Busen, MdB, FDP",
+          "pdf_url": "https://dserver.bundestag.de/btp/20/20152.pdf#P.19472"
+        }
+      ],
+      "datum": "2024-02-02",
+      "vorgang_id": "302729"
+    }
+  ]
+}
